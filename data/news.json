@@ -1,0 +1,26 @@
+[
+    {
+        "title": "OpenAI releases GPT-4o",
+        "source": "OpenAI",
+        "summary": "OpenAI announces GPT-4o, a new flagship model that can reason across audio, vision, and text in real time.",
+        "link": "https://openai.com/index/hello-gpt-4o/",
+        "date": "2024-05-13",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "title": "Google introduces Gemini 1.5",
+        "source": "Google DeepMind",
+        "summary": "The next-generation model delivering breakthrough performance with a 1 million token context window.",
+        "link": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
+        "date": "2024-02-15",
+        "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1000&auto=format&fit=crop"
+    },
+    {
+        "title": "Meta Llama 3 Available",
+        "source": "Meta AI",
+        "summary": "Meta releases Llama 3, the most capable openly available LLM to date, featuring improved reasoning.",
+        "link": "https://ai.meta.com/blog/meta-llama-3/",
+        "date": "2024-04-18",
+        "image": "https://images.unsplash.com/photo-1692606677936-b6873528b864?q=80&w=1000&auto=format&fit=crop"
+    }
+]

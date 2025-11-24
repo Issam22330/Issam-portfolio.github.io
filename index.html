@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Issam Mezdagat Portfolio</title>
+    <meta name="description"
+        content="Portfolio of Issam Mezdagat, a Full-Stack Software Developer specializing in Artificial Intelligence.">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div id="canvas-container"></div>
+
+    <header class="glass-header">
+        <nav>
+            <div class="logo">IM<span class="dot">.</span></div>
+            <ul class="nav-links">
+                <li><a href="#home" data-i18n="nav_home">Inicio</a></li>
+                <li><a href="#about" data-i18n="nav_about">Sobre Mí</a></li>
+                <li><a href="#skills" data-i18n="nav_skills">Habilidades</a></li>
+                <li><a href="#experience" data-i18n="nav_experience">Experiencia</a></li>
+                <li><a href="#projects" data-i18n="nav_projects">Proyectos</a></li>
+                <li><a href="#news" data-i18n="nav_news">Noticias IA</a></li>
+                <li><a href="#contact" data-i18n="nav_contact">Contacto</a></li>
+                <li><button id="lang-toggle" class="lang-btn">EN</button></li>
+            </ul>
+            <div class="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero-section">
+            <div class="hero-content">
+                <p class="greeting" data-i18n="hero_greeting">Hola, soy</p>
+                <h1 class="glitch" data-text="Issam Mezdagat" data-i18n="hero_title">Issam Mezdagat</h1>
+                <h2 class="subtitle" data-i18n="hero_subtitle">Desarrollador Full-Stack <span class="accent">y</span>
+                    Especialista en IA</h2>
+                <p class="description" data-i18n="hero_desc">
+                    Construyendo el futuro con Código e Inteligencia Artificial.
+                    Con base en Madrid, España.
+                </p>
+                <div class="cta-buttons">
+                    <a href="#projects" class="btn primary" data-i18n="btn_view_work">Ver Proyectos</a>
+                    <a href="#contact" class="btn secondary" data-i18n="btn_contact">Contáctame</a>
+                </div>
+            </div>
+            <div class="scroll-indicator">
+                <span data-i18n="scroll_text">Desliza</span>
+                <i class="fas fa-chevron-down"></i>
+            </div>
+        </section>
+
+        <section id="about" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="about_title">Sobre Mí</h2>
+                <div class="about-grid">
+                    <div class="about-text">
+                        <p data-i18n="about_p1">
+                            Soy un <strong>Desarrollador de Software Full-Stack</strong> con una fuerte especialización
+                            en <strong>Inteligencia Artificial</strong>, actualmente cursando un Máster en Ingeniería de
+                            IA.
+                        </p>
+                        <p data-i18n="about_p2">
+                            Mi pasión se encuentra en la intersección del desarrollo de software y la aplicación de la
+                            IA. Me desenvuelvo bien en entornos colaborativos y me encanta afrontar retos técnicos.
+                            Estoy constantemente aprendiendo e innovando, con especial interés en el desarrollo web,
+                            móvil y soluciones basadas en IA.
+                        </p>
+                        <div class="info-list">
+                            <div class="info-item">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <span data-i18n="location">Madrid, España</span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-language"></i>
+                                <span data-i18n="languages">Inglés (Preparando C1), Español</span>
+                            </div>
+                            <div class="info-item">
+                                <i class="fas fa-envelope"></i>
+                                <span>issammezdagat@gmail.com</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="about-visual">
+                        <div class="profile-card glass-card">
+                            <div class="card-content">
+                                <h3>Issam Mezdagat</h3>
+                                <p data-i18n="profile_role">Ingeniero de IA en Formación</p>
+                                <div class="tech-stack-mini">
+                                    <i class="fab fa-python"></i>
+                                    <i class="fab fa-java"></i>
+                                    <i class="fab fa-docker"></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="skills" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="skills_title">Arsenal Técnico</h2>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_prog"><i class="fas fa-code"></i> Programación y Bases de Datos</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">Java</div>
+                        <div class="skill-card">Python</div>
+                        <div class="skill-card">SQL</div>
+                    </div>
+                </div>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_ai"><i class="fas fa-brain"></i> Inteligencia Artificial</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">LLMs</div>
+                        <div class="skill-card">Fine-tuning</div>
+                        <div class="skill-card">OLLAMA</div>
+                        <div class="skill-card">Data Processing</div>
+                        <div class="skill-card">NLP</div>
+                        <div class="skill-card">Deep Learning</div>
+                    </div>
+                </div>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_dev"><i class="fas fa-laptop-code"></i> Desarrollo</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">Android Studio</div>
+                        <div class="skill-card">Angular</div>
+                        <div class="skill-card">HTML/CSS</div>
+                        <div class="skill-card">APIs</div>
+                    </div>
+                </div>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_devops"><i class="fas fa-server"></i> DevOps e Infraestructura</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">Microservices</div>
+                        <div class="skill-card">Docker</div>
+                        <div class="skill-card">Docker Compose</div>
+                        <div class="skill-card">VMware</div>
+                        <div class="skill-card">Network Management</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="experience" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="exp_title">Experiencia</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-date">April 2024 – June 2024</div>
+                        <div class="timeline-content glass-card">
+                            <h3 data-i18n="exp_1_role">Desarrollador de Proyectos de IA</h3>
+                            <h4 data-i18n="exp_1_company">Universidad Politécnica de Madrid (UPM)</h4>
+                            <div data-i18n="exp_1_desc">
+                                <ul>
+                                    <li>Participé en el desarrollo de un modelo de lenguaje desde cero.</li>
+                                    <li>Utilicé OLLAMA como base para entrenar y construir un LLM personalizado.</li>
+                                    <li>Trabajé en un entorno totalmente aislado gestionado con Docker.</li>
+                                    <li>Publiqué versiones del modelo en Docker Hub.</li>
+                                    <li>Creé gráficos y visualizaciones de datos a través de un sitio web construido con
+                                        HTML + Angular.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-date">March 2022 – June 2022</div>
+                        <div class="timeline-content glass-card">
+                            <h3 data-i18n="exp_2_role">Gestión de Incidencias</h3>
+                            <h4 data-i18n="exp_2_company">Inetnum</h4>
+                            <div data-i18n="exp_2_desc">
+                                <ul>
+                                    <li>Gestioné incidencias relacionadas con la interfaz utilizada en las gasolineras
+                                        de Repsol.</li>
+                                    <li>Utilicé un ERP interno para el seguimiento y resolución de incidencias.</li>
+                                    <li>Verifiqué y diagnostiqué conexiones de red.</li>
+                                    <li>Proporcioné soporte técnico mediante acceso remoto usando VMware.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="education" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="edu_title">Educación</h2>
+                <div class="education-grid">
+                    <div class="edu-card glass-card">
+                        <h3 data-i18n="edu_1_title">Máster en Inteligencia Artificial</h3>
+                        <h4 data-i18n="edu_1_subtitle">Ingeniería de IA</h4>
+                        <p data-i18n="edu_1_desc">Formación avanzada en ML, Deep Learning, NLP y despliegue de IA.</p>
+                        <div class="tags">
+                            <span>AWS</span>
+                            <span>Azure (AZ-900)</span>
+                            <span>ISMS</span>
+                        </div>
+                    </div>
+                    <div class="edu-card glass-card">
+                        <h3 data-i18n="edu_2_title">Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
+                        <p data-i18n="edu_2_desc">Enfoque en desarrollo web y móvil (Angular, Android Studio).</p>
+                    </div>
+                    <div class="edu-card glass-card">
+                        <h3 data-i18n="edu_3_title">Administración de Sistemas Informáticos en Red (ASIR)</h3>
+                        <p data-i18n="edu_3_desc">Administración de sistemas, seguridad, redes y virtualización.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="projects_title">Proyectos Destacados</h2>
+                <div class="projects-grid">
+                    <div class="project-card glass-card tilt-card">
+                        <div class="project-content">
+                            <h3 data-i18n="proj_1_title">Asistente de Consentimiento Informado</h3>
+                            <p class="project-subtitle" data-i18n="proj_1_subtitle">Asociación UPM</p>
+                            <p data-i18n="proj_1_desc">
+                                Una aplicación para simplificar el consentimiento informado en el ámbito médico
+                                utilizando un LLM basado en LLaMA 3.
+                                Simplifica el lenguaje técnico y lo presenta en inglés, español y francés.
+                            </p>
+                            <div class="project-tech">
+                                <span>Ollama</span>
+                                <span>Docker</span>
+                                <span>NLP</span>
+                                <span>Web Interface</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card glass-card tilt-card">
+                        <div class="project-content">
+                            <h3 data-i18n="proj_2_title">TrAIner</h3>
+                            <p class="project-subtitle" data-i18n="proj_2_subtitle">App de Fitness Potenciada por IA</p>
+                            <p data-i18n="proj_2_desc">
+                                Aplicación móvil para gestionar entrenamientos y nutrición. Incluye TrAInerBot, un
+                                asistente virtual basado en IA.
+                            </p>
+                            <div class="project-tech">
+                                <span>Android Studio</span>
+                                <span>Firebase</span>
+                                <span>LLaMA 3</span>
+                                <span>Docker</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="news" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="news_title">Últimas Noticias de IA</h2>
+                <div id="news-grid" class="news-grid">
+                    <!-- News items will be loaded here -->
+                    <div class="loading-spinner"></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="contact_title">Contacto</h2>
+                <div class="contact-wrapper glass-card">
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <p>+34 642509531</p>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <p>issammezdagat@gmail.com</p>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fab fa-linkedin"></i>
+                            <a href="https://linkedin.com/in/issam-mezdagat"
+                                target="_blank">linkedin.com/in/issam-mezdagat</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </section>
+
+        <section id="skills" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="skills_title">Arsenal Técnico</h2>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_prog"><i class="fas fa-code"></i> Programación y Bases de Datos</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">Java</div>
+                        <div class="skill-card">Python</div>
+                        <div class="skill-card">SQL</div>
+                    </div>
+                </div>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_ai"><i class="fas fa-brain"></i> Inteligencia Artificial</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">LLMs</div>
+                        <div class="skill-card">Fine-tuning</div>
+                        <div class="skill-card">OLLAMA</div>
+                        <div class="skill-card">Data Processing</div>
+                        <div class="skill-card">NLP</div>
+                        <div class="skill-card">Deep Learning</div>
+                    </div>
+                </div>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_dev"><i class="fas fa-laptop-code"></i> Desarrollo</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">Android Studio</div>
+                        <div class="skill-card">Angular</div>
+                        <div class="skill-card">HTML/CSS</div>
+                        <div class="skill-card">APIs</div>
+                    </div>
+                </div>
+
+                <div class="skills-category">
+                    <h3 data-i18n="skills_devops"><i class="fas fa-server"></i> DevOps e Infraestructura</h3>
+                    <div class="skills-grid">
+                        <div class="skill-card">Microservices</div>
+                        <div class="skill-card">Docker</div>
+                        <div class="skill-card">Docker Compose</div>
+                        <div class="skill-card">VMware</div>
+                        <div class="skill-card">Network Management</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="experience" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="exp_title">Experiencia</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-date">April 2024 – June 2024</div>
+                        <div class="timeline-content glass-card">
+                            <h3 data-i18n="exp_1_role">Desarrollador de Proyectos de IA</h3>
+                            <h4 data-i18n="exp_1_company">Universidad Politécnica de Madrid (UPM)</h4>
+                            <div data-i18n="exp_1_desc">
+                                <ul>
+                                    <li>Participé en el desarrollo de un modelo de lenguaje desde cero.</li>
+                                    <li>Utilicé OLLAMA como base para entrenar y construir un LLM personalizado.</li>
+                                    <li>Trabajé en un entorno totalmente aislado gestionado con Docker.</li>
+                                    <li>Publiqué versiones del modelo en Docker Hub.</li>
+                                    <li>Creé gráficos y visualizaciones de datos a través de un sitio web construido con
+                                        HTML + Angular.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-date">March 2022 – June 2022</div>
+                        <div class="timeline-content glass-card">
+                            <h3 data-i18n="exp_2_role">Gestión de Incidencias</h3>
+                            <h4 data-i18n="exp_2_company">Inetnum</h4>
+                            <div data-i18n="exp_2_desc">
+                                <ul>
+                                    <li>Gestioné incidencias relacionadas con la interfaz utilizada en las gasolineras
+                                        de Repsol.</li>
+                                    <li>Utilicé un ERP interno para el seguimiento y resolución de incidencias.</li>
+                                    <li>Verifiqué y diagnostiqué conexiones de red.</li>
+                                    <li>Proporcioné soporte técnico mediante acceso remoto usando VMware.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="education" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="edu_title">Educación</h2>
+                <div class="education-grid">
+                    <div class="edu-card glass-card">
+                        <h3 data-i18n="edu_1_title">Máster en Inteligencia Artificial</h3>
+                        <h4 data-i18n="edu_1_subtitle">Ingeniería de IA</h4>
+                        <p data-i18n="edu_1_desc">Formación avanzada en ML, Deep Learning, NLP y despliegue de IA.</p>
+                        <div class="tags">
+                            <span>AWS</span>
+                            <span>Azure (AZ-900)</span>
+                            <span>ISMS</span>
+                        </div>
+                    </div>
+                    <div class="edu-card glass-card">
+                        <h3 data-i18n="edu_2_title">Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
+                        <p data-i18n="edu_2_desc">Enfoque en desarrollo web y móvil (Angular, Android Studio).</p>
+                    </div>
+                    <div class="edu-card glass-card">
+                        <h3 data-i18n="edu_3_title">Administración de Sistemas Informáticos en Red (ASIR)</h3>
+                        <p data-i18n="edu_3_desc">Administración de sistemas, seguridad, redes y virtualización.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="projects_title">Proyectos Destacados</h2>
+                <div class="projects-grid">
+                    <div class="project-card glass-card tilt-card">
+                        <div class="project-content">
+                            <h3 data-i18n="proj_1_title">Asistente de Consentimiento Informado</h3>
+                            <p class="project-subtitle" data-i18n="proj_1_subtitle">Asociación UPM</p>
+                            <p data-i18n="proj_1_desc">
+                                Una aplicación para simplificar el consentimiento informado en el ámbito médico
+                                utilizando un LLM basado en LLaMA 3.
+                                Simplifica el lenguaje técnico y lo presenta en inglés, español y francés.
+                            </p>
+                            <div class="project-tech">
+                                <span>Ollama</span>
+                                <span>Docker</span>
+                                <span>NLP</span>
+                                <span>Web Interface</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="project-card glass-card tilt-card">
+                        <div class="project-content">
+                            <h3 data-i18n="proj_2_title">TrAIner</h3>
+                            <p class="project-subtitle" data-i18n="proj_2_subtitle">App de Fitness Potenciada por IA</p>
+                            <p data-i18n="proj_2_desc">
+                                Aplicación móvil para gestionar entrenamientos y nutrición. Incluye TrAInerBot, un
+                                asistente virtual basado en IA.
+                            </p>
+                            <div class="project-tech">
+                                <span>Android Studio</span>
+                                <span>Firebase</span>
+                                <span>LLaMA 3</span>
+                                <span>Docker</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="news" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="news_title">Últimas Noticias de IA</h2>
+                <div id="news-grid" class="news-grid">
+                    <!-- News items will be loaded here -->
+                    <div class="loading-spinner"></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="contact_title">Contacto</h2>
+                <div class="contact-wrapper glass-card">
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <p>+34 642509531</p>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <p>issammezdagat@gmail.com</p>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fab fa-linkedin"></i>
+                            <a href="https://linkedin.com/in/issam-mezdagat"
+                                target="_blank">linkedin.com/in/issam-mezdagat</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p data-i18n="footer_text">&copy; 2025 Issam Mezdagat. Construido con Código e IA.</p>
+        </footer>
+
+        <!-- Floating News Button -->
+        <a href="#news" class="floating-news-btn" id="floating-news-btn">
+            <div class="news-icon-container">
+                <i class="fas fa-newspaper"></i>
+                <span class="notification-dot"></span>
+            </div>
+            <span class="btn-text">AI News</span>
+        </a>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.160.0/three.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/three-scene.js"></script>
+</body>
+
+</html>
