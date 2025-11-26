@@ -1,4 +1,4 @@
-# Portfolio V2 - Issam Mezdagat
+# Portfolio - Issam Mezdagat
 
 A minimalist, tech-focused portfolio website with neon aesthetics and 3D effects.
 
