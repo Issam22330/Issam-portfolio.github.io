@@ -5,42 +5,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <title>Issam Mezdagat Portfolio</title>
+    <title>Issam Mezdagat Portfolio | Software Developer & AI Engineer</title>
     <meta name="description"
-        content="Portfolio of Issam Mezdagat, a Full-Stack Software Developer specializing in Artificial Intelligence.">
+        content="Portfolio of Issam Mezdagat, a Software Developer and AI Engineer specializing in automation, LLMs, and intelligent systems.">
 
-    <!-- Fonts -->
+    <!-- SEO & OpenGraph -->
+    <meta property="og:title" content="Issam Mezdagat Portfolio">
+    <meta property="og:description" content="Software Developer and AI Engineer.">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Issam Mezdagat",
+      "jobTitle": "Software Developer & AI Engineer",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Madrid",
+        "addressCountry": "Spain"
+      },
+      "url": "https://issam22330.github.io/Issam-portfolio.github.io/"
+    }
+    </script>
+
+    <!-- Preload critical fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap"
-        rel="stylesheet">
+        rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap">
+    </noscript>
 
     <!-- Styles -->
     <link rel="stylesheet" href="css/style.css">
 
     <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    </noscript>
 </head>
 
 <body>
-    <div id="canvas-container"></div>
+    <div id="canvas-container" aria-hidden="true"></div>
 
     <header class="glass-header">
-        <nav>
+        <nav aria-label="Main Navigation">
             <div class="logo">IM<span class="dot">.</span></div>
             <ul class="nav-links">
                 <li><a href="#home" data-i18n="nav_home">Inicio</a></li>
                 <li><a href="#about" data-i18n="nav_about">Sobre Mí</a></li>
                 <li><a href="#skills" data-i18n="nav_skills">Habilidades</a></li>
                 <li><a href="#experience" data-i18n="nav_experience">Experiencia</a></li>
+                <li><a href="#education" data-i18n="edu_title">Educación</a></li>
+                <li><a href="#certifications" data-i18n="nav_certifications">Certificaciones</a></li>
+                <li><a href="#languages" data-i18n="nav_languages">Idiomas</a></li>
                 <li><a href="#projects" data-i18n="nav_projects">Proyectos</a></li>
                 <li><a href="#news" data-i18n="nav_news">Noticias IA</a></li>
                 <li><a href="#contact" data-i18n="nav_contact">Contacto</a></li>
-                <li><button id="lang-toggle" class="lang-btn">EN</button></li>
+                <li><button id="lang-toggle" class="lang-btn" aria-label="Toggle Language">EN</button></li>
             </ul>
-            <div class="menu-toggle">
-                <i class="fas fa-bars"></i>
+            <div class="menu-toggle" aria-label="Open menu">
+                <i class="fas fa-bars" aria-hidden="true"></i>
             </div>
         </nav>
     </header>
@@ -50,20 +83,27 @@
             <div class="hero-content">
                 <p class="greeting" data-i18n="hero_greeting">Hola, soy</p>
                 <h1 class="glitch" data-text="Issam Mezdagat" data-i18n="hero_title">Issam Mezdagat</h1>
-                <h2 class="subtitle" data-i18n="hero_subtitle">Desarrollador Full-Stack <span class="accent">y</span>
-                    Especialista en IA</h2>
+                <h2 class="subtitle"><span id="typewriter"></span><span class="cursor"></span></h2>
                 <p class="description" data-i18n="hero_desc">
-                    Construyendo el futuro con Código e Inteligencia Artificial.
-                    Con base en Madrid, España.
+                    Construyendo software robusto y optimizando la interacción humano-IA. Con base en Madrid, España.
                 </p>
+                <div class="hero-chips">
+                    <span class="chip">LLMs</span>
+                    <span class="chip">RAG</span>
+                    <span class="chip">Python</span>
+                    <span class="chip">Docker</span>
+                    <span class="chip">Angular/Android</span>
+                    <span class="chip">NLP</span>
+                </div>
                 <div class="cta-buttons">
                     <a href="#projects" class="btn primary" data-i18n="btn_view_work">Ver Proyectos</a>
-                    <a href="#contact" class="btn secondary" data-i18n="btn_contact">Contáctame</a>
+                    <a href="#" id="btn-download-cv" class="btn secondary" data-i18n="btn_cv">Descargar CV</a>
+                    <a href="#contact" class="btn secondary" data-i18n="btn_contact">Contacto</a>
                 </div>
             </div>
             <div class="scroll-indicator">
                 <span data-i18n="scroll_text">Desliza</span>
-                <i class="fas fa-chevron-down"></i>
+                <i class="fas fa-chevron-down" aria-hidden="true"></i>
             </div>
         </section>
 
@@ -72,28 +112,19 @@
                 <h2 class="section-title" data-i18n="about_title">Sobre Mí</h2>
                 <div class="about-grid">
                     <div class="about-text">
-                        <p data-i18n="about_p1">
-                            Soy un <strong>Desarrollador de Software Full-Stack</strong> con una fuerte especialización
-                            en <strong>Inteligencia Artificial</strong>, actualmente cursando un Máster en Ingeniería de
-                            IA.
-                        </p>
-                        <p data-i18n="about_p2">
-                            Mi pasión se encuentra en la intersección del desarrollo de software y la aplicación de la
-                            IA. Me desenvuelvo bien en entornos colaborativos y me encanta afrontar retos técnicos.
-                            Estoy constantemente aprendiendo e innovando, con especial interés en el desarrollo web,
-                            móvil y soluciones basadas en IA.
-                        </p>
+                        <p data-i18n="about_p1"></p>
+                        <p data-i18n="about_p2"></p>
                         <div class="info-list">
                             <div class="info-item">
-                                <i class="fas fa-map-marker-alt"></i>
-                                <span data-i18n="location">Madrid, España</span>
+                                <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+                                <span data-i18n="location">Madrid, España (y alrededores)</span>
                             </div>
                             <div class="info-item">
-                                <i class="fas fa-language"></i>
-                                <span data-i18n="languages">Inglés (Preparando C1), Español</span>
+                                <i class="fas fa-language" aria-hidden="true"></i>
+                                <span data-i18n="languages_spoken">Español, Inglés, Árabe, Francés</span>
                             </div>
                             <div class="info-item">
-                                <i class="fas fa-envelope"></i>
+                                <i class="fas fa-envelope" aria-hidden="true"></i>
                                 <span>issammezdagat@gmail.com</span>
                             </div>
                         </div>
@@ -102,11 +133,11 @@
                         <div class="profile-card glass-card">
                             <div class="card-content">
                                 <h3>Issam Mezdagat</h3>
-                                <p data-i18n="profile_role">Ingeniero de IA en Formación</p>
+                                <p data-i18n="profile_role">Ingeniero IA y Desarrollador</p>
                                 <div class="tech-stack-mini">
-                                    <i class="fab fa-python"></i>
-                                    <i class="fab fa-java"></i>
-                                    <i class="fab fa-docker"></i>
+                                    <i class="fab fa-python" aria-hidden="true"></i>
+                                    <i class="fab fa-java" aria-hidden="true"></i>
+                                    <i class="fab fa-docker" aria-hidden="true"></i>
                                 </div>
                             </div>
                         </div>
@@ -117,19 +148,19 @@
 
         <section id="skills" class="section">
             <div class="container">
-                <h2 class="section-title" data-i18n="skills_title">Arsenal Técnico</h2>
+                <h2 class="section-title" data-i18n="skills_title">Caja de Herramientas</h2>
 
                 <div class="skills-category">
                     <h3 data-i18n="skills_prog"><i class="fas fa-code"></i> Programación y Bases de Datos</h3>
                     <div class="skills-grid">
                         <div class="skill-card">Java</div>
                         <div class="skill-card">Python</div>
-                        <div class="skill-card">JavaScript</div>
+                        <div class="skill-card">JavaScript / Typescript</div>
                         <div class="skill-card">SQL</div>
                         <div class="skill-card">MongoDB</div>
                         <div class="skill-card">PostgreSQL</div>
                         <div class="skill-card">Firebase</div>
-                        <div class="skill-card">Bach/Shell</div>
+                        <div class="skill-card">Bash/Shell</div>
                     </div>
                 </div>
 
@@ -137,19 +168,16 @@
                     <h3 data-i18n="skills_ai"><i class="fas fa-brain"></i> Inteligencia Artificial</h3>
                     <div class="skills-grid">
                         <div class="skill-card">LLMs</div>
+                        <div class="skill-card">RAG</div>
+                        <div class="skill-card">Prompt Engineering</div>
                         <div class="skill-card">Fine-tuning</div>
                         <div class="skill-card">OLLAMA</div>
-                        <div class="skill-card">OpenAI</div>
-                        <div class="skill-card">Gemini 3 Pro</div>
+                        <div class="skill-card">OpenAI / Gemini</div>
                         <div class="skill-card">Huggingface</div>
                         <div class="skill-card">Transformers</div>
                         <div class="skill-card">PyTorch</div>
-                        <div class="skill-card">TensorFlow</div>
-                        <div class="skill-card">Data Processing</div>
                         <div class="skill-card">NLP</div>
                         <div class="skill-card">Deep Learning</div>
-                        <div class="skill-card">Machine Learning</div>
-                        <div class="skill-card">Computer Vision</div>
                     </div>
                 </div>
 
@@ -158,8 +186,8 @@
                     <div class="skills-grid">
                         <div class="skill-card">Android Studio</div>
                         <div class="skill-card">Angular</div>
-                        <div class="skill-card">HTML/CSS</div>
-                        <div class="skill-card">APIs</div>
+                        <div class="skill-card">HTML/CSS/JS</div>
+                        <div class="skill-card">REST APIs</div>
                     </div>
                 </div>
 
@@ -169,12 +197,10 @@
                         <div class="skill-card">Microservices</div>
                         <div class="skill-card">Docker</div>
                         <div class="skill-card">Docker Compose</div>
-                        <div class="skill-card">VMware</div>
-                        <div class="skill-card">VirtualBox</div>
+                        <div class="skill-card">VMware / VirtualBox</div>
                         <div class="skill-card">Network Management</div>
                         <div class="skill-card">AWS</div>
                         <div class="skill-card">Azure</div>
-                        <div class="skill-card">Google Cloud</div>
                     </div>
                 </div>
             </div>
@@ -184,39 +210,49 @@
             <div class="container">
                 <h2 class="section-title" data-i18n="exp_title">Experiencia</h2>
                 <div class="timeline">
+                    <!-- Exp 1 -->
                     <div class="timeline-item">
                         <div class="timeline-dot"></div>
-                        <div class="timeline-date">April 2024 – June 2024</div>
+                        <div class="timeline-date" data-i18n="exp_1_date">Feb 2026 – Presente</div>
                         <div class="timeline-content glass-card">
-                            <h3 data-i18n="exp_1_role">Desarrollador de Proyectos de IA</h3>
-                            <h4 data-i18n="exp_1_company">Universidad Politécnica de Madrid (UPM)</h4>
-                            <div data-i18n="exp_1_desc">
-                                <ul>
-                                    <li>Participé en el desarrollo de un modelo de lenguaje desde cero.</li>
-                                    <li>Utilicé OLLAMA como base para entrenar y construir un LLM personalizado.</li>
-                                    <li>Trabajé en un entorno totalmente aislado gestionado con Docker.</li>
-                                    <li>Publiqué versiones del modelo en Docker Hub.</li>
-                                    <li>Creé gráficos y visualizaciones de datos a través de un sitio web construido con
-                                        HTML + Angular.</li>
-                                </ul>
+                            <h3 data-i18n="exp_1_role">AI Prompt Engineer</h3>
+                            <h4 data-i18n="exp_1_company">Quental</h4>
+                            <div data-i18n="exp_1_desc" class="timeline-desc"></div>
+                            <div class="timeline-tech" data-i18n="exp_1_tech">LLMs • RAG • Prompt Engineering</div>
+                        </div>
+                    </div>
+                    <!-- Exp 2 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-date" data-i18n="exp_2_date">Jun 2025 – Feb 2026</div>
+                        <div class="timeline-content glass-card">
+                            <h3 data-i18n="exp_2_role">Consultor de IA</h3>
+                            <h4 data-i18n="exp_2_company">Freelance</h4>
+                            <div data-i18n="exp_2_desc" class="timeline-desc"></div>
+                            <div class="timeline-tech" data-i18n="exp_2_tech">Python • Java • SQL • LLMs • Docker</div>
+                        </div>
+                    </div>
+                    <!-- Exp 3 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-date" data-i18n="exp_3_date">Abr 2024 – Jun 2024</div>
+                        <div class="timeline-content glass-card">
+                            <h3 data-i18n="exp_3_role">Ingeniero de Software / Desarrollador</h3>
+                            <h4 data-i18n="exp_3_company">Universidad Politécnica de Madrid (UPM)</h4>
+                            <div data-i18n="exp_3_desc" class="timeline-desc"></div>
+                            <div class="timeline-tech" data-i18n="exp_3_tech">Ollama • LLaMA 3 • Docker • Angular • NLP
                             </div>
                         </div>
                     </div>
+                    <!-- Exp 4 -->
                     <div class="timeline-item">
                         <div class="timeline-dot"></div>
-                        <div class="timeline-date">March 2022 – June 2022</div>
+                        <div class="timeline-date" data-i18n="exp_4_date">Abr 2022 – Jun 2022</div>
                         <div class="timeline-content glass-card">
-                            <h3 data-i18n="exp_2_role">Gestión de Incidencias</h3>
-                            <h4 data-i18n="exp_2_company">Inetum</h4>
-                            <div data-i18n="exp_2_desc">
-                                <ul>
-                                    <li>Gestioné incidencias relacionadas con la interfaz utilizada en las gasolineras
-                                        de Repsol.</li>
-                                    <li>Utilicé un ERP interno para el seguimiento y resolución de incidencias.</li>
-                                    <li>Verifiqué y diagnostiqué conexiones de red.</li>
-                                    <li>Proporcioné soporte técnico mediante acceso remoto usando VMware.</li>
-                                </ul>
-                            </div>
+                            <h3 data-i18n="exp_4_role">Técnico de IT</h3>
+                            <h4 data-i18n="exp_4_company">Inetum</h4>
+                            <div data-i18n="exp_4_desc" class="timeline-desc"></div>
+                            <div class="timeline-tech" data-i18n="exp_4_tech">ERP • VMware • Diagnóstico de Redes</div>
                         </div>
                     </div>
                 </div>
@@ -228,22 +264,78 @@
                 <h2 class="section-title" data-i18n="edu_title">Educación</h2>
                 <div class="education-grid">
                     <div class="edu-card glass-card">
+                        <img src="assets/edu-ai.png" alt="Máster en Inteligencia Artificial" class="edu-image"
+                            loading="lazy">
                         <h3 data-i18n="edu_1_title">Máster en Inteligencia Artificial</h3>
-                        <h4 data-i18n="edu_1_subtitle">Ingeniería de IA</h4>
-                        <p data-i18n="edu_1_desc">Formación avanzada en ML, Deep Learning, NLP y despliegue de IA.</p>
-                        <div class="tags">
-                            <span>AWS</span>
-                            <span>Azure (AZ-900)</span>
-                            <span>ISMS</span>
+                        <h4 data-i18n="edu_1_subtitle">EIP International Business School | Feb 2025 – Mar 2026</h4>
+                        <p data-i18n="edu_1_desc"></p>
+                    </div>
+                    <div class="edu-card glass-card">
+                        <img src="assets/edu-dam.png" alt="Desarrollo de Aplicaciones" class="edu-image" loading="lazy">
+                        <h3 data-i18n="edu_2_title">Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
+                        <h4 data-i18n="edu_2_subtitle">IES Villaverde | Sep 2022 – Jun 2024</h4>
+                        <p data-i18n="edu_2_desc"></p>
+                    </div>
+                    <div class="edu-card glass-card">
+                        <img src="assets/edu-asir.png" alt="Administración de Sistemas" class="edu-image"
+                            loading="lazy">
+                        <h3 data-i18n="edu_3_title">Administración de Sistemas Informáticos en Red (ASIR)</h3>
+                        <h4 data-i18n="edu_3_subtitle">IES Villaverde | Sep 2020 – Jun 2022</h4>
+                        <p data-i18n="edu_3_desc"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="certifications" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="cert_title">Certificaciones</h2>
+                <div class="certifications-grid">
+                    <div class="cert-card glass-card tilt-card">
+                        <i class="fas fa-certificate cert-icon" aria-hidden="true"></i>
+                        <h3 data-i18n="cert_1_name"></h3>
+                        <p data-i18n="cert_1_issuer" class="cert-issuer"></p>
+                    </div>
+                    <div class="cert-card glass-card tilt-card">
+                        <i class="fab fa-microsoft cert-icon" aria-hidden="true"></i>
+                        <h3 data-i18n="cert_2_name"></h3>
+                        <p data-i18n="cert_2_issuer" class="cert-issuer"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="languages" class="section">
+            <div class="container">
+                <h2 class="section-title" data-i18n="lang_sec_title">Idiomas</h2>
+                <div class="languages-grid">
+                    <div class="lang-card glass-card">
+                        <h3 data-i18n="lang_es">Español</h3>
+                        <p data-i18n="lang_es_level">Nativo / Bilingüe</p>
+                        <div class="lang-bar">
+                            <div class="fill" style="width: 100%;"></div>
                         </div>
                     </div>
-                    <div class="edu-card glass-card">
-                        <h3 data-i18n="edu_2_title">Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
-                        <p data-i18n="edu_2_desc">Enfoque en desarrollo web y móvil (Angular, Android Studio).</p>
+                    <div class="lang-card glass-card">
+                        <h3 data-i18n="lang_en">Inglés</h3>
+                        <p data-i18n="lang_en_level">Profesional Completo</p>
+                        <div class="lang-bar">
+                            <div class="fill" style="width: 90%;"></div>
+                        </div>
                     </div>
-                    <div class="edu-card glass-card">
-                        <h3 data-i18n="edu_3_title">Administración de Sistemas Informáticos en Red (ASIR)</h3>
-                        <p data-i18n="edu_3_desc">Administración de sistemas, seguridad, redes y virtualización.</p>
+                    <div class="lang-card glass-card">
+                        <h3 data-i18n="lang_ar">Árabe</h3>
+                        <p data-i18n="lang_ar_level">Profesional Completo</p>
+                        <div class="lang-bar">
+                            <div class="fill" style="width: 90%;"></div>
+                        </div>
+                    </div>
+                    <div class="lang-card glass-card">
+                        <h3 data-i18n="lang_fr">Francés</h3>
+                        <p data-i18n="lang_fr_level">Nivel Trabajo Limitado</p>
+                        <div class="lang-bar">
+                            <div class="fill" style="width: 40%;"></div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -253,38 +345,38 @@
             <div class="container">
                 <h2 class="section-title" data-i18n="projects_title">Proyectos Destacados</h2>
                 <div class="projects-grid">
-                    <div class="project-card glass-card tilt-card">
+                    <div class="project-card glass-card tilt-card premium-card">
+                        <div class="project-img-wrapper">
+                            <img src="assets/project-1.png" alt="Informed Consent Assistant" loading="lazy"
+                                class="project-image">
+                        </div>
                         <div class="project-content">
-                            <h3 data-i18n="proj_1_title">Asistente de Consentimiento Informado</h3>
-                            <p class="project-subtitle" data-i18n="proj_1_subtitle">Asociación UPM</p>
-                            <p data-i18n="proj_1_desc">
-                                Una aplicación para simplificar el consentimiento informado en el ámbito médico
-                                utilizando un LLM basado en LLaMA 3.
-                                Simplifica el lenguaje técnico y lo presenta en inglés, español y francés.
-                            </p>
-                            <div class="project-tech">
-                                <span>Ollama</span>
-                                <span>Docker</span>
-                                <span>NLP</span>
-                                <span>Web Interface</span>
+                            <h3 data-i18n="proj_1_title"></h3>
+                            <p class="project-subtitle" data-i18n="proj_1_subtitle"></p>
+                            <div class="project-body">
+                                <p data-i18n="proj_1_problem"></p>
+                                <p data-i18n="proj_1_solution"></p>
+                                <p data-i18n="proj_1_role"></p>
+                                <p data-i18n="proj_1_results"></p>
                             </div>
+                            <div class="project-tech-chips" data-i18n="proj_1_tech"></div>
                         </div>
                     </div>
 
-                    <div class="project-card glass-card tilt-card">
+                    <div class="project-card glass-card tilt-card premium-card">
+                        <div class="project-img-wrapper">
+                            <img src="assets/project-2.png" alt="TrAIner App" loading="lazy" class="project-image">
+                        </div>
                         <div class="project-content">
-                            <h3 data-i18n="proj_2_title">TrAIner</h3>
-                            <p class="project-subtitle" data-i18n="proj_2_subtitle">App de Fitness Potenciada por IA</p>
-                            <p data-i18n="proj_2_desc">
-                                Aplicación móvil para gestionar entrenamientos y nutrición. Incluye TrAInerBot, un
-                                asistente virtual basado en IA.
-                            </p>
-                            <div class="project-tech">
-                                <span>Android Studio</span>
-                                <span>Firebase</span>
-                                <span>LLaMA 3</span>
-                                <span>Docker</span>
+                            <h3 data-i18n="proj_2_title"></h3>
+                            <p class="project-subtitle" data-i18n="proj_2_subtitle"></p>
+                            <div class="project-body">
+                                <p data-i18n="proj_2_problem"></p>
+                                <p data-i18n="proj_2_solution"></p>
+                                <p data-i18n="proj_2_role"></p>
+                                <p data-i18n="proj_2_results"></p>
                             </div>
+                            <div class="project-tech-chips" data-i18n="proj_2_tech"></div>
                         </div>
                     </div>
                 </div>
@@ -293,10 +385,14 @@
 
         <section id="news" class="section">
             <div class="container">
-                <h2 class="section-title" data-i18n="news_title">Últimas Noticias de IA</h2>
+                <div class="section-header">
+                    <h2 class="section-title" data-i18n="news_title">Últimas Noticias IA</h2>
+                    <p class="last-updated"><span data-i18n="news_last_updated">Última actualización:</span> <span
+                            id="news-update-time">...</span></p>
+                </div>
                 <div id="news-grid" class="news-grid">
-                    <!-- News items will be loaded here -->
-                    <div class="loading-spinner"></div>
+                    <!-- Skeletons will be created in main.js -->
+                    <div class="loading-spinner" aria-label="Loading news"></div>
                 </div>
             </div>
         </section>
@@ -307,42 +403,78 @@
                 <div class="contact-wrapper glass-card">
                     <div class="contact-info">
                         <div class="contact-item">
-                            <i class="fas fa-phone"></i>
+                            <i class="fas fa-phone" aria-hidden="true"></i>
                             <p>+34 642509531</p>
                         </div>
                         <div class="contact-item">
-                            <i class="fas fa-envelope"></i>
+                            <i class="fas fa-envelope" aria-hidden="true"></i>
                             <p>issammezdagat@gmail.com</p>
                         </div>
                         <div class="contact-item">
-                            <i class="fab fa-linkedin"></i>
-                            <a href="https://linkedin.com/in/issam-mezdagat"
-                                target="_blank">linkedin.com/in/issam-mezdagat</a>
+                            <i class="fab fa-linkedin" aria-hidden="true"></i>
+                            <a href="https://linkedin.com/in/issam-mezdagat" target="_blank"
+                                rel="noopener">linkedin.com/in/issam-mezdagat</a>
                         </div>
                     </div>
                 </div>
             </div>
-            </div>
-            </div>
-            </div>
         </section>
         <footer>
-            <p data-i18n="footer_text">&copy; 2025 Issam Mezdagat. Construido con Código e IA.</p>
+            <p data-i18n="footer_text">&copy; 2026 Issam Mezdagat. Construido con Código e IA.</p>
         </footer>
 
         <!-- Floating News Button -->
-        <a href="#news" class="floating-news-btn" id="floating-news-btn">
+        <a href="#news" class="floating-news-btn" id="floating-news-btn" aria-label="Go to AI News">
             <div class="news-icon-container">
-                <i class="fas fa-newspaper"></i>
+                <i class="fas fa-newspaper" aria-hidden="true"></i>
                 <span class="notification-dot"></span>
             </div>
             <span class="btn-text">AI News</span>
         </a>
+
+        <!-- CV Modal -->
+        <div id="cv-modal" class="modal" aria-hidden="true">
+            <div class="modal-content glass-card premium-card">
+                <span class="close-modal" id="close-cv-modal">&times;</span>
+                <h2 data-i18n="cv_modal_title">Descargar CV</h2>
+                <p data-i18n="cv_modal_desc" class="modal-desc">Por favor, deja tus datos para saber quién está
+                    interesado en mi perfil.</p>
+                <form id="cv-form">
+                    <div class="form-group">
+                        <label for="cv-name" data-i18n="cv_name_label">Nombre / LinkedIn</label>
+                        <input type="text" id="cv-name" name="Name_LinkedIn" required
+                            data-i18n-placeholder="cv_name_placeholder"
+                            placeholder="Ej. Juan Pérez o linkedin.com/in/juanperez">
+                    </div>
+                    <div class="form-group">
+                        <label for="cv-position" data-i18n="cv_position_label">Puesto para el que buscas</label>
+                        <input type="text" id="cv-position" name="Position" required
+                            data-i18n-placeholder="cv_position_placeholder" placeholder="Ej. Senior AI Engineer">
+                    </div>
+                    <div class="form-group">
+                        <label for="cv-company" data-i18n="cv_company_label">Empresa</label>
+                        <input type="text" id="cv-company" name="Company" required
+                            data-i18n-placeholder="cv_company_placeholder" placeholder="Ej. Google">
+                    </div>
+                    <div id="cv-msg-box" class="form-msg"></div>
+                    <div class="modal-actions">
+                        <button type="button" class="btn secondary" id="btn-cancel-cv"
+                            data-i18n="cv_close_btn">Cancelar</button>
+                        <button type="submit" class="btn primary" id="btn-submit-cv" data-i18n="cv_submit_btn">Enviar y
+                            Descargar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
     </main>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.160.0/three.min.js"></script>
-    <script src="js/main.js"></script>
-    <script src="js/three-scene.js"></script>
+    <!-- Deferred JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.160.0/three.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
+    <script src="js/translations.js"></script>
+    <script src="data/ai-news.js"></script>
+    <script src="js/main.js" defer></script>
+    <script src="js/three-scene.js" defer></script>
 </body>
 
 </html>

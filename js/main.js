@@ -1,110 +1,4 @@
-// Translations embedded to support file:// protocol without local server
-const translations = {
-    "en": {
-        "nav_home": "Home",
-        "nav_about": "About",
-        "nav_skills": "Skills",
-        "nav_experience": "Experience",
-        "nav_projects": "Projects",
-        "nav_news": "AI News",
-        "nav_contact": "Contact",
-        "hero_greeting": "Hello, I'm",
-        "hero_title": "Issam Mezdagat",
-        "hero_subtitle": "Full-Stack Developer <span class=\"accent\">&</span> AI Specialist",
-        "hero_desc": "Building the future with Code and Artificial Intelligence. Based in Madrid, Spain.",
-        "btn_view_work": "View Work",
-        "btn_contact": "Contact Me",
-        "scroll_text": "Scroll",
-        "about_title": "About Me",
-        "about_p1": "I am a <strong>Full-Stack Software Developer</strong> with a strong specialization in <strong>Artificial Intelligence</strong>, currently pursuing a Master's degree in AI Engineering.",
-        "about_p2": "My passion lies at the intersection of software development and AI application. I thrive in collaborative environments and love tackling technical challenges. I am constantly learning and innovating, with a special interest in web development, mobile development, and AI-based solutions.",
-        "location": "Madrid, Spain",
-        "languages": "English (Preparing for C1), Spanish",
-        "profile_role": "AI Engineer in Training",
-        "skills_title": "Technical Arsenal",
-        "skills_prog": "Programming & Databases",
-        "skills_ai": "Artificial Intelligence",
-        "skills_dev": "Development",
-        "skills_devops": "DevOps & Infrastructure",
-        "exp_title": "Experience",
-        "exp_1_role": "AI Project Developer",
-        "exp_1_company": "Universidad Politécnica de Madrid (UPM)",
-        "exp_1_desc": "<ul><li>Participated in the development of a language model from scratch.</li><li>Used OLLAMA as a base to train and build a custom LLM.</li><li>Worked in a fully isolated environment managed with Docker.</li><li>Published model versions on Docker Hub.</li><li>Created charts and data visualizations through a website built with HTML + Angular.</li></ul>",
-        "exp_2_role": "Incident Management",
-        "exp_2_company": "Inetnum",
-        "exp_2_desc": "<ul><li>Managed incidents related to the interface used in Repsol gas stations.</li><li>Used an internal ERP for tracking and resolving incidents.</li><li>Verified and diagnosed network connections.</li><li>Provided technical support through remote access using VMware.</li></ul>",
-        "edu_title": "Education",
-        "edu_1_title": "Master’s in Artificial Intelligence",
-        "edu_1_subtitle": "AI Engineering",
-        "edu_1_desc": "Advanced training in ML, Deep Learning, NLP, and AI deployment.",
-        "edu_2_title": "Multiplatform Application Development (DAM)",
-        "edu_2_desc": "Focus on web and mobile development (Angular, Android Studio).",
-        "edu_3_title": "Network Computer Systems Administration (ASIR)",
-        "edu_3_desc": "System administration, security, networks, and virtualization.",
-        "projects_title": "Featured Projects",
-        "proj_1_title": "Informed Consent Assistant",
-        "proj_1_subtitle": "UPM Association",
-        "proj_1_desc": "An application to simplify informed consent in the medical field using an LLM based on LLaMA 3. Simplifies technical language and presents it in English, Spanish, and French.",
-        "proj_2_title": "TrAIner",
-        "proj_2_subtitle": "AI-Powered Fitness App",
-        "proj_2_desc": "Mobile application for managing workouts and nutrition. Includes TrAInerBot, a virtual assistant based on AI.",
-        "news_title": "Latest AI News",
-        "contact_title": "Get In Touch",
-        "footer_text": "&copy; 2025 Issam Mezdagat. Built with Code & AI."
-    },
-    "es": {
-        "nav_home": "Inicio",
-        "nav_about": "Sobre Mí",
-        "nav_skills": "Habilidades",
-        "nav_experience": "Experiencia",
-        "nav_projects": "Proyectos",
-        "nav_news": "Noticias IA",
-        "nav_contact": "Contacto",
-        "hero_greeting": "Hola, soy",
-        "hero_title": "Issam Mezdagat",
-        "hero_subtitle": "Desarrollador Full-Stack <span class=\"accent\">y</span> Especialista en IA",
-        "hero_desc": "Construyendo el futuro con Código e Inteligencia Artificial. Con base en Madrid, España.",
-        "btn_view_work": "Ver Proyectos",
-        "btn_contact": "Contáctame",
-        "scroll_text": "Desliza",
-        "about_title": "Sobre Mí",
-        "about_p1": "Soy un <strong>Desarrollador de Software Full-Stack</strong> con una fuerte especialización en <strong>Inteligencia Artificial</strong>, actualmente cursando un Máster en Ingeniería de IA.",
-        "about_p2": "Mi pasión se encuentra en la intersección del desarrollo de software y la aplicación de la IA. Me desenvuelvo bien en entornos colaborativos y me encanta afrontar retos técnicos. Estoy constantemente aprendiendo e innovando, con especial interés en el desarrollo web, móvil y soluciones basadas en IA.",
-        "location": "Madrid, España",
-        "languages": "Inglés (Preparando C1), Español",
-        "profile_role": "Ingeniero de IA en Formación",
-        "skills_title": "Arsenal Técnico",
-        "skills_prog": "Programación y Bases de Datos",
-        "skills_ai": "Inteligencia Artificial",
-        "skills_dev": "Desarrollo",
-        "skills_devops": "DevOps e Infraestructura",
-        "exp_title": "Experiencia",
-        "exp_1_role": "Desarrollador de Proyectos de IA",
-        "exp_1_company": "Universidad Politécnica de Madrid (UPM)",
-        "exp_1_desc": "<ul><li>Participé en el desarrollo de un modelo de lenguaje desde cero.</li><li>Utilicé OLLAMA como base para entrenar y construir un LLM personalizado.</li><li>Trabajé en un entorno totalmente aislado gestionado con Docker.</li><li>Publiqué versiones del modelo en Docker Hub.</li><li>Creé gráficos y visualizaciones de datos a través de un sitio web construido con HTML + Angular.</li></ul>",
-        "exp_2_role": "Gestión de Incidencias",
-        "exp_2_company": "Inetnum",
-        "exp_2_desc": "<ul><li>Gestioné incidencias relacionadas con la interfaz utilizada en las gasolineras de Repsol.</li><li>Utilicé un ERP interno para el seguimiento y resolución de incidencias.</li><li>Verifiqué y diagnostiqué conexiones de red.</li><li>Proporcioné soporte técnico mediante acceso remoto usando VMware.</li></ul>",
-        "edu_title": "Educación",
-        "edu_1_title": "Máster en Inteligencia Artificial",
-        "edu_1_subtitle": "Ingeniería de IA",
-        "edu_1_desc": "Formación avanzada en ML, Deep Learning, NLP y despliegue de IA.",
-        "edu_2_title": "Desarrollo de Aplicaciones Multiplataforma (DAM)",
-        "edu_2_desc": "Enfoque en desarrollo web y móvil (Angular, Android Studio).",
-        "edu_3_title": "Administración de Sistemas Informáticos en Red (ASIR)",
-        "edu_3_desc": "Administración de sistemas, seguridad, redes y virtualización.",
-        "projects_title": "Proyectos Destacados",
-        "proj_1_title": "Asistente de Consentimiento Informado",
-        "proj_1_subtitle": "Asociación UPM",
-        "proj_1_desc": "Una aplicación para simplificar el consentimiento informado en el ámbito médico utilizando un LLM basado en LLaMA 3. Simplifica el lenguaje técnico y lo presenta en inglés, español y francés.",
-        "proj_2_title": "TrAIner",
-        "proj_2_subtitle": "App de Fitness Potenciada por IA",
-        "proj_2_desc": "Aplicación móvil para gestionar entrenamientos y nutrición. Incluye TrAInerBot, un asistente virtual basado en IA.",
-        "news_title": "Últimas Noticias de IA",
-        "contact_title": "Contacto",
-        "footer_text": "&copy; 2025 Issam Mezdagat. Construido con Código e IA."
-    }
-};
+// Translations loaded globally from translations.js
 
 document.addEventListener('DOMContentLoaded', () => {
     console.log("DOM fully loaded and parsed");
@@ -219,106 +113,168 @@ document.addEventListener('DOMContentLoaded', () => {
         // The news items themselves (title/desc) are from JSON and might not be translated unless JSON has multiple langs.
         // The "Read More" text IS translated in the template literal in loadNews.
         // So let's re-render news.
-        loadNews();
+        if (cachedNewsData) {
+            renderNews(cachedNewsData);
+        } else {
+            loadNews();
+        }
+
+        // Initialize charts (timeout to allow DOM to update via innerHTML)
+        setTimeout(initCharts, 0);
     }
 
-    // Hardcoded News Data (November 2025)
-    const newsData = [
-        {
-            "title": "Google Unveils Gemini 3 Pro",
-            "summary": "A major breakthrough with Sparse Mixture-of-Experts Transformer, surpassing GPT-5.1 in reasoning and multimodal capabilities.",
-            "source": "Google AI Blog",
-            "date": "Nov 20, 2025",
-            "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_1_5_pro_lead.width-1300.jpg",
-            "link": "https://blog.google/technology/ai/",
-            "tag": "BREAKING"
-        },
-        {
-            "title": "OpenAI Releases GPT-5.1",
-            "summary": "New 'Instant' and 'Thinking' versions released, featuring enhanced reasoning and natural conversation flow.",
-            "source": "OpenAI",
-            "date": "Nov 18, 2025",
-            "image": "https://images.openai.com/blob/a2e49de2-ba5b-4869-9c2d-db3b4b5dcc19/gpt-4o-spring-update-wide.jpg?trim=0,0,0,0&width=2000",
-            "link": "https://openai.com/blog",
-            "tag": "HOT"
-        },
-        {
-            "title": "$100B AI Infrastructure Plan",
-            "summary": "Nvidia and OpenAI announce massive investment to build 10 gigawatts of AI data centers to power next-gen models.",
-            "source": "TechCrunch",
-            "date": "Nov 15, 2025",
-            "image": "https://nvidianews.nvidia.com/t/nvidia-news/assets/image/nvidia-hq-exterior?format=jpg&width=1200",
-            "link": "https://nvidianews.nvidia.com/",
-            "tag": "INDUSTRY"
-        },
-        {
-            "title": "WeatherNext 2 by DeepMind",
-            "summary": "Advanced weather forecasting model predicts hundreds of scenarios in under a minute, revolutionizing climate science.",
-            "source": "DeepMind",
-            "date": "Nov 12, 2025",
-            "image": "https://lh3.googleusercontent.com/7f1Yx3y6Xj4x7y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y8y=w1600-h900-rw",
-            "link": "https://deepmind.google/discover/blog/",
-            "tag": "SCIENCE"
-        },
-        {
-            "title": "Tesla Optimus Gen 4",
-            "summary": "Tesla reveals the 4th generation of its humanoid robot, now capable of complex household tasks and full autonomy.",
-            "source": "The Verge",
-            "date": "Nov 10, 2025",
-            "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Tesla-Bot-Action-Shot-1.jpg",
-            "link": "https://www.tesla.com/AI",
-            "tag": "ROBOTICS"
-        },
-        {
-            "title": "Apple Intelligence 2.0",
-            "summary": "Apple integrates advanced on-device LLMs into iOS 19, offering privacy-focused AI assistance without cloud processing.",
-            "source": "Apple Newsroom",
-            "date": "Nov 08, 2025",
-            "image": "https://www.apple.com/newsroom/images/2024/06/apple-introduces-apple-intelligence-for-iphone-ipad-and-mac/article/Apple-Intelligence-iPhone-15-Pro-hero_big.jpg.large.jpg",
-            "link": "https://www.apple.com/newsroom/",
-            "tag": "MOBILE"
-        },
-        {
-            "title": "Quantum AI Breakthrough",
-            "summary": "IBM and MIT researchers demonstrate the first practical quantum-enhanced machine learning algorithm.",
-            "source": "MIT Technology Review",
-            "date": "Nov 05, 2025",
-            "image": "https://newsroom.ibm.com/image/IBM_Quantum_System_Two.jpg",
-            "link": "https://research.ibm.com/quantum-computing",
-            "tag": "QUANTUM"
-        },
-        {
-            "title": "Meta Llama 4 Open Source",
-            "summary": "Meta releases Llama 4 with 400B parameters, setting a new standard for open-source AI models.",
-            "source": "Meta AI",
-            "date": "Nov 02, 2025",
-            "image": "https://about.fb.com/wp-content/uploads/2023/07/Llama-2-Header.jpg?w=1920",
-            "link": "https://ai.meta.com/",
-            "tag": "OPEN SOURCE"
+    let chart1 = null;
+    let chart2 = null;
+
+    function initCharts() {
+        if (!window.Chart) return; // Safeguard if Chart.js is not loaded
+
+        const ctx1 = document.getElementById('chart-proj1');
+        if (ctx1) {
+            if (chart1) chart1.destroy();
+            chart1 = new window.Chart(ctx1, {
+                type: 'bar',
+                data: {
+                    labels: [currentLang === 'es' ? 'Antes de IA' : 'Before AI', currentLang === 'es' ? 'Con IA' : 'After AI'],
+                    datasets: [{
+                        label: currentLang === 'es' ? 'Tiempo de procesamiento (min)' : 'Processing Time (mins)',
+                        data: [45, 12],
+                        backgroundColor: 'rgba(0, 243, 255, 0.4)',
+                        borderColor: 'rgba(0, 243, 255, 1)',
+                        borderWidth: 1,
+                        borderRadius: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { labels: { color: '#fff' } } },
+                    scales: {
+                        y: { beginAtZero: true, ticks: { color: '#ccc' }, grid: { color: 'rgba(255,255,255,0.05)' } },
+                        x: { ticks: { color: '#ccc' }, grid: { color: 'rgba(255,255,255,0.05)' } }
+                    }
+                }
+            });
         }
-    ];
+
+        const ctx2 = document.getElementById('chart-proj2');
+        if (ctx2) {
+            if (chart2) chart2.destroy();
+            chart2 = new window.Chart(ctx2, {
+                type: 'bar',
+                data: {
+                    labels: [currentLang === 'es' ? 'Modelo Base' : 'Base Model', currentLang === 'es' ? 'Cuantizado (4-bit)' : 'Quantized (4-bit)'],
+                    datasets: [{
+                        label: currentLang === 'es' ? 'Velocidad (Tokens/seg)' : 'Speed (Tokens/sec)',
+                        data: [12, 45],
+                        backgroundColor: ['rgba(255, 255, 255, 0.2)', 'rgba(188, 19, 254, 0.4)'],
+                        borderColor: ['rgba(255, 255, 255, 0.5)', 'rgba(188, 19, 254, 1)'],
+                        borderWidth: 1,
+                        borderRadius: 4
+                    }]
+                },
+                options: {
+                    indexAxis: 'y', // horizontal bar
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        x: { beginAtZero: true, ticks: { color: '#ccc' }, grid: { color: 'rgba(255,255,255,0.05)' } },
+                        y: { ticks: { color: '#ccc' }, grid: { display: false } }
+                    }
+                }
+            });
+        }
+    }
+
+    // State for news
+    let cachedNewsData = null;
+    let newsLastUpdate = null;
 
     // News Loading
-    function loadNews() {
-        if (!newsGrid) return;
+    if (!newsGrid) return;
 
-        newsGrid.innerHTML = ''; // Clear loading spinner
+    const updateTimeEl = document.getElementById('news-update-time');
 
-        newsData.forEach(item => {
+    // Render Skeletons
+    newsGrid.innerHTML = '';
+    for (let i = 0; i < 4; i++) {
+        newsGrid.innerHTML += `
+            <div class="news-card glass-card skeleton-wrapper" aria-hidden="true">
+                <div class="news-content">
+                    <div class="skeleton skeleton-meta"></div>
+                    <div class="skeleton skeleton-title"></div>
+                    <div class="skeleton skeleton-title short"></div>
+                    <div class="skeleton skeleton-text"></div>
+                    <div class="skeleton skeleton-text"></div>
+                    <div class="skeleton skeleton-text short"></div>
+                </div>
+            </div>
+        `;
+    }
+
+    try {
+        if (window.aiNewsData && window.aiNewsData.items) {
+            cachedNewsData = window.aiNewsData.items;
+            newsLastUpdate = window.aiNewsData.last_updated;
+
+            renderNews(cachedNewsData);
+
+            if (updateTimeEl) {
+                updateTimeEl.textContent = new Date(newsLastUpdate).toLocaleString(currentLang === 'es' ? 'es-ES' : 'en-US', {
+                    year: 'numeric', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+                });
+            }
+        } else {
+            throw new Error('AI news data not found. Please ensure the Python script has run.');
+        }
+
+    } catch (error) {
+        console.error('Error fetching AI news:', error);
+        // Fallback content in case fetch fails
+        const fallbackNews = [
+            {
+                "title": "Local LLMs are getting better",
+                "short_summary": "Offline, localized LLMs are bridging the gap between cloud dependence and data privacy.",
+                "source": "AI Fallback",
+                "published_at": new Date().toISOString(),
+                "url": "#",
+                "tag": "NEWS"
+            }
+        ];
+        renderNews(fallbackNews);
+    }
+
+
+    function renderNews(newsItems) {
+        if (!newsGrid || !newsItems) return;
+        newsGrid.innerHTML = '';
+
+        newsItems.forEach(item => {
             const newsCard = document.createElement('div');
             newsCard.className = 'news-card glass-card';
 
+            const tag = item.tag || 'AI';
+            // Parse date to readable format
+            const dateObj = new Date(item.published_at);
+            const dateStr = dateObj.toLocaleDateString(currentLang === 'es' ? 'es-ES' : 'en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+
+            const readMoreText = translations[currentLang]?.news_read_more || 'Read More';
+
             newsCard.innerHTML = `
-                <div class="news-tag">${item.tag}</div>
+                <div class="news-img-wrapper">
+                    <img src="assets/news-placeholder.png" alt="AI News" class="news-image" loading="lazy">
+                    <div class="news-tag">${tag}</div>
+                </div>
                 <div class="news-content">
                     <div class="news-meta">
                         <span class="news-source"><i class="fas fa-bolt"></i> ${item.source}</span>
-                        <span class="news-date">${item.date}</span>
+                        <span class="news-date">${dateStr}</span>
                     </div>
                     <h3>${item.title}</h3>
-                    <p>${item.summary}</p>
-                    <a href="${item.link}" target="_blank" class="read-more">
-                        ${currentLang === 'es' ? 'Leer más' : 'Read More'} <i class="fas fa-external-link-alt"></i>
+                    <p>${item.short_summary}</p>
+                    <a href="${item.url}" target="_blank" rel="noopener" class="read-more">
+                        ${readMoreText} <i class="fas fa-external-link-alt"></i>
                     </a>
                 </div>
             `;
@@ -326,7 +282,6 @@ document.addEventListener('DOMContentLoaded', () => {
             newsGrid.appendChild(newsCard);
         });
     }
-
     // Floating Button Logic
     const floatingBtn = document.getElementById('floating-news-btn');
     if (floatingBtn) {
@@ -349,5 +304,178 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    loadNews();
+    // --- CV Modal Logic ---
+    const btnDownloadCv = document.getElementById('btn-download-cv');
+    const cvModal = document.getElementById('cv-modal');
+    const closeCvModal = document.getElementById('close-cv-modal');
+    const btnCancelCv = document.getElementById('btn-cancel-cv');
+    const cvForm = document.getElementById('cv-form');
+    const cvMsgBox = document.getElementById('cv-msg-box');
+    const btnSubmitCv = document.getElementById('btn-submit-cv');
+
+    function openModal(e) {
+        if (e) e.preventDefault();
+        cvModal.classList.add('show');
+        cvMsgBox.className = 'form-msg'; // reset
+        cvMsgBox.innerHTML = '';
+        cvForm.reset();
+        btnSubmitCv.disabled = false;
+    }
+
+    function closeModal() {
+        cvModal.classList.remove('show');
+    }
+
+    if (btnDownloadCv) btnDownloadCv.addEventListener('click', openModal);
+    if (closeCvModal) closeCvModal.addEventListener('click', closeModal);
+    if (btnCancelCv) btnCancelCv.addEventListener('click', closeModal);
+
+    // Close on click outside
+    window.addEventListener('click', (e) => {
+        if (e.target === cvModal) {
+            closeModal();
+        }
+    });
+
+    // Form Submission Logic
+    if (cvForm) {
+        cvForm.addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const name = document.getElementById('cv-name').value;
+            const position = document.getElementById('cv-position').value;
+            const company = document.getElementById('cv-company').value;
+
+            // Set loading state
+            btnSubmitCv.disabled = true;
+            const originalText = btnSubmitCv.innerHTML;
+            btnSubmitCv.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
+
+            // We use formsubmit.co to send the email via AJAX
+            fetch("https://formsubmit.co/ajax/issammezdagat@gmail.com", {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json'
+                },
+                body: JSON.stringify({
+                    _subject: `New CV Download Request: ${name} from ${company}`,
+                    Nombre_LinkedIn: name,
+                    Puesto: position,
+                    Empresa: company
+                })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    // Success styling
+                    cvMsgBox.className = 'form-msg success';
+                    cvMsgBox.innerHTML = translations[currentLang]?.cv_success_msg || 'Thank you! Download starting...';
+
+                    // Trigger download
+                    setTimeout(() => {
+                        const link = document.createElement('a');
+                        link.href = 'data/CVIssamMezdagat_TEX.pdf';
+                        link.download = 'Issam_Mezdagat_CV.pdf';
+                        document.body.appendChild(link);
+                        link.click();
+                        document.body.removeChild(link);
+
+                        // Close modal after a bit
+                        setTimeout(closeModal, 2000);
+                    }, 1000);
+                })
+                .catch(error => {
+                    console.error('Error submitting form', error);
+                    cvMsgBox.className = 'form-msg error';
+                    cvMsgBox.innerHTML = translations[currentLang]?.cv_error_msg || 'Error. You can still download the CV.';
+                    // Provide fallback download
+                    cvMsgBox.innerHTML += `<br><a href="data/CVIssamMezdagat_TEX.pdf" download="Issam_Mezdagat_CV.pdf" style="color:var(--primary-color)">Click here to download</a>`;
+                    btnSubmitCv.disabled = false;
+                    btnSubmitCv.innerHTML = originalText;
+                });
+        });
+    }
+    // --- Innovative Visuals ---
+
+    // 1. Dynamic Typewriter Effect
+    let roleIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+    let typewriterTimeout;
+
+    function resetTypewriter() {
+        clearTimeout(typewriterTimeout);
+        charIndex = 0;
+        isDeleting = false;
+        roleIndex = 0;
+        const typewriterEl = document.getElementById('typewriter');
+        if (typewriterEl) typewriterEl.textContent = '';
+        typeWriter();
+    }
+
+    function typeWriter() {
+        const typewriterEl = document.getElementById('typewriter');
+        if (!typewriterEl) return;
+
+        const currentRoles = translations[currentLang]?.hero_roles || ["Software Developer", "AI Engineer"];
+        const currentText = currentRoles[roleIndex];
+
+        if (isDeleting) {
+            typewriterEl.textContent = currentText.substring(0, charIndex - 1);
+            charIndex--;
+        } else {
+            typewriterEl.textContent = currentText.substring(0, charIndex + 1);
+            charIndex++;
+        }
+
+        let typeSpeed = isDeleting ? 50 : 100;
+
+        if (!isDeleting && charIndex === currentText.length) {
+            typeSpeed = 2000; // Pause at end
+            isDeleting = true;
+        } else if (isDeleting && charIndex === 0) {
+            isDeleting = false;
+            roleIndex = (roleIndex + 1) % currentRoles.length;
+            typeSpeed = 500; // Pause before typing next
+        }
+
+        typewriterTimeout = setTimeout(typeWriter, typeSpeed);
+    }
+
+    // Start typewriter
+    resetTypewriter();
+
+
+    // 2. Intersection Observer for Scroll Reveal
+    const revealObserverOptions = {
+        threshold: 0.1,
+        rootMargin: "0px 0px -50px 0px"
+    };
+
+    const revealObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('active');
+            }
+        });
+    }, revealObserverOptions);
+
+    // Apply reveal to specific elements
+    document.querySelectorAll('.section-title, .glass-card, .timeline-item, .skill-card, .edu-card, .project-card, .news-card').forEach(el => {
+        el.classList.add('reveal');
+        revealObserver.observe(el);
+    });
+
+    // 3. Mouse Tracking Glow Effect for Glass Cards
+    document.querySelectorAll('.glass-card').forEach(card => {
+        card.addEventListener('mousemove', e => {
+            const rect = card.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+            card.style.setProperty('--mouse-x', `${x}px`);
+            card.style.setProperty('--mouse-y', `${y}px`);
+        });
+    });
+
+    updateContent();
 });

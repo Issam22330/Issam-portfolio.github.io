@@ -56,8 +56,8 @@ document.addEventListener('mousemove', (event) => {
 
 // Animation Loop
 const clock = new THREE.Clock();
-
 const tick = () => {
+
     targetX = mouseX * 0.001;
     targetY = mouseY * 0.001;
 
@@ -70,10 +70,6 @@ const tick = () => {
     // Mouse interaction easing
     particlesMesh.rotation.y += 0.05 * (targetX - particlesMesh.rotation.y);
     particlesMesh.rotation.x += 0.05 * (targetY - particlesMesh.rotation.x);
-
-    // Wave effect
-    // We can access positions and update them if we want a wave, 
-    // but simple rotation is often cleaner for a background.
 
     renderer.render(scene, camera);
     window.requestAnimationFrame(tick);
