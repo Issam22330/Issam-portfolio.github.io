@@ -29,6 +29,25 @@ jobs:
       - name: Run script
         run: python scripts/update_news.py
 
+      - name: Send Email Notification
+        if: hashFiles('email_summary.html') != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: Nuevas Noticias de IA en tu Portfolio 🤖
+          to: ${{ secrets.MAIL_TO }}
+          from: Portfolio Bot
+          html_body: file://email_summary.html
+
+      - name: Send WhatsApp Notification
+        if: hashFiles('whatsapp_summary.txt') != ''
+        run: |
+          TEXT=$(cat whatsapp_summary.txt)
+          curl -s -X GET "https://api.callmebot.com/whatsapp.php?phone=${{ secrets.WHATSAPP_PHONE }}&text=${TEXT}&apikey=${{ secrets.WHATSAPP_API_KEY }}"
+
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

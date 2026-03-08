@@ -4,6 +4,7 @@ import time
 import requests
 import feedparser
 import re
+import urllib.parse
 from datetime import datetime
 from bs4 import BeautifulSoup
 
@@ -107,7 +108,40 @@ def fetch_feeds():
     
     return unique_items[:MAX_ITEMS]
 
+def load_existing_urls():
+    if not os.path.exists(DATA_PATH):
+        return set()
+    try:
+        with open(DATA_PATH, "r", encoding="utf-8") as f:
+            content = f.read()
+            # extract json
+            json_str = content.replace("window.aiNewsData =", "").strip().rstrip(";")
+            data = json.loads(json_str)
+            return {item["url"] for item in data.get("items", [])}
+    except Exception as e:
+        print(f"Error loading existing news: {e}")
+        return set()
+
+def generate_summaries(new_items):
+    email_html = "<h2>📰 Nuevas Noticias de IA</h2><ul>"
+    whatsapp_text = "📰 *Nuevas Noticias de IA*\n\n"
+    
+    for item in new_items:
+        email_html += f"<li><a href='{item['url']}'><b>{item['title']}</b></a> ({item['source']})<br>{item['short_summary']}</li><br>"
+        whatsapp_text += f"🔹 *{item['title']}*\n_{item['source']}_\n{item['url']}\n\n"
+        
+    email_html += "</ul>"
+    
+    with open("email_summary.html", "w", encoding="utf-8") as f:
+        f.write(email_html)
+        
+    encoded_whatsapp = urllib.parse.quote(whatsapp_text)
+    with open("whatsapp_summary.txt", "w", encoding="utf-8") as f:
+        f.write(encoded_whatsapp)
+
 def main():
+    existing_urls = load_existing_urls()
+
     print("Starting AI News fetch...")
     news_items = fetch_feeds()
     
@@ -119,6 +153,12 @@ def main():
         "last_updated": datetime.utcnow().isoformat() + "Z",
         "items": news_items
     }
+    
+    # Check for new items
+    new_items = [item for item in news_items if item["url"] not in existing_urls]
+    if new_items:
+        print(f"Found {len(new_items)} newly fetched news items!")
+        generate_summaries(new_items)
     
     # Ensure dir exists
     os.makedirs(os.path.dirname(DATA_PATH), exist_ok=True)
