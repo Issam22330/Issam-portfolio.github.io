@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-03T13:54:25.593206Z",
+  "last_updated": "2026-03-08T21:37:52.684072Z",
   "items": [
     {
-      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
-      "url": "https://arxiv.org/abs/2603.00267",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00267v1 Announce Type: new \nAbstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust an...",
-      "tag": "RESEARCH"
+      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-06T18:00:00Z",
+      "short_summary": "Photos of animals being identified by the SpeciesNet AI model",
+      "tag": "MODEL"
     },
     {
-      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-      "url": "https://arxiv.org/abs/2603.00285",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00285v1 Announce Type: new \nAbstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynami...",
-      "tag": "RESEARCH"
+      "title": "Ask a Techspert: How does AI understand my visual searches?",
+      "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-05T18:00:00Z",
+      "short_summary": "Mobile phone with a search bar that says \"Ask anything\"",
+      "tag": "NEWS"
     },
     {
-      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
-      "url": "https://arxiv.org/abs/2603.00309",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00309v1 Announce Type: new \nAbstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LL...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in February",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-05T16:30:00Z",
+      "short_summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
+      "tag": "BREAKING"
     },
     {
-      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
-      "url": "https://arxiv.org/abs/2603.00312",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00312v1 Announce Type: new \nAbstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpret...",
-      "tag": "RESEARCH"
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-05T14:16:49Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
     },
     {
-      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-      "url": "https://arxiv.org/abs/2603.00349",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00349v1 Announce Type: new \nAbstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constra...",
-      "tag": "RESEARCH"
+      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+      "url": "https://huggingface.co/blog/modular-diffusers",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-05T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
-      "url": "https://arxiv.org/abs/2603.00350",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00350v1 Announce Type: new \nAbstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger models trained on broader datase...",
-      "tag": "RESEARCH"
+      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-04T17:00:00Z",
+      "short_summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+      "tag": "NEWS"
     },
     {
-      "title": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2603.00374",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00374v1 Announce Type: new \nAbstract: Offline learning of strategies takes data efficiency to its extreme by restricting algorithms to a fixed dataset of state-action...",
-      "tag": "RESEARCH"
+      "title": "Create new worlds in Project Genie with these 4 tips",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-03T17:00:00Z",
+      "short_summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe la...",
+      "tag": "NEWS"
     },
     {
-      "title": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
-      "url": "https://arxiv.org/abs/2603.00376",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00376v1 Announce Type: new \nAbstract: \\textit{NeuroHex} is a hexagonal coordinate system designed to support highly efficient world models and reference frames for on...",
-      "tag": "RESEARCH"
+      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-03T16:50:49Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Confusion-Aware Rubric Optimization for LLM-based Automated Grading",
-      "url": "https://arxiv.org/abs/2603.00451",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00451v1 Announce Type: new \nAbstract: Accurate and unambiguous guidelines are critical for large language model (LLM) based graders, yet manually crafting these promp...",
-      "tag": "RESEARCH"
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-03T16:34:00Z",
+      "short_summary": "Gemini 3.1 Flash Lite logo",
+      "tag": "NEWS"
     },
     {
-      "title": "MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval",
-      "url": "https://arxiv.org/abs/2603.00460",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00460v1 Announce Type: new \nAbstract: Clinical decision-making requires synthesizing heterogeneous evidence, including patient histories, clinical guidelines, and tra...",
-      "tag": "RESEARCH"
+      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+      "source": "Google AI Blog",
+      "published_at": "2026-02-26T18:55:00Z",
+      "short_summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+      "tag": "NEWS"
     },
     {
-      "title": "Optimizing In-Context Demonstrations for LLM-based Automated Grading",
-      "url": "https://arxiv.org/abs/2603.00465",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00465v1 Announce Type: new \nAbstract: Automated assessment of open-ended student responses is a critical capability for scaling personalized feedback in education. Wh...",
-      "tag": "RESEARCH"
+      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+      "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+      "source": "Google AI Blog",
+      "published_at": "2026-02-26T18:00:00Z",
+      "short_summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+      "tag": "NEWS"
     },
     {
-      "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
-      "url": "https://arxiv.org/abs/2603.00469",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-03T05:00:00Z",
-      "short_summary": "arXiv:2603.00469v1 Announce Type: new \nAbstract: Operators of Earth observation satellites need justifications for scheduling decisions: why a request was selected, rejected, or...",
-      "tag": "RESEARCH"
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "source": "Google AI Blog",
+      "published_at": "2026-02-26T16:00:00Z",
+      "short_summary": "Nano Banana 2 text with AI generated images around it",
+      "tag": "NEWS"
     }
   ]
 };
