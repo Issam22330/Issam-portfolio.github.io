@@ -35,4 +35,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/ai-news.js
           git commit -m "chore(data): auto-update AI news feed" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
