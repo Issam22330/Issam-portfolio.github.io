@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-08T21:51:47.215660Z",
+  "last_updated": "2026-03-09T02:30:48.326787Z",
   "items": [
     {
       "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
