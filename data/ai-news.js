@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-09T13:11:24.961733Z",
+  "last_updated": "2026-03-10T02:22:52.561532Z",
   "items": [
+    {
+      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-09T18:36:33Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
       "url": "https://arxiv.org/abs/2603.05522",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-09T04:00:00Z",
       "short_summary": "arXiv:2603.06217v1 Announce Type: new \nAbstract: Residential demand response depends on sustained prosumer participation, yet existing coordination is either fully automated, or...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Artificial Intelligence for Climate Adaptation: Reinforcement Learning for Climate Change-Resilient Transport",
-      "url": "https://arxiv.org/abs/2603.06278",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-09T04:00:00Z",
-      "short_summary": "arXiv:2603.06278v1 Announce Type: new \nAbstract: Climate change is expected to intensify rainfall and, consequently, pluvial flooding, leading to increased disruptions in urban ...",
       "tag": "RESEARCH"
     }
   ]
