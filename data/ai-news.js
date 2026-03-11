@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-10T13:08:54.398648Z",
+  "last_updated": "2026-03-11T02:22:27.740979Z",
   "items": [
+    {
+      "title": "How NVIDIA Builds Open Data for AI",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-ai",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-10T19:49:28Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-10T04:00:00Z",
       "short_summary": "arXiv:2603.06874v1 Announce Type: new \nAbstract: Large Language Models (LLMs) exhibit impressive general-purpose capabilities but also introduce serious safety risks, particular...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection",
-      "url": "https://arxiv.org/abs/2603.06878",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-10T04:00:00Z",
-      "short_summary": "arXiv:2603.06878v1 Announce Type: new \nAbstract: Large language models (LLMs) have become common decision-support tools across educational and professional contexts, raising que...",
       "tag": "RESEARCH"
     }
   ]
