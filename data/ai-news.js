@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-11T13:08:23.549220Z",
+  "last_updated": "2026-03-12T02:28:12.282097Z",
   "items": [
+    {
+      "title": "How AI is helping improve heart health in rural Australia",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-12T15:00:00Z",
+      "short_summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
+      "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-11T15:50:15Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
       "url": "https://arxiv.org/abs/2603.08835",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-11T04:00:00Z",
       "short_summary": "arXiv:2603.09043v1 Announce Type: new \nAbstract: Machine consciousness evaluations mostly see behavior. For language model agents that behavior is language and tool use. That le...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "EPOCH: An Agentic Protocol for Multi-Round System Optimization",
-      "url": "https://arxiv.org/abs/2603.09049",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.09049v1 Announce Type: new \nAbstract: Autonomous agents are increasingly used to improve prompts, code, and machine learning systems through iterative execution and f...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "From Days to Minutes: An Autonomous AI Agent Achieves Reliable Clinical Triage in Remote Patient Monitoring",
-      "url": "https://arxiv.org/abs/2603.09052",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.09052v1 Announce Type: new \nAbstract: Background: Remote patient monitoring (RPM) generates vast data, yet landmark trials (Tele-HF, BEAT-HF) failed because data volu...",
       "tag": "RESEARCH"
     }
   ]
