@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-12T02:28:12.282097Z",
+  "last_updated": "2026-03-12T13:08:03.631690Z",
   "items": [
     {
       "title": "How AI is helping improve heart health in rural Australia",
@@ -10,91 +10,91 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds",
-      "url": "https://huggingface.co/blog/nvidia/synthetic-code-concepts",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-11T15:50:15Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
-      "url": "https://arxiv.org/abs/2603.08835",
+      "title": "Agentic Control Center for Data Product Optimization",
+      "url": "https://arxiv.org/abs/2603.10133",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08835v1 Announce Type: new \nAbstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAM...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10133v1 Announce Type: new \nAbstract: Data products enable end users to gain greater insights about their data by providing supporting assets, such as example questio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
-      "url": "https://arxiv.org/abs/2603.08852",
+      "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
+      "url": "https://arxiv.org/abs/2603.10291",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08852v1 Announce Type: new \nAbstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10291v1 Announce Type: new \nAbstract: The remarkable progress of vision-language models (VLMs) has enabled GUI agents to interact with computers in a human-like manne...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
-      "url": "https://arxiv.org/abs/2603.08877",
+      "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
+      "url": "https://arxiv.org/abs/2603.10359",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08877v1 Announce Type: new \nAbstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but dep...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10359v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from Large Reasoning Models (LRMs) into smaller models is typically constrained by the limitat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
-      "url": "https://arxiv.org/abs/2603.08933",
+      "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
+      "url": "https://arxiv.org/abs/2603.10384",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08933v1 Announce Type: new \nAbstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies ofte...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10384v1 Announce Type: new \nAbstract: Evaluating LLM reliability via scalar probabilities often fails to capture the structural dynamics of reasoning. We introduce TR...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem",
-      "url": "https://arxiv.org/abs/2603.08938",
+      "title": "Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities",
+      "url": "https://arxiv.org/abs/2603.10396",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08938v1 Announce Type: new \nAbstract: The rapid emergence of open-source, locally hosted intelligent agents marks a critical inflection point in human-computer intera...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10396v1 Announce Type: new \nAbstract: Despite the growing demand for eliciting uncertainty from large language models (LLMs), empirical evidence suggests that LLM beh...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Consensus-Driven Multi-LLM Pipeline for Missing-Person Investigations",
-      "url": "https://arxiv.org/abs/2603.08954",
+      "title": "Resource-constrained Amazons chess decision framework integrating large language models and graph attention",
+      "url": "https://arxiv.org/abs/2603.10512",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08954v1 Announce Type: new \nAbstract: The first 72 hours of a missing-person investigation are critical for successful recovery. Guardian is an end-to-end system desi...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10512v1 Announce Type: new \nAbstract: Artificial intelligence has advanced significantly through the development of intelligent game-playing systems, providing rigoro...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The FABRIC Strategy for Verifying Neural Feedback Systems",
-      "url": "https://arxiv.org/abs/2603.08964",
+      "title": "IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs",
+      "url": "https://arxiv.org/abs/2603.10521",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.08964v1 Announce Type: new \nAbstract: Forward reachability analysis is a dominant approach for verifying reach-avoid specifications in neural feedback systems, i.e., ...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10521v1 Announce Type: new \nAbstract: Instruction hierarchy (IH) defines how LLMs prioritize system, developer, user, and tool instructions under conflict, providing ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Meissa: Multi-modal Medical Agentic Intelligence",
-      "url": "https://arxiv.org/abs/2603.09018",
+      "title": "Adaptive RAN Slicing Control via Reward-Free Self-Finetuning Agents",
+      "url": "https://arxiv.org/abs/2603.10564",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.09018v1 Announce Type: new \nAbstract: Multi-modal large language models (MM-LLMs) have shown strong performance in medical image understanding and clinical reasoning....",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10564v1 Announce Type: new \nAbstract: The integration of Generative AI models into AI-native network systems offers a transformative path toward achieving autonomous ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games",
-      "url": "https://arxiv.org/abs/2603.09022",
+      "title": "CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2603.10577",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.09022v1 Announce Type: new \nAbstract: Multi-turn, multi-agent LLM game evaluations often exhibit substantial run-to-run variance. In long-horizon interactions, small ...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10577v1 Announce Type: new \nAbstract: Computer-Use Agents (CUAs) are emerging as a new paradigm in human-computer interaction, enabling autonomous execution of tasks ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Time, Identity and Consciousness in Language Model Agents",
-      "url": "https://arxiv.org/abs/2603.09043",
+      "title": "Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning",
+      "url": "https://arxiv.org/abs/2603.10588",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-11T04:00:00Z",
-      "short_summary": "arXiv:2603.09043v1 Announce Type: new \nAbstract: Machine consciousness evaluations mostly see behavior. For language model agents that behavior is language and tool use. That le...",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10588v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) has achieved remarkable success in logical reasoning tasks, yet whether la...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Trajectory-Informed Memory Generation for Self-Improving Agent Systems",
+      "url": "https://arxiv.org/abs/2603.10600",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-12T04:00:00Z",
+      "short_summary": "arXiv:2603.10600v1 Announce Type: new \nAbstract: LLM-powered agents face a persistent challenge: learning from their execution experiences to improve future performance. While a...",
       "tag": "RESEARCH"
     }
   ]
