@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-12T13:08:03.631690Z",
+  "last_updated": "2026-03-13T02:26:11.361083Z",
   "items": [
+    {
+      "title": "Build an Agent That Thinks Like a Data Scientist: How We Hit #1 on DABStep with Reusable Tool Generation",
+      "url": "https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-13T01:02:47Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "How AI is helping improve heart health in rural Australia",
       "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-12T04:00:00Z",
       "short_summary": "arXiv:2603.10588v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) has achieved remarkable success in logical reasoning tasks, yet whether la...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Trajectory-Informed Memory Generation for Self-Improving Agent Systems",
-      "url": "https://arxiv.org/abs/2603.10600",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-12T04:00:00Z",
-      "short_summary": "arXiv:2603.10600v1 Announce Type: new \nAbstract: LLM-powered agents face a persistent challenge: learning from their execution experiences to improve future performance. While a...",
       "tag": "RESEARCH"
     }
   ]
