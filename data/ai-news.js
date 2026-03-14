@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-13T13:06:33.851705Z",
+  "last_updated": "2026-03-14T02:24:07.928635Z",
   "items": [
+    {
+      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-13T20:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
       "url": "https://arxiv.org/abs/2603.11076",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-13T04:00:00Z",
       "short_summary": "arXiv:2603.11333v1 Announce Type: new \nAbstract: Short-video platforms are closed-loop, human-in-the-loop ecosystems where platform policy, creator incentives, and user behavior...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "RewardHackingAgents: Benchmarking Evaluation Integrity for LLM ML-Engineering Agents",
-      "url": "https://arxiv.org/abs/2603.11337",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-13T04:00:00Z",
-      "short_summary": "arXiv:2603.11337v1 Announce Type: new \nAbstract: LLM agents increasingly perform end-to-end ML engineering tasks where success is judged by a single scalar test metric. This cre...",
       "tag": "RESEARCH"
     }
   ]
