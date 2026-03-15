@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-14T12:59:25.220026Z",
+  "last_updated": "2026-03-15T02:43:23.779221Z",
   "items": [
     {
       "title": "Comparison of Outlier Detection Algorithms on String Data",
