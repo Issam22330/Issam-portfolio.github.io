@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-16T02:43:58.112397Z",
+  "last_updated": "2026-03-16T13:20:40.489388Z",
   "items": [
     {
-      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-13T20:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
+      "url": "https://arxiv.org/abs/2603.12287",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12287v1 Announce Type: new \nAbstract: We address the problem of transforming raw vessel trajectory data collected from AIS into structured and semantically enriched r...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How AI is helping improve heart health in rural Australia",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-12T15:00:00Z",
-      "short_summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
-      "tag": "NEWS"
+      "title": "Efficient Reasoning with Balanced Thinking",
+      "url": "https://arxiv.org/abs/2603.12372",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12372v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending r...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-10T13:00:00Z",
-      "short_summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
-      "tag": "NEWS"
+      "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
+      "url": "https://arxiv.org/abs/2603.12483",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12483v1 Announce Type: new \nAbstract: Across many domains (e.g., IoT, observability, telecommunications, cybersecurity), there is an emerging adoption of conversation...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing Storage Buckets on the Hugging Face Hub",
-      "url": "https://huggingface.co/blog/storage-buckets",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "AI Planning Framework for LLM-Based Web Agents",
+      "url": "https://arxiv.org/abs/2603.12710",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12710v1 Announce Type: new \nAbstract: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpre...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-      "url": "https://huggingface.co/blog/async-rl-training-landscape",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+      "url": "https://arxiv.org/abs/2603.12733",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12733v1 Announce Type: new \nAbstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-speech",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-09T18:36:33Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+      "url": "https://arxiv.org/abs/2603.12740",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12740v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly applied to complex, multi-step tasks that require interaction with diverse ex...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
-      "url": "https://huggingface.co/blog/ulysses-sp",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-09T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "AI Model Modulation with Logits Redistribution",
+      "url": "https://arxiv.org/abs/2603.12755",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12755v1 Announce Type: new \nAbstract: Large-scale models are typically adapted to meet the diverse requirements of model owners and users. However, maintaining multip...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "LeRobot v0.5.0: Scaling Every Dimension",
-      "url": "https://huggingface.co/blog/lerobot-release-v050",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-09T00:00:00Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
+      "url": "https://arxiv.org/abs/2603.12813",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12813v1 Announce Type: new \nAbstract: Agentic AI systems integrating large language models (LLMs) with reasoning and tooluse capabilities are transforming various dom...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-06T18:00:00Z",
-      "short_summary": "Photos of animals being identified by the SpeciesNet AI model",
-      "tag": "MODEL"
+      "title": "ODRL Policy Comparison Through Normalisation",
+      "url": "https://arxiv.org/abs/2603.12926",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12926v1 Announce Type: new \nAbstract: The ODRL language has become the standard for representing policies and regulations for digital rights. However its complexity i...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Ask a Techspert: How does AI understand my visual searches?",
-      "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-05T18:00:00Z",
-      "short_summary": "Mobile phone with a search bar that says \"Ask anything\"",
-      "tag": "NEWS"
+      "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+      "url": "https://arxiv.org/abs/2603.12933",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.12933v1 Announce Type: new \nAbstract: Large Language Model (LLM)-driven Multi-Agent Systems (MAS) have demonstrated strong capability in complex reasoning and tool us...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in February",
-      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-05T16:30:00Z",
-      "short_summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
-      "tag": "BREAKING"
+      "title": "Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation",
+      "url": "https://arxiv.org/abs/2603.13017",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.13017v1 Announce Type: new \nAbstract: Long conversations with an AI agent create a simple problem for one user: the history is useful, but carrying it verbatim is exp...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-      "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-05T14:16:49Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation",
+      "url": "https://arxiv.org/abs/2603.13099",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-16T04:00:00Z",
+      "short_summary": "arXiv:2603.13099v1 Announce Type: new \nAbstract: We introduce **CRYSTAL** (*__C__lear __R__easoning via __Y__ielded __S__teps, __T__raceability and __L__ogic*), a diagnostic ben...",
+      "tag": "RESEARCH"
     }
   ]
 };
