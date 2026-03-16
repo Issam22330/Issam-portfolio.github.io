@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-15T13:00:37.431910Z",
+  "last_updated": "2026-03-16T02:43:58.112397Z",
   "items": [
     {
       "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline",
