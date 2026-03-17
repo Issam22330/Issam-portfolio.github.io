@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-16T13:20:40.489388Z",
+  "last_updated": "2026-03-17T02:28:08.052301Z",
   "items": [
+    {
+      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-16T21:58:40Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
     {
       "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
       "url": "https://arxiv.org/abs/2603.12287",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-16T04:00:00Z",
       "short_summary": "arXiv:2603.13017v1 Announce Type: new \nAbstract: Long conversations with an AI agent create a simple problem for one user: the history is useful, but carrying it verbatim is exp...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation",
-      "url": "https://arxiv.org/abs/2603.13099",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.13099v1 Announce Type: new \nAbstract: We introduce **CRYSTAL** (*__C__lear __R__easoning via __Y__ielded __S__teps, __T__raceability and __L__ogic*), a diagnostic ben...",
       "tag": "RESEARCH"
     }
   ]
