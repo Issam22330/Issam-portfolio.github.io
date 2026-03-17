@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-17T02:28:08.052301Z",
+  "last_updated": "2026-03-17T13:20:08.302735Z",
   "items": [
     {
-      "title": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
-      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
       "source": "Hugging Face Blog",
-      "published_at": "2026-03-16T21:58:40Z",
+      "published_at": "2026-03-17T12:33:39Z",
       "short_summary": "",
-      "tag": "ROBOTICS"
+      "tag": "NEWS"
     },
     {
-      "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
-      "url": "https://arxiv.org/abs/2603.12287",
+      "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
+      "url": "https://arxiv.org/abs/2603.13236",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12287v1 Announce Type: new \nAbstract: We address the problem of transforming raw vessel trajectory data collected from AIS into structured and semantically enriched r...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13236v1 Announce Type: new \nAbstract: AI-related incidents are becoming increasingly frequent and severe, ranging from safety failures to misuse by malicious actors. ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Efficient Reasoning with Balanced Thinking",
-      "url": "https://arxiv.org/abs/2603.12372",
+      "title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
+      "url": "https://arxiv.org/abs/2603.13237",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12372v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have shown remarkable reasoning capabilities, yet they often suffer from overthinking, expending r...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13237v1 Announce Type: new \nAbstract: High-frequency banking environments face a critical trade-off between low-latency fraud detection and the regulatory explainabil...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel",
-      "url": "https://arxiv.org/abs/2603.12483",
+      "title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
+      "url": "https://arxiv.org/abs/2603.13239",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12483v1 Announce Type: new \nAbstract: Across many domains (e.g., IoT, observability, telecommunications, cybersecurity), there is an emerging adoption of conversation...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13239v1 Announce Type: new \nAbstract: Smart contracts play a central role in blockchain systems by encoding financial and operational logic. Still, their susceptibili...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Planning Framework for LLM-Based Web Agents",
-      "url": "https://arxiv.org/abs/2603.12710",
+      "title": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
+      "url": "https://arxiv.org/abs/2603.13243",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12710v1 Announce Type: new \nAbstract: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpre...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13243v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) generate text via iterative denoising but consistently underperform on multi-step reason...",
       "tag": "RESEARCH"
     },
     {
-      "title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
-      "url": "https://arxiv.org/abs/2603.12733",
+      "title": "Automating Document Intelligence in Statutory City Planning",
+      "url": "https://arxiv.org/abs/2603.13245",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12733v1 Announce Type: new \nAbstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13245v1 Announce Type: new \nAbstract: UK planning authorities face a legislative conflict between the Planning Act, which mandates public access to application docume...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
-      "url": "https://arxiv.org/abs/2603.12740",
+      "title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
+      "url": "https://arxiv.org/abs/2603.13246",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12740v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly applied to complex, multi-step tasks that require interaction with diverse ex...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13246v1 Announce Type: new \nAbstract: This paper proposes a Hadith-inspired multi-axis trust modeling framework, motivated by a structurally analogous problem in clas...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Model Modulation with Logits Redistribution",
-      "url": "https://arxiv.org/abs/2603.12755",
+      "title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2603.13247",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12755v1 Announce Type: new \nAbstract: Large-scale models are typically adapted to meet the diverse requirements of model owners and users. However, maintaining multip...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13247v1 Announce Type: new \nAbstract: The proliferation of autonomous AI agents capable of executing real-world actions - filesystem operations, API calls, database m...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
-      "url": "https://arxiv.org/abs/2603.12813",
+      "title": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
+      "url": "https://arxiv.org/abs/2603.13251",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12813v1 Announce Type: new \nAbstract: Agentic AI systems integrating large language models (LLMs) with reasoning and tooluse capabilities are transforming various dom...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13251v1 Announce Type: new \nAbstract: Traditional benchmarks like HumanEval and MBPP test logic and syntax effectively, but fail when code must produce dynamic, pedag...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ODRL Policy Comparison Through Normalisation",
-      "url": "https://arxiv.org/abs/2603.12926",
+      "title": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
+      "url": "https://arxiv.org/abs/2603.13252",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12926v1 Announce Type: new \nAbstract: The ODRL language has become the standard for representing policies and regulations for digital rights. However its complexity i...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13252v1 Announce Type: new \nAbstract: Cross-sectional ranking models are often deployed as if point predictions were sufficient: the model outputs scores and the port...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
-      "url": "https://arxiv.org/abs/2603.12933",
+      "title": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
+      "url": "https://arxiv.org/abs/2603.13257",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.12933v1 Announce Type: new \nAbstract: Large Language Model (LLM)-driven Multi-Agent Systems (MAS) have demonstrated strong capability in complex reasoning and tool us...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13257v1 Announce Type: new \nAbstract: Deep Reinforcement Learning (DRL) agents achieve remarkable performance in continuous control but remain opaque, hindering deplo...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation",
-      "url": "https://arxiv.org/abs/2603.13017",
+      "title": "Deep Convolutional Architectures for EEG Classification: A Comparative Study with Temporal Augmentation and Confidence-Based Voting",
+      "url": "https://arxiv.org/abs/2603.13261",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-16T04:00:00Z",
-      "short_summary": "arXiv:2603.13017v1 Announce Type: new \nAbstract: Long conversations with an AI agent create a simple problem for one user: the history is useful, but carrying it verbatim is exp...",
+      "published_at": "2026-03-17T04:00:00Z",
+      "short_summary": "arXiv:2603.13261v1 Announce Type: new \nAbstract: Electroencephalography (EEG) classification plays a key role in brain-computer interface (BCI) systems, yet it remains challengi...",
       "tag": "RESEARCH"
     }
   ]
