@@ -1,6 +1,38 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-17T13:20:08.302735Z",
+  "last_updated": "2026-03-18T02:33:40.323944Z",
   "items": [
+    {
+      "title": "Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-4b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-17T23:17:07Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-17T16:37:55Z",
+      "short_summary": "",
+      "tag": "BREAKING"
+    },
+    {
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-17T16:00:00Z",
+      "short_summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Our latest investment in open source security for the AI era",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-17T16:00:00Z",
+      "short_summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+      "tag": "BREAKING"
+    },
     {
       "title": "Holotron-12B - High Throughput Computer Use Agent",
       "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
@@ -63,38 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-17T04:00:00Z",
       "short_summary": "arXiv:2603.13247v1 Announce Type: new \nAbstract: The proliferation of autonomous AI agents capable of executing real-world actions - filesystem operations, API calls, database m...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
-      "url": "https://arxiv.org/abs/2603.13251",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-17T04:00:00Z",
-      "short_summary": "arXiv:2603.13251v1 Announce Type: new \nAbstract: Traditional benchmarks like HumanEval and MBPP test logic and syntax effectively, but fail when code must produce dynamic, pedag...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
-      "url": "https://arxiv.org/abs/2603.13252",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-17T04:00:00Z",
-      "short_summary": "arXiv:2603.13252v1 Announce Type: new \nAbstract: Cross-sectional ranking models are often deployed as if point predictions were sufficient: the model outputs scores and the port...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
-      "url": "https://arxiv.org/abs/2603.13257",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-17T04:00:00Z",
-      "short_summary": "arXiv:2603.13257v1 Announce Type: new \nAbstract: Deep Reinforcement Learning (DRL) agents achieve remarkable performance in continuous control but remain opaque, hindering deplo...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Deep Convolutional Architectures for EEG Classification: A Comparative Study with Temporal Augmentation and Confidence-Based Voting",
-      "url": "https://arxiv.org/abs/2603.13261",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-17T04:00:00Z",
-      "short_summary": "arXiv:2603.13261v1 Announce Type: new \nAbstract: Electroencephalography (EEG) classification plays a key role in brain-computer interface (BCI) systems, yet it remains challengi...",
       "tag": "RESEARCH"
     }
   ]
