@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-18T13:20:53.602548Z",
+  "last_updated": "2026-03-19T02:34:25.173442Z",
   "items": [
     {
       "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
