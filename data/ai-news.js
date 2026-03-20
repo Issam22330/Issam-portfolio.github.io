@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-19T13:12:48.698766Z",
+  "last_updated": "2026-03-20T02:26:47.795010Z",
   "items": [
+    {
+      "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
+      "url": "https://huggingface.co/blog/nvidia/speed-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-19T14:04:54Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
       "url": "https://arxiv.org/abs/2603.17021",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-19T04:00:00Z",
       "short_summary": "arXiv:2603.17324v1 Announce Type: new \nAbstract: We present ShuttleEnv, an interactive and data-driven simulation environment for badminton, designed to support reinforcement le...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication",
-      "url": "https://arxiv.org/abs/2603.17328",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17328v1 Announce Type: new \nAbstract: The efficient adjudication of responsibility disputes is pivotal for maintaining marketplace fairness. However, the exponential ...",
       "tag": "RESEARCH"
     }
   ]
