@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-20T02:26:47.795010Z",
+  "last_updated": "2026-03-20T13:07:02.568049Z",
   "items": [
     {
-      "title": "**Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding**",
-      "url": "https://huggingface.co/blog/nvidia/speed-bench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-19T14:04:54Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty",
-      "url": "https://arxiv.org/abs/2603.17021",
+      "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
+      "url": "https://arxiv.org/abs/2603.18048",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17021v1 Announce Type: new \nAbstract: Socio-environmental planning under deep uncertainty requires researchers to identify and conceptualize problems before exploring...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it rema...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Transformers are Bayesian Networks",
-      "url": "https://arxiv.org/abs/2603.17063",
+      "title": "Continually self-improving AI",
+      "url": "https://arxiv.org/abs/2603.18073",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17063v1 Announce Type: new \nAbstract: Transformers are the dominant architecture in AI, yet why they work remains poorly understood. This paper offers a precise answe...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their huma...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching",
-      "url": "https://arxiv.org/abs/2603.17112",
+      "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+      "url": "https://arxiv.org/abs/2603.18085",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17112v1 Announce Type: new \nAbstract: A common architectural pattern in advanced AI reasoning systems is the symbolic graph network: specialized agents or modules con...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including m...",
       "tag": "RESEARCH"
     },
     {
-      "title": "How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment",
-      "url": "https://arxiv.org/abs/2603.17169",
+      "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
+      "url": "https://arxiv.org/abs/2603.18104",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17169v1 Announce Type: new \nAbstract: Deducing whodunit proves challenging for LLM agents. In this paper, we implement a text-based multi-agent version of the classic...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Scientist via Synthetic Task Scaling",
-      "url": "https://arxiv.org/abs/2603.17216",
+      "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
+      "url": "https://arxiv.org/abs/2603.18122",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17216v1 Announce Type: new \nAbstract: With the advent of AI agents, automatic scientific discovery has become a tenable goal. Many recent works scaffold agentic syste...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Draft-and-Prune: Improving the Reliability of Auto-formalization for Logical Reasoning",
-      "url": "https://arxiv.org/abs/2603.17233",
+      "title": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
+      "url": "https://arxiv.org/abs/2603.18166",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17233v1 Announce Type: new \nAbstract: Auto-formalization (AF) translates natural-language reasoning problems into solver-executable programs, enabling symbolic solver...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18166v1 Announce Type: new \nAbstract: Crowd trajectory prediction plays a crucial role in public safety and management, where it can help prevent disasters such as st...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures",
-      "url": "https://arxiv.org/abs/2603.17244",
+      "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
+      "url": "https://arxiv.org/abs/2603.18189",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17244v1 Announce Type: new \nAbstract: While individual components for AI agent memory exist in prior systems, their architectural synthesis and formal grounding remai...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18189v1 Announce Type: new \nAbstract: Higher education instructors often lack timely and pedagogically grounded support, as scalable instructional guidance remains li...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Contrastive Reasoning Alignment: Reinforcement Learning from Hidden Representations",
-      "url": "https://arxiv.org/abs/2603.17305",
+      "title": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks",
+      "url": "https://arxiv.org/abs/2603.18197",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17305v1 Announce Type: new \nAbstract: We propose CRAFT, a red-teaming alignment framework that leverages model reasoning capabilities and hidden representations to im...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18197v1 Announce Type: new \nAbstract: Recent studies reveal gaps in delegating critical tasks to agentic AI that accesses websites on the user's behalf, primarily due...",
       "tag": "RESEARCH"
     },
     {
-      "title": "InfoDensity: Rewarding Information-Dense Traces for Efficient Reasoning",
-      "url": "https://arxiv.org/abs/2603.17310",
+      "title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
+      "url": "https://arxiv.org/abs/2603.18201",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17310v1 Announce Type: new \nAbstract: Large Language Models (LLMs) with extended reasoning capabilities often generate verbose and redundant reasoning traces, incurri...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18201v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) systems are increasingly prominent in emerging smart cities, yet their reliability remains a critic...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Physics-informed offline reinforcement learning eliminates catastrophic fuel waste in maritime routing",
-      "url": "https://arxiv.org/abs/2603.17319",
+      "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
+      "url": "https://arxiv.org/abs/2603.18272",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17319v1 Announce Type: new \nAbstract: International shipping produces approximately 3% of global greenhouse gas emissions, yet voyage routing remains dominated by heu...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18272v1 Announce Type: new \nAbstract: While large language models (LLMs) have advanced the development of general-purpose agents, achieving robust generalization to u...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ShuttleEnv: An Interactive Data-Driven RL Environment for Badminton Strategy Modeling",
-      "url": "https://arxiv.org/abs/2603.17324",
+      "title": "EDM-ARS: A Domain-Specific Multi-Agent System for Automated Educational Data Mining Research",
+      "url": "https://arxiv.org/abs/2603.18273",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-19T04:00:00Z",
-      "short_summary": "arXiv:2603.17324v1 Announce Type: new \nAbstract: We present ShuttleEnv, an interactive and data-driven simulation environment for badminton, designed to support reinforcement le...",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18273v1 Announce Type: new \nAbstract: In this technical report, we present the Educational Data Mining Automated Research System (EDM-ARS), a domain-specific multi-ag...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "CORE: Robust Out-of-Distribution Detection via Confidence and Orthogonal Residual Scoring",
+      "url": "https://arxiv.org/abs/2603.18290",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-20T04:00:00Z",
+      "short_summary": "arXiv:2603.18290v1 Announce Type: new \nAbstract: Out-of-distribution (OOD) detection is essential for deploying deep learning models reliably, yet no single method performs cons...",
       "tag": "RESEARCH"
     }
   ]
