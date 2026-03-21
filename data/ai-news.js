@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-20T13:07:02.568049Z",
+  "last_updated": "2026-03-21T02:21:28.618244Z",
   "items": [
+    {
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-20T19:38:16Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-20T14:14:46Z",
+      "short_summary": "",
+      "tag": "BREAKING"
+    },
     {
       "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
       "url": "https://arxiv.org/abs/2603.18048",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-20T04:00:00Z",
       "short_summary": "arXiv:2603.18272v1 Announce Type: new \nAbstract: While large language models (LLMs) have advanced the development of general-purpose agents, achieving robust generalization to u...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "EDM-ARS: A Domain-Specific Multi-Agent System for Automated Educational Data Mining Research",
-      "url": "https://arxiv.org/abs/2603.18273",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-20T04:00:00Z",
-      "short_summary": "arXiv:2603.18273v1 Announce Type: new \nAbstract: In this technical report, we present the Educational Data Mining Automated Research System (EDM-ARS), a domain-specific multi-ag...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "CORE: Robust Out-of-Distribution Detection via Confidence and Orthogonal Residual Scoring",
-      "url": "https://arxiv.org/abs/2603.18290",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-20T04:00:00Z",
-      "short_summary": "arXiv:2603.18290v1 Announce Type: new \nAbstract: Out-of-distribution (OOD) detection is essential for deploying deep learning models reliably, yet no single method performs cons...",
       "tag": "RESEARCH"
     }
   ]
