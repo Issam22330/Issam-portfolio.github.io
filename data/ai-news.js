@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-21T12:56:46.814600Z",
+  "last_updated": "2026-03-22T02:35:10.924295Z",
   "items": [
     {
       "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
