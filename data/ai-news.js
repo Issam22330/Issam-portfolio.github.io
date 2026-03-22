@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-22T02:35:10.924295Z",
+  "last_updated": "2026-03-22T12:59:04.914748Z",
   "items": [
     {
-      "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
-      "url": "https://arxiv.org/abs/2603.18048",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it rema...",
-      "tag": "RESEARCH"
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-20T19:38:16Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Continually self-improving AI",
-      "url": "https://arxiv.org/abs/2603.18073",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their huma...",
-      "tag": "RESEARCH"
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-20T14:14:46Z",
+      "short_summary": "",
+      "tag": "BREAKING"
     },
     {
-      "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
-      "url": "https://arxiv.org/abs/2603.18085",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including m...",
-      "tag": "RESEARCH"
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-17T16:37:55Z",
+      "short_summary": "",
+      "tag": "BREAKING"
     },
     {
-      "title": "Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI",
-      "url": "https://arxiv.org/abs/2603.18104",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18104v1 Announce Type: new \nAbstract: Prevailing AI training infrastructure assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhe...",
-      "tag": "RESEARCH"
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-17T16:00:00Z",
+      "short_summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+      "tag": "NEWS"
     },
     {
-      "title": "Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows",
-      "url": "https://arxiv.org/abs/2603.18122",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18122v1 Announce Type: new \nAbstract: Skele-Code is a natural-language and graph-based interface for building workflows with AI agents, designed especially for less o...",
-      "tag": "RESEARCH"
+      "title": "Our latest investment in open source security for the AI era",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-17T16:00:00Z",
+      "short_summary": "A collage including security icons and photos of hands clasped, a man looking at a computer, and two people pointing at something off camera",
+      "tag": "BREAKING"
     },
     {
-      "title": "Efficient Dense Crowd Trajectory Prediction Via Dynamic Clustering",
-      "url": "https://arxiv.org/abs/2603.18166",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18166v1 Announce Type: new \nAbstract: Crowd trajectory prediction plays a crucial role in public safety and management, where it can help prevent disasters such as st...",
-      "tag": "RESEARCH"
+      "title": "Holotron-12B - High Throughput Computer Use Agent",
+      "url": "https://huggingface.co/blog/Hcompany/holotron-12b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-17T12:33:39Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
-      "url": "https://arxiv.org/abs/2603.18189",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18189v1 Announce Type: new \nAbstract: Higher education instructors often lack timely and pedagogically grounded support, as scalable instructional guidance remains li...",
-      "tag": "RESEARCH"
+      "title": "How AI is helping improve heart health in rural Australia",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-12T15:00:00Z",
+      "short_summary": "A doctor is sitting across a desk from a patient. The doctor is holding a tablet and a pen. Medical charts renderings are in the background.",
+      "tag": "NEWS"
     },
     {
-      "title": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks",
-      "url": "https://arxiv.org/abs/2603.18197",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18197v1 Announce Type: new \nAbstract: Recent studies reveal gaps in delegating critical tasks to agentic AI that accesses websites on the user's behalf, primarily due...",
-      "tag": "RESEARCH"
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-10T13:00:00Z",
+      "short_summary": "Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "tag": "NEWS"
     },
     {
-      "title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
-      "url": "https://arxiv.org/abs/2603.18201",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18201v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) systems are increasingly prominent in emerging smart cities, yet their reliability remains a critic...",
-      "tag": "RESEARCH"
+      "title": "Introducing Storage Buckets on the Hugging Face Hub",
+      "url": "https://huggingface.co/blog/storage-buckets",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Retrieval-Augmented LLM Agents: Learning to Learn from Experience",
-      "url": "https://arxiv.org/abs/2603.18272",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18272v1 Announce Type: new \nAbstract: While large language models (LLMs) have advanced the development of general-purpose agents, achieving robust generalization to u...",
-      "tag": "RESEARCH"
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "url": "https://huggingface.co/blog/async-rl-training-landscape",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "EDM-ARS: A Domain-Specific Multi-Agent System for Automated Educational Data Mining Research",
-      "url": "https://arxiv.org/abs/2603.18273",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18273v1 Announce Type: new \nAbstract: In this technical report, we present the Educational Data Mining Automated Research System (EDM-ARS), a domain-specific multi-ag...",
-      "tag": "RESEARCH"
+      "title": "Ulysses Sequence Parallelism: Training with Million-Token Contexts",
+      "url": "https://huggingface.co/blog/ulysses-sp",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-09T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "CORE: Robust Out-of-Distribution Detection via Confidence and Orthogonal Residual Scoring",
-      "url": "https://arxiv.org/abs/2603.18290",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-21T04:00:00Z",
-      "short_summary": "arXiv:2603.18290v1 Announce Type: new \nAbstract: Out-of-distribution (OOD) detection is essential for deploying deep learning models reliably, yet no single method performs cons...",
-      "tag": "RESEARCH"
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "url": "https://huggingface.co/blog/lerobot-release-v050",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-09T00:00:00Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
     }
   ]
 };
