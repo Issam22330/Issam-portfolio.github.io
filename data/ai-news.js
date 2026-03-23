@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-22T12:59:04.914748Z",
+  "last_updated": "2026-03-23T02:35:37.510065Z",
   "items": [
     {
       "title": "Build a Domain-Specific Embedding Model in Under a Day",
