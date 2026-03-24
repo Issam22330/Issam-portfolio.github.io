@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-23T13:15:38.988245Z",
+  "last_updated": "2026-03-24T02:27:42.794835Z",
   "items": [
+    {
+      "title": "A New Framework for Evaluation of Voice Agents (EVA)",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-24T02:01:52Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
       "url": "https://arxiv.org/abs/2603.19429",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-23T04:00:00Z",
       "short_summary": "arXiv:2603.19782v1 Announce Type: new \nAbstract: Artificial intelligence has demonstrated remarkable capability in predicting scientific properties, yet scientific discovery rem...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "FormalEvolve: Neuro-Symbolic Evolutionary Search for Diverse and Prover-Effective Autoformalization",
-      "url": "https://arxiv.org/abs/2603.19828",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-23T04:00:00Z",
-      "short_summary": "arXiv:2603.19828v1 Announce Type: new \nAbstract: Autoformalization aims to translate natural-language mathematics into compilable, machine-checkable statements. However, semanti...",
       "tag": "RESEARCH"
     }
   ]
