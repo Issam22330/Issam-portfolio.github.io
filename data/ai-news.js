@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-24T13:19:45.439802Z",
+  "last_updated": "2026-03-25T02:32:43.492327Z",
   "items": [
     {
       "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
