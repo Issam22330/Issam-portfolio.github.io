@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-25T13:18:51.177912Z",
+  "last_updated": "2026-03-26T02:39:36.743145Z",
   "items": [
+    {
+      "title": "Build with Lyria 3, our newest music generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-25T16:00:00Z",
+      "short_summary": "Google Lyria teaser",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-25T16:00:00Z",
+      "short_summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+      "tag": "NEWS"
+    },
     {
       "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
       "url": "https://arxiv.org/abs/2603.22306",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-25T04:00:00Z",
       "short_summary": "arXiv:2603.22561v1 Announce Type: new \nAbstract: This paper asks whether a bounded neural architecture can exhibit a meaningful division of labor between intuition and deliberat...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Understanding LLM Performance Degradation in Multi-Instance Processing: The Roles of Instance Count and Context Length",
-      "url": "https://arxiv.org/abs/2603.22608",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-25T04:00:00Z",
-      "short_summary": "arXiv:2603.22608v1 Announce Type: new \nAbstract: Users often rely on Large Language Models (LLMs) for processing multiple documents or performing analysis over a number of insta...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning",
-      "url": "https://arxiv.org/abs/2603.22619",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-25T04:00:00Z",
-      "short_summary": "arXiv:2603.22619v1 Announce Type: new \nAbstract: LLMs often generate seemingly valid answers to flawed or ill-posed inputs. This is not due to missing knowledge: under discrimin...",
       "tag": "RESEARCH"
     }
   ]
