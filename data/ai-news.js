@@ -1,6 +1,38 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-26T13:25:02.348786Z",
+  "last_updated": "2026-03-27T02:41:44.236127Z",
   "items": [
+    {
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T17:00:00Z",
+      "short_summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T16:00:00Z",
+      "short_summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T15:21:00Z",
+      "short_summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Search Live is expanding globally",
+      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T15:00:00Z",
+      "short_summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a for...",
+      "tag": "NEWS"
+    },
     {
       "title": "PLDR-LLMs Reason At Self-Organized Criticality",
       "url": "https://arxiv.org/abs/2603.23539",
@@ -63,38 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-26T04:00:00Z",
       "short_summary": "arXiv:2603.23749v1 Announce Type: new \nAbstract: Evaluating AI agents on comprehensive benchmarks is expensive because each evaluation requires interactive rollouts with tool us...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation",
-      "url": "https://arxiv.org/abs/2603.23838",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-26T04:00:00Z",
-      "short_summary": "arXiv:2603.23838v1 Announce Type: new \nAbstract: Lifelong Multi-Agent Path Finding (MAPF) is critical for modern warehouse automation, which requires multiple robots to continuo...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
-      "url": "https://arxiv.org/abs/2603.23840",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-26T04:00:00Z",
-      "short_summary": "arXiv:2603.23840v1 Announce Type: new \nAbstract: With the growing demand for intelligent in-vehicle experiences, vehicle-based agents are evolving from simple assistants to long...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems",
-      "url": "https://arxiv.org/abs/2603.23853",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-26T04:00:00Z",
-      "short_summary": "arXiv:2603.23853v1 Announce Type: new \nAbstract: Combining multiple Vision-Language Models (VLMs) can enhance multimodal reasoning and robustness, but aggregating heterogeneous ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When AI output tips to bad but nobody notices: Legal implications of AI's mistakes",
-      "url": "https://arxiv.org/abs/2603.23857",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-26T04:00:00Z",
-      "short_summary": "arXiv:2603.23857v1 Announce Type: new \nAbstract: The adoption of generative AI across commercial and legal professions offers dramatic efficiency gains -- yet for law in particu...",
       "tag": "RESEARCH"
     }
   ]
