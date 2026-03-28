@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-28T02:31:28.561621Z",
+  "last_updated": "2026-03-28T13:02:18.481446Z",
   "items": [
     {
-      "title": "PLDR-LLMs Reason At Self-Organized Criticality",
-      "url": "https://arxiv.org/abs/2603.23539",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23539v1 Announce Type: new \nAbstract: We show that PLDR-LLMs pretrained at self-organized criticality exhibit reasoning at inference time. The characteristics of PLDR...",
-      "tag": "RESEARCH"
+      "title": "Liberate your OpenClaw",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-27T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Environment Maps: Structured Environmental Representations for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2603.23610",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23610v2 Announce Type: new \nAbstract: Although large language models (LLMs) have advanced rapidly, robust automation of complex software workflows remains an open pro...",
-      "tag": "RESEARCH"
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T17:00:00Z",
+      "short_summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "tag": "NEWS"
     },
     {
-      "title": "Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework",
-      "url": "https://arxiv.org/abs/2603.23625",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23625v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is increasingly being explored in health and social care to reduce administrative workload and allo...",
-      "tag": "RESEARCH"
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T16:00:00Z",
+      "short_summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "tag": "NEWS"
     },
     {
-      "title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
-      "url": "https://arxiv.org/abs/2603.23638",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23638v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains un...",
-      "tag": "RESEARCH"
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T15:21:00Z",
+      "short_summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+      "tag": "NEWS"
     },
     {
-      "title": "GTO Wizard Benchmark",
-      "url": "https://arxiv.org/abs/2603.23660",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23660v1 Announce Type: new \nAbstract: We introduce GTO Wizard Benchmark, a public API and standardized evaluation framework for benchmarking algorithms in Heads-Up No...",
-      "tag": "RESEARCH"
+      "title": "Search Live is expanding globally",
+      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T15:00:00Z",
+      "short_summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a for...",
+      "tag": "NEWS"
     },
     {
-      "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
-      "url": "https://arxiv.org/abs/2603.23676",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23676v1 Announce Type: new \nAbstract: We study long-horizon planning in 3D environments from under-specified natural-language goals using only visual observations, fo...",
-      "tag": "RESEARCH"
+      "title": "Build with Lyria 3, our newest music generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-25T16:00:00Z",
+      "short_summary": "Google Lyria teaser",
+      "tag": "MODEL"
     },
     {
-      "title": "LLMs Do Not Grade Essays Like Humans",
-      "url": "https://arxiv.org/abs/2603.23714",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23714v1 Announce Type: new \nAbstract: Large language models have recently been proposed as tools for automated essay scoring, but their agreement with human grading r...",
-      "tag": "RESEARCH"
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-25T16:00:00Z",
+      "short_summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+      "tag": "NEWS"
     },
     {
-      "title": "Efficient Benchmarking of AI Agents",
-      "url": "https://arxiv.org/abs/2603.23749",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23749v1 Announce Type: new \nAbstract: Evaluating AI agents on comprehensive benchmarks is expensive because each evaluation requires interactive rollouts with tool us...",
-      "tag": "RESEARCH"
+      "title": "A New Framework for Evaluating Voice Agents (EVA)",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-24T02:01:52Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Learning-guided Prioritized Planning for Lifelong Multi-Agent Path Finding in Warehouse Automation",
-      "url": "https://arxiv.org/abs/2603.23838",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23838v1 Announce Type: new \nAbstract: Lifelong Multi-Agent Path Finding (MAPF) is critical for modern warehouse automation, which requires multiple robots to continuo...",
-      "tag": "RESEARCH"
+      "title": "Build a Domain-Specific Embedding Model in Under a Day",
+      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-20T19:38:16Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents",
-      "url": "https://arxiv.org/abs/2603.23840",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23840v1 Announce Type: new \nAbstract: With the growing demand for intelligent in-vehicle experiences, vehicle-based agents are evolving from simple assistants to long...",
-      "tag": "RESEARCH"
+      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-20T14:14:46Z",
+      "short_summary": "",
+      "tag": "BREAKING"
     },
     {
-      "title": "SCoOP: Semantic Consistent Opinion Pooling for Uncertainty Quantification in Multiple Vision-Language Model Systems",
-      "url": "https://arxiv.org/abs/2603.23853",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23853v1 Announce Type: new \nAbstract: Combining multiple Vision-Language Models (VLMs) can enhance multimodal reasoning and robustness, but aggregating heterogeneous ...",
-      "tag": "RESEARCH"
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-17T16:37:55Z",
+      "short_summary": "",
+      "tag": "BREAKING"
     },
     {
-      "title": "When AI output tips to bad but nobody notices: Legal implications of AI's mistakes",
-      "url": "https://arxiv.org/abs/2603.23857",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-27T04:00:00Z",
-      "short_summary": "arXiv:2603.23857v1 Announce Type: new \nAbstract: The adoption of generative AI across commercial and legal professions offers dramatic efficiency gains -- yet for law in particu...",
-      "tag": "RESEARCH"
+      "title": "Bringing the power of Personal Intelligence to more people",
+      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-17T16:00:00Z",
+      "short_summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
+      "tag": "NEWS"
     }
   ]
 };
