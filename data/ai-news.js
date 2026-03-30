@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-30T02:48:19.221664Z",
+  "last_updated": "2026-03-30T13:28:05.436717Z",
   "items": [
     {
-      "title": "Liberate your OpenClaw",
-      "url": "https://huggingface.co/blog/liberate-your-openclaw",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-27T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
+      "url": "https://arxiv.org/abs/2603.25747",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.25747v1 Announce Type: new \nAbstract: The rapid evolution of Large Multimodal Models (LMMs) has enabled agents to perform complex digital and physical tasks, yet thei...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-26T17:00:00Z",
-      "short_summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
-      "tag": "NEWS"
+      "title": "AutoB2G: A Large Language Model-Driven Agentic Framework For Automated Building-Grid Co-Simulation",
+      "url": "https://arxiv.org/abs/2603.26005",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.26005v1 Announce Type: new \nAbstract: The growing availability of building operational data motivates the use of reinforcement learning (RL), which can learn control ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Transform your headphones into a live personal translator on iOS.",
-      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-26T16:00:00Z",
-      "short_summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
-      "tag": "NEWS"
+      "title": "Semi-Automated Knowledge Engineering and Process Mapping for Total Airport Management",
+      "url": "https://arxiv.org/abs/2603.26076",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.26076v1 Announce Type: new \nAbstract: Documentation of airport operations is inherently complex due to extensive technical terminology, rigorous regulations, propriet...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-26T15:21:00Z",
-      "short_summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
-      "tag": "NEWS"
+      "title": "GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation",
+      "url": "https://arxiv.org/abs/2603.26266",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.26266v1 Announce Type: new \nAbstract: Large vision-language models have endowed GUI agents with strong general capabilities for interface understanding and interactio...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Search Live is expanding globally",
-      "url": "https://blog.google/products-and-platforms/products/search/search-live-global-expansion/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-26T15:00:00Z",
-      "short_summary": "A graphic with the words Search Live shown underneath a waveform icon. To the right, a phone shows the Google app with Search Live open. The camera is pointing at trees in a for...",
-      "tag": "NEWS"
+      "title": "AIRA_2: Overcoming Bottlenecks in AI Research Agents",
+      "url": "https://arxiv.org/abs/2603.26499",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.26499v1 Announce Type: new \nAbstract: Existing research has identified three structural performance bottlenecks in AI research agents: (1) synchronous single-GPU exec...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Build with Lyria 3, our newest music generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-25T16:00:00Z",
-      "short_summary": "Google Lyria teaser",
-      "tag": "MODEL"
+      "title": "CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation",
+      "url": "https://arxiv.org/abs/2603.26512",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.26512v1 Announce Type: new \nAbstract: Existing methods for text-to-CAD generation either operate in a single pass with no geometric verification or rely on lossy visu...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-25T16:00:00Z",
-      "short_summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
-      "tag": "NEWS"
+      "title": "Stabilizing Rubric Integration Training via Decoupled Advantage Normalization",
+      "url": "https://arxiv.org/abs/2603.26535",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.26535v1 Announce Type: new \nAbstract: We propose Process-Aware Policy Optimization (PAPO), a method that integrates process-level evaluation into Group Relative Polic...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "A New Framework for Evaluating Voice Agents (EVA)",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-24T02:01:52Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "DesignWeaver: Dimensional Scaffolding for Text-to-Image Product Design",
+      "url": "https://arxiv.org/abs/2502.09867",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2502.09867v2 Announce Type: cross \nAbstract: Generative AI has enabled novice designers to quickly create professional-looking visual representations for product concepts....",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Build a Domain-Specific Embedding Model in Under a Day",
-      "url": "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-20T19:38:16Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "A Lightweight, Transferable, and Self-Adaptive Framework for Intelligent DC Arc-Fault Detection in Photovoltaic Systems",
+      "url": "https://arxiv.org/abs/2603.25749",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.25749v1 Announce Type: cross \nAbstract: Arc-fault circuit interrupters (AFCIs) are essential for mitigating fire hazards in residential photovoltaic (PV) systems, yet...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "What's New in Mellea 0.4.0 + Granite Libraries Release",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-libraries",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-20T14:14:46Z",
-      "short_summary": "",
-      "tag": "BREAKING"
+      "title": "Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models",
+      "url": "https://arxiv.org/abs/2603.25750",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.25750v1 Announce Type: cross \nAbstract: As the paradigm of AI shifts from text-based LLMs to Speech Language Models (SLMs), there is a growing demand for full-duplex ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-17T16:37:55Z",
-      "short_summary": "",
-      "tag": "BREAKING"
+      "title": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning",
+      "url": "https://arxiv.org/abs/2603.25758",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.25758v1 Announce Type: cross \nAbstract: Diffusion models have significantly reshaped the field of generative artificial intelligence and are now increasingly explored...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Bringing the power of Personal Intelligence to more people",
-      "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-17T16:00:00Z",
-      "short_summary": "Bubble that says \"Personal Intelligence\" with Google G, Google Photos logo, and Gmail logo around it",
-      "tag": "NEWS"
+      "title": "CANGuard: A Spatio-Temporal CNN-GRU-Attention Hybrid Architecture for Intrusion Detection in In-Vehicle CAN Networks",
+      "url": "https://arxiv.org/abs/2603.25763",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-30T04:00:00Z",
+      "short_summary": "arXiv:2603.25763v1 Announce Type: cross \nAbstract: The Internet of Vehicles (IoV) has become an essential component of smart transportation systems, enabling seamless interactio...",
+      "tag": "RESEARCH"
     }
   ]
 };
