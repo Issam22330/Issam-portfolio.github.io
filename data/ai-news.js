@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-30T13:28:05.436717Z",
+  "last_updated": "2026-03-31T02:41:08.970791Z",
   "items": [
     {
       "title": "BeSafe-Bench: Unveiling Behavioral Safety Risks of Situated Agents in Functional Environments",
