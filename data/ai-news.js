@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-31T13:27:33.648927Z",
+  "last_updated": "2026-04-01T02:53:22.190537Z",
   "items": [
+    {
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-31T16:00:00Z",
+      "short_summary": "Build with Veo 3.1 Lite",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-31T15:10:41Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Bitboard version of Tetris AI",
       "url": "https://arxiv.org/abs/2603.26765",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-03-31T04:00:00Z",
       "short_summary": "arXiv:2603.27150v1 Announce Type: new \nAbstract: Large language models (LLMs) have revolutionized medical reasoning tasks, yet single-agent systems often falter on complex, inte...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "daVinci-LLM:Towards the Science of Pretraining",
-      "url": "https://arxiv.org/abs/2603.27164",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-31T04:00:00Z",
-      "short_summary": "arXiv:2603.27164v1 Announce Type: new \nAbstract: The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability fo...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Aligning LLMs with Graph Neural Solvers for Combinatorial Optimization",
-      "url": "https://arxiv.org/abs/2603.27169",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-31T04:00:00Z",
-      "short_summary": "arXiv:2603.27169v1 Announce Type: new \nAbstract: Recent research has demonstrated the effectiveness of large language models (LLMs) in solving combinatorial optimization problem...",
       "tag": "RESEARCH"
     }
   ]
