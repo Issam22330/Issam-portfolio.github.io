@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-01T13:42:01.165549Z",
+  "last_updated": "2026-04-02T02:37:42.126599Z",
   "items": [
+    {
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-01T16:36:15Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
       "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-01T04:00:00Z",
       "short_summary": "arXiv:2603.29075v1 Announce Type: new \nAbstract: The way we're thinking about generative AI right now is fundamentally individual. We see this not just in how users interact wit...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
-      "url": "https://arxiv.org/abs/2603.29085",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.29085v1 Announce Type: new \nAbstract: Large language models (LLMs) remain brittle on multi-hop question answering (MHQA), where answering requires combining evidence ...",
       "tag": "RESEARCH"
     }
   ]
