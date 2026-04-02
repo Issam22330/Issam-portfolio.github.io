@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-02T02:37:42.126599Z",
+  "last_updated": "2026-04-02T13:21:34.846450Z",
   "items": [
     {
-      "title": "Holo3: Breaking the Computer Use Frontier",
-      "url": "https://huggingface.co/blog/Hcompany/holo3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T16:36:15Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:30:00Z",
-      "short_summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The latest AI news we announced in March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:00:00Z",
-      "short_summary": "March 2026 AI Recap showing new updates",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "Falcon Perception",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T07:13:20Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
-      "url": "https://arxiv.org/abs/2603.28902",
+      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
+      "url": "https://arxiv.org/abs/2604.00005",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-c...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00005v1 Announce Type: new \nAbstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotiona...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
-      "url": "https://arxiv.org/abs/2603.28906",
+      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
+      "url": "https://arxiv.org/abs/2604.00085",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are in...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00085v1 Announce Type: new \nAbstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, wh...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2603.28928",
+      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+      "url": "https://arxiv.org/abs/2604.00137",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, do...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00137v1 Announce Type: new \nAbstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottle...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Enhancing Policy Learning with World-Action Model",
-      "url": "https://arxiv.org/abs/2603.28955",
+      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+      "url": "https://arxiv.org/abs/2604.00249",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.28955v1 Announce Type: new \nAbstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual obse...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00249v1 Announce Type: new \nAbstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
-      "url": "https://arxiv.org/abs/2603.28986",
+      "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+      "url": "https://arxiv.org/abs/2604.00281",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.28986v1 Announce Type: new \nAbstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures,...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00281v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
-      "url": "https://arxiv.org/abs/2603.28990",
+      "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
+      "url": "https://arxiv.org/abs/2604.00284",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.28990v1 Announce Type: new \nAbstract: How much autonomy can multi-agent LLM systems sustain -- and what enables it? We present a 25,000-task computational experiment ...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00284v1 Announce Type: new \nAbstract: We formally introduce a improvisational wordplay game called Connections to explore reasoning capabilities of AI agents. Playing...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
-      "url": "https://arxiv.org/abs/2603.29020",
+      "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
+      "url": "https://arxiv.org/abs/2604.00319",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.29020v1 Announce Type: new \nAbstract: Reliable evaluation of AI agents operating in complex, real-world environments requires methodologies that are robust, transpare...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00319v1 Announce Type: new \nAbstract: We develop algorithms for collaborative control of AI agents and critics in a multi-actor, multi-critic federated multi-agent sy...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Future of AI is Many, Not One",
-      "url": "https://arxiv.org/abs/2603.29075",
+      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+      "url": "https://arxiv.org/abs/2604.00356",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-01T04:00:00Z",
-      "short_summary": "arXiv:2603.29075v1 Announce Type: new \nAbstract: The way we're thinking about generative AI right now is fundamentally individual. We see this not just in how users interact wit...",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00356v1 Announce Type: new \nAbstract: Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "In harmony with gpt-oss",
+      "url": "https://arxiv.org/abs/2604.00362",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00362v1 Announce Type: new \nAbstract: No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses n...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Decision-Centric Design for LLM Systems",
+      "url": "https://arxiv.org/abs/2604.00414",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00414v1 Announce Type: new \nAbstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, rep...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
+      "url": "https://arxiv.org/abs/2604.00421",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00421v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) layers increase model capacity by activating only a small subset of experts per token, and typically re...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
+      "url": "https://arxiv.org/abs/2604.00442",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00442v1 Announce Type: new \nAbstract: Automating optimization modeling with LLMs is a promising path toward scalable decision intelligence, but existing approaches ei...",
       "tag": "RESEARCH"
     }
   ]
