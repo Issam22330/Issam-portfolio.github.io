@@ -101,6 +101,14 @@ window.translations = {
         "proj_2_results": "<strong>Results:</strong> Optimized offline LLM performance, achieving 45 tokens/sec using 4-bit quantization on edge devices.<div class='chart-container' style='position: relative; height:180px; margin-top:1rem;'><canvas id='chart-proj2'></canvas></div>",
         "proj_2_tech": "Android Studio • Firebase • LLaMA 3 • Docker",
 
+        "proj_3_title": "Kpital",
+        "proj_3_subtitle": "Personal Finance & Investment App",
+        "proj_3_problem": "<strong>Problem:</strong> Tracking daily expenses and managing complex investments usually requires multiple disjointed platforms.",
+        "proj_3_solution": "<strong>Solution:</strong> A comprehensive personal finance ecosystem that connects daily spending habits with long-term investment growth and tracking.",
+        "proj_3_role": "<strong>My Role:</strong> Solo architect and developer. Implemented the complete Android stack using clean architecture, MVVM, and real-time syncing via Firebase.",
+        "proj_3_results": "<strong>Results:</strong> Unified transaction tracking and portfolio management, enhanced with Smart Financial Insights.",
+        "proj_3_tech": "Android SDK • MVVM • Firebase • Hilt",
+
         "news_title": "Latest AI News",
         "news_last_updated": "Last updated:",
         "news_read_more": "Read More",
@@ -222,6 +230,14 @@ window.translations = {
         "proj_2_role": "<strong>Mi Rol:</strong> Desarrollador único. Creé el frontend en Android, el backend en Firebase e integré un agente conversacional offline basado en LLaMA 3 con Docker.",
         "proj_2_results": "<strong>Resultados:</strong> Optimización de latencia del LLM offline, alcanzando 45 tokens/seg con cuantización a 4-bits.<div class='chart-container' style='position: relative; height:180px; margin-top:1rem;'><canvas id='chart-proj2'></canvas></div>",
         "proj_2_tech": "Android Studio • Firebase • LLaMA 3 • Docker",
+
+        "proj_3_title": "Kpital",
+        "proj_3_subtitle": "App de Finanzas Personales e Inversión",
+        "proj_3_problem": "<strong>Problema:</strong> El seguimiento diario de gastos y la gestión de inversiones complejas suelen requerir plataformas separadas.",
+        "proj_3_solution": "<strong>Solución:</strong> Un ecosistema financiero integral que conecta los hábitos de gasto diarios con el crecimiento y seguimiento de inversiones a largo plazo.",
+        "proj_3_role": "<strong>Mi Rol:</strong> Arquitecto y desarrollador único. Implementé la pila de Android completa con clean architecture, MVVM y sincronización en tiempo real con Firebase.",
+        "proj_3_results": "<strong>Resultados:</strong> Unificación del seguimiento de transacciones y gestión de carteras, potenciado con un sistema de Smart Financial Insights.",
+        "proj_3_tech": "Android SDK • MVVM • Firebase • Hilt",
 
         "news_title": "Últimas Noticias IA",
         "news_last_updated": "Última actualización:",

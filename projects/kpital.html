@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kpital | Personal Finance & Investment App</title>
+    <meta name="description" content="Kpital is a comprehensive personal finance and wealth management app connecting daily spending with investments.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Main Style -->
+    <link rel="stylesheet" href="../css/style.css">
+    
+    <style>
+        /* Custom Styles for Kpital Page */
+        :root {
+            --kpital-primary: #00E5FF;
+            --kpital-accent: #D4AF37;
+            --kpital-bg: #0B0E17;
+            --kpital-card: rgba(255, 255, 255, 0.03);
+            --kpital-border: rgba(255, 255, 255, 0.1);
+        }
+        
+        body {
+            background-color: var(--kpital-bg);
+            color: #ffffff;
+            font-family: 'Outfit', sans-serif;
+            overflow-x: hidden;
+        }
+
+        /* Language Toggle Styles */
+        body.lang-es .lang-en { display: none !important; }
+        body:not(.lang-es) .lang-es { display: none !important; }
+
+        /* Nav */
+        .glass-header { background: rgba(11, 14, 23, 0.8); backdrop-filter: blur(10px); }
+        .back-nav { display: flex; align-items: center; gap: 0.5rem; color: #fff; text-decoration: none; font-weight: 600; transition: color 0.3s; }
+        .back-nav:hover { color: var(--kpital-primary); }
+
+        /* Hero */
+        .kpital-hero {
+            position: relative;
+            padding: 180px 5% 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 80vh;
+            background: radial-gradient(circle at 50% 20%, rgba(0, 229, 255, 0.15) 0%, rgba(11, 14, 23, 1) 60%);
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .hero-bg-anim {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            opacity: 0.5;
+            z-index: 0;
+            animation: slideBg 60s linear infinite;
+        }
+
+        @keyframes slideBg { from { background-position: 0 0; } to { background-position: 600px 600px; } }
+
+        .kpital-hero-content {
+            position: relative;
+            z-index: 10;
+            max-width: 900px;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .kpital-logo-img { max-height: 140px; margin-bottom: 1.5rem; filter: drop-shadow(0 0 20px rgba(0, 229, 255, 0.4)); }
+        
+        .kpital-title {
+            font-size: 4.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #fff, var(--kpital-primary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .kpital-tagline { font-family: 'Space Mono', monospace; color: var(--kpital-accent); font-size: 1.2rem; margin-bottom: 2rem; letter-spacing: 2px;}
+        .kpital-intro { font-size: 1.25rem; line-height: 1.8; color: #a0aec0; margin-bottom: 2.5rem; }
+
+        /* Sections */
+        .k-section { padding: 80px 5%; max-width: 1200px; margin: 0 auto; position: relative; }
+        .k-section-title { font-size: 2.5rem; font-weight: 600; margin-bottom: 3rem; text-align: center; }
+        .k-section-title span { color: var(--kpital-primary); }
+
+        /* Key Features */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+        
+        .k-card {
+            background: var(--kpital-card);
+            border: 1px solid var(--kpital-border);
+            border-radius: 16px;
+            padding: 2rem;
+            backdrop-filter: blur(10px);
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s;
+        }
+        .k-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 229, 255, 0.1);
+            border-color: rgba(0, 229, 255, 0.3);
+        }
+
+        .k-card i { font-size: 2.5rem; color: var(--kpital-primary); margin-bottom: 1.5rem; display: inline-block; }
+        .k-card h3 { font-size: 1.4rem; margin-bottom: 1rem; color: #fff; }
+        .k-card p { color: #a0aec0; line-height: 1.6; font-size: 1rem; }
+
+        /* Screenshots Gallery */
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            justify-items: center;
+        }
+        .app-screenshot {
+            width: 100%;
+            max-width: 300px;
+            border-radius: 24px;
+            border: 4px solid var(--kpital-border);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+            transition: transform 0.4s ease, border-color 0.4s ease;
+            cursor: pointer;
+        }
+        .app-screenshot:hover {
+            transform: scale(1.05) translateY(-10px);
+            border-color: var(--kpital-primary);
+            z-index: 2;
+        }
+
+        /* Tech Stack */
+        .tech-tags { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; }
+        .tech-tag {
+            padding: 0.75rem 1.5rem;
+            border-radius: 30px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            font-family: 'Space Mono', monospace;
+            font-size: 1rem;
+            transition: all 0.3s;
+        }
+        .tech-tag:hover { background: rgba(0, 229, 255, 0.1); border-color: var(--kpital-primary); color: #fff; }
+
+        /* Emphasized Why Section */
+        .why-section {
+            background: linear-gradient(135deg, rgba(11,14,23,0) 0%, rgba(0, 229, 255, 0.05) 50%, rgba(11,14,23,0) 100%);
+            border-top: 1px solid var(--kpital-border);
+            border-bottom: 1px solid var(--kpital-border);
+            text-align: center;
+            padding: 100px 5%;
+            margin: 4rem 0;
+        }
+        .why-text {
+            font-size: 1.6rem;
+            line-height: 1.8;
+            max-width: 900px;
+            margin: 0 auto;
+            color: #e2e8f0;
+            font-weight: 300;
+        }
+        .highlight { color: var(--kpital-accent); font-weight: 600; }
+
+        /* Architecture */
+        .arch-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
+        @media (max-width: 768px) { .arch-grid { grid-template-columns: 1fr; } }
+        .arch-card {text-align: center; padding: 2rem;}
+        .arch-card .arch-icon { font-size: 3rem; margin-bottom: 1rem; background: -webkit-linear-gradient(#fff, var(--kpital-primary)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;}
+
+        /* CTA */
+        .cta-container { text-align: center; padding: 4rem 0 8rem; }
+        .apk-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 1rem;
+            background: linear-gradient(135deg, var(--kpital-primary), #0076FF);
+            color: #fff;
+            padding: 1rem 2.5rem;
+            font-size: 1.25rem;
+            border-radius: 50px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0, 229, 255, 0.3);
+            border: none;
+            cursor: pointer;
+        }
+        .apk-btn:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 15px 30px rgba(0, 229, 255, 0.5);
+        }
+        
+        .github-btn {
+            display: inline-flex; align-items: center; gap: 0.75rem;
+            background: rgba(255, 255, 255, 0.1); border: 1px solid rgba(255,255,255,0.2);
+            color: #fff; padding: 1rem 2.5rem; border-radius: 50px; text-decoration: none; font-weight: 600;
+            transition: all 0.3s ease; margin-left: 1rem;
+        }
+        .github-btn:hover { background: rgba(255, 255, 255, 0.2); transform: translateY(-3px); }
+
+        @media (max-width: 600px) {
+            .kpital-title { font-size: 3rem; }
+            .kpital-hero { padding-top: 140px; }
+            .why-text { font-size: 1.3rem; }
+            .github-btn { margin-left: 0; margin-top: 1rem; display: flex; justify-content: center; }
+            .cta-container { display: flex; flex-direction: column; align-items: center; }
+        }
+
+        /* Animations */
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+        
+        .fade-in-section { opacity: 0; transform: translateY(20px); transition: opacity 0.8s ease-out, transform 0.8s ease-out; }
+        .fade-in-section.is-visible { opacity: 1; transform: none; }
+    </style>
+</head>
+<body>
+
+    <header class="glass-header" style="position: fixed; width: 100%; top: 0; z-index: 100; border-bottom: 1px solid var(--kpital-border);">
+        <nav aria-label="Main Navigation" style="padding: 1rem 5%; height: 70px; display: flex; align-items: center;">
+            <a href="../index.html#projects" class="back-nav">
+                <i class="fas fa-arrow-left"></i>
+                <span class="lang-en">Back to Portfolio</span>
+                <span class="lang-es">Volver al Portfolio</span>
+            </a>
+            
+            <button id="kpital-lang-toggle" style="background: none; border: 1px solid var(--kpital-primary); color: #fff; padding: 0.3rem 0.8rem; border-radius: 4px; cursor: pointer; margin-left: auto; transition: all 0.3s; font-family: 'Space Mono', monospace;">
+                ES
+            </button>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="kpital-hero">
+            <div class="hero-bg-anim"></div>
+            <div class="kpital-hero-content">
+                <img src="../data/kpital-logo.png" alt="Kpital App Logo" class="kpital-logo-img">
+                <h1 class="kpital-title">Kpital</h1>
+                <h2 class="kpital-tagline">
+                    <span class="lang-en">"Your finances. One ecosystem."</span>
+                    <span class="lang-es">"Tus finanzas. Un ecosistema."</span>
+                </h2>
+                <p class="kpital-intro">
+                    <span class="lang-en">Kpital is a comprehensive personal finance and wealth management app that connects daily spending with long-term investments. Understand your financial health in a single, unified platform.</span>
+                    <span class="lang-es">Kpital es una aplicación integral de finanzas personales y gestión patrimonial que conecta el gasto diario con inversiones a largo plazo. Entiende tu salud financiera en una sola plataforma unificada.</span>
+                </p>
+                <a href="#download" class="apk-btn" style="font-size: 1rem; padding: 0.8rem 2rem;">
+                    <span class="lang-en">Explore the App</span>
+                    <span class="lang-es">Explorar la App</span>
+                    <i class="fas fa-chevron-down" style="margin-left: 0.5rem;"></i>
+                </a>
+            </div>
+        </section>
+
+        <!-- Why Kpital -->
+        <section class="why-section fade-in-section">
+            <p class="why-text">
+                <span class="lang-en">Kpital stands out by combining budgeting and investment tracking into a single ecosystem. It allows users to understand how daily financial habits impact long-term wealth. With <span class="highlight">Smart Insights</span>, it evolves from a passive tracker into an active financial assistant.</span>
+                <span class="lang-es">Kpital destaca al combinar el seguimiento de presupuestos e inversiones en un solo ecosistema. Permite a los usuarios comprender cómo los hábitos financieros diarios impactan su riqueza a largo plazo. Con <span class="highlight">Smart Insights</span>, evoluciona de un rastreador pasivo a un asistente financiero activo.</span>
+            </p>
+        </section>
+
+        <!-- Key Features -->
+        <section class="k-section fade-in-section">
+            <h2 class="k-section-title">
+                <span class="lang-en">Key <span>Features</span></span>
+                <span class="lang-es">Características <span>Principales</span></span>
+            </h2>
+            <div class="features-grid">
+                <div class="k-card">
+                    <i class="fas fa-chart-pie"></i>
+                    <h3>
+                        <span class="lang-en">Holistic Dashboard</span>
+                        <span class="lang-es">Panel Holístico</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Get a bird's-eye view of your net worth, comparing total assets against current expenses in real-time.</span>
+                        <span class="lang-es">Obtén una vista panorámica de tu patrimonio neto, comparando activos totales con gastos actuales en tiempo real.</span>
+                    </p>
+                </div>
+                <div class="k-card">
+                    <i class="fas fa-receipt"></i>
+                    <h3>
+                        <span class="lang-en">Transaction Tracking</span>
+                        <span class="lang-es">Seguimiento de Transacciones</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Effortlessly log income and expenses. Categorize every transaction to maintain strict budget awareness.</span>
+                        <span class="lang-es">Registra ingresos y gastos sin esfuerzo. Categoriza cada transacción para mantener un estricto control de presupuesto.</span>
+                    </p>
+                </div>
+                <div class="k-card">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>
+                        <span class="lang-en">Investment Portfolio</span>
+                        <span class="lang-es">Cartera de Inversiones</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Track your stocks, crypto, and other investments. See market trends and portfolio growth organically.</span>
+                        <span class="lang-es">Haz seguimiento de tus acciones, criptomonedas y otras inversiones. Observa las tendencias del mercado y el crecimiento orgánico de tu cartera.</span>
+                    </p>
+                </div>
+                <div class="k-card">
+                    <i class="fas fa-lightbulb"></i>
+                    <h3>
+                        <span class="lang-en">Smart Financial Insights</span>
+                        <span class="lang-es">Perspectivas Financieras</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Receive actionable notifications and data-driven tips to optimize your spending and increase savings.</span>
+                        <span class="lang-es">Recibe notificaciones prácticas y consejos basados en datos para optimizar tu gasto y aumentar tus ahorros.</span>
+                    </p>
+                </div>
+                <div class="k-card">
+                    <i class="fas fa-bullseye"></i>
+                    <h3>
+                        <span class="lang-en">Savings Goals</span>
+                        <span class="lang-es">Objetivos de Ahorro</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Set specific financial milestones and visually track your progress towards purchasing a home, a car, or an emergency fund.</span>
+                        <span class="lang-es">Establece metas financieras específicas y realiza un seguimiento visual de tu progreso para comprar una casa, un vehículo o crear un fondo de emergencia.</span>
+                    </p>
+                </div>
+                <div class="k-card">
+                    <i class="fas fa-sync"></i>
+                    <h3>
+                        <span class="lang-en">Real-time Sync</span>
+                        <span class="lang-es">Sincronización en Tiempo Real</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Powered by Firebase, your data is instantaneously synced and securely backed up in the cloud.</span>
+                        <span class="lang-es">Impulsado por Firebase, tus datos se sincronizan instantáneamente y se respaldan de forma segura en la nube.</span>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- App Screenshots Gallery -->
+        <section class="k-section fade-in-section">
+            <h2 class="k-section-title">
+                <span class="lang-en">Inside <span>The App</span></span>
+                <span class="lang-es">Dentro de <span>La App</span></span>
+            </h2>
+            <div class="gallery-grid">
+                <!-- Using the renamed images from data folder -->
+                <img src="../data/kpital-dash1.jpg" alt="Kpital Dashboard" class="app-screenshot" loading="lazy">
+                <img src="../data/kpital-dash2.jpg" alt="Transactions View" class="app-screenshot" loading="lazy">
+                <img src="../data/kpital-dash3.jpg" alt="Investment Tracking" class="app-screenshot" loading="lazy">
+                <img src="../data/kpital-dash4.jpg" alt="Savings Goals" class="app-screenshot" loading="lazy">
+            </div>
+        </section>
+
+        <!-- Tech Stack -->
+        <section class="k-section fade-in-section" style="background: rgba(255,255,255,0.02); border-radius: 30px; padding-top: 60px; padding-bottom: 60px;">
+            <h2 class="k-section-title">
+                <span class="lang-en">Built With <span>Modern Tech</span></span>
+                <span class="lang-es">Construido Con <span>Tecnología Moderna</span></span>
+            </h2>
+            <div class="tech-tags">
+                <span class="tech-tag"><i class="fab fa-java"></i> Java (Android SDK)</span>
+                <span class="tech-tag"><i class="fas fa-layer-group"></i> MVVM Architecture</span>
+                <span class="tech-tag"><i class="fas fa-database"></i> Firebase Firestore</span>
+                <span class="tech-tag"><i class="fas fa-user-lock"></i> Firebase Auth</span>
+                <span class="tech-tag"><i class="fas fa-syringe"></i> Hilt (Dagger)</span>
+                <span class="tech-tag"><i class="fas fa-cogs"></i> Jetpack Components</span>
+                <span class="tech-tag"><i class="fas fa-chart-area"></i> MPAndroidChart</span>
+            </div>
+        </section>
+
+        <!-- Architecture -->
+        <section class="k-section fade-in-section">
+            <h2 class="k-section-title">
+                <span class="lang-en">Clean <span>Architecture</span></span>
+                <span class="lang-es">Arquitectura <span>Limpia</span></span>
+            </h2>
+            <div class="arch-grid">
+                <div class="k-card arch-card">
+                    <i class="fas fa-cubes arch-icon"></i>
+                    <h3>
+                        <span class="lang-en">Domain Layer</span>
+                        <span class="lang-es">Capa de Dominio</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Contains the core business logic, use cases, and abstract data interfaces isolated from framework dependencies.</span>
+                        <span class="lang-es">Contiene la lógica de negocio central, casos de uso e interfaces de datos aisladas de frameworks externos.</span>
+                    </p>
+                </div>
+                <div class="k-card arch-card">
+                    <i class="fas fa-server arch-icon"></i>
+                    <h3>
+                        <span class="lang-en">Data Layer</span>
+                        <span class="lang-es">Capa de Datos</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Manages data retrieval, repository implementations, and direct communication with Firebase and local caches.</span>
+                        <span class="lang-es">Maneja la recuperación de datos, implementación de repositorios y comunicación directa con Firebase y cachés locales.</span>
+                    </p>
+                </div>
+                <div class="k-card arch-card">
+                    <i class="fas fa-mobile-alt arch-icon"></i>
+                    <h3>
+                        <span class="lang-en">UI Layer</span>
+                        <span class="lang-es">Capa de Interfaz</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Handles the Android UI and interactions using ViewModels, LiveData, and modern Jetpack components.</span>
+                        <span class="lang-es">Gestiona la interfaz de Android y sus interacciones utilizando ViewModels, LiveData y componentes modernos de Jetpack.</span>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Download CTA -->
+        <section id="download" class="k-section fade-in-section">
+            <div class="cta-container">
+                <h2 class="k-section-title" style="margin-bottom: 1.5rem;">
+                    <span class="lang-en">Ready to take control?</span>
+                    <span class="lang-es">¿Listo para tomar el control?</span>
+                </h2>
+                <p style="color: #a0aec0; font-size: 1.2rem; margin-bottom: 3rem;">
+                    <span class="lang-en">Download the app and start shaping your financial future today.</span>
+                    <span class="lang-es">Descarga la app y comienza a dar forma a tu futuro financiero hoy mismo.</span>
+                </p>
+                
+                <div>
+                    <!-- Note: Add the real APK link or path in the href -->
+                    <a href="#" class="apk-btn" onclick="alert('APK Download link will be available soon!'); return false;">
+                        <i class="fab fa-android"></i> 
+                        <span class="lang-en">Download APK</span>
+                        <span class="lang-es">Descargar APK</span>
+                    </a>
+                    
+                    <a href="https://github.com/Issam22330" target="_blank" class="github-btn">
+                        <i class="fab fa-github"></i>
+                        <span class="lang-en">View GitHub</span>
+                        <span class="lang-es">Ver en GitHub</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer style="text-align: center; padding: 2rem; border-top: 1px solid var(--kpital-border); color: #a0aec0;">
+        <p>
+            <span class="lang-en">&copy; 2026 Issam Mezdagat. Built with Code & AI.</span>
+            <span class="lang-es">&copy; 2026 Issam Mezdagat. Construido con Código e IA.</span>
+        </p>
+    </footer>
+
+    <!-- Animations & Language Toggle -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            // -- Scroll animations --
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.15
+            };
+
+            const observer = new IntersectionObserver((entries, obs) => {
+                entries.forEach(entry => {
+                    if(entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        obs.unobserve(entry.target);
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('.fade-in-section').forEach(section => {
+                observer.observe(section);
+            });
+
+            // -- Language Toggle --
+            const langBtn = document.getElementById('kpital-lang-toggle');
+            let isEs = false; // Default is English
+
+            langBtn.addEventListener('click', () => {
+                isEs = !isEs;
+                if (isEs) {
+                    document.body.classList.add('lang-es');
+                    document.documentElement.lang = 'es';
+                    langBtn.textContent = 'EN';
+                } else {
+                    document.body.classList.remove('lang-es');
+                    document.documentElement.lang = 'en';
+                    langBtn.textContent = 'ES';
+                }
+            });
+        });
+    </script>
+</body>
+</html>
