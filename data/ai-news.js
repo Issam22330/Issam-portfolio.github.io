@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-02T13:21:34.846450Z",
+  "last_updated": "2026-04-03T02:39:48.619879Z",
   "items": [
+    {
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Gemini API Dials",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Google Vids logo surrounded by various video editing UI",
+      "tag": "NEWS"
+    },
     {
       "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
       "url": "https://arxiv.org/abs/2604.00005",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-02T04:00:00Z",
       "short_summary": "arXiv:2604.00414v1 Announce Type: new \nAbstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, rep...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
-      "url": "https://arxiv.org/abs/2604.00421",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-02T04:00:00Z",
-      "short_summary": "arXiv:2604.00421v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) layers increase model capacity by activating only a small subset of experts per token, and typically re...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
-      "url": "https://arxiv.org/abs/2604.00442",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-02T04:00:00Z",
-      "short_summary": "arXiv:2604.00442v1 Announce Type: new \nAbstract: Automating optimization modeling with LLMs is a promising path toward scalable decision intelligence, but existing approaches ei...",
       "tag": "RESEARCH"
     }
   ]
