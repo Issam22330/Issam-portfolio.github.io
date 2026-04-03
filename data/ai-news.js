@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-03-08T21:37:52.684072Z",
+  "last_updated": "2026-04-03T02:39:48.619879Z",
   "items": [
     {
-      "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
       "source": "Google AI Blog",
-      "published_at": "2026-03-06T18:00:00Z",
-      "short_summary": "Photos of animals being identified by the SpeciesNet AI model",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Ask a Techspert: How does AI understand my visual searches?",
-      "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-05T18:00:00Z",
-      "short_summary": "Mobile phone with a search bar that says \"Ask anything\"",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Gemini API Dials",
       "tag": "NEWS"
     },
     {
-      "title": "The latest AI news we announced in February",
-      "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
       "source": "Google AI Blog",
-      "published_at": "2026-03-05T16:30:00Z",
-      "short_summary": "an MP4 of a carousel with images reading \"Gemini 3.1 Pro\" and \"Nano Banana 2\"",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
-      "url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-05T14:16:49Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
-    },
-    {
-      "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
-      "url": "https://huggingface.co/blog/modular-diffusers",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-05T00:00:00Z",
-      "short_summary": "",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Google Vids logo surrounded by various video editing UI",
       "tag": "NEWS"
     },
     {
-      "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-04T17:00:00Z",
-      "short_summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
-      "tag": "NEWS"
+      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
+      "url": "https://arxiv.org/abs/2604.00005",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00005v1 Announce Type: new \nAbstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotiona...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Create new worlds in Project Genie with these 4 tips",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-03T17:00:00Z",
-      "short_summary": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe la...",
-      "tag": "NEWS"
+      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
+      "url": "https://arxiv.org/abs/2604.00085",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00085v1 Announce Type: new \nAbstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, wh...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "PRX Part 3 — Training a Text-to-Image Model in 24h!",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-03T16:50:49Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
+      "url": "https://arxiv.org/abs/2604.00137",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00137v1 Announce Type: new \nAbstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottle...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-03T16:34:00Z",
-      "short_summary": "Gemini 3.1 Flash Lite logo",
-      "tag": "NEWS"
+      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
+      "url": "https://arxiv.org/abs/2604.00249",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00249v1 Announce Type: new \nAbstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
-      "source": "Google AI Blog",
-      "published_at": "2026-02-26T18:55:00Z",
-      "short_summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
-      "tag": "NEWS"
+      "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
+      "url": "https://arxiv.org/abs/2604.00281",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00281v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
-      "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
-      "source": "Google AI Blog",
-      "published_at": "2026-02-26T18:00:00Z",
-      "short_summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
-      "tag": "NEWS"
+      "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
+      "url": "https://arxiv.org/abs/2604.00284",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00284v1 Announce Type: new \nAbstract: We formally introduce a improvisational wordplay game called Connections to explore reasoning capabilities of AI agents. Playing...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "source": "Google AI Blog",
-      "published_at": "2026-02-26T16:00:00Z",
-      "short_summary": "Nano Banana 2 text with AI generated images around it",
-      "tag": "NEWS"
+      "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
+      "url": "https://arxiv.org/abs/2604.00319",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00319v1 Announce Type: new \nAbstract: We develop algorithms for collaborative control of AI agents and critics in a multi-actor, multi-critic federated multi-agent sy...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
+      "url": "https://arxiv.org/abs/2604.00356",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00356v1 Announce Type: new \nAbstract: Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "In harmony with gpt-oss",
+      "url": "https://arxiv.org/abs/2604.00362",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00362v1 Announce Type: new \nAbstract: No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses n...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Decision-Centric Design for LLM Systems",
+      "url": "https://arxiv.org/abs/2604.00414",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-02T04:00:00Z",
+      "short_summary": "arXiv:2604.00414v1 Announce Type: new \nAbstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, rep...",
+      "tag": "RESEARCH"
     }
   ]
 };
