@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-04T02:30:46.973493Z",
+  "last_updated": "2026-04-04T13:02:59.142267Z",
   "items": [
     {
-      "title": "How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study",
-      "url": "https://arxiv.org/abs/2604.00005",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00005v1 Announce Type: new \nAbstract: Emotion plays an important role in human cognition and performance. Motivated by this, we investigate whether analogous emotiona...",
-      "tag": "RESEARCH"
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Gemini API Dials",
+      "tag": "NEWS"
     },
     {
-      "title": "One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction",
-      "url": "https://arxiv.org/abs/2604.00085",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00085v1 Announce Type: new \nAbstract: Large language models applied to clinical prediction exhibit case-level heterogeneity: simple cases yield consistent outputs, wh...",
-      "tag": "RESEARCH"
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Google Vids logo surrounded by various video editing UI",
+      "tag": "NEWS"
     },
     {
-      "title": "Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents",
-      "url": "https://arxiv.org/abs/2604.00137",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00137v1 Announce Type: new \nAbstract: Tool-integrated LLMs can retrieve, compute, and take real-world actions via external tools, but reliability remains a key bottle...",
-      "tag": "RESEARCH"
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-02T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation",
-      "url": "https://arxiv.org/abs/2604.00249",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00249v1 Announce Type: new \nAbstract: Single-agent large language model (LLM) systems struggle to simultaneously support diverse conversational functions and maintain...",
-      "tag": "RESEARCH"
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-01T16:36:15Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education",
-      "url": "https://arxiv.org/abs/2604.00281",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00281v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly embedded in computer science education through AI-assisted programming tools, yet ...",
-      "tag": "RESEARCH"
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-01T13:30:00Z",
+      "short_summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "tag": "NEWS"
     },
     {
-      "title": "Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections",
-      "url": "https://arxiv.org/abs/2604.00284",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00284v1 Announce Type: new \nAbstract: We formally introduce a improvisational wordplay game called Connections to explore reasoning capabilities of AI agents. Playing...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in March 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-01T13:00:00Z",
+      "short_summary": "March 2026 AI Recap showing new updates",
+      "tag": "BREAKING"
     },
     {
-      "title": "Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry",
-      "url": "https://arxiv.org/abs/2604.00319",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00319v1 Announce Type: new \nAbstract: We develop algorithms for collaborative control of AI agents and critics in a multi-actor, multi-critic federated multi-agent sy...",
-      "tag": "RESEARCH"
+      "title": "Falcon Perception",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-01T07:13:20Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Signals: Trajectory Sampling and Triage for Agentic Interactions",
-      "url": "https://arxiv.org/abs/2604.00356",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00356v1 Announce Type: new \nAbstract: Agentic applications based on large language models increasingly rely on multi-step interaction loops involving planning, action...",
-      "tag": "RESEARCH"
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-31T16:00:00Z",
+      "short_summary": "Build with Veo 3.1 Lite",
+      "tag": "MODEL"
     },
     {
-      "title": "In harmony with gpt-oss",
-      "url": "https://arxiv.org/abs/2604.00362",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00362v1 Announce Type: new \nAbstract: No one has independently reproduced OpenAI's published scores for gpt-oss-20b with tools, because the original paper discloses n...",
-      "tag": "RESEARCH"
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-31T15:10:41Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Decision-Centric Design for LLM Systems",
-      "url": "https://arxiv.org/abs/2604.00414",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00414v1 Announce Type: new \nAbstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, rep...",
-      "tag": "RESEARCH"
+      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
+      "url": "https://huggingface.co/blog/trl-v1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-31T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Self-Routing: Parameter-Free Expert Routing from Hidden States",
-      "url": "https://arxiv.org/abs/2604.00421",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00421v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) layers increase model capacity by activating only a small subset of experts per token, and typically re...",
-      "tag": "RESEARCH"
+      "title": "Liberate your OpenClaw",
+      "url": "https://huggingface.co/blog/liberate-your-openclaw",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-03-27T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Execution-Verified Reinforcement Learning for Optimization Modeling",
-      "url": "https://arxiv.org/abs/2604.00442",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-03T04:00:00Z",
-      "short_summary": "arXiv:2604.00442v1 Announce Type: new \nAbstract: Automating optimization modeling with LLMs is a promising path toward scalable decision intelligence, but existing approaches ei...",
-      "tag": "RESEARCH"
+      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-26T17:00:00Z",
+      "short_summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+      "tag": "NEWS"
     }
   ]
 };
