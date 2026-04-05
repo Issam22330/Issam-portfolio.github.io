@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-04T13:02:59.142267Z",
+  "last_updated": "2026-04-05T02:48:06.441832Z",
   "items": [
     {
       "title": "New ways to balance cost and reliability in the Gemini API",
