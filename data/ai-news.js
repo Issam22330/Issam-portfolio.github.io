@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-06T02:49:20.854281Z",
+  "last_updated": "2026-04-06T13:18:14.349070Z",
   "items": [
     {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-02T16:00:00Z",
-      "short_summary": "Gemini API Dials",
-      "tag": "NEWS"
+      "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
+      "url": "https://arxiv.org/abs/2604.02334",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-02T16:00:00Z",
-      "short_summary": "Google Vids logo surrounded by various video editing UI",
-      "tag": "NEWS"
+      "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
+      "url": "https://arxiv.org/abs/2604.02368",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluat...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-02T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Compositional Neuro-Symbolic Reasoning",
+      "url": "https://arxiv.org/abs/2604.02434",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Holo3: Breaking the Computer Use Frontier",
-      "url": "https://huggingface.co/blog/Hcompany/holo3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T16:36:15Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
+      "url": "https://arxiv.org/abs/2604.02476",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, origin...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:30:00Z",
-      "short_summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-      "tag": "NEWS"
+      "title": "AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems",
+      "url": "https://arxiv.org/abs/2604.02478",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02478v1 Announce Type: new \nAbstract: Deep learning models excel at detecting anomaly patterns in normal data. However, they do not provide a direct solution for anom...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:00:00Z",
-      "short_summary": "March 2026 AI Recap showing new updates",
-      "tag": "BREAKING"
+      "title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+      "url": "https://arxiv.org/abs/2604.02500",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02500v1 Announce Type: new \nAbstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the a...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Falcon Perception",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T07:13:20Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "A Comprehensive Framework for Long-Term Resiliency Investment Planning under Extreme Weather Uncertainty for Electric Utilities",
+      "url": "https://arxiv.org/abs/2604.02504",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02504v1 Announce Type: new \nAbstract: Electric utilities must make massive capital investments in the coming years to respond to explosive growth in demand, aging ass...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-31T16:00:00Z",
-      "short_summary": "Build with Veo 3.1 Lite",
-      "tag": "MODEL"
+      "title": "Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization",
+      "url": "https://arxiv.org/abs/2604.02528",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02528v1 Announce Type: new \nAbstract: The new Specifications for the National Bridge Inventory (SNBI), in effect from 2022, emphasize the use of element-level conditi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-31T15:10:41Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling",
+      "url": "https://arxiv.org/abs/2604.02545",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02545v1 Announce Type: new \nAbstract: The preservation of intangible cultural heritage is a critical challenge as collective memory fades over time. While Large Langu...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "url": "https://huggingface.co/blog/trl-v1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-31T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+      "url": "https://arxiv.org/abs/2604.02585",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02585v1 Announce Type: new \nAbstract: LLMs are increasingly used for high-stakes decision-making, yet their sensitivity to spurious contextual information can introdu...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Liberate your OpenClaw",
-      "url": "https://huggingface.co/blog/liberate-your-openclaw",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-03-27T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Do Audio-Visual Large Language Models Really See and Hear?",
+      "url": "https://arxiv.org/abs/2604.02605",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02605v1 Announce Type: new \nAbstract: Audio-Visual Large Language Models (AVLLMs) are emerging as unified interfaces to multimodal perception. We present the first me...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
-      "source": "Google AI Blog",
-      "published_at": "2026-03-26T17:00:00Z",
-      "short_summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
-      "tag": "NEWS"
+      "title": "AutoVerifier: An Agentic Automated Verification Framework Using Large Language Models",
+      "url": "https://arxiv.org/abs/2604.02617",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-06T04:00:00Z",
+      "short_summary": "arXiv:2604.02617v1 Announce Type: new \nAbstract: Scientific and Technical Intelligence (S&TI) analysis requires verifying complex technical claims across rapidly growing literat...",
+      "tag": "RESEARCH"
     }
   ]
 };
