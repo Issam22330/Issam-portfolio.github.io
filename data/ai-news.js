@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-06T13:18:14.349070Z",
+  "last_updated": "2026-04-07T02:42:58.295368Z",
   "items": [
     {
       "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
