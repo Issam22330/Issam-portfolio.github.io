@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-07T13:25:44.823389Z",
+  "last_updated": "2026-04-08T02:43:32.652244Z",
   "items": [
     {
       "title": "IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking",
