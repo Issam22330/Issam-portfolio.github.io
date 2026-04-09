@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-08T13:26:13.173140Z",
+  "last_updated": "2026-04-09T02:38:14.175743Z",
   "items": [
+    {
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-08T14:27:42Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
       "url": "https://arxiv.org/abs/2604.04937",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-08T04:00:00Z",
       "short_summary": "arXiv:2604.05136v1 Announce Type: new \nAbstract: Fuzzy Cognitive Maps constitute a neuro-symbolic paradigm for modeling complex dynamic systems, widely adopted for their inheren...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A mathematical theory of evolution for self-designing AIs",
-      "url": "https://arxiv.org/abs/2604.05142",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05142v1 Announce Type: new \nAbstract: As artificial intelligence systems (AIs) become increasingly produced by recursive self-improvement, a form of evolution may eme...",
       "tag": "RESEARCH"
     }
   ]
