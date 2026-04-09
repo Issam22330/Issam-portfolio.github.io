@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-09T02:38:14.175743Z",
+  "last_updated": "2026-04-09T13:49:07.602370Z",
   "items": [
     {
-      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-08T14:27:42Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya",
-      "url": "https://arxiv.org/abs/2604.04937",
+      "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+      "url": "https://arxiv.org/abs/2604.06189",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.04937v1 Announce Type: new \nAbstract: Large language models produce fluent text but struggle with systematic reasoning, often hallucinating confident but unfounded cl...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Operational Noncommutativity in Sequential Metacognitive Judgments",
-      "url": "https://arxiv.org/abs/2604.04938",
+      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+      "url": "https://arxiv.org/abs/2604.06233",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.04938v1 Announce Type: new \nAbstract: Metacognition, understood as the monitoring and regulation of one's own cognitive processes, is inherently sequential: an agent ...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. Whe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
-      "url": "https://arxiv.org/abs/2604.04939",
+      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+      "url": "https://arxiv.org/abs/2604.06251",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.04939v1 Announce Type: new \nAbstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters ...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive cont...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback",
-      "url": "https://arxiv.org/abs/2604.04940",
+      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
+      "url": "https://arxiv.org/abs/2604.06277",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.04940v1 Announce Type: new \nAbstract: Designing effective heuristics for NP-hard combinatorial optimization problems remains a challenging and expertise-intensive tas...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
-      "url": "https://arxiv.org/abs/2604.04941",
+      "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
+      "url": "https://arxiv.org/abs/2604.06375",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.04941v1 Announce Type: new \nAbstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the c...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end ge...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PaperOrchestra: A Multi-Agent Framework for Automated AI Research Paper Writing",
-      "url": "https://arxiv.org/abs/2604.05018",
+      "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+      "url": "https://arxiv.org/abs/2604.06389",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05018v1 Announce Type: new \nAbstract: Synthesizing unstructured research materials into manuscripts is an essential yet under-explored challenge in AI-driven scientif...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06389v1 Announce Type: new \nAbstract: Uncertainty estimation for reasoning language models remains difficult to deploy in practice: sampling-based methods are computa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Part-Level 3D Gaussian Vehicle Generation with Joint and Hinge Axis Estimation",
-      "url": "https://arxiv.org/abs/2604.05070",
+      "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+      "url": "https://arxiv.org/abs/2604.06392",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05070v1 Announce Type: new \nAbstract: Simulation is essential for autonomous driving, yet current frameworks often model vehicles as rigid assets and fail to capture ...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06392v1 Announce Type: new \nAbstract: We present Qualixar OS, the first application-layer operating system for universal AI agent orchestration. Unlike kernel-level a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems",
-      "url": "https://arxiv.org/abs/2604.05075",
+      "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
+      "url": "https://arxiv.org/abs/2604.06401",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05075v1 Announce Type: new \nAbstract: Multi-objective retrosynthesis planning is a critical chemistry task requiring dynamic balancing of quality, safety, and cost ob...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06401v1 Announce Type: new \nAbstract: The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argum...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MedGemma 1.5 Technical Report",
-      "url": "https://arxiv.org/abs/2604.05081",
+      "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
+      "url": "https://arxiv.org/abs/2604.06405",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05081v1 Announce Type: new \nAbstract: We introduce MedGemma 1.5 4B, the latest model in the MedGemma collection. MedGemma 1.5 expands on MedGemma 1 by integrating add...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06405v1 Announce Type: new \nAbstract: Data harmonization remains a major bottleneck for integrative analysis due to heterogeneity in schemas, value representations, a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
-      "url": "https://arxiv.org/abs/2604.05116",
+      "title": "On Emotion-Sensitive Decision Making of Small Language Model Agents",
+      "url": "https://arxiv.org/abs/2604.06562",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05116v1 Announce Type: new \nAbstract: Clinical diagnosis requires sequential evidence acquisition under uncertainty. However, most Large Language Model (LLM) based di...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06562v1 Announce Type: new \nAbstract: Small language models (SLM) are increasingly used as interactive decision-making agents, yet most decision-oriented evaluations ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Non-monotonic causal discovery with Kolmogorov-Arnold Fuzzy Cognitive Maps",
-      "url": "https://arxiv.org/abs/2604.05136",
+      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
+      "url": "https://arxiv.org/abs/2604.06628",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-08T04:00:00Z",
-      "short_summary": "arXiv:2604.05136v1 Announce Type: new \nAbstract: Fuzzy Cognitive Maps constitute a neuro-symbolic paradigm for modeling complex dynamic systems, widely adopted for their inheren...",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06628v1 Announce Type: new \nAbstract: A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) g...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "KD-MARL: Resource-Aware Knowledge Distillation in Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2604.06691",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-09T04:00:00Z",
+      "short_summary": "arXiv:2604.06691v1 Announce Type: new \nAbstract: Real world deployment of multi agent reinforcement learning MARL systems is fundamentally constrained by limited compute memory ...",
       "tag": "RESEARCH"
     }
   ]
