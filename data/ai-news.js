@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-11T02:34:22.735182Z",
+  "last_updated": "2026-04-11T13:05:23.807178Z",
   "items": [
     {
-      "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
-      "url": "https://arxiv.org/abs/2604.06189",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combi...",
-      "tag": "RESEARCH"
+      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
+      "url": "https://huggingface.co/blog/waypoint-1-5",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-09T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
-      "url": "https://arxiv.org/abs/2604.06233",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. Whe...",
-      "tag": "RESEARCH"
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-09T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
-      "url": "https://arxiv.org/abs/2604.06251",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive cont...",
-      "tag": "RESEARCH"
+      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-08T14:27:42Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Weakly Supervised Distillation of Hallucination Signals into Transformer Representations",
-      "url": "https://arxiv.org/abs/2604.06277",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06277v1 Announce Type: new \nAbstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requi...",
-      "tag": "RESEARCH"
+      "title": "Safetensors is Joining the PyTorch Foundation",
+      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems",
-      "url": "https://arxiv.org/abs/2604.06375",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06375v1 Announce Type: new \nAbstract: AI-driven symptom analysis systems face persistent challenges in reliability, interpretability, and hallucination. End-to-end ge...",
-      "tag": "RESEARCH"
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Gemini API Dials",
+      "tag": "NEWS"
     },
     {
-      "title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
-      "url": "https://arxiv.org/abs/2604.06389",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06389v1 Announce Type: new \nAbstract: Uncertainty estimation for reasoning language models remains difficult to deploy in practice: sampling-based methods are computa...",
-      "tag": "RESEARCH"
+      "title": "Create, edit and share videos at no cost in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-02T16:00:00Z",
+      "short_summary": "Google Vids logo surrounded by various video editing UI",
+      "tag": "NEWS"
     },
     {
-      "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
-      "url": "https://arxiv.org/abs/2604.06392",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06392v1 Announce Type: new \nAbstract: We present Qualixar OS, the first application-layer operating system for universal AI agent orchestration. Unlike kernel-level a...",
-      "tag": "RESEARCH"
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-02T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning",
-      "url": "https://arxiv.org/abs/2604.06401",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06401v1 Announce Type: new \nAbstract: The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argum...",
-      "tag": "RESEARCH"
+      "title": "Holo3: Breaking the Computer Use Frontier",
+      "url": "https://huggingface.co/blog/Hcompany/holo3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-01T16:36:15Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "BDI-Kit Demo: A Toolkit for Programmable and Conversational Data Harmonization",
-      "url": "https://arxiv.org/abs/2604.06405",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06405v1 Announce Type: new \nAbstract: Data harmonization remains a major bottleneck for integrative analysis due to heterogeneity in schemas, value representations, a...",
-      "tag": "RESEARCH"
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-01T13:30:00Z",
+      "short_summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "tag": "NEWS"
     },
     {
-      "title": "On Emotion-Sensitive Decision Making of Small Language Model Agents",
-      "url": "https://arxiv.org/abs/2604.06562",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06562v1 Announce Type: new \nAbstract: Small language models (SLM) are increasingly used as interactive decision-making agents, yet most decision-oriented evaluations ...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in March 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-01T13:00:00Z",
+      "short_summary": "March 2026 AI Recap showing new updates",
+      "tag": "BREAKING"
     },
     {
-      "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
-      "url": "https://arxiv.org/abs/2604.06628",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06628v1 Announce Type: new \nAbstract: A prevailing narrative in LLM post-training holds that supervised finetuning (SFT) memorizes while reinforcement learning (RL) g...",
-      "tag": "RESEARCH"
+      "title": "Falcon Perception",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-01T07:13:20Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "KD-MARL: Resource-Aware Knowledge Distillation in Multi-Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2604.06691",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-10T04:00:00Z",
-      "short_summary": "arXiv:2604.06691v1 Announce Type: new \nAbstract: Real world deployment of multi agent reinforcement learning MARL systems is fundamentally constrained by limited compute memory ...",
-      "tag": "RESEARCH"
+      "title": "Any Custom Frontend with Gradio's Backend",
+      "url": "https://huggingface.co/blog/introducing-gradio-server",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-01T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
