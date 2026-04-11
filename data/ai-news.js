@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-10T13:18:50.082487Z",
+  "last_updated": "2026-04-11T02:34:22.735182Z",
   "items": [
     {
       "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
