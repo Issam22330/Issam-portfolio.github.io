@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-11T13:05:23.807178Z",
+  "last_updated": "2026-04-12T02:53:40.743644Z",
   "items": [
     {
       "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
