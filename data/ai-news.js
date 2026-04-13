@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-13T02:57:59.627530Z",
+  "last_updated": "2026-04-13T13:46:16.145635Z",
   "items": [
     {
-      "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
-      "url": "https://huggingface.co/blog/waypoint-1-5",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-09T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
+      "url": "https://arxiv.org/abs/2604.08601",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08601v1 Announce Type: new \nAbstract: The rise of autonomous AI agents exposes a fundamental flaw in API-centric architectures: probabilistic systems directly execute...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-09T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI",
+      "url": "https://arxiv.org/abs/2604.08603",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08603v1 Announce Type: new \nAbstract: Existing LLM-based agent systems share a common architectural failure: they answer from the unrestricted knowledge space without...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-08T14:27:42Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
+      "url": "https://arxiv.org/abs/2604.08621",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08621v1 Announce Type: new \nAbstract: In consumer applications, Customer Relationship Management (CRM) has traditionally relied on the manual optimisation of static, ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Safetensors is Joining the PyTorch Foundation",
-      "url": "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-08T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+      "url": "https://arxiv.org/abs/2604.08685",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08685v1 Announce Type: new \nAbstract: Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining suc...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-02T16:00:00Z",
-      "short_summary": "Gemini API Dials",
-      "tag": "NEWS"
+      "title": "Parameterized Complexity Of Representing Models Of MSO Formulas",
+      "url": "https://arxiv.org/abs/2604.08707",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08707v1 Announce Type: new \nAbstract: Monadic second order logic (MSO2) plays an important role in parameterized complexity due to the Courcelle's theorem. This theor...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Create, edit and share videos at no cost in Google Vids",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-02T16:00:00Z",
-      "short_summary": "Google Vids logo surrounded by various video editing UI",
-      "tag": "NEWS"
+      "title": "Model Space Reasoning as Search in Feedback Space for Planning Domain Generation",
+      "url": "https://arxiv.org/abs/2604.08712",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08712v1 Announce Type: new \nAbstract: The generation of planning domains from natural language descriptions remains an open problem even with the advent of large lang...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-02T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Artifacts as Memory Beyond the Agent Boundary",
+      "url": "https://arxiv.org/abs/2604.08756",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08756v1 Announce Type: new \nAbstract: The situated view of cognition holds that intelligent behavior depends not only on internal memory, but on an agent's active use...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Holo3: Breaking the Computer Use Frontier",
-      "url": "https://huggingface.co/blog/Hcompany/holo3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T16:36:15Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Hidden in Plain Sight: Visual-to-Symbolic Analytical Solution Inference from Field Visualizations",
+      "url": "https://arxiv.org/abs/2604.08863",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08863v1 Announce Type: new \nAbstract: Recovering analytical solutions of physical fields from visual observations is a fundamental yet underexplored capability for AI...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
-      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:30:00Z",
-      "short_summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
-      "tag": "NEWS"
+      "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+      "url": "https://arxiv.org/abs/2604.08865",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08865v1 Announce Type: new \nAbstract: Proximal Policy Optimization (PPO) is central to aligning Large Language Models (LLMs) in reasoning tasks with verifiable reward...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:00:00Z",
-      "short_summary": "March 2026 AI Recap showing new updates",
-      "tag": "BREAKING"
+      "title": "StaRPO: Stability-Augmented Reinforcement Policy Optimization",
+      "url": "https://arxiv.org/abs/2604.08905",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08905v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is effective in enhancing the accuracy of large language models in complex reasoning tasks. Existing...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Falcon Perception",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T07:13:20Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction",
+      "url": "https://arxiv.org/abs/2604.08931",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08931v1 Announce Type: new \nAbstract: Human cognitive development is shaped not only by individual effort but by structured social interaction, where role-based excha...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Any Custom Frontend with Gradio's Backend",
-      "url": "https://huggingface.co/blog/introducing-gradio-server",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-01T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "PilotBench: A Benchmark for General Aviation Agents with Safety Constraints",
+      "url": "https://arxiv.org/abs/2604.08987",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-13T04:00:00Z",
+      "short_summary": "arXiv:2604.08987v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) advance toward embodied AI agents operating in physical environments, a fundamental question eme...",
+      "tag": "RESEARCH"
     }
   ]
 };
