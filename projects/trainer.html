@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrAIner | Intelligent Fitness & Nutrition App</title>
+    <meta name="description" content="TrAIner is a smart fitness and health application unifying workout tracking, nutritional control, and an intelligent AI assistant.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Main Style -->
+    <link rel="stylesheet" href="../css/style.css">
+    
+    <style>
+        /* Custom Styles for TrAIner Page */
+        :root {
+            --trainer-primary: #00FFAA;
+            --trainer-accent: #FF5E5E;
+            --trainer-bg: #0A1110;
+            --trainer-card: rgba(255, 255, 255, 0.02);
+            --trainer-border: rgba(255, 255, 255, 0.08); /* slightly softer border */
+        }
+        
+        body {
+            background-color: var(--trainer-bg);
+            color: #ffffff;
+            font-family: 'Outfit', sans-serif;
+            overflow-x: hidden;
+        }
+
+        /* Language Toggle Styles */
+        body.lang-es .lang-en { display: none !important; }
+        body:not(.lang-es) .lang-es { display: none !important; }
+
+        /* Nav */
+        .glass-header { background: rgba(10, 17, 16, 0.85); backdrop-filter: blur(12px); border-bottom: 1px solid var(--trainer-border); }
+        .back-nav { display: flex; align-items: center; gap: 0.5rem; color: #fff; text-decoration: none; font-weight: 600; transition: color 0.3s; }
+        .back-nav:hover { color: var(--trainer-primary); }
+
+        /* Hero */
+        .trainer-hero {
+            position: relative;
+            padding: 180px 5% 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 80vh;
+            background: radial-gradient(circle at 50% 20%, rgba(0, 255, 170, 0.12) 0%, rgba(10, 17, 16, 1) 60%);
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .hero-bg-anim {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: 
+                linear-gradient(rgba(0, 255, 170, 0.05) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 255, 170, 0.05) 1px, transparent 1px);
+            background-size: 50px 50px;
+            opacity: 0.4;
+            transform: perspective(500px) rotateX(60deg) translateY(-100px) translateZ(-200px);
+            animation: gridMove 20s linear infinite;
+        }
+
+        @keyframes gridMove {
+            0% { background-position: 0 0; }
+            100% { background-position: 0 1000px; } /* moving down to give forward motion effect */
+        }
+
+        .trainer-hero-content {
+            position: relative;
+            z-index: 10;
+            max-width: 900px;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .trainer-logo-img { max-height: 160px; margin-bottom: 1.5rem; filter: drop-shadow(0 0 25px rgba(0, 255, 170, 0.5)); border-radius: 30px; }
+        
+        .trainer-title {
+            font-size: 5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #fff, var(--trainer-primary));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+            letter-spacing: -1px;
+        }
+
+        .trainer-tagline { font-family: 'Space Mono', monospace; color: var(--trainer-accent); font-size: 1.2rem; margin-bottom: 2rem; letter-spacing: 1px;}
+        .trainer-intro { font-size: 1.25rem; line-height: 1.8; color: #a0aec0; margin-bottom: 2.5rem; }
+
+        /* Sections */
+        .t-section { padding: 80px 5%; max-width: 1200px; margin: 0 auto; position: relative; }
+        .t-section-title { font-size: 2.5rem; font-weight: 600; margin-bottom: 3rem; text-align: center; }
+        .t-section-title span { color: var(--trainer-primary); }
+
+        /* Emphasized Why Section */
+        .why-section {
+            background: linear-gradient(135deg, rgba(10,17,16,0) 0%, rgba(0, 255, 170, 0.04) 50%, rgba(10,17,16,0) 100%);
+            border-top: 1px solid var(--trainer-border);
+            border-bottom: 1px solid var(--trainer-border);
+            text-align: center;
+            padding: 100px 5%;
+            margin: 4rem 0;
+        }
+        .why-text {
+            font-size: 1.6rem;
+            line-height: 1.8;
+            max-width: 900px;
+            margin: 0 auto;
+            color: #e2e8f0;
+            font-weight: 300;
+        }
+        .highlight { color: var(--trainer-primary); font-weight: 600; text-shadow: 0 0 10px rgba(0, 255, 170, 0.3);}
+
+        /* Key Features */
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 2.5rem;
+        }
+        
+        .t-card {
+            background: var(--trainer-card);
+            border: 1px solid var(--trainer-border);
+            border-radius: 20px;
+            padding: 2.5rem;
+            backdrop-filter: blur(10px);
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.4s;
+            position: relative;
+            overflow: hidden;
+        }
+        .t-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 4px;
+            background: linear-gradient(90deg, transparent, var(--trainer-primary), transparent);
+            transform: scaleX(0);
+            transition: transform 0.5s ease;
+        }
+        .t-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 35px rgba(0, 255, 170, 0.1);
+            border-color: rgba(0, 255, 170, 0.3);
+            background: rgba(255, 255, 255, 0.04);
+        }
+        .t-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .t-card i { 
+            font-size: 2.5rem; 
+            color: var(--trainer-primary); 
+            margin-bottom: 1.5rem; 
+            display: inline-block;
+            background: -webkit-linear-gradient(45deg, var(--trainer-primary), #00C2FF);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+        }
+        .t-card h3 { font-size: 1.5rem; margin-bottom: 1rem; color: #fff; font-weight: 600;}
+        .t-card p { color: #a0aec0; line-height: 1.7; font-size: 1.05rem; }
+
+        /* Bot Section Highlight */
+        .bot-highlight {
+            display: flex;
+            align-items: center;
+            gap: 4rem;
+            background: linear-gradient(135deg, rgba(255,255,255,0.03), rgba(0, 255, 170, 0.05));
+            border-radius: 30px;
+            padding: 4rem;
+            border: 1px solid var(--trainer-border);
+            margin: 4rem 0;
+            overflow: hidden;
+            position: relative;
+        }
+        .bot-highlight::after {
+            content: "\f544"; /* robot icon */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            position: absolute;
+            right: -20px;
+            bottom: -50px;
+            font-size: 20rem;
+            color: rgba(0, 255, 170, 0.03);
+            z-index: 0;
+            transform: rotate(-15deg);
+        }
+
+        .bot-text { flex: 1; z-index: 1;}
+        .bot-text h3 { font-size: 2.2rem; color: #fff; margin-bottom: 1rem; }
+        .bot-text h3 span { color: var(--trainer-primary); }
+        .bot-text p { font-size: 1.15rem; line-height: 1.8; color: #cbd5e1; margin-bottom: 1.5rem;}
+        
+        .bot-visual {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1;
+        }
+        .bot-avatar {
+            width: 180px; height: 180px;
+            background: linear-gradient(135deg, var(--trainer-primary), #00A6FF);
+            border-radius: 50%;
+            display: flex; justify-content: center; align-items: center;
+            font-size: 5rem; color: #fff;
+            box-shadow: 0 0 50px rgba(0, 255, 170, 0.4);
+            animation: pulseBot 3s infinite ease-in-out;
+        }
+        @keyframes pulseBot {
+            0% { box-shadow: 0 0 30px rgba(0, 255, 170, 0.4); transform: scale(1); }
+            50% { box-shadow: 0 0 70px rgba(0, 255, 170, 0.7); transform: scale(1.05); }
+            100% { box-shadow: 0 0 30px rgba(0, 255, 170, 0.4); transform: scale(1); }
+        }
+
+        @media (max-width: 900px) {
+            .bot-highlight { flex-direction: column; padding: 2.5rem; gap: 2rem; text-align: center; }
+            .trainer-title { font-size: 3.5rem; }
+        }
+
+        /* CTA */
+        .cta-container { text-align: center; padding: 4rem 0 8rem; }
+        .main-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 1rem;
+            background: linear-gradient(135deg, var(--trainer-primary), #00C2FF);
+            color: #0A1110;
+            padding: 1.2rem 3rem;
+            font-size: 1.25rem;
+            border-radius: 50px;
+            font-weight: 700;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 25px rgba(0, 255, 170, 0.4);
+            border: none;
+            cursor: pointer;
+        }
+        .main-btn:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 15px 35px rgba(0, 255, 170, 0.6);
+        }
+
+        /* Animations */
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+        
+        .fade-in-section { opacity: 0; transform: translateY(20px); transition: opacity 0.8s ease-out, transform 0.8s ease-out; }
+        .fade-in-section.is-visible { opacity: 1; transform: none; }
+    </style>
+</head>
+<body>
+
+    <header class="glass-header" style="position: fixed; width: 100%; top: 0; z-index: 100;">
+        <nav aria-label="Main Navigation" style="padding: 1rem 5%; height: 70px; display: flex; align-items: center;">
+            <a href="../index.html#projects" class="back-nav">
+                <i class="fas fa-arrow-left"></i>
+                <span class="lang-en">Back to Portfolio</span>
+                <span class="lang-es">Volver al Portfolio</span>
+            </a>
+            
+            <button id="trainer-lang-toggle" style="background: none; border: 1px solid var(--trainer-primary); color: #fff; padding: 0.3rem 0.8rem; border-radius: 4px; cursor: pointer; margin-left: auto; transition: all 0.3s; font-family: 'Space Mono', monospace;">
+                ES
+            </button>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="trainer-hero">
+            <div class="hero-bg-anim"></div>
+            <div class="trainer-hero-content">
+                <img src="../data/Icono-TrAInerAPP.png" alt="TrAIner App Logo" class="trainer-logo-img">
+                <h1 class="trainer-title">TrAIner</h1>
+                <h2 class="trainer-tagline">
+                    <span class="lang-en">Your complete fitness companion.</span>
+                    <span class="lang-es">Tu compañero de fitness completo.</span>
+                </h2>
+                <p class="trainer-intro">
+                    <span class="lang-en">A premium mobile application designed to go beyond traditional workout tracking. TrAIner unifies training logs, nutritional control, and contextual Artificial Intelligence into a single robust and visually stunning experience.</span>
+                    <span class="lang-es">Una aplicación móvil premium diseñada para ir mucho más allá del típico registro de entrenamientos. TrAIner unifica el seguimiento físico, el control nutricional y la Inteligencia Artificial contextual en una sola experiencia robusta y visualmente atractiva.</span>
+                </p>
+            </div>
+        </section>
+
+        <!-- Why TrAIner -->
+        <section class="why-section fade-in-section">
+            <p class="why-text">
+                <span class="lang-en">TrAIner is more than just a digital notebook. It is an intelligent product that accompanies you <span class="highlight">before, during, and after</span> your workouts, integrating a vast exercise knowledge base with personalized nutritional guidance and immediate smart assistance.</span>
+                <span class="lang-es">TrAIner es más que una simple libreta digital. Es un producto inteligente que te acompaña <span class="highlight">antes, durante y después</span> de entrenar, integrando una gran base de conocimiento de ejercicios con orientación nutricional personalizada y asistencia inteligente inmediata.</span>
+            </p>
+        </section>
+
+        <!-- Key Features -->
+        <section class="t-section fade-in-section">
+            <h2 class="t-section-title">
+                <span class="lang-en">Complete <span>Training Suite</span></span>
+                <span class="lang-es">Suite Completa <span>de Entrenamiento</span></span>
+            </h2>
+            <div class="features-grid">
+                <div class="t-card">
+                    <i class="fas fa-dumbbell"></i>
+                    <h3>
+                        <span class="lang-en">Workout Tracking</span>
+                        <span class="lang-es">Registro de Entrenamientos</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Log your sessions in real time. Add sets, note variations in weights and repetitions, and securely keep track of your daily progress.</span>
+                        <span class="lang-es">Registra tus sesiones en tiempo real. Añade series, anota variaciones en peso y repeticiones, y mantén un historial seguro de tu progreso diario.</span>
+                    </p>
+                </div>
+                <div class="t-card">
+                    <i class="fas fa-book-open"></i>
+                    <h3>
+                        <span class="lang-en">Extensive Catalog</span>
+                        <span class="lang-es">Catálogo Extenso</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Access an integrated catalog of 156 exercises, broken down by muscle groups, including proper execution steps and detailed guidance.</span>
+                        <span class="lang-es">Accede a un catálogo integrado de 156 ejercicios segmentados por grupos musculares, incluyendo pasos de ejecución correctos y orientación detallada.</span>
+                    </p>
+                </div>
+                <div class="t-card">
+                    <i class="fas fa-apple-alt"></i>
+                    <h3>
+                        <span class="lang-en">Nutritional Control</span>
+                        <span class="lang-es">Control Nutricional</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Calculate personalized daily calorie and macro goals. Visually track your daily food intake and scan barcodes to log items quickly and efficiently.</span>
+                        <span class="lang-es">Calcula metas diarias de calorías y macros personalizadas. Observa visualmente el progreso de tu alimentación y escanea códigos de barras para registrar alimentos eficazmente.</span>
+                    </p>
+                </div>
+                <div class="t-card">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>
+                        <span class="lang-en">Analytics & History</span>
+                        <span class="lang-es">Analíticas e Historial</span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">Review your complete workout history to analyze consistency, personal records, and evolutionary trends in your fitness journey.</span>
+                        <span class="lang-es">Revisa tu historial completo para analizar consistencia, marcas personales y tendencias de evolución en tu viaje de acondicionamiento físico.</span>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- TrAInerBot Highlight -->
+        <section class="t-section fade-in-section">
+            <div class="bot-highlight">
+                <div class="bot-text">
+                    <h3>
+                        <span class="lang-en">Meet <span>TrAInerBot</span></span>
+                        <span class="lang-es">Conoce a <span>TrAInerBot</span></span>
+                    </h3>
+                    <p>
+                        <span class="lang-en">The most innovative component of the project is its intelligent assistant. TrAInerBot is not just a generic chat; it is a contextual AI layer applied to the fitness domain.</span>
+                        <span class="lang-es">El componente más innovador del proyecto es su asistente inteligente. TrAInerBot no es un chat genérico; es una capa de inteligencia contextual aplicada al dominio del fitness.</span>
+                    </p>
+                    <p>
+                        <span class="lang-en">It uses internal app information to explain exercises accurately, assist beginners, generate customized routines based on user goals, and navigate the application seamlessly. With the ability to run locally or leverage powerful APIs, TrAInerBot remains robust and highly personalized.</span>
+                        <span class="lang-es">Utiliza la información interna de la app para explicar ejercicios con precisión, ayudar a principiantes, generar rutinas sugeridas según objetivos del usuario y facilitar la navegación. Con capacidad para operar localmente, TrAInerBot se mantiene robusto y altamente personalizado en todo momento.</span>
+                    </p>
+                </div>
+                <div class="bot-visual">
+                    <div class="bot-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- App Evolution -->
+        <section class="t-section fade-in-section">
+            <h2 class="t-section-title">
+                <span class="lang-en">Constant <span>Evolution</span></span>
+                <span class="lang-es">Evolución <span>Constante</span></span>
+            </h2>
+            <div class="features-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
+                <div class="t-card" style="padding: 2rem;">
+                    <i class="fas fa-paint-brush" style="font-size: 2rem; margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.3rem;">
+                        <span class="lang-en">Premium Interface</span>
+                        <span class="lang-es">Interfaz Premium</span>
+                    </h3>
+                    <p style="font-size: 0.95rem;">
+                        <span class="lang-en">A deeply revamped visual design, structured to deliver a modern, cohesive, and professional final product.</span>
+                        <span class="lang-es">Un diseño visual profundamente renovado, estructurado para ofrecer un producto final moderno, coherente y profesional.</span>
+                    </p>
+                </div>
+                <div class="t-card" style="padding: 2rem;">
+                    <i class="fas fa-bolt" style="font-size: 2rem; margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.3rem;">
+                        <span class="lang-en">Local AI Execution</span>
+                        <span class="lang-es">Ejecución IA Local</span>
+                    </h3>
+                    <p style="font-size: 0.95rem;">
+                        <span class="lang-en">Enhancing accessibility and robustness, the assistant works efficiently out-of-the-box leveraging integrated datasets.</span>
+                        <span class="lang-es">Mejorando accesibilidad y robustez, el asistente funciona de manera independiente utilizando datos integrados localmente.</span>
+                    </p>
+                </div>
+                <div class="t-card" style="padding: 2rem;">
+                    <i class="fas fa-qrcode" style="font-size: 2rem; margin-bottom: 1rem;"></i>
+                    <h3 style="font-size: 1.3rem;">
+                        <span class="lang-en">Barcode Scanning</span>
+                        <span class="lang-es">Escaneo de Códigos</span>
+                    </h3>
+                    <p style="font-size: 0.95rem;">
+                        <span class="lang-en">Optimized nutritional integrations feature real-world utility like capturing product data in seconds.</span>
+                        <span class="lang-es">Las integraciones nutricionales optimizadas incluyen ventajas reales como capturar datos de productos en segundos.</span>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA -->
+        <section class="t-section fade-in-section">
+            <div class="cta-container">
+                <h2 class="t-section-title" style="margin-bottom: 2rem; max-width: 800px; margin-left: auto; margin-right: auto;">
+                    <span class="lang-en">Elevate Your Fitness Journey</span>
+                    <span class="lang-es">Eleva tu Experiencia de Entrenamiento</span>
+                </h2>
+                <a href="../index.html#projects" class="main-btn">
+                    <i class="fas fa-arrow-left"></i> 
+                    <span class="lang-en">Return to Portfolio</span>
+                    <span class="lang-es">Volver al Portfolio</span>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer style="text-align: center; padding: 2rem; border-top: 1px solid var(--trainer-border); color: #a0aec0;">
+        <p>
+            <span class="lang-en">&copy; 2026 Issam Mezdagat. Built with Code & AI.</span>
+            <span class="lang-es">&copy; 2026 Issam Mezdagat. Construido con Código e IA.</span>
+        </p>
+    </footer>
+
+    <!-- Animations & Language Toggle -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            // -- Scroll animations --
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.15
+            };
+
+            const observer = new IntersectionObserver((entries, obs) => {
+                entries.forEach(entry => {
+                    if(entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                        obs.unobserve(entry.target);
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('.fade-in-section').forEach(section => {
+                observer.observe(section);
+            });
+
+            // -- Language Toggle --
+            const langBtn = document.getElementById('trainer-lang-toggle');
+            let isEs = false; // Default is English, matching index toggle logic which defaults to ES mostly but the user sets it up.
+            
+            // Checking URL or localStorage could go here
+            
+            langBtn.addEventListener('click', () => {
+                isEs = !isEs;
+                if (isEs) {
+                    document.body.classList.add('lang-es');
+                    document.documentElement.lang = 'es';
+                    langBtn.textContent = 'EN';
+                } else {
+                    document.body.classList.remove('lang-es');
+                    document.documentElement.lang = 'en';
+                    langBtn.textContent = 'ES';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -17,6 +17,7 @@ window.translations = {
         "btn_view_work": "View Projects",
         "btn_cv": "Download CV",
         "btn_contact": "Contact",
+        "btn_view_project": "View Project",
         "scroll_text": "Scroll",
 
         "about_title": "About Me",
@@ -95,11 +96,11 @@ window.translations = {
 
         "proj_2_title": "TrAIner",
         "proj_2_subtitle": "AI-Powered Fitness App",
-        "proj_2_problem": "<strong>Problem:</strong> Users find it difficult to maintain personalized workout and nutrition plans without hiring expensive coaches.",
-        "proj_2_solution": "<strong>Solution:</strong> An all-in-one Android application featuring 'TrAInerBot', a virtual coach that customizes workouts and tracks diet in real-time.",
-        "proj_2_role": "<strong>My Role:</strong> Sole developer. Created the Android frontend, engineered the backend on Firebase, and integrated an offline LLaMA 3 instance via Docker for the conversational agent.",
-        "proj_2_results": "<strong>Results:</strong> Optimized offline LLM performance, achieving 45 tokens/sec using 4-bit quantization on edge devices.<div class='chart-container' style='position: relative; height:180px; margin-top:1rem;'><canvas id='chart-proj2'></canvas></div>",
-        "proj_2_tech": "Android Studio • Firebase • LLaMA 3 • Docker",
+        "proj_2_problem": "<strong>Problem:</strong> Existing apps are either simple notebooks or lack intelligent guidance, making it hard to follow a consistent fitness journey.",
+        "proj_2_solution": "<strong>Solution:</strong> A complete app offering workout tracking, nutritional control, and 'TrAInerBot', an AI assistant that explains exercises and builds routines.",
+        "proj_2_role": "<strong>My Role:</strong> Product creator. Designed and developed the entire robust application, focusing on a premium UI and seamless AI integration to enhance the user experience.",
+        "proj_2_results": "<strong>Results:</strong> Created an innovative and cohesive mobile application that replaces multiple tools and guides users effectively.<div class='chart-container' style='position: relative; height:180px; margin-top:1rem;'><canvas id='chart-proj2'></canvas></div>",
+        "proj_2_tech": "Mobile App • Contextual AI • Data Persistence • UX Design",
 
         "proj_3_title": "Kpital",
         "proj_3_subtitle": "Personal Finance & Investment App",
@@ -147,6 +148,7 @@ window.translations = {
         "btn_view_work": "Ver Proyectos",
         "btn_cv": "Descargar CV",
         "btn_contact": "Contacto",
+        "btn_view_project": "Ver Proyecto",
         "scroll_text": "Desliza",
 
         "about_title": "Sobre Mí",
@@ -225,11 +227,11 @@ window.translations = {
 
         "proj_2_title": "TrAIner",
         "proj_2_subtitle": "App de Fitness con IA",
-        "proj_2_problem": "<strong>Problema:</strong> Los usuarios encuentran difícil mantener planes de dieta y entrenamiento sin pagar entrenadores caros.",
-        "proj_2_solution": "<strong>Solución:</strong> Una app todo en uno para Android con 'TrAInerBot', un entrenador virtual que personaliza las rutinas en tiempo real.",
-        "proj_2_role": "<strong>Mi Rol:</strong> Desarrollador único. Creé el frontend en Android, el backend en Firebase e integré un agente conversacional offline basado en LLaMA 3 con Docker.",
-        "proj_2_results": "<strong>Resultados:</strong> Optimización de latencia del LLM offline, alcanzando 45 tokens/seg con cuantización a 4-bits.<div class='chart-container' style='position: relative; height:180px; margin-top:1rem;'><canvas id='chart-proj2'></canvas></div>",
-        "proj_2_tech": "Android Studio • Firebase • LLaMA 3 • Docker",
+        "proj_2_problem": "<strong>Problema:</strong> Las apps actuales o son simples libretas digitales o limitan la orientación inteligente, dificultando la constancia.",
+        "proj_2_solution": "<strong>Solución:</strong> Una app completa que unifica el registro de entrenamientos, control nutricional y 'TrAInerBot' para orientar y crear rutinas.",
+        "proj_2_role": "<strong>Mi Rol:</strong> Creador del producto. Diseñé y desarrollé la aplicación completa enfocándome en una interfaz premium y la integración fluida de IA.",
+        "proj_2_results": "<strong>Resultados:</strong> Creación de una aplicación móvil unificada que sustituye múltiples herramientas y orienta al usuario eficazmente.<div class='chart-container' style='position: relative; height:180px; margin-top:1rem;'><canvas id='chart-proj2'></canvas></div>",
+        "proj_2_tech": "App Móvil • IA Contextual • Base de Datos • UX Design",
 
         "proj_3_title": "Kpital",
         "proj_3_subtitle": "App de Finanzas Personales e Inversión",
