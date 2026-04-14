@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-13T13:46:16.145635Z",
+  "last_updated": "2026-04-14T02:51:16.690434Z",
   "items": [
     {
       "title": "OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains",
