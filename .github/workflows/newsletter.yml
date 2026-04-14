@@ -1,0 +1,28 @@
+name: Enviar Boletín IA Diario
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 09:00 de la mañana (hora de España aprx) que es 08:00 UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Permite ejecutarlo a mano desde la web de GitHub
+
+jobs:
+  run-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+        
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Instalar dependencias
+        run: pip install -r ai-newsletter/requirements.txt
+          
+      - name: Extraer noticias y enviar Email
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
+        run: cd ai-newsletter && python main.py
