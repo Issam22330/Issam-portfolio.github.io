@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-15T02:49:09.519658Z",
+  "last_updated": "2026-04-15T13:45:14.543793Z",
   "items": [
     {
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-14T17:00:00Z",
-      "short_summary": "Video showing Skills in Chrome",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "url": "https://huggingface.co/blog/Hcompany/holotab",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-15T09:25:20Z",
+      "short_summary": "",
       "tag": "NEWS"
     },
     {
-      "title": "Bringing people together at AI for the Economy Forum",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-14T09:00:00Z",
-      "short_summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
-      "tag": "NEWS"
-    },
-    {
-      "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
-      "url": "https://arxiv.org/abs/2604.09554",
+      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
+      "url": "https://arxiv.org/abs/2604.11828",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09554v1 Announce Type: new \nAbstract: Optimism for accelerating scientific discovery with AI continues to grow. Current applications of AI in scientific research rang...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.11828v1 Announce Type: new \nAbstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{traje...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis",
-      "url": "https://arxiv.org/abs/2604.09555",
+      "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
+      "url": "https://arxiv.org/abs/2604.11914",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09555v1 Announce Type: new \nAbstract: Multi-criteria Analysis (MCA) is used to rank alternatives based on various criteria. Key MCA methods, such as Multiple Criteria...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.11914v1 Announce Type: new \nAbstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful addition...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Seven simple steps for log analysis in AI systems",
-      "url": "https://arxiv.org/abs/2604.09563",
+      "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
+      "url": "https://arxiv.org/abs/2604.11924",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09563v1 Announce Type: new \nAbstract: AI systems produce large volumes of logs as they interact with tools and users. Analysing these logs can help understand model c...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.11924v1 Announce Type: new \nAbstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
-      "url": "https://arxiv.org/abs/2604.09574",
+      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
+      "url": "https://arxiv.org/abs/2604.11969",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09574v1 Announce Type: new \nAbstract: The rise of autonomous GUI agents has triggered adversarial countermeasures from digital platforms, yet existing research priori...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.11969v1 Announce Type: new \nAbstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
-      "url": "https://arxiv.org/abs/2604.09576",
+      "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+      "url": "https://arxiv.org/abs/2604.11978",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09576v1 Announce Type: new \nAbstract: Deploying continual object detection on microcontrollers (MCUs) with under 100KB memory requires efficient feature compression t...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.11978v1 Announce Type: new \nAbstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Explainable Planning for Hybrid Systems",
-      "url": "https://arxiv.org/abs/2604.09578",
+      "title": "When to Forget: A Memory Governance Primitive",
+      "url": "https://arxiv.org/abs/2604.12007",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09578v1 Announce Type: new \nAbstract: The recent advancement in artificial intelligence (AI) technologies facilitates a paradigm shift toward automation. Autonomous s...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.12007v1 Announce Type: new \nAbstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- d...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Help Without Being Asked: A Deployed Proactive Agent System for On-Call Support with Continuous Self-Improvement",
-      "url": "https://arxiv.org/abs/2604.09579",
+      "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+      "url": "https://arxiv.org/abs/2604.12016",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09579v1 Announce Type: new \nAbstract: In large-scale cloud service platforms, thousands of customer tickets are generated daily and are typically handled through on-c...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.12016v1 Announce Type: new \nAbstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling",
-      "url": "https://arxiv.org/abs/2604.09580",
+      "title": "A longitudinal health agent framework",
+      "url": "https://arxiv.org/abs/2604.12019",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09580v1 Announce Type: new \nAbstract: Standard Chain-of-Thought (CoT) prompting empowers Large Language Models (LLMs) with reasoning capabilities, yet its reliance on...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.12019v1 Announce Type: new \nAbstract: Although artificial intelligence (AI) agents are increasingly proposed to support potentially longitudinal health tasks, such as...",
       "tag": "RESEARCH"
     },
     {
-      "title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
-      "url": "https://arxiv.org/abs/2604.09581",
+      "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
+      "url": "https://arxiv.org/abs/2604.12025",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09581v1 Announce Type: new \nAbstract: Evaluating web usability typically requires time-consuming user studies and expert reviews, which often limits iteration speed d...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.12025v1 Announce Type: new \nAbstract: The Semantic Web standardizes concept meaning for humans and machines, enabling machine-operable content and consistent interpre...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Factorizing formal contexts from closures of necessity operators",
-      "url": "https://arxiv.org/abs/2604.09582",
+      "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+      "url": "https://arxiv.org/abs/2604.12034",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09582v1 Announce Type: new \nAbstract: Factorizing datasets is an interesting process in a multitude of approaches, but many times it is not possible or efficient the ...",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
+      "url": "https://arxiv.org/abs/2604.12066",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-15T04:00:00Z",
+      "short_summary": "arXiv:2604.12066v1 Announce Type: new \nAbstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a m...",
       "tag": "RESEARCH"
     }
   ]
