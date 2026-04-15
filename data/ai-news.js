@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-14T13:50:37.603873Z",
+  "last_updated": "2026-04-15T02:49:09.519658Z",
   "items": [
+    {
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-14T17:00:00Z",
+      "short_summary": "Video showing Skills in Chrome",
+      "tag": "NEWS"
+    },
     {
       "title": "Bringing people together at AI for the Economy Forum",
       "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-14T04:00:00Z",
       "short_summary": "arXiv:2604.09582v1 Announce Type: new \nAbstract: Factorizing datasets is an interesting process in a multitude of approaches, but many times it is not possible or efficient the ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Agentic Exploration of PDE Spaces using Latent Foundation Models for Parameterized Simulations",
-      "url": "https://arxiv.org/abs/2604.09584",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-14T04:00:00Z",
-      "short_summary": "arXiv:2604.09584v1 Announce Type: new \nAbstract: Flow physics and more broadly physical phenomena governed by partial differential equations (PDEs), are inherently continuous, h...",
       "tag": "RESEARCH"
     }
   ]
