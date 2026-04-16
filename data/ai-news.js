@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-15T13:45:14.543793Z",
+  "last_updated": "2026-04-16T02:55:57.359625Z",
   "items": [
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-15T15:00:00Z",
+      "short_summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-15T12:07:25Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Meet HoloTab by HCompany. Your AI browser companion.",
       "url": "https://huggingface.co/blog/Hcompany/holotab",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-15T04:00:00Z",
       "short_summary": "arXiv:2604.12025v1 Announce Type: new \nAbstract: The Semantic Web standardizes concept meaning for humans and machines, enabling machine-operable content and consistent interpre...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
-      "url": "https://arxiv.org/abs/2604.12034",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-15T04:00:00Z",
-      "short_summary": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
-      "url": "https://arxiv.org/abs/2604.12066",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-15T04:00:00Z",
-      "short_summary": "arXiv:2604.12066v1 Announce Type: new \nAbstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a m...",
       "tag": "RESEARCH"
     }
   ]
