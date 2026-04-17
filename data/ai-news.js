@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-16T13:54:20.743808Z",
+  "last_updated": "2026-04-17T02:51:43.588352Z",
   "items": [
+    {
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-16T17:00:00Z",
+      "short_summary": "AI Mode in Chrome",
+      "tag": "NEWS"
+    },
+    {
+      "title": "New ways to create personalized images in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-16T16:00:00Z",
+      "short_summary": "Example images made with Personal Intelligence",
+      "tag": "NEWS"
+    },
     {
       "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
       "url": "https://arxiv.org/abs/2604.11828",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-16T04:00:00Z",
       "short_summary": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation",
-      "url": "https://arxiv.org/abs/2604.12066",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12066v1 Announce Type: new \nAbstract: Large language models can increasingly adapt educational tasks to learners characteristics. In the present study, we examine a m...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Human-Inspired Context-Selective Multimodal Memory for Social Robots",
-      "url": "https://arxiv.org/abs/2604.12081",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12081v1 Announce Type: new \nAbstract: Memory is fundamental to social interaction, enabling humans to recall meaningful past experiences and adapt their behavior acco...",
       "tag": "RESEARCH"
     }
   ]
