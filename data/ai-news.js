@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-17T02:51:43.588352Z",
+  "last_updated": "2026-04-17T13:25:56.902896Z",
   "items": [
     {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-16T17:00:00Z",
-      "short_summary": "AI Mode in Chrome",
-      "tag": "NEWS"
-    },
-    {
-      "title": "New ways to create personalized images in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-16T16:00:00Z",
-      "short_summary": "Example images made with Personal Intelligence",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap",
-      "url": "https://arxiv.org/abs/2604.11828",
+      "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+      "url": "https://arxiv.org/abs/2604.13151",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.11828v2 Announce Type: new \nAbstract: Science is widely regarded as humanity's most reliable method for uncovering truths about the natural world. Yet the \\emph{traje...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13151v1 Announce Type: new \nAbstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A c...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents",
-      "url": "https://arxiv.org/abs/2604.11914",
+      "title": "SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications",
+      "url": "https://arxiv.org/abs/2604.13180",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.11914v1 Announce Type: new \nAbstract: Self-monitoring capabilities -- metacognition, self-prediction, and subjective duration -- are often proposed as useful addition...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13180v1 Announce Type: new \nAbstract: Recent advances in agentic AI have enabled increasingly autonomous workflows, but existing systems still face substantial challe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses",
-      "url": "https://arxiv.org/abs/2604.11924",
+      "title": "Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models",
+      "url": "https://arxiv.org/abs/2604.13206",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.11924v1 Announce Type: new \nAbstract: While LLMs hold significant potential to transform scientific research, we advocate for their use to augment and empower researc...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13206v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) are increasingly integrated into agentic workflows, their unpredictability stemming from numeric...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Narrative-Driven Paper-to-Slide Generation via ArcDeck",
-      "url": "https://arxiv.org/abs/2604.11969",
+      "title": "Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach",
+      "url": "https://arxiv.org/abs/2604.13283",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.11969v1 Announce Type: new \nAbstract: We introduce ArcDeck, a multi-agent framework that formulates paper-to-slide generation as a structured narrative reconstruction...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13283v1 Announce Type: new \nAbstract: Earth Observation (EO) satellite scheduling (deciding which imaging tasks to perform and when) is a well-studied combinatorial o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
-      "url": "https://arxiv.org/abs/2604.11978",
+      "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
+      "url": "https://arxiv.org/abs/2604.13318",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.11978v1 Announce Type: new \nAbstract: Large language model (LLM) agents perform strongly on short- and mid-horizon tasks, but often break down on long-horizon tasks t...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13318v1 Announce Type: new \nAbstract: Autonomous web agents powered by large language models (LLMs) have shown promise in completing complex browser tasks, yet they s...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When to Forget: A Memory Governance Primitive",
-      "url": "https://arxiv.org/abs/2604.12007",
+      "title": "Listening Alone, Understanding Together: Collaborative Context Recovery for Privacy-Aware AI",
+      "url": "https://arxiv.org/abs/2604.13348",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12007v1 Announce Type: new \nAbstract: Agent memory systems accumulate experience but currently lack a principled operational metric for memory quality governance -- d...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13348v1 Announce Type: new \nAbstract: We introduce CONCORD, a privacy-aware asynchronous assistant-to-assistant (A2A) framework that leverages collaboration between p...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
-      "url": "https://arxiv.org/abs/2604.12016",
+      "title": "ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold",
+      "url": "https://arxiv.org/abs/2604.13392",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12016v1 Announce Type: new \nAbstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attr...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13392v1 Announce Type: new \nAbstract: Tabular data remains prevalent in high-stakes domains such as healthcare and finance, where predictive models are expected to pr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A longitudinal health agent framework",
-      "url": "https://arxiv.org/abs/2604.12019",
+      "title": "Quantifying and Understanding Uncertainty in Large Reasoning Models",
+      "url": "https://arxiv.org/abs/2604.13395",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12019v1 Announce Type: new \nAbstract: Although artificial intelligence (AI) agents are increasingly proposed to support potentially longitudinal health tasks, such as...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13395v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) have recently demonstrated significant improvements in complex reasoning. While quantifying genera...",
       "tag": "RESEARCH"
     },
     {
-      "title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
-      "url": "https://arxiv.org/abs/2604.12025",
+      "title": "Towards Scalable Lightweight GUI Agents via Multi-role Orchestration",
+      "url": "https://arxiv.org/abs/2604.13488",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12025v1 Announce Type: new \nAbstract: The Semantic Web standardizes concept meaning for humans and machines, enabling machine-operable content and consistent interpre...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13488v1 Announce Type: new \nAbstract: Autonomous Graphical User Interface (GUI) agents powered by Multimodal Large Language Models (MLLMs) enable digital automation o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
-      "url": "https://arxiv.org/abs/2604.12034",
+      "title": "RiskWebWorld: A Realistic Interactive Benchmark for GUI Agents in E-commerce Risk Management",
+      "url": "https://arxiv.org/abs/2604.13531",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-16T04:00:00Z",
-      "short_summary": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal...",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13531v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) agents show strong capabilities for automating web tasks, but existing interactive benchmarks pri...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Weight Patching: Toward Source-Level Mechanistic Localization in LLMs",
+      "url": "https://arxiv.org/abs/2604.13694",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13694v1 Announce Type: new \nAbstract: Mechanistic interpretability seeks to localize model behavior to the internal components that causally realize it. Prior work ha...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Rethinking AI Hardware: A Three-Layer Cognitive Architecture for Autonomous Agents",
+      "url": "https://arxiv.org/abs/2604.13757",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-17T04:00:00Z",
+      "short_summary": "arXiv:2604.13757v1 Announce Type: new \nAbstract: The next generation of autonomous AI systems will be constrained not only by model capability, but by how intelligence is struct...",
       "tag": "RESEARCH"
     }
   ]
