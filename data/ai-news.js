@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-17T13:25:56.902896Z",
+  "last_updated": "2026-04-18T02:42:28.714388Z",
   "items": [
+    {
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-17T16:17:55Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-17T14:00:00Z",
+      "short_summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+      "tag": "NEWS"
+    },
     {
       "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
       "url": "https://arxiv.org/abs/2604.13151",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-17T04:00:00Z",
       "short_summary": "arXiv:2604.13531v1 Announce Type: new \nAbstract: Graphical User Interface (GUI) agents show strong capabilities for automating web tasks, but existing interactive benchmarks pri...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Weight Patching: Toward Source-Level Mechanistic Localization in LLMs",
-      "url": "https://arxiv.org/abs/2604.13694",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-17T04:00:00Z",
-      "short_summary": "arXiv:2604.13694v1 Announce Type: new \nAbstract: Mechanistic interpretability seeks to localize model behavior to the internal components that causally realize it. Prior work ha...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Rethinking AI Hardware: A Three-Layer Cognitive Architecture for Autonomous Agents",
-      "url": "https://arxiv.org/abs/2604.13757",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-17T04:00:00Z",
-      "short_summary": "arXiv:2604.13757v1 Announce Type: new \nAbstract: The next generation of autonomous AI systems will be constrained not only by model capability, but by how intelligence is struct...",
       "tag": "RESEARCH"
     }
   ]
