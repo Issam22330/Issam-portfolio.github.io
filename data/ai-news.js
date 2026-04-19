@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-18T13:09:25.180936Z",
+  "last_updated": "2026-04-19T03:17:05.947498Z",
   "items": [
     {
       "title": "The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery",
