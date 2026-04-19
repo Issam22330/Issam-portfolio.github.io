@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-19T03:17:05.947498Z",
+  "last_updated": "2026-04-19T13:08:31.490049Z",
   "items": [
     {
-      "title": "The Devil Is in Gradient Entanglement: Energy-Aware Gradient Coordinator for Robust Generalized Category Discovery",
-      "url": "https://arxiv.org/abs/2604.14176",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14176v1 Announce Type: new \nAbstract: Generalized Category Discovery (GCD) leverages labeled data to categorize unlabeled samples from known or unknown classes. Most ...",
-      "tag": "RESEARCH"
+      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-17T16:17:55Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining",
-      "url": "https://arxiv.org/abs/2604.14198",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14198v1 Announce Type: new \nAbstract: Domain reweighting can improve sample efficiency and downstream generalization, but data-mixture optimization for multimodal mid...",
-      "tag": "RESEARCH"
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-17T14:00:00Z",
+      "short_summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+      "tag": "NEWS"
     },
     {
-      "title": "Portfolio Optimization Proxies under Label Scarcity and Regime Shifts via Bayesian and Deterministic Students under Semi-Supervised Sandwich Training",
-      "url": "https://arxiv.org/abs/2604.14206",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14206v1 Announce Type: new \nAbstract: This paper proposes a machine learning assisted portfolio optimization framework designed for low data environments and regime u...",
-      "tag": "RESEARCH"
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-16T17:00:00Z",
+      "short_summary": "AI Mode in Chrome",
+      "tag": "NEWS"
     },
     {
-      "title": "Towards Verified and Targeted Explanations through Formal Methods",
-      "url": "https://arxiv.org/abs/2604.14209",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14209v1 Announce Type: new \nAbstract: As deep neural networks are deployed in safety-critical domains such as autonomous driving and medical diagnosis, stakeholders n...",
-      "tag": "RESEARCH"
+      "title": "New ways to create personalized images in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-16T16:00:00Z",
+      "short_summary": "Example images made with Personal Intelligence",
+      "tag": "NEWS"
     },
     {
-      "title": "Shapley Value-Guided Adaptive Ensemble Learning for Explainable Financial Fraud Detection with U.S. Regulatory Compliance Validation",
-      "url": "https://arxiv.org/abs/2604.14231",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14231v1 Announce Type: new \nAbstract: Financial crime costs U.S. institutions over $32 billion each year. Although AI tools for fraud detection have become more advan...",
-      "tag": "RESEARCH"
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "url": "https://huggingface.co/blog/ecom-rlve",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Explainable Graph Neural Networks for Interbank Contagion Surveillance: A Regulatory-Aligned Framework for the U.S. Banking Sector",
-      "url": "https://arxiv.org/abs/2604.14232",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14232v1 Announce Type: new \nAbstract: The Spatial-Temporal Graph Attention Network (ST-GAT) framework was created to serve as an explainable GNN-based solution for de...",
-      "tag": "RESEARCH"
+      "title": "The PR you would have opened yourself",
+      "url": "https://huggingface.co/blog/transformers-to-mlx",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Graph-Based Fraud Detection with Dual-Path Graph Filtering",
-      "url": "https://arxiv.org/abs/2604.14235",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14235v1 Announce Type: new \nAbstract: Fraud detection on graph data can be viewed as a demanding task that requires distinguishing between different types of nodes. B...",
-      "tag": "RESEARCH"
+      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "TOPCELL: Topology Optimization of Standard Cell via LLMs",
-      "url": "https://arxiv.org/abs/2604.14237",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14237v1 Announce Type: new \nAbstract: Transistor topology optimization is a critical step in standard cell design, directly dictating diffusion sharing efficiency and...",
-      "tag": "RESEARCH"
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-15T15:00:00Z",
+      "short_summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+      "tag": "NEWS"
     },
     {
-      "title": "Optimistic Policy Learning under Pessimistic Adversaries with Regret and Violation Guarantees",
-      "url": "https://arxiv.org/abs/2604.14243",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14243v1 Announce Type: new \nAbstract: Real-world decision-making systems operate in environments where state transitions depend not only on the agent's actions, but a...",
-      "tag": "RESEARCH"
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-15T12:07:25Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Awakening Dormant Experts:Counterfactual Routing to Mitigate MoE Hallucinations",
-      "url": "https://arxiv.org/abs/2604.14246",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14246v1 Announce Type: new \nAbstract: Sparse Mixture-of-Experts (MoE) models have achieved remarkable scalability, yet they remain vulnerable to hallucinations, parti...",
-      "tag": "RESEARCH"
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "url": "https://huggingface.co/blog/Hcompany/holotab",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-15T09:25:20Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Metric-Aware Principal Component Analysis (MAPCA):A Unified Framework for Scale-Invariant Representation Learning",
-      "url": "https://arxiv.org/abs/2604.14249",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14249v1 Announce Type: new \nAbstract: We introduce Metric-Aware Principal Component Analysis (MAPCA), a unified framework for scale-invariant representation learning ...",
-      "tag": "RESEARCH"
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-14T17:00:00Z",
+      "short_summary": "Video showing Skills in Chrome",
+      "tag": "NEWS"
     },
     {
-      "title": "Calibrate-Then-Delegate: Safety Monitoring with Risk and Budget Guarantees via Model Cascades",
-      "url": "https://arxiv.org/abs/2604.14251",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-04-18T04:00:00Z",
-      "short_summary": "arXiv:2604.14251v1 Announce Type: new \nAbstract: Monitoring LLM safety at scale requires balancing cost and accuracy: a cheap latent-space probe can screen every input, but hard...",
-      "tag": "RESEARCH"
+      "title": "Bringing people together at AI for the Economy Forum",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-14T09:00:00Z",
+      "short_summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
+      "tag": "NEWS"
     }
   ]
 };
