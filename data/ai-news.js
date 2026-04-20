@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-19T13:08:31.490049Z",
+  "last_updated": "2026-04-20T03:19:13.561772Z",
   "items": [
     {
       "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
