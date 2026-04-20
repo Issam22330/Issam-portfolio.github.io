@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-20T03:19:13.561772Z",
+  "last_updated": "2026-04-20T13:49:22.367126Z",
   "items": [
     {
-      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-17T16:17:55Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+      "url": "https://arxiv.org/abs/2604.15456",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biome...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-17T14:00:00Z",
-      "short_summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "tag": "NEWS"
+      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
+      "url": "https://arxiv.org/abs/2604.15495",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial ground...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-16T17:00:00Z",
-      "short_summary": "AI Mode in Chrome",
-      "tag": "NEWS"
+      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+      "url": "https://arxiv.org/abs/2604.15514",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Regi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "New ways to create personalized images in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-16T16:00:00Z",
-      "short_summary": "Example images made with Personal Intelligence",
-      "tag": "NEWS"
+      "title": "LACE: Lattice Attention for Cross-thread Exploration",
+      "url": "https://arxiv.org/abs/2604.15529",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15529v1 Announce Type: new \nAbstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "url": "https://huggingface.co/blog/ecom-rlve",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-16T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Preregistered Belief Revision Contracts",
+      "url": "https://arxiv.org/abs/2604.15558",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15558v1 Announce Type: new \nAbstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The PR you would have opened yourself",
-      "url": "https://huggingface.co/blog/transformers-to-mlx",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-16T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
+      "url": "https://arxiv.org/abs/2604.15559",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15559v1 Announce Type: new \nAbstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantica...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-16T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
+      "url": "https://arxiv.org/abs/2604.15709",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15709v1 Announce Type: new \nAbstract: Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-15T15:00:00Z",
-      "short_summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
-      "tag": "NEWS"
+      "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
+      "url": "https://arxiv.org/abs/2604.15719",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15719v1 Announce Type: new \nAbstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as \\emph{futur...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-15T12:07:25Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+      "url": "https://arxiv.org/abs/2604.15726",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15726v1 Announce Type: new \nAbstract: This position paper argues that large language model (LLM) reasoning should be studied as latent-state trajectory formation rath...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-      "url": "https://huggingface.co/blog/Hcompany/holotab",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-15T09:25:20Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
+      "url": "https://arxiv.org/abs/2604.15727",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15727v1 Announce Type: new \nAbstract: Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with v...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-14T17:00:00Z",
-      "short_summary": "Video showing Skills in Chrome",
-      "tag": "NEWS"
+      "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
+      "url": "https://arxiv.org/abs/2604.15760",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15760v1 Announce Type: new \nAbstract: We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large langua...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Bringing people together at AI for the Economy Forum",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-14T09:00:00Z",
-      "short_summary": "Woman working with a large tool. On the left are the Google and MIT FutureTech logos, \"AI for the Economy Forum\", and \"Innovation and Adaption in the New Era\"",
-      "tag": "NEWS"
+      "title": "Stein Variational Black-Box Combinatorial Optimization",
+      "url": "https://arxiv.org/abs/2604.15837",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-20T04:00:00Z",
+      "short_summary": "arXiv:2604.15837v1 Announce Type: new \nAbstract: Combinatorial black-box optimization in high-dimensional settings demands a careful trade-off between exploiting promising regio...",
+      "tag": "RESEARCH"
     }
   ]
 };
