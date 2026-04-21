@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-20T13:49:22.367126Z",
+  "last_updated": "2026-04-21T02:52:36.890094Z",
   "items": [
+    {
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-21T00:40:10Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
       "url": "https://arxiv.org/abs/2604.15456",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-20T04:00:00Z",
       "short_summary": "arXiv:2604.15760v1 Announce Type: new \nAbstract: We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large langua...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Stein Variational Black-Box Combinatorial Optimization",
-      "url": "https://arxiv.org/abs/2604.15837",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-20T04:00:00Z",
-      "short_summary": "arXiv:2604.15837v1 Announce Type: new \nAbstract: Combinatorial black-box optimization in high-dimensional settings demands a careful trade-off between exploiting promising regio...",
       "tag": "RESEARCH"
     }
   ]
