@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-21T13:49:43.803819Z",
+  "last_updated": "2026-04-22T02:51:33.889947Z",
   "items": [
+    {
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-21T14:30:00Z",
+      "short_summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+      "tag": "NEWS"
+    },
     {
       "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
       "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-21T04:00:00Z",
       "short_summary": "arXiv:2604.15727v1 Announce Type: new \nAbstract: Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with v...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "KWBench: Measuring Unprompted Problem Recognition in Knowledge Work",
-      "url": "https://arxiv.org/abs/2604.15760",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15760v1 Announce Type: new \nAbstract: We introduce the first version of KWBench (Knowledge Work Bench), a benchmark for unprompted problem recognition in large langua...",
       "tag": "RESEARCH"
     }
   ]
