@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-22T02:51:33.889947Z",
+  "last_updated": "2026-04-22T13:49:49.267160Z",
   "items": [
     {
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "source": "Google AI Blog",
-      "published_at": "2026-04-21T14:30:00Z",
-      "short_summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+      "published_at": "2026-04-22T12:00:00Z",
+      "short_summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "tag": "NEWS"
     },
     {
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-21T10:09:58Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
-      "url": "https://arxiv.org/abs/2604.15456",
+      "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
+      "url": "https://arxiv.org/abs/2604.18645",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biome...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18645v1 Announce Type: new \nAbstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS probl...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
-      "url": "https://arxiv.org/abs/2604.15495",
+      "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
+      "url": "https://arxiv.org/abs/2604.18724",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial ground...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18724v1 Announce Type: new \nAbstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad d...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-      "url": "https://arxiv.org/abs/2604.15514",
+      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
+      "url": "https://arxiv.org/abs/2604.18789",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Regi...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18789v1 Announce Type: new \nAbstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a criti...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LACE: Lattice Attention for Cross-thread Exploration",
-      "url": "https://arxiv.org/abs/2604.15529",
+      "title": "AI scientists produce results without reasoning scientifically",
+      "url": "https://arxiv.org/abs/2604.18805",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15529v1 Announce Type: new \nAbstract: Current large language models reason in isolation. Although it is common to sample multiple reasoning paths in parallel, these t...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18805v1 Announce Type: new \nAbstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether thei...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Preregistered Belief Revision Contracts",
-      "url": "https://arxiv.org/abs/2604.15558",
+      "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
+      "url": "https://arxiv.org/abs/2604.18838",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15558v1 Announce Type: new \nAbstract: Deliberative multi-agent systems allow agents to exchange messages and revise beliefs over time. While this interaction is meant...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18838v1 Announce Type: new \nAbstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Subliminal Transfer of Unsafe Behaviors in AI Agent Distillation",
-      "url": "https://arxiv.org/abs/2604.15559",
+      "title": "Human-Guided Harm Recovery for Computer Use Agents",
+      "url": "https://arxiv.org/abs/2604.18847",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15559v1 Announce Type: new \nAbstract: Recent work on subliminal learning demonstrates that language models can transmit semantic traits through data that is semantica...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18847v1 Announce Type: new \nAbstract: As LM agents gain the ability to execute actions on real computer systems, we need ways to not only prevent harmful actions at s...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Bilevel Optimization of Agent Skills via Monte Carlo Tree Search",
-      "url": "https://arxiv.org/abs/2604.15709",
+      "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
+      "url": "https://arxiv.org/abs/2604.18873",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15709v1 Announce Type: new \nAbstract: Agent \\texttt{skills} are structured collections of instructions, tools, and supporting resources that help large language model...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18873v1 Announce Type: new \nAbstract: Large language models (LLMs) are highly capable at language generation, but they remain unreliable when reasoning requires expli...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The World Leaks the Future: Harness Evolution for Future Prediction Agents",
-      "url": "https://arxiv.org/abs/2604.15719",
+      "title": "How Adversarial Environments Mislead Agentic AI?",
+      "url": "https://arxiv.org/abs/2604.18874",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15719v2 Announce Type: new \nAbstract: Many consequential decisions must be made before the relevant outcome is known. Such problems are commonly framed as future pred...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18874v1 Announce Type: new \nAbstract: Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance c...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
-      "url": "https://arxiv.org/abs/2604.15726",
+      "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
+      "url": "https://arxiv.org/abs/2604.18882",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15726v1 Announce Type: new \nAbstract: This position paper argues that large language model (LLM) reasoning should be studied as latent-state trajectory formation rath...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18882v1 Announce Type: new \nAbstract: We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Structured Abductive-Deductive-Inductive Reasoning for LLMs via Algebraic Invariants",
-      "url": "https://arxiv.org/abs/2604.15727",
+      "title": "Error-free Training for MedMNIST Datasets",
+      "url": "https://arxiv.org/abs/2604.18916",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-21T04:00:00Z",
-      "short_summary": "arXiv:2604.15727v1 Announce Type: new \nAbstract: Large language models exhibit systematic limitations in structured logical reasoning: they conflate hypothesis generation with v...",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18916v1 Announce Type: new \nAbstract: In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classi...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "AutomationBench",
+      "url": "https://arxiv.org/abs/2604.18934",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-22T04:00:00Z",
+      "short_summary": "arXiv:2604.18934v1 Announce Type: new \nAbstract: Existing AI benchmarks for software automation rarely combine cross-application coordination, autonomous API discovery, and poli...",
       "tag": "RESEARCH"
     }
   ]
