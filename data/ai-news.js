@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-23T02:54:07.644032Z",
+  "last_updated": "2026-04-23T13:52:16.548493Z",
   "items": [
     {
-      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-      "url": "https://huggingface.co/blog/nvidia/gemma4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-22T15:40:50Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
       "source": "Google AI Blog",
-      "published_at": "2026-04-22T12:00:00Z",
-      "short_summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "published_at": "2026-04-23T09:00:00Z",
+      "short_summary": "Aerial image of the data center",
       "tag": "NEWS"
     },
     {
-      "title": "On Solving the Multiple Variable Gapped Longest Common Subsequence Problem",
-      "url": "https://arxiv.org/abs/2604.18645",
+      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+      "url": "https://arxiv.org/abs/2604.19749",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18645v1 Announce Type: new \nAbstract: This paper addresses the Variable Gapped Longest Common Subsequence (VGLCS) problem, a generalization of the classical LCS probl...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet u...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
-      "url": "https://arxiv.org/abs/2604.18724",
+      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
+      "url": "https://arxiv.org/abs/2604.19751",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18724v1 Announce Type: new \nAbstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad d...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how A...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-      "url": "https://arxiv.org/abs/2604.18789",
+      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
+      "url": "https://arxiv.org/abs/2604.19753",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18789v1 Announce Type: new \nAbstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a criti...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI scientists produce results without reasoning scientifically",
-      "url": "https://arxiv.org/abs/2604.18805",
+      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+      "url": "https://arxiv.org/abs/2604.19754",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18805v1 Announce Type: new \nAbstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether thei...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19754v1 Announce Type: new \nAbstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalanc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
-      "url": "https://arxiv.org/abs/2604.18838",
+      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
+      "url": "https://arxiv.org/abs/2604.19755",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18838v1 Announce Type: new \nAbstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neu...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19755v1 Announce Type: new \nAbstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigato...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Human-Guided Harm Recovery for Computer Use Agents",
-      "url": "https://arxiv.org/abs/2604.18847",
+      "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2604.19758",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18847v1 Announce Type: new \nAbstract: As LM agents gain the ability to execute actions on real computer systems, we need ways to not only prevent harmful actions at s...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19758v1 Announce Type: new \nAbstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q),...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
-      "url": "https://arxiv.org/abs/2604.18873",
+      "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
+      "url": "https://arxiv.org/abs/2604.19759",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18873v1 Announce Type: new \nAbstract: Large language models (LLMs) are highly capable at language generation, but they remain unreliable when reasoning requires expli...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19759v1 Announce Type: new \nAbstract: Clinical trials require strict adherence to medication protocols, yet dosing errors remain a persistent challenge affecting pati...",
       "tag": "RESEARCH"
     },
     {
-      "title": "How Adversarial Environments Mislead Agentic AI?",
-      "url": "https://arxiv.org/abs/2604.18874",
+      "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
+      "url": "https://arxiv.org/abs/2604.19760",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18874v1 Announce Type: new \nAbstract: Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance c...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19760v1 Announce Type: new \nAbstract: We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characte...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
-      "url": "https://arxiv.org/abs/2604.18882",
+      "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+      "url": "https://arxiv.org/abs/2604.19761",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18882v1 Announce Type: new \nAbstract: We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm ...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19761v1 Announce Type: new \nAbstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Error-free Training for MedMNIST Datasets",
-      "url": "https://arxiv.org/abs/2604.18916",
+      "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
+      "url": "https://arxiv.org/abs/2604.19775",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18916v1 Announce Type: new \nAbstract: In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classi...",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19775v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within in...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Using Learning Theories to Evolve Human-Centered XAI: Future Perspectives and Challenges",
+      "url": "https://arxiv.org/abs/2604.19788",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-23T04:00:00Z",
+      "short_summary": "arXiv:2604.19788v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems continue to grow in size and complexity, so does the difficulty of the quest for AI tran...",
       "tag": "RESEARCH"
     }
   ]
