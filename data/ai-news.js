@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-22T13:49:49.267160Z",
+  "last_updated": "2026-04-23T02:54:07.644032Z",
   "items": [
+    {
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "url": "https://huggingface.co/blog/nvidia/gemma4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-22T15:40:50Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-22T04:00:00Z",
       "short_summary": "arXiv:2604.18916v1 Announce Type: new \nAbstract: In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classi...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "AutomationBench",
-      "url": "https://arxiv.org/abs/2604.18934",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-22T04:00:00Z",
-      "short_summary": "arXiv:2604.18934v1 Announce Type: new \nAbstract: Existing AI benchmarks for software automation rarely combine cross-application coordination, autonomous API discovery, and poli...",
       "tag": "RESEARCH"
     }
   ]
