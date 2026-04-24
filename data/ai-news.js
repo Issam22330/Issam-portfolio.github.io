@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-23T13:52:16.548493Z",
+  "last_updated": "2026-04-24T02:55:07.904741Z",
   "items": [
+    {
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-23T12:00:00Z",
+      "short_summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "tag": "NEWS"
+    },
     {
       "title": "Elevating Austria: Google invests in its first data center in the Alps.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-23T04:00:00Z",
       "short_summary": "arXiv:2604.19775v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within in...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Using Learning Theories to Evolve Human-Centered XAI: Future Perspectives and Challenges",
-      "url": "https://arxiv.org/abs/2604.19788",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19788v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems continue to grow in size and complexity, so does the difficulty of the quest for AI tran...",
       "tag": "RESEARCH"
     }
   ]
