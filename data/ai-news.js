@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-24T02:55:07.904741Z",
+  "last_updated": "2026-04-24T13:42:52.560733Z",
   "items": [
     {
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-23T12:00:00Z",
-      "short_summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-23T09:00:00Z",
-      "short_summary": "Aerial image of the data center",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
-      "url": "https://arxiv.org/abs/2604.19749",
+      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+      "url": "https://arxiv.org/abs/2604.20862",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet u...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
-      "url": "https://arxiv.org/abs/2604.19751",
+      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+      "url": "https://arxiv.org/abs/2604.20972",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how A...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-      "url": "https://arxiv.org/abs/2604.19753",
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2604.20987",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embe...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
-      "url": "https://arxiv.org/abs/2604.19754",
+      "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+      "url": "https://arxiv.org/abs/2604.20995",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19754v1 Announce Type: new \nAbstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalanc...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.20995v1 Announce Type: new \nAbstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when uno...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks",
-      "url": "https://arxiv.org/abs/2604.19755",
+      "title": "The Last Harness You'll Ever Build",
+      "url": "https://arxiv.org/abs/2604.21003",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19755v1 Announce Type: new \nAbstract: Anti-money laundering (AML) transaction monitoring generates large volumes of alerts that must be rapidly triaged by investigato...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ThermoQA: A Three-Tier Benchmark for Evaluating Thermodynamic Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2604.19758",
+      "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
+      "url": "https://arxiv.org/abs/2604.21006",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19758v1 Announce Type: new \nAbstract: We present ThermoQA, a benchmark of 293 open-ended engineering thermodynamics problems in three tiers: property lookups (110 Q),...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21006v1 Announce Type: new \nAbstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM",
-      "url": "https://arxiv.org/abs/2604.19759",
+      "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
+      "url": "https://arxiv.org/abs/2604.21018",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19759v1 Announce Type: new \nAbstract: Clinical trials require strict adherence to medication protocols, yet dosing errors remain a persistent challenge affecting pati...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21018v1 Announce Type: new \nAbstract: While scaling test-time compute can substantially improve model performance, existing approaches either rely on static compute a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
-      "url": "https://arxiv.org/abs/2604.19760",
+      "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
+      "url": "https://arxiv.org/abs/2604.21027",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19760v1 Announce Type: new \nAbstract: We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characte...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21027v1 Announce Type: new \nAbstract: Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not e...",
       "tag": "RESEARCH"
     },
     {
-      "title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
-      "url": "https://arxiv.org/abs/2604.19761",
+      "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
+      "url": "https://arxiv.org/abs/2604.21036",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19761v1 Announce Type: new \nAbstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its ...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21036v1 Announce Type: new \nAbstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Actions to Understanding: Conformal Interpretability of Temporal Concepts in LLM Agents",
-      "url": "https://arxiv.org/abs/2604.19775",
+      "title": "Active Data",
+      "url": "https://arxiv.org/abs/2604.21044",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-23T04:00:00Z",
-      "short_summary": "arXiv:2604.19775v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed as autonomous agents capable of reasoning, planning, and acting within in...",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21044v1 Announce Type: new \nAbstract: In some complex domains, certain problem-specific decompositions can provide advantages over monolithic designs by enabling comp...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
+      "url": "https://arxiv.org/abs/2604.21061",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21061v1 Announce Type: new \nAbstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisio...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
+      "url": "https://arxiv.org/abs/2604.21092",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-24T04:00:00Z",
+      "short_summary": "arXiv:2604.21092v1 Announce Type: new \nAbstract: Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanatio...",
       "tag": "RESEARCH"
     }
   ]
