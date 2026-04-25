@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-25T02:44:08.546562Z",
+  "last_updated": "2026-04-25T13:12:00.539696Z",
   "items": [
     {
       "title": "8 Gemini tips for organizing your space (and life)",
@@ -10,92 +10,92 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-      "url": "https://arxiv.org/abs/2604.20862",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase...",
-      "tag": "RESEARCH"
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-24T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-      "url": "https://arxiv.org/abs/2604.20972",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this ...",
-      "tag": "RESEARCH"
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-23T12:00:00Z",
+      "short_summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "tag": "NEWS"
     },
     {
-      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-      "url": "https://arxiv.org/abs/2604.20987",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi...",
-      "tag": "RESEARCH"
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-23T09:00:00Z",
+      "short_summary": "Aerial image of the data center",
+      "tag": "NEWS"
     },
     {
-      "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
-      "url": "https://arxiv.org/abs/2604.20995",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.20995v1 Announce Type: new \nAbstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when uno...",
-      "tag": "RESEARCH"
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "The Last Harness You'll Ever Build",
-      "url": "https://arxiv.org/abs/2604.21003",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require...",
-      "tag": "RESEARCH"
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "url": "https://huggingface.co/blog/nvidia/gemma4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-22T15:40:50Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-      "url": "https://arxiv.org/abs/2604.21006",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21006v1 Announce Type: new \nAbstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financi...",
-      "tag": "RESEARCH"
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-22T12:00:00Z",
+      "short_summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "tag": "NEWS"
     },
     {
-      "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
-      "url": "https://arxiv.org/abs/2604.21018",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21018v1 Announce Type: new \nAbstract: While scaling test-time compute can substantially improve model performance, existing approaches either rely on static compute a...",
-      "tag": "RESEARCH"
+      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-21T14:30:00Z",
+      "short_summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
+      "tag": "NEWS"
     },
     {
-      "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-      "url": "https://arxiv.org/abs/2604.21027",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21027v1 Announce Type: new \nAbstract: Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not e...",
-      "tag": "RESEARCH"
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-21T10:09:58Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-      "url": "https://arxiv.org/abs/2604.21036",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21036v1 Announce Type: new \nAbstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal ...",
-      "tag": "RESEARCH"
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "url": "https://huggingface.co/blog/cybersecurity-openness",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-21T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Active Data",
-      "url": "https://arxiv.org/abs/2604.21044",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21044v1 Announce Type: new \nAbstract: In some complex domains, certain problem-specific decompositions can provide advantages over monolithic designs by enabling comp...",
-      "tag": "RESEARCH"
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-17T14:00:00Z",
+      "short_summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+      "tag": "NEWS"
     },
     {
-      "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
-      "url": "https://arxiv.org/abs/2604.21061",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21061v1 Announce Type: new \nAbstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisio...",
-      "tag": "RESEARCH"
+      "title": "A new way to explore the web with AI Mode in Chrome",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-16T17:00:00Z",
+      "short_summary": "AI Mode in Chrome",
+      "tag": "NEWS"
     }
   ]
 };
