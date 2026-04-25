@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-24T13:42:52.560733Z",
+  "last_updated": "2026-04-25T02:44:08.546562Z",
   "items": [
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-24T19:00:00Z",
+      "short_summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activatin...",
+      "tag": "NEWS"
+    },
     {
       "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
       "url": "https://arxiv.org/abs/2604.20862",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-24T04:00:00Z",
       "short_summary": "arXiv:2604.21061v1 Announce Type: new \nAbstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisio...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
-      "url": "https://arxiv.org/abs/2604.21092",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-24T04:00:00Z",
-      "short_summary": "arXiv:2604.21092v1 Announce Type: new \nAbstract: Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanatio...",
       "tag": "RESEARCH"
     }
   ]
