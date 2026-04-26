@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-25T13:12:00.539696Z",
+  "last_updated": "2026-04-26T03:21:25.351359Z",
   "items": [
     {
       "title": "8 Gemini tips for organizing your space (and life)",
