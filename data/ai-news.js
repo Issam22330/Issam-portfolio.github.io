@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-27T03:26:11.855196Z",
+  "last_updated": "2026-04-27T14:01:53.518091Z",
   "items": [
     {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
       "source": "Google AI Blog",
-      "published_at": "2026-04-24T19:00:00Z",
-      "short_summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activatin...",
+      "published_at": "2026-04-27T13:00:00Z",
+      "short_summary": "A web next to a laptop",
       "tag": "NEWS"
     },
     {
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-24T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
+      "url": "https://arxiv.org/abs/2604.21935",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.21935v1 Announce Type: new \nAbstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-23T12:00:00Z",
-      "short_summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
-      "tag": "NEWS"
+      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+      "url": "https://arxiv.org/abs/2604.21936",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.21936v1 Announce Type: new \nAbstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-23T09:00:00Z",
-      "short_summary": "Aerial image of the data center",
-      "tag": "NEWS"
+      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
+      "url": "https://arxiv.org/abs/2604.21937",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestra...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
+      "url": "https://arxiv.org/abs/2604.21965",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.21965v1 Announce Type: new \nAbstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
-      "url": "https://huggingface.co/blog/nvidia/gemma4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-22T15:40:50Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+      "url": "https://arxiv.org/abs/2604.22026",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-22T12:00:00Z",
-      "short_summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "tag": "NEWS"
+      "title": "Sound Agentic Science Requires Adversarial Experiments",
+      "url": "https://arxiv.org/abs/2604.22080",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22080v1 Announce Type: new \nAbstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and experti...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-21T14:30:00Z",
-      "short_summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient.",
-      "tag": "NEWS"
+      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2604.22085",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22085v1 Announce Type: new \nAbstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-21T10:09:58Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+      "url": "https://arxiv.org/abs/2604.22119",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "url": "https://huggingface.co/blog/cybersecurity-openness",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-21T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
+      "url": "https://arxiv.org/abs/2604.22273",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22273v1 Announce Type: new \nAbstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-17T14:00:00Z",
-      "short_summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "tag": "NEWS"
+      "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+      "url": "https://arxiv.org/abs/2604.22411",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22411v1 Announce Type: new \nAbstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Rece...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "A new way to explore the web with AI Mode in Chrome",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-16T17:00:00Z",
-      "short_summary": "AI Mode in Chrome",
-      "tag": "NEWS"
+      "title": "CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease",
+      "url": "https://arxiv.org/abs/2604.22428",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-27T04:00:00Z",
+      "short_summary": "arXiv:2604.22428v1 Announce Type: new \nAbstract: Predicting individual cognitive decline in Alzheimer's disease (AD) is difficult due to the heterogeneity of disease progression...",
+      "tag": "RESEARCH"
     }
   ]
 };
