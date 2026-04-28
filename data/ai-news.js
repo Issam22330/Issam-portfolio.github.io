@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-27T14:01:53.518091Z",
+  "last_updated": "2026-04-28T03:31:58.305297Z",
   "items": [
+    {
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-28T00:28:13Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-27T04:00:00Z",
       "short_summary": "arXiv:2604.22411v1 Announce Type: new \nAbstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Rece...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "CognitiveTwin: Robust Multi-Modal Digital Twins for Predicting Cognitive Decline in Alzheimer's Disease",
-      "url": "https://arxiv.org/abs/2604.22428",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22428v1 Announce Type: new \nAbstract: Predicting individual cognitive decline in Alzheimer's disease (AD) is difficult due to the heterogeneity of disease progression...",
       "tag": "RESEARCH"
     }
   ]
