@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-28T03:31:58.305297Z",
+  "last_updated": "2026-04-28T14:19:46.527803Z",
   "items": [
     {
-      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-      "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-28T00:28:13Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-27T13:00:00Z",
-      "short_summary": "A web next to a laptop",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Math Takes Two: A test for emergent mathematical reasoning in communication",
-      "url": "https://arxiv.org/abs/2604.21935",
+      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+      "url": "https://arxiv.org/abs/2604.22777",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.21935v1 Announce Type: new \nAbstract: Although language models demonstrate remarkable proficiency on mathematical benchmarks, it remains unclear whether this reflects...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
-      "url": "https://arxiv.org/abs/2604.21936",
+      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+      "url": "https://arxiv.org/abs/2604.22934",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.21936v1 Announce Type: new \nAbstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the c...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MolClaw: An Autonomous Agent with Hierarchical Skills for Drug Molecule Evaluation, Screening, and Optimization",
-      "url": "https://arxiv.org/abs/2604.21937",
+      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+      "url": "https://arxiv.org/abs/2604.22951",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.21937v1 Announce Type: new \nAbstract: Computational drug discovery, particularly the complex workflows of drug molecule screening and optimization, requires orchestra...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Read the Paper, Write the Code: Agentic Reproduction of Social-Science Results",
-      "url": "https://arxiv.org/abs/2604.21965",
+      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+      "url": "https://arxiv.org/abs/2604.22958",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.21965v1 Announce Type: new \nAbstract: Recent work has used LLM agents to reproduce empirical social science results with access to both the data and code. We broaden ...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
-      "url": "https://arxiv.org/abs/2604.22026",
+      "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+      "url": "https://arxiv.org/abs/2604.22979",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of caus...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Sound Agentic Science Requires Adversarial Experiments",
-      "url": "https://arxiv.org/abs/2604.22080",
+      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+      "url": "https://arxiv.org/abs/2604.23002",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22080v1 Announce Type: new \nAbstract: LLM-based agents are rapidly being adopted for scientific data analysis, automating tasks once limited by human time and experti...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2604.22085",
+      "title": "A Systematic Approach for Large Language Models Debugging",
+      "url": "https://arxiv.org/abs/2604.23027",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22085v1 Announce Type: new \nAbstract: The transition from stateless language model inference to persistent, multi session autonomous agents has revealed memory to be ...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
-      "url": "https://arxiv.org/abs/2604.22119",
+      "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+      "url": "https://arxiv.org/abs/2604.23049",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22119v1 Announce Type: new \nAbstract: As reasoning capacity and deployment scope grow in tandem, large language models (LLMs) gain the capacity to engage in behaviors...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements f...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does LLM Self-Correction Help? A Control-Theoretic Markov Diagnostic and Verify-First Intervention",
-      "url": "https://arxiv.org/abs/2604.22273",
+      "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+      "url": "https://arxiv.org/abs/2604.23057",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22273v1 Announce Type: new \nAbstract: Iterative self-correction is widely used in agentic LLM systems, but when repeated refinement helps versus hurts remains unclear...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ contr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
-      "url": "https://arxiv.org/abs/2604.22411",
+      "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+      "url": "https://arxiv.org/abs/2604.23072",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-27T04:00:00Z",
-      "short_summary": "arXiv:2604.22411v1 Announce Type: new \nAbstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Rece...",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scie...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+      "url": "https://arxiv.org/abs/2604.23090",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23090v1 Announce Type: new \nAbstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineeri...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
+      "url": "https://arxiv.org/abs/2604.23148",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-28T04:00:00Z",
+      "short_summary": "arXiv:2604.23148v1 Announce Type: new \nAbstract: The emerging threat of AR-LLM-based Social Engineering (AR-LLM-SE) attacks (e.g. SEAR) poses a significant risk to real-world so...",
       "tag": "RESEARCH"
     }
   ]
