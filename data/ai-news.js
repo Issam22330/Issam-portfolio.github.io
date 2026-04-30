@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-29T14:05:51.054612Z",
+  "last_updated": "2026-04-30T03:31:34.858377Z",
   "items": [
+    {
+      "title": "AI evals are becoming the new compute bottleneck",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-29T16:45:09Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-29T15:01:48Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
       "url": "https://arxiv.org/abs/2604.22777",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-04-29T04:00:00Z",
       "short_summary": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scie...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
-      "url": "https://arxiv.org/abs/2604.23090",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23090v1 Announce Type: new \nAbstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineeri...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
-      "url": "https://arxiv.org/abs/2604.23148",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23148v1 Announce Type: new \nAbstract: The emerging threat of AR-LLM-based Social Engineering (AR-LLM-SE) attacks (e.g. SEAR) poses a significant risk to real-world so...",
       "tag": "RESEARCH"
     }
   ]
