@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-30T03:31:34.858377Z",
+  "last_updated": "2026-04-30T14:04:06.397858Z",
   "items": [
     {
-      "title": "AI evals are becoming the new compute bottleneck",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-29T16:45:09Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-29T15:01:48Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
-      "url": "https://arxiv.org/abs/2604.22777",
+      "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+      "url": "https://arxiv.org/abs/2604.26091",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fa...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26091v1 Announce Type: new \nAbstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real cap...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
-      "url": "https://arxiv.org/abs/2604.22934",
+      "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+      "url": "https://arxiv.org/abs/2604.26095",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the c...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26095v1 Announce Type: new \nAbstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localiz...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
-      "url": "https://arxiv.org/abs/2604.22951",
+      "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+      "url": "https://arxiv.org/abs/2604.26106",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a ...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26106v1 Announce Type: new \nAbstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others....",
       "tag": "RESEARCH"
     },
     {
-      "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
-      "url": "https://arxiv.org/abs/2604.22958",
+      "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+      "url": "https://arxiv.org/abs/2604.26120",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26120v1 Announce Type: new \nAbstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses L...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
-      "url": "https://arxiv.org/abs/2604.22979",
+      "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+      "url": "https://arxiv.org/abs/2604.26211",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of caus...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26211v1 Announce Type: new \nAbstract: In order to automate AI research we introduce a full, end-to-end framework, OMEGA: Optimizing Machine learning by Evaluating Gen...",
       "tag": "RESEARCH"
     },
     {
-      "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
-      "url": "https://arxiv.org/abs/2604.23002",
+      "title": "Persuadability and LLMs as Legal Decision Tools",
+      "url": "https://arxiv.org/abs/2604.26233",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. ...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26233v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) are proposed as legal decision assistants, and even first-instance decision-makers, across a ran...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Systematic Approach for Large Language Models Debugging",
-      "url": "https://arxiv.org/abs/2604.23027",
+      "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
+      "url": "https://arxiv.org/abs/2604.26237",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation t...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26237v1 Announce Type: new \nAbstract: This study applied the Apriori algorithm to analyze behavioral interaction patterns associated with learned helplessness (LH) in...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
-      "url": "https://arxiv.org/abs/2604.23049",
+      "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
+      "url": "https://arxiv.org/abs/2604.26311",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements f...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26311v1 Announce Type: new \nAbstract: We introduce DreamProver, an agentic framework that leverages a \"wake-sleep\" program induction paradigm to discover reusable lem...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
-      "url": "https://arxiv.org/abs/2604.23057",
+      "title": "Auto-Relational Reasoning",
+      "url": "https://arxiv.org/abs/2604.26507",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ contr...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26507v1 Announce Type: new \nAbstract: Background & Objectives: In the last decade, Machine learning research has grown rapidly, but large models are reaching their so...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
-      "url": "https://arxiv.org/abs/2604.23072",
+      "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
+      "url": "https://arxiv.org/abs/2604.26521",
       "source": "arXiv cs.AI",
-      "published_at": "2026-04-29T04:00:00Z",
-      "short_summary": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scie...",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26521v1 Announce Type: new \nAbstract: Compositional generalization remains a foundational weakness of modern neural networks, limiting their robustness and applicabil...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+      "url": "https://arxiv.org/abs/2604.26522",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26522v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+      "url": "https://arxiv.org/abs/2604.26577",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-04-30T04:00:00Z",
+      "short_summary": "arXiv:2604.26577v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly considered for deployment as the control component of robotic health attendants, y...",
       "tag": "RESEARCH"
     }
   ]
