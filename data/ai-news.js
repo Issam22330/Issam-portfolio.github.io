@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-04-30T14:04:06.397858Z",
+  "last_updated": "2026-05-01T03:41:00.332944Z",
   "items": [
     {
       "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
