@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-01T13:25:19.318389Z",
+  "last_updated": "2026-05-02T02:57:32.778836Z",
   "items": [
     {
       "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
