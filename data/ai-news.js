@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-02T13:19:11.436091Z",
+  "last_updated": "2026-05-03T03:34:04.192785Z",
   "items": [
     {
       "title": "AI evals are becoming the new compute bottleneck",
