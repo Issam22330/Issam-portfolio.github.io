@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-04T14:09:00.408988Z",
+  "last_updated": "2026-05-05T03:19:56.864510Z",
   "items": [
+    {
+      "title": "The latest AI news we announced in April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-04T17:00:00Z",
+      "short_summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+      "tag": "BREAKING"
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-04T15:30:00Z",
+      "short_summary": "Gemini API",
+      "tag": "NEWS"
+    },
     {
       "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
       "url": "https://arxiv.org/abs/2605.00005",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.LG",
       "published_at": "2026-05-04T04:00:00Z",
       "short_summary": "arXiv:2605.00070v1 Announce Type: new \nAbstract: We present CRADIPOR, a numerical dispersion prediction tool for automotive crash simulations. Finite Element (FE) crash models a...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Hyperspherical Forward-Forward with Prototypical Representations",
-      "url": "https://arxiv.org/abs/2605.00082",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-05-04T04:00:00Z",
-      "short_summary": "arXiv:2605.00082v1 Announce Type: new \nAbstract: The Forward-Forward (FF) algorithm presents a compelling, bio-inspired alternative to backpropagation. However, while efficient ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Comparative Analysis of Polygon-Based and Global Machine Learning Models for Bus Occupancy Prediction",
-      "url": "https://arxiv.org/abs/2605.00083",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-05-04T04:00:00Z",
-      "short_summary": "arXiv:2605.00083v1 Announce Type: new \nAbstract: Accurate forecasting of bus ridership (passengers numbers) is crucial for efficient management and optimization of public transp...",
       "tag": "RESEARCH"
     }
   ]
