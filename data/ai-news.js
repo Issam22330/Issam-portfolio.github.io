@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-06T03:29:32.956593Z",
+  "last_updated": "2026-05-06T14:22:03.299169Z",
   "items": [
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-05T16:00:00Z",
-      "short_summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-      "url": "https://arxiv.org/abs/2605.00060",
+      "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
+      "url": "https://arxiv.org/abs/2605.00839",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evid...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.00839v1 Announce Type: new \nAbstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
-      "url": "https://arxiv.org/abs/2605.00073",
+      "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
+      "url": "https://arxiv.org/abs/2605.00841",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch gener...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.00841v1 Announce Type: new \nAbstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in Europe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
-      "url": "https://arxiv.org/abs/2605.00123",
+      "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
+      "url": "https://arxiv.org/abs/2605.00842",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because w...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.00842v1 Announce Type: new \nAbstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI sa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
-      "url": "https://arxiv.org/abs/2605.00136",
+      "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
+      "url": "https://arxiv.org/abs/2605.00846",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and ...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.00846v1 Announce Type: new \nAbstract: Clinical diagnosis requires answers that are accurate, verifiable, and explicitly grounded in official guidelines. While large l...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
-      "url": "https://arxiv.org/abs/2605.00224",
+      "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
+      "url": "https://arxiv.org/abs/2605.00909",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00224v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RL...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.00909v1 Announce Type: new \nAbstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
-      "url": "https://arxiv.org/abs/2605.00245",
+      "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
+      "url": "https://arxiv.org/abs/2605.01030",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00245v1 Announce Type: new \nAbstract: Large language models (LLMs) are now being explored for defense applications that require reliable and legally compliant decisio...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01030v2 Announce Type: new \nAbstract: We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level govern...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Causal Foundations of Collective Agency",
-      "url": "https://arxiv.org/abs/2605.00248",
+      "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
+      "url": "https://arxiv.org/abs/2605.01032",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00248v1 Announce Type: new \nAbstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01032v2 Announce Type: new \nAbstract: We present an algebraic semantics for governed execution in which governance is axiomatized, compositional, and coterminous with...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Agentic AI for Trip Planning Optimization Application",
-      "url": "https://arxiv.org/abs/2605.00276",
+      "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
+      "url": "https://arxiv.org/abs/2605.01100",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00276v1 Announce Type: new \nAbstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itin...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01100v1 Announce Type: new \nAbstract: This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoni...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
-      "url": "https://arxiv.org/abs/2605.00300",
+      "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
+      "url": "https://arxiv.org/abs/2605.01101",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00300v1 Announce Type: new \nAbstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are a...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01101v1 Announce Type: new \nAbstract: This paper develops Virtual Speech Therapist (VST), an intelligent agent-based platform that streamlines stuttering assessment a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
-      "url": "https://arxiv.org/abs/2605.00334",
+      "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
+      "url": "https://arxiv.org/abs/2605.01102",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00334v1 Announce Type: new \nAbstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. T...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01102v1 Announce Type: new \nAbstract: Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
-      "url": "https://arxiv.org/abs/2605.00412",
+      "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search",
+      "url": "https://arxiv.org/abs/2605.01120",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-05T04:00:00Z",
-      "short_summary": "arXiv:2605.00412v1 Announce Type: new \nAbstract: World models have recently re-emerged as a central paradigm for embodied intelligence, robotics, autonomous driving, and model-b...",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01120v1 Announce Type: new \nAbstract: The Zarankiewicz number $\\textbf{Z}(m, n, s, t)$ is the maximum number of edges in a bipartite graph $G_{m, n}$ such that there ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
+      "url": "https://arxiv.org/abs/2605.01123",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-06T04:00:00Z",
+      "short_summary": "arXiv:2605.01123v1 Announce Type: new \nAbstract: Large language models (LLMs) can provide automated feedback in educational settings, but aligning an LLMs style with a specific ...",
       "tag": "RESEARCH"
     }
   ]
