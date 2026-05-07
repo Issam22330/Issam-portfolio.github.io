@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-07T03:29:56.041781Z",
+  "last_updated": "2026-05-07T14:21:17.388880Z",
   "items": [
     {
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-06T19:06:55Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-06T16:00:00Z",
-      "short_summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circl...",
-      "tag": "NEWS"
-    },
-    {
-      "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-      "url": "https://arxiv.org/abs/2605.00839",
+      "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+      "url": "https://arxiv.org/abs/2605.02910",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.00839v1 Announce Type: new \nAbstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabi...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.02910v2 Announce Type: new \nAbstract: Recent advances in large language models have led to strong performance on reasoning and environment-interaction tasks, yet thei...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
-      "url": "https://arxiv.org/abs/2605.00841",
+      "title": "Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense",
+      "url": "https://arxiv.org/abs/2605.03034",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.00841v1 Announce Type: new \nAbstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in Europe...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03034v1 Announce Type: new \nAbstract: Agentic systems involved in high-stake decision-making under adversarial pressure need formal guarantees not offered by existing...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
-      "url": "https://arxiv.org/abs/2605.00842",
+      "title": "Computing Thiele Rules on Interval Elections and their Generalizations",
+      "url": "https://arxiv.org/abs/2605.03067",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.00842v1 Announce Type: new \nAbstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI sa...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03067v1 Announce Type: new \nAbstract: Approval-based committee voting has received significant attention in the social choice community. Among the studied rules, Thie...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
-      "url": "https://arxiv.org/abs/2605.00846",
+      "title": "Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption",
+      "url": "https://arxiv.org/abs/2605.03078",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.00846v1 Announce Type: new \nAbstract: Clinical diagnosis requires answers that are accurate, verifiable, and explicitly grounded in official guidelines. While large l...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03078v1 Announce Type: new \nAbstract: While AI is often introduced into organizations to drive innovation and efficiency, many adoption efforts fail as workers resist...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-      "url": "https://arxiv.org/abs/2605.00909",
+      "title": "Programmatic Context Augmentation for LLM-based Symbolic Regression",
+      "url": "https://arxiv.org/abs/2605.03101",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.00909v1 Announce Type: new \nAbstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03101v1 Announce Type: new \nAbstract: Symbolic regression (SR), the task of discovering mathematical expressions that best describe a given dataset, remains a fundame...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
-      "url": "https://arxiv.org/abs/2605.01030",
+      "title": "Are you with me? A Framework for Detecting Mental Model Discrepancies in Task-Based Team Dialogues",
+      "url": "https://arxiv.org/abs/2605.03149",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01030v2 Announce Type: new \nAbstract: We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level govern...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03149v1 Announce Type: new \nAbstract: Humans typically use natural language to update teammates on task states. Since not all updates are communicated, discrepancies ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
-      "url": "https://arxiv.org/abs/2605.01032",
+      "title": "Learning Correct Behavior from Examples: Validating Sequential Execution in Autonomous Agents",
+      "url": "https://arxiv.org/abs/2605.03159",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01032v2 Announce Type: new \nAbstract: We present an algebraic semantics for governed execution in which governance is axiomatized, compositional, and coterminous with...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03159v1 Announce Type: new \nAbstract: As autonomous agents become increasingly sophisticated, validating their sequential behavior presents a significant challenge. T...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
-      "url": "https://arxiv.org/abs/2605.01100",
+      "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+      "url": "https://arxiv.org/abs/2605.03195",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01100v1 Announce Type: new \nAbstract: This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoni...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03195v1 Announce Type: new \nAbstract: Modern coding agents increasingly delegate specialized subtasks to subagents, which are smaller, focused agentic loops that hand...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
-      "url": "https://arxiv.org/abs/2605.01101",
+      "title": "Stop Automating Peer Review Without Rigorous Evaluation",
+      "url": "https://arxiv.org/abs/2605.03202",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01101v1 Announce Type: new \nAbstract: This paper develops Virtual Speech Therapist (VST), an intelligent agent-based platform that streamlines stuttering assessment a...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03202v1 Announce Type: new \nAbstract: Large language models offer a tempting solution to address the peer review crisis. This position paper argues that today's AI sy...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
-      "url": "https://arxiv.org/abs/2605.01102",
+      "title": "ADAPTS: Agentic Decomposition for Automated Protocol-agnostic Tracking of Symptoms",
+      "url": "https://arxiv.org/abs/2605.03212",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01102v1 Announce Type: new \nAbstract: Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, ...",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03212v2 Announce Type: new \nAbstract: Modeling latent clinical constructs from unconstrained clinical interactions is a unique challenge in affective computing. We pr...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Evaluating Prompting and Execution-Based Methods for Deterministic Computation in LLMs",
+      "url": "https://arxiv.org/abs/2605.03227",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03227v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong capabilities in natural language understanding and reasoning. However, the...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "cotomi Act: Learning to Automate Work by Watching You",
+      "url": "https://arxiv.org/abs/2605.03231",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-07T04:00:00Z",
+      "short_summary": "arXiv:2605.03231v1 Announce Type: new \nAbstract: What if a browser agent could learn your work simply by watching you do it? We present cotomi Act, a browser-based computer-usin...",
       "tag": "RESEARCH"
     }
   ]
