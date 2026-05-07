@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-06T14:22:03.299169Z",
+  "last_updated": "2026-05-07T03:29:56.041781Z",
   "items": [
+    {
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-06T19:06:55Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-06T16:00:00Z",
+      "short_summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circl...",
+      "tag": "NEWS"
+    },
     {
       "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
       "url": "https://arxiv.org/abs/2605.00839",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-06T04:00:00Z",
       "short_summary": "arXiv:2605.01102v1 Announce Type: new \nAbstract: Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "New Bounds for Zarankiewicz Numbers via Reinforced LLM Evolutionary Search",
-      "url": "https://arxiv.org/abs/2605.01120",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01120v1 Announce Type: new \nAbstract: The Zarankiewicz number $\\textbf{Z}(m, n, s, t)$ is the maximum number of edges in a bipartite graph $G_{m, n}$ such that there ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
-      "url": "https://arxiv.org/abs/2605.01123",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-06T04:00:00Z",
-      "short_summary": "arXiv:2605.01123v1 Announce Type: new \nAbstract: Large language models (LLMs) can provide automated feedback in educational settings, but aligning an LLMs style with a specific ...",
       "tag": "RESEARCH"
     }
   ]
