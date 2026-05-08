@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-07T14:21:17.388880Z",
+  "last_updated": "2026-05-08T03:26:13.663532Z",
   "items": [
     {
       "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
