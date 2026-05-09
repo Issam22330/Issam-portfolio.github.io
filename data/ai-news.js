@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-09T03:24:59.878458Z",
+  "last_updated": "2026-05-09T13:23:42.890411Z",
   "items": [
     {
       "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
@@ -26,76 +26,76 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Understanding Annotator Safety Policy with Interpretability",
-      "url": "https://arxiv.org/abs/2605.05329",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05329v1 Announce Type: new \nAbstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, anno...",
-      "tag": "RESEARCH"
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-06T19:06:55Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "ZAYA1-8B Technical Report",
-      "url": "https://arxiv.org/abs/2605.05365",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05365v1 Announce Type: new \nAbstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphr...",
-      "tag": "RESEARCH"
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-06T16:00:00Z",
+      "short_summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circl...",
+      "tag": "NEWS"
     },
     {
-      "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
-      "url": "https://arxiv.org/abs/2605.05379",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05379v1 Announce Type: new \nAbstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence env...",
-      "tag": "RESEARCH"
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-06T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
-      "url": "https://arxiv.org/abs/2605.05386",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05386v1 Announce Type: new \nAbstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information ...",
-      "tag": "RESEARCH"
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-05T16:00:00Z",
+      "short_summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "tag": "NEWS"
     },
     {
-      "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
-      "url": "https://arxiv.org/abs/2605.05402",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-en...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-04T17:00:00Z",
+      "short_summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
+      "tag": "BREAKING"
     },
     {
-      "title": "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
-      "url": "https://arxiv.org/abs/2605.05403",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05403v1 Announce Type: new \nAbstract: This position paper argues that sycophancy in LLMs is a boundary failure between social alignment and epistemic integrity. Exist...",
-      "tag": "RESEARCH"
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-04T15:30:00Z",
+      "short_summary": "Gemini API",
+      "tag": "NEWS"
     },
     {
-      "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
-      "url": "https://arxiv.org/abs/2605.05407",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05407v1 Announce Type: new \nAbstract: Scaling LLM-based embodied agents from text-only environments to complex multimodal settings remains a major challenge. Recent w...",
-      "tag": "RESEARCH"
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-29T15:01:48Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
-      "url": "https://arxiv.org/abs/2605.05409",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05409v1 Announce Type: new \nAbstract: Financial document question answering (QA) demands complex multi-step numerical reasoning over heterogeneous evidence--structure...",
-      "tag": "RESEARCH"
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-04-29T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
-      "url": "https://arxiv.org/abs/2605.05410",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05410v1 Announce Type: new \nAbstract: Large-language-model (LLM) graders promise to relieve the grading burden of upper-division STEM courses, but most deployments to...",
-      "tag": "RESEARCH"
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-28T16:00:00Z",
+      "short_summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numer...",
+      "tag": "NEWS"
     }
   ]
 };
