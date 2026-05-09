@@ -1,12 +1,28 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-08T13:57:31.254239Z",
+  "last_updated": "2026-05-09T03:24:59.878458Z",
   "items": [
     {
-      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
       "source": "Hugging Face Blog",
-      "published_at": "2026-05-08T07:54:18Z",
+      "published_at": "2026-05-08T17:41:05Z",
       "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-08T16:03:50Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-08T15:00:00Z",
+      "short_summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
       "tag": "NEWS"
     },
     {
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-08T04:00:00Z",
       "short_summary": "arXiv:2605.05410v1 Announce Type: new \nAbstract: Large-language-model (LLM) graders promise to relieve the grading burden of upper-division STEM courses, but most deployments to...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
-      "url": "https://arxiv.org/abs/2605.05413",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05413v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly used to operate browsers, files, code and tools, making personal assistants a...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias",
-      "url": "https://arxiv.org/abs/2605.05427",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-08T04:00:00Z",
-      "short_summary": "arXiv:2605.05427v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) are integrated into global software systems, ensuring equitable safety guardrails is a critical ...",
       "tag": "RESEARCH"
     }
   ]
