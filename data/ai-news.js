@@ -1,13 +1,13 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-09T13:23:42.890411Z",
+  "last_updated": "2026-05-10T03:36:44.348117Z",
   "items": [
     {
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
       "source": "Hugging Face Blog",
-      "published_at": "2026-05-08T17:41:05Z",
+      "published_at": "2026-05-09T18:09:28Z",
       "short_summary": "",
-      "tag": "MODEL"
+      "tag": "NEWS"
     },
     {
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
