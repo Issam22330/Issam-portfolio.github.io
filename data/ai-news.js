@@ -1,11 +1,11 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-10T13:25:12.927575Z",
+  "last_updated": "2026-05-11T03:51:01.357273Z",
   "items": [
     {
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
       "source": "Hugging Face Blog",
-      "published_at": "2026-05-09T18:09:28Z",
+      "published_at": "2026-05-10T18:44:11Z",
       "short_summary": "",
       "tag": "NEWS"
     },
