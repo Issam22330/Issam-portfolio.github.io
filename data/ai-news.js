@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-11T03:51:01.357273Z",
+  "last_updated": "2026-05-11T15:17:15.341699Z",
   "items": [
     {
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-10T18:44:11Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-08T16:03:50Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "source": "Google AI Blog",
-      "published_at": "2026-05-08T15:00:00Z",
-      "short_summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
+      "published_at": "2026-05-11T06:00:00Z",
+      "short_summary": "A screenshot of the AI-powered experience on Google Finance.",
       "tag": "NEWS"
     },
     {
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-06T19:06:55Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+      "url": "https://arxiv.org/abs/2605.06671",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on gr...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-06T16:00:00Z",
-      "short_summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circl...",
-      "tag": "NEWS"
+      "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+      "url": "https://arxiv.org/abs/2605.06672",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06672v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-06T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
+      "url": "https://arxiv.org/abs/2605.06682",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06682v1 Announce Type: new \nAbstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, a...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-05T16:00:00Z",
-      "short_summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "tag": "NEWS"
+      "title": "State Representation and Termination for Recursive Reasoning Systems",
+      "url": "https://arxiv.org/abs/2605.06690",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06690v1 Announce Type: new \nAbstract: Recursive reasoning systems alternate between acquiring new evidence and refining an accumulated understanding. Two design choic...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-04T17:00:00Z",
-      "short_summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
-      "tag": "BREAKING"
+      "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
+      "url": "https://arxiv.org/abs/2605.06696",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06696v1 Announce Type: new \nAbstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI saf...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-04T15:30:00Z",
-      "short_summary": "Gemini API",
-      "tag": "NEWS"
+      "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+      "url": "https://arxiv.org/abs/2605.06702",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06702v1 Announce Type: new \nAbstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains con...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-29T15:01:48Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+      "url": "https://arxiv.org/abs/2605.06716",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and pl...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-04-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
+      "url": "https://arxiv.org/abs/2605.06723",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06723v1 Announce Type: new \nAbstract: Language models often generate reasoning before giving a final answer, but the visible answer does not reveal when the model's a...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-28T16:00:00Z",
-      "short_summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numer...",
-      "tag": "NEWS"
+      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
+      "url": "https://arxiv.org/abs/2605.06761",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06761v1 Announce Type: new \nAbstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Exi...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
+      "url": "https://arxiv.org/abs/2605.06772",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more co...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
+      "url": "https://arxiv.org/abs/2605.06812",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-11T04:00:00Z",
+      "short_summary": "arXiv:2605.06812v1 Announce Type: new \nAbstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful mem...",
+      "tag": "RESEARCH"
     }
   ]
 };
