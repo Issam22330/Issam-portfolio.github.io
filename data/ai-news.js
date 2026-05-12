@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-12T03:34:32.121243Z",
+  "last_updated": "2026-05-12T14:31:49.850036Z",
   "items": [
     {
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-11T23:18:26Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-11T06:00:00Z",
-      "short_summary": "A screenshot of the AI-powered experience on Google Finance.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-      "url": "https://arxiv.org/abs/2605.06671",
+      "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+      "url": "https://arxiv.org/abs/2605.08200",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on gr...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08200v1 Announce Type: new \nAbstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concen...",
       "tag": "RESEARCH"
     },
     {
-      "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
-      "url": "https://arxiv.org/abs/2605.06672",
+      "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+      "url": "https://arxiv.org/abs/2605.08220",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06672v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Fast and Effective Redistricting Optimization via Composite-Move Tabu Search",
-      "url": "https://arxiv.org/abs/2605.06682",
+      "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+      "url": "https://arxiv.org/abs/2605.08354",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06682v1 Announce Type: new \nAbstract: Spatial redistricting is a practical combinatorial optimization problem that demands high-quality solutions, rapid turnaround, a...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08354v1 Announce Type: new \nAbstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimens...",
       "tag": "RESEARCH"
     },
     {
-      "title": "State Representation and Termination for Recursive Reasoning Systems",
-      "url": "https://arxiv.org/abs/2605.06690",
+      "title": "Embeddings for Preferences, Not Semantics",
+      "url": "https://arxiv.org/abs/2605.08360",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06690v1 Announce Type: new \nAbstract: Recursive reasoning systems alternate between acquiring new evidence and refining an accumulated understanding. Two design choic...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations",
-      "url": "https://arxiv.org/abs/2605.06696",
+      "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+      "url": "https://arxiv.org/abs/2605.08368",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06696v1 Announce Type: new \nAbstract: Collections of interacting AI agents can form coalitions, creating emergent group-level organization that is critical for AI saf...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08368v1 Announce Type: new \nAbstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learnin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
-      "url": "https://arxiv.org/abs/2605.06702",
+      "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+      "url": "https://arxiv.org/abs/2605.08374",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06702v1 Announce Type: new \nAbstract: Large language models (LLMs) have become a central foundation of modern artificial intelligence, yet their lifecycle remains con...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08374v1 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i....",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
-      "url": "https://arxiv.org/abs/2605.06716",
+      "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+      "url": "https://arxiv.org/abs/2605.08386",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06716v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and pl...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing system...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does a Language Model Commit? A Finite-Answer Theory of Pre-Verbalization Commitment",
-      "url": "https://arxiv.org/abs/2605.06723",
+      "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+      "url": "https://arxiv.org/abs/2605.08388",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06723v1 Announce Type: new \nAbstract: Language models often generate reasoning before giving a final answer, but the visible answer does not reveal when the model's a...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08388v1 Announce Type: new \nAbstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Weblica: Scalable and Reproducible Training Environments for Visual Web Agents",
-      "url": "https://arxiv.org/abs/2605.06761",
+      "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+      "url": "https://arxiv.org/abs/2605.08399",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06761v1 Announce Type: new \nAbstract: The web is complex, open-ended, and constantly changing, making it challenging to scale training data for visual web agents. Exi...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08399v1 Announce Type: new \nAbstract: Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library cr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning",
-      "url": "https://arxiv.org/abs/2605.06772",
+      "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+      "url": "https://arxiv.org/abs/2605.08405",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more co...",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08405v1 Announce Type: new \nAbstract: How do LLMs learn in-context? Is it by pattern-matching recent tokens, or by inferring latent structure? We probe this question ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+      "url": "https://arxiv.org/abs/2605.08409",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08409v1 Announce Type: new \nAbstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusi...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
+      "url": "https://arxiv.org/abs/2605.08415",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-12T04:00:00Z",
+      "short_summary": "arXiv:2605.08415v1 Announce Type: new \nAbstract: Since the advent of Large Language Models (LLMs), a significant area of research has focused on their intrinsic biases, particul...",
       "tag": "RESEARCH"
     }
   ]
