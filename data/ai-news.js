@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-11T15:17:15.341699Z",
+  "last_updated": "2026-05-12T03:34:32.121243Z",
   "items": [
+    {
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-11T23:18:26Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "The new AI-powered Google Finance is expanding to Europe.",
       "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-11T04:00:00Z",
       "short_summary": "arXiv:2605.06772v1 Announce Type: new \nAbstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more co...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
-      "url": "https://arxiv.org/abs/2605.06812",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-11T04:00:00Z",
-      "short_summary": "arXiv:2605.06812v1 Announce Type: new \nAbstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful mem...",
       "tag": "RESEARCH"
     }
   ]
