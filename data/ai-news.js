@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-14T14:21:43.280227Z",
+  "last_updated": "2026-05-15T03:45:39.979860Z",
   "items": [
+    {
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-14T18:55:01Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
       "url": "https://arxiv.org/abs/2605.12620",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-14T04:00:00Z",
       "short_summary": "arXiv:2605.12835v1 Announce Type: new \nAbstract: Large language models can extract local causal claims from text, but those claims become more useful when organized as persisten...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
-      "url": "https://arxiv.org/abs/2605.12838",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12838v1 Announce Type: new \nAbstract: Tracking an interpretable emotional arc of a conversation via the sentiment of individual utterances processed as a whole is cen...",
       "tag": "RESEARCH"
     }
   ]
