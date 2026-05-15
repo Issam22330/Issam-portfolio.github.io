@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-15T03:45:39.979860Z",
+  "last_updated": "2026-05-15T14:12:55.780661Z",
   "items": [
     {
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-14T18:55:01Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
-      "url": "https://arxiv.org/abs/2605.12620",
+      "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+      "url": "https://arxiv.org/abs/2605.13848",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12620v1 Announce Type: new \nAbstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimoda...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.13848v1 Announce Type: new \nAbstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
-      "url": "https://arxiv.org/abs/2605.12655",
+      "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+      "url": "https://arxiv.org/abs/2605.13849",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12655v1 Announce Type: new \nAbstract: Multi-agent reinforcement learning (MARL) in real-world use cases may need to adapt to external natural language instructions th...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.13849v1 Announce Type: new \nAbstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, y...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack",
-      "url": "https://arxiv.org/abs/2605.12673",
+      "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+      "url": "https://arxiv.org/abs/2605.13850",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12673v1 Announce Type: new \nAbstract: Agent benchmarks have become the de facto measure of frontier AI competence, guiding model selection, investment, and deployment...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.13850v1 Announce Type: new \nAbstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Go...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Revealing Interpretable Failure Modes of VLMs",
-      "url": "https://arxiv.org/abs/2605.12674",
+      "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.13851",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12674v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilitie...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.13851v1 Announce Type: new \nAbstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architec...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
-      "url": "https://arxiv.org/abs/2605.12682",
+      "title": "PREPING: Building Agent Memory without Tasks",
+      "url": "https://arxiv.org/abs/2605.13880",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certai...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.13880v1 Announce Type: new \nAbstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. Ho...",
       "tag": "RESEARCH"
     },
     {
-      "title": "On the Size Complexity and Decidability of First-Order Progression",
-      "url": "https://arxiv.org/abs/2605.12691",
+      "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+      "url": "https://arxiv.org/abs/2605.14002",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12691v1 Announce Type: new \nAbstract: Progression, the task of updating a knowledge base to reflect action effects, generally requires second-order logic. Identifying...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14002v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context qu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
-      "url": "https://arxiv.org/abs/2605.12702",
+      "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+      "url": "https://arxiv.org/abs/2605.14004",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12702v1 Announce Type: new \nAbstract: General-purpose safety benchmarks for large language models do not adequately evaluate disability-related harms. We introduce Di...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14004v1 Announce Type: new \nAbstract: Generative models are often trained with a next-token prediction objective, yet many downstream applications require the ability...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CHAL: Council of Hierarchical Agentic Language",
-      "url": "https://arxiv.org/abs/2605.12718",
+      "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+      "url": "https://arxiv.org/abs/2605.14033",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12718v1 Announce Type: new \nAbstract: Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodolog...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14033v1 Announce Type: new \nAbstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect wh...",
       "tag": "RESEARCH"
     },
     {
-      "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
-      "url": "https://arxiv.org/abs/2605.12730",
+      "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+      "url": "https://arxiv.org/abs/2605.14034",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12730v1 Announce Type: new \nAbstract: Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a resu...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14034v1 Announce Type: new \nAbstract: Wide applications of LLM-based agents require strong alignment with human social values. However, current works still exhibit de...",
       "tag": "RESEARCH"
     },
     {
-      "title": "State-Centric Decision Process",
-      "url": "https://arxiv.org/abs/2605.12755",
+      "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+      "url": "https://arxiv.org/abs/2605.14036",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12755v1 Announce Type: new \nAbstract: Language environments such as web browsers, code terminals, and interactive simulations emit raw text rather than states, and pr...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14036v1 Announce Type: new \nAbstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
-      "url": "https://arxiv.org/abs/2605.12835",
+      "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
+      "url": "https://arxiv.org/abs/2605.14038",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-14T04:00:00Z",
-      "short_summary": "arXiv:2605.12835v1 Announce Type: new \nAbstract: Large language models can extract local causal claims from text, but those claims become more useful when organized as persisten...",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14038v1 Announce Type: new \nAbstract: Large language models (LLMs) increasingly act as autonomous agents that must decide when to answer directly vs. when to invoke e...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning",
+      "url": "https://arxiv.org/abs/2605.14048",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-15T04:00:00Z",
+      "short_summary": "arXiv:2605.14048v1 Announce Type: new \nAbstract: Masked autoencoders (MAEs) have recently shown promise for self-supervised representation learning of resting-state brain functi...",
       "tag": "RESEARCH"
     }
   ]
