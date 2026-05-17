@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-16T13:38:31.654456Z",
+  "last_updated": "2026-05-17T03:44:52.464341Z",
   "items": [
     {
       "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
