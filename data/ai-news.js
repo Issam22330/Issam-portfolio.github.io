@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-18T03:58:33.820118Z",
+  "last_updated": "2026-05-18T15:38:50.947042Z",
   "items": [
     {
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "source": "Hugging Face Blog",
-      "published_at": "2026-05-14T18:55:01Z",
+      "published_at": "2026-05-18T15:12:46Z",
       "short_summary": "",
       "tag": "NEWS"
     },
     {
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
       "source": "Hugging Face Blog",
-      "published_at": "2026-05-14T00:00:00Z",
+      "published_at": "2026-05-18T14:12:58Z",
       "short_summary": "",
       "tag": "NEWS"
     },
     {
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-11T23:18:26Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "DeepSlide: From Artifacts to Presentation Delivery",
+      "url": "https://arxiv.org/abs/2605.15202",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15202v1 Announce Type: new \nAbstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually p...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-11T06:00:00Z",
-      "short_summary": "A screenshot of the AI-powered experience on Google Finance.",
-      "tag": "NEWS"
+      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+      "url": "https://arxiv.org/abs/2605.15204",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15204v1 Announce Type: new \nAbstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do n...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-08T16:03:50Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+      "url": "https://arxiv.org/abs/2605.15205",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15205v1 Announce Type: new \nAbstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions betwe...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-08T15:00:00Z",
-      "short_summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
-      "tag": "NEWS"
+      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+      "url": "https://arxiv.org/abs/2605.15215",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15215v1 Announce Type: new \nAbstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-06T19:06:55Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+      "url": "https://arxiv.org/abs/2605.15217",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15217v1 Announce Type: new \nAbstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-06T16:00:00Z",
-      "short_summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circl...",
-      "tag": "NEWS"
+      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+      "url": "https://arxiv.org/abs/2605.15218",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15218v1 Announce Type: new \nAbstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured exe...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-06T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
+      "url": "https://arxiv.org/abs/2605.15219",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15219v1 Announce Type: new \nAbstract: Can AI systems discover genuinely new knowledge through iterative self improvement, and if so, at what cost? We introduce the NO...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-05T16:00:00Z",
-      "short_summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "tag": "NEWS"
+      "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2605.15224",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15224v1 Announce Type: new \nAbstract: Large language model-based agents make mistakes, yet critique can often guide the same model toward correct behavior. However, w...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-04T17:00:00Z",
-      "short_summary": "mp4 featuring an underwater video and a mobile AI video mockup.",
-      "tag": "BREAKING"
+      "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
+      "url": "https://arxiv.org/abs/2605.15227",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15227v1 Announce Type: new \nAbstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, d...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-04T15:30:00Z",
-      "short_summary": "Gemini API",
-      "tag": "NEWS"
+      "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
+      "url": "https://arxiv.org/abs/2605.15228",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-18T04:00:00Z",
+      "short_summary": "arXiv:2605.15228v1 Announce Type: new \nAbstract: Modern cloud and enterprise systems rely on identity-centric authorization, assuming that callers possessing valid credentials a...",
+      "tag": "RESEARCH"
     }
   ]
 };
