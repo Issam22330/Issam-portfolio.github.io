@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-17T13:27:08.390893Z",
+  "last_updated": "2026-05-18T03:58:33.820118Z",
   "items": [
     {
       "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
