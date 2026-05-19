@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-19T03:52:52.642779Z",
+  "last_updated": "2026-05-19T15:31:08.531026Z",
   "items": [
     {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-18T16:00:21Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-18T15:12:46Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-18T14:12:58Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "DeepSlide: From Artifacts to Presentation Delivery",
-      "url": "https://arxiv.org/abs/2605.15202",
+      "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+      "url": "https://arxiv.org/abs/2605.16265",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15202v1 Announce Type: new \nAbstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually p...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16265v1 Announce Type: new \nAbstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-      "url": "https://arxiv.org/abs/2605.15204",
+      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+      "url": "https://arxiv.org/abs/2605.16309",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15204v1 Announce Type: new \nAbstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do n...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16309v1 Announce Type: new \nAbstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying pr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-      "url": "https://arxiv.org/abs/2605.15205",
+      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
+      "url": "https://arxiv.org/abs/2605.16552",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15205v1 Announce Type: new \nAbstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions betwe...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16552v1 Announce Type: new \nAbstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-      "url": "https://arxiv.org/abs/2605.15215",
+      "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+      "url": "https://arxiv.org/abs/2605.16565",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15215v1 Announce Type: new \nAbstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing ...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16565v1 Announce Type: new \nAbstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Toda...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-      "url": "https://arxiv.org/abs/2605.15217",
+      "title": "Scalable Uncertainty Reasoning in Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2605.16568",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15217v1 Announce Type: new \nAbstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in t...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16568v1 Announce Type: new \nAbstract: Knowledge Graphs are pivotal for semantic data integration. The real-world data they model is often inherently uncertain. Within...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-      "url": "https://arxiv.org/abs/2605.15218",
+      "title": "Counterparty Modeling is Not Strategy: The Limits of LLM Negotiators",
+      "url": "https://arxiv.org/abs/2605.16575",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15218v1 Announce Type: new \nAbstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured exe...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16575v1 Announce Type: new \nAbstract: Negotiation requires more than inferring what the other side wants: it requires using that information to make advantageous offe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
-      "url": "https://arxiv.org/abs/2605.15219",
+      "title": "PRISMat: Policy-Driven, Permutation-Invariant Autoregressive Material Generation",
+      "url": "https://arxiv.org/abs/2605.16612",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15219v1 Announce Type: new \nAbstract: Can AI systems discover genuinely new knowledge through iterative self improvement, and if so, at what cost? We introduce the NO...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16612v1 Announce Type: new \nAbstract: Rapid identification of candidate materials with target properties has become a key task in materials science. Machine learning ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2605.15224",
+      "title": "TTE-Flash: Accelerating Reasoning-based Multimodal Representations via Think-Then-Embed Tokens",
+      "url": "https://arxiv.org/abs/2605.16638",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15224v1 Announce Type: new \nAbstract: Large language model-based agents make mistakes, yet critique can often guide the same model toward correct behavior. However, w...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16638v1 Announce Type: new \nAbstract: Recent research has demonstrated that Universal Multimodal Embedding (UME) benefits significantly from Chain-of-Thought (CoT) re...",
       "tag": "RESEARCH"
     },
     {
-      "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2605.15227",
+      "title": "Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents",
+      "url": "https://arxiv.org/abs/2605.16671",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15227v1 Announce Type: new \nAbstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, d...",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16671v1 Announce Type: new \nAbstract: Rapid biodiversity loss underscore the urgency of effective monitoring, yet manual surveys remain resource-intensive. While on-d...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "LinAlg-Bench: A Forensic Benchmark Revealing Structural Failure Modes in LLM Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2605.16675",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16675v1 Announce Type: new \nAbstract: We introduce LinAlg-Bench, a diagnostic benchmark evaluating 10 frontier large language models on structured linear algebra comp...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Enhancing Metacognitive AI: Knowledge-Graph Population with Graph-Theoretic LLM Enrichment",
+      "url": "https://arxiv.org/abs/2605.16676",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16676v1 Announce Type: new \nAbstract: Metacognition-the ability to monitor one's own knowledge state, spot gaps, and autonomously fill them--remains largely absent fr...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Recall Isn't Enough: Bounding Commitments in Personalized Language Systems",
+      "url": "https://arxiv.org/abs/2605.16712",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-19T04:00:00Z",
+      "short_summary": "arXiv:2605.16712v1 Announce Type: new \nAbstract: Long-context and memory systems usually treat personalization as a recall problem. In practice, many failures occur later, when ...",
       "tag": "RESEARCH"
     }
   ]
