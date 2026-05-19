@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-18T15:38:50.947042Z",
+  "last_updated": "2026-05-19T03:52:52.642779Z",
   "items": [
+    {
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-18T16:00:21Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-18T04:00:00Z",
       "short_summary": "arXiv:2605.15227v1 Announce Type: new \nAbstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, d...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
-      "url": "https://arxiv.org/abs/2605.15228",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-18T04:00:00Z",
-      "short_summary": "arXiv:2605.15228v1 Announce Type: new \nAbstract: Modern cloud and enterprise systems rely on identity-centric authorization, assuming that callers possessing valid credentials a...",
       "tag": "RESEARCH"
     }
   ]
