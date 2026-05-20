@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-20T03:53:15.421761Z",
+  "last_updated": "2026-05-20T15:28:31.365049Z",
   "items": [
     {
-      "title": "OlmoEarth v1.1: A more efficient family of models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-19T18:38:09Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and...",
-      "tag": "NEWS"
-    },
-    {
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "Google Workspace",
-      "tag": "NEWS"
-    },
-    {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "a series of colorful icons representing Google I/O against a black background",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "A new era for AI Search",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "Text that reads \"The best of a search engine with the best of AI\"",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-19T17:45:00Z",
-      "short_summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
-      "url": "https://arxiv.org/abs/2605.16265",
+      "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+      "url": "https://arxiv.org/abs/2605.18801",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-19T04:00:00Z",
-      "short_summary": "arXiv:2605.16265v1 Announce Type: new \nAbstract: The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text...",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.18801v1 Announce Type: new \nAbstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stag...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
-      "url": "https://arxiv.org/abs/2605.16309",
+      "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
+      "url": "https://arxiv.org/abs/2605.18818",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-19T04:00:00Z",
-      "short_summary": "arXiv:2605.16309v1 Announce Type: new \nAbstract: LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying pr...",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.18818v1 Announce Type: new \nAbstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model de...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Prompts to Protocols: An AI Agent for Laboratory Automation",
-      "url": "https://arxiv.org/abs/2605.16552",
+      "title": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
+      "url": "https://arxiv.org/abs/2605.18937",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-19T04:00:00Z",
-      "short_summary": "arXiv:2605.16552v1 Announce Type: new \nAbstract: Automating science laboratories enables faster, safer, more accurate, and more reproducible execution of protocols, accelerating...",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.18937v1 Announce Type: new \nAbstract: Patient-managed Personal Health Records (PHRs) promises to empower patients to better understand their health; but information i...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
-      "url": "https://arxiv.org/abs/2605.16565",
+      "title": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
+      "url": "https://arxiv.org/abs/2605.19008",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-19T04:00:00Z",
-      "short_summary": "arXiv:2605.16565v1 Announce Type: new \nAbstract: Skim is a speculative execution framework for web agents that exploits the predictable structure of purpose-built websites. Toda...",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19008v1 Announce Type: new \nAbstract: Modern language-model training is increasingly exposed to instability, degraded runs, and wasted compute, especially under aggre...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+      "url": "https://arxiv.org/abs/2605.19010",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19010v1 Announce Type: new \nAbstract: Natural language to SQL (NL2SQL) conversion is an important problem for researchers and enterprises due to the ubiquitous import...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2605.19031",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19031v1 Announce Type: new \nAbstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional ability to learn complex functions on clean, low-dimensional ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
+      "url": "https://arxiv.org/abs/2605.19035",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19035v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and ex...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Interference-Aware Multi-Task Unlearning",
+      "url": "https://arxiv.org/abs/2605.19042",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19042v1 Announce Type: new \nAbstract: Machine unlearning aims to remove the contribution of designated training data from a trained model while preserving performance...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
+      "url": "https://arxiv.org/abs/2605.19093",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19093v1 Announce Type: new \nAbstract: System prompts are a central control mechanism in modern AI systems, shaping behavior across conversations, tasks, and user popu...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
+      "url": "https://arxiv.org/abs/2605.19099",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19099v1 Announce Type: new \nAbstract: We introduce DecisionBench, a benchmark substrate for emergent delegation in long-horizon agentic workflows. The substrate fixes...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.19127",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19127v1 Announce Type: new \nAbstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems....",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Learning to Hand Off: Provably Convergent Workflow Learning under Interface Constraints",
+      "url": "https://arxiv.org/abs/2605.19140",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-05-20T04:00:00Z",
+      "short_summary": "arXiv:2605.19140v1 Announce Type: new \nAbstract: We study workflow learning in a setting where specialized agents hand off control through a shared artifact, each agent observes...",
       "tag": "RESEARCH"
     }
   ]
