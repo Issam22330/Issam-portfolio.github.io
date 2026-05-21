@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-21T04:02:12.126682Z",
+  "last_updated": "2026-05-21T15:35:01.539521Z",
   "items": [
     {
       "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
