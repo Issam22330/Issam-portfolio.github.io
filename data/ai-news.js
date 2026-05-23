@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-23T03:33:58.207695Z",
+  "last_updated": "2026-05-23T13:42:06.591351Z",
   "items": [
     {
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
@@ -26,76 +26,76 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
-      "url": "https://arxiv.org/abs/2605.20189",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20189v1 Announce Type: new \nAbstract: Despite the remarkable success of large language models (LLMs), they still face bottlenecks while deploying in dynamic, real-wor...",
-      "tag": "RESEARCH"
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T20:40:00Z",
+      "short_summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "tag": "NEWS"
     },
     {
-      "title": "Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration",
-      "url": "https://arxiv.org/abs/2605.20190",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20190v1 Announce Type: new \nAbstract: Iterative industrial design-simulation optimization is bottlenecked by the CAD-CAE semantic gap: translating simulation feedback...",
-      "tag": "RESEARCH"
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T19:30:00Z",
+      "short_summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "tag": "BREAKING"
     },
     {
-      "title": "OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind",
-      "url": "https://arxiv.org/abs/2605.20423",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20423v1 Announce Type: new \nAbstract: Large Language Models (LLMs) perform well on many language tasks, but their Theory of Mind (ToM) reasoning is still uneven in co...",
-      "tag": "RESEARCH"
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T16:45:00Z",
+      "short_summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
+      "tag": "NEWS"
     },
     {
-      "title": "AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows",
-      "url": "https://arxiv.org/abs/2605.20425",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20425v1 Announce Type: new \nAbstract: Designing multi-agent workflows is especially difficult in open-ended scientific settings where tasks lack curated training sets...",
-      "tag": "RESEARCH"
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-19T18:38:09Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "High Quality Embeddings for Horn Logic Reasoning",
-      "url": "https://arxiv.org/abs/2605.20467",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20467v1 Announce Type: new \nAbstract: Neural networks can be trained to rank the choices made by logical reasoners, resulting in more efficient searches for answers. ...",
-      "tag": "RESEARCH"
+      "title": "I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-19T17:45:00Z",
+      "short_summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+      "tag": "NEWS"
     },
     {
-      "title": "$ECUAS_n$: A family of metrics for principled evaluation of uncertainty-augmented systems",
-      "url": "https://arxiv.org/abs/2605.20490",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20490v2 Announce Type: new \nAbstract: In high-stakes automated decision-making, access to predictive uncertainty is essential for enabling users -- human or downstrea...",
-      "tag": "RESEARCH"
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-19T17:45:00Z",
+      "short_summary": "A graphic features the text \"How people are using AI Mode in the U.S.\" surrounded by colorful, stylized illustrations of a pencil, planet, banana, gift box, cursor, gamepad, and...",
+      "tag": "NEWS"
     },
     {
-      "title": "Open-World Evaluations for Measuring Frontier AI Capabilities",
-      "url": "https://arxiv.org/abs/2605.20520",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20520v1 Announce Type: new \nAbstract: Benchmark-based evaluation remains important for tracking frontier AI progress. But it can both overstate and understate deploye...",
-      "tag": "RESEARCH"
+      "title": "New ways to create and get things done in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-19T17:45:00Z",
+      "short_summary": "Google Workspace",
+      "tag": "NEWS"
     },
     {
-      "title": "AgentAtlas: Beyond Outcome Leaderboards for LLM Agents",
-      "url": "https://arxiv.org/abs/2605.20530",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20530v1 Announce Type: new \nAbstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the be...",
-      "tag": "RESEARCH"
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-19T17:45:00Z",
+      "short_summary": "a series of colorful icons representing Google I/O against a black background",
+      "tag": "NEWS"
     },
     {
-      "title": "Personality Engineering with AI Agents: A New Methodology for Negotiation Research",
-      "url": "https://arxiv.org/abs/2605.20554",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20554v1 Announce Type: new \nAbstract: According to canonical negotiation theory, people's success in a negotiation depends on how well they balance competing demands-...",
-      "tag": "RESEARCH"
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-19T17:45:00Z",
+      "short_summary": "Gemini 3.5 text and multi-colored star icon on an abstract blue background.",
+      "tag": "NEWS"
     }
   ]
 };
