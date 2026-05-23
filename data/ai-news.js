@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-22T14:44:34.916744Z",
+  "last_updated": "2026-05-23T03:33:58.207695Z",
   "items": [
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-23T00:02:03Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-22T18:00:00Z",
+      "short_summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-22T15:25:59Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation",
       "url": "https://arxiv.org/abs/2605.20189",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-22T04:00:00Z",
       "short_summary": "arXiv:2605.20554v1 Announce Type: new \nAbstract: According to canonical negotiation theory, people's success in a negotiation depends on how well they balance competing demands-...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Mahjax: A GPU-Accelerated Mahjong Simulator for Reinforcement Learning in JAX",
-      "url": "https://arxiv.org/abs/2605.20577",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20577v1 Announce Type: new \nAbstract: Riichi Mahjong is a multi-player, imperfect-information game characterized by stochasticity and high-dimensional state spaces. T...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "From Automated to Autonomous: Hierarchical Agent-native Network Architecture (HANA)",
-      "url": "https://arxiv.org/abs/2605.20608",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20608v1 Announce Type: new \nAbstract: Realizing Level 4/5 Autonomous Networks (AN) demands a shift from static automation to agent-native intelligence. Current operat...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "COAgents: Multi-Agent Framework to Learn and Navigate Routing Problems Search Space",
-      "url": "https://arxiv.org/abs/2605.20618",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-22T04:00:00Z",
-      "short_summary": "arXiv:2605.20618v1 Announce Type: new \nAbstract: Although Vehicle Routing Problems (VRP) are essential to many real-world systems, they remain computationally intractable at sca...",
       "tag": "RESEARCH"
     }
   ]
