@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-23T13:42:06.591351Z",
+  "last_updated": "2026-05-24T03:55:44.110217Z",
   "items": [
     {
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
