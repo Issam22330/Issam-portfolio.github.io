@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-25T04:07:21.308483Z",
+  "last_updated": "2026-05-25T15:14:03.519482Z",
   "items": [
     {
       "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
