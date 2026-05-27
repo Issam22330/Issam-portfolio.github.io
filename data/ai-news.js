@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-27T04:06:34.547019Z",
+  "last_updated": "2026-05-27T15:52:28.973952Z",
   "items": [
     {
       "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
