@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-27T15:52:28.973952Z",
+  "last_updated": "2026-05-28T03:55:15.433848Z",
   "items": [
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-27T17:20:29Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
       "url": "https://arxiv.org/abs/2605.26182",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-27T04:00:00Z",
       "short_summary": "arXiv:2605.26333v1 Announce Type: new \nAbstract: Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when studen...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence",
-      "url": "https://arxiv.org/abs/2605.26340",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26340v1 Announce Type: new \nAbstract: Autonomous research agents produce competitive solutions and professional-looking manuscripts, yet their outputs contain verifia...",
       "tag": "RESEARCH"
     }
   ]
