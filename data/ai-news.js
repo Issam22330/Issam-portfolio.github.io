@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-28T03:55:15.433848Z",
+  "last_updated": "2026-05-28T16:05:53.128945Z",
   "items": [
     {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-27T17:20:29Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-28T15:00:00Z",
+      "short_summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "tag": "NEWS"
     },
     {
-      "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
-      "url": "https://arxiv.org/abs/2605.26182",
+      "title": "Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture",
+      "url": "https://arxiv.org/abs/2605.27373",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26182v1 Announce Type: new \nAbstract: Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must als...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27373v1 Announce Type: new \nAbstract: As intelligent systems become more autonomous, the scientific community focuses on creating decision-making mechanisms that incl...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Can LLMs Introspect? A Reality Check",
-      "url": "https://arxiv.org/abs/2605.26242",
+      "title": "Soro: A Lightweight Foundation Model and Chatbot for Tajik",
+      "url": "https://arxiv.org/abs/2605.27379",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26242v1 Announce Type: new \nAbstract: Can large language models detect and report their own internal states? A number of studies have argued that the answer to this q...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27379v1 Announce Type: new \nAbstract: We present Soro, a family of Tajik-specialized conversational large language models (LLMs) designed for real-world deployment un...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
-      "url": "https://arxiv.org/abs/2605.26252",
+      "title": "On the Origin of Synthetic Information by Means of Steganographic Inheritance",
+      "url": "https://arxiv.org/abs/2605.27551",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26252v1 Announce Type: new \nAbstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27551v1 Announce Type: new \nAbstract: The origin of species has been the mystery of mysteries in natural science. By analogy, the origin of synthetic information, we ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
-      "url": "https://arxiv.org/abs/2605.26256",
+      "title": "DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents",
+      "url": "https://arxiv.org/abs/2605.27566",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26256v1 Announce Type: new \nAbstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical e...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27566v1 Announce Type: new \nAbstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Constraint acquisition needs better benchmarks",
-      "url": "https://arxiv.org/abs/2605.26279",
+      "title": "Why LLMs Fail at Causal Discovery and How Interventional Agents Escape",
+      "url": "https://arxiv.org/abs/2605.27567",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26279v1 Announce Type: new \nAbstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from ...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27567v1 Announce Type: new \nAbstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
-      "url": "https://arxiv.org/abs/2605.26302",
+      "title": "RULER: Representation-Level Verification of Machine Unlearning",
+      "url": "https://arxiv.org/abs/2605.27569",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26302v1 Announce Type: new \nAbstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly init...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27569v1 Announce Type: new \nAbstract: Machine unlearning aims to remove the influence of specific training records from a deployed model without retraining from scrat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Experiments in Agentic AI for Science",
-      "url": "https://arxiv.org/abs/2605.26305",
+      "title": "LaneRoPE: Positional Encoding for Collaborative Parallel Reasoning and Generation",
+      "url": "https://arxiv.org/abs/2605.27570",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26305v1 Announce Type: new \nAbstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a h...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27570v1 Announce Type: new \nAbstract: Parallel LLM test-time scaling techniques (e.g., best-of-$N$) require drawing $N>1$ sequences conditioned on the same input prom...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
-      "url": "https://arxiv.org/abs/2605.26321",
+      "title": "Discovery Agents for Real-Time Analytics: Toward Proactive Insight Systems",
+      "url": "https://arxiv.org/abs/2605.27571",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26321v1 Announce Type: new \nAbstract: AI agents are beginning to complete valuable, long-horizon business operations tasks, but training and evaluation environments f...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27571v1 Announce Type: new \nAbstract: Modern analytics systems are fundamentally reactive, requiring users to define queries over increasingly complex and continuousl...",
       "tag": "RESEARCH"
     },
     {
-      "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
-      "url": "https://arxiv.org/abs/2605.26322",
+      "title": "Agyn: An Open-Source Platform for AI Agents with Scalable On-Demand Execution, Agent Definition as a Code, and Zero-Trust Access",
+      "url": "https://arxiv.org/abs/2605.27575",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26322v1 Announce Type: new \nAbstract: Theory of Mind (ToM), the ability to infer others' knowledge, intentions, and emotions, is commonly evaluated in large language ...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27575v1 Announce Type: new \nAbstract: As organizations move toward production deployments of AI agents, which execute non-deterministic workflows, maintain stateful s...",
       "tag": "RESEARCH"
     },
     {
-      "title": "JobBench: Aligning Agent Work With Human Will",
-      "url": "https://arxiv.org/abs/2605.26329",
+      "title": "You Are in Control of Your State: Why Human Outcomes Are Controllable Through Causal State Intervention",
+      "url": "https://arxiv.org/abs/2605.27580",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26329v1 Announce Type: new \nAbstract: Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27580v1 Announce Type: new \nAbstract: A central puzzle for the behavioural sciences and for human-facing artificial intelligence is the persistence of within-person v...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Managing Uncertainty in LLM-Generated Procedural Knowledge for Virtual Laboratory Planning",
-      "url": "https://arxiv.org/abs/2605.26333",
+      "title": "Cyberbullying Governance on Social Media: A Unified Framework from Content Identification to Intervention",
+      "url": "https://arxiv.org/abs/2605.27584",
       "source": "arXiv cs.AI",
-      "published_at": "2026-05-27T04:00:00Z",
-      "short_summary": "arXiv:2605.26333v1 Announce Type: new \nAbstract: Educational virtual laboratories can make experimental training more scala-ble, adaptive, and accessible, especially when studen...",
+      "published_at": "2026-05-28T04:00:00Z",
+      "short_summary": "arXiv:2605.27584v1 Announce Type: new \nAbstract: The proliferation of social media platforms and online communities has inadvertently catalyzed the spread of cyberbullying, hate...",
       "tag": "RESEARCH"
     }
   ]
