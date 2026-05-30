@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-29T15:43:00.445943Z",
+  "last_updated": "2026-05-30T03:41:45.274858Z",
   "items": [
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-29T19:00:00Z",
+      "short_summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-29T17:30:00Z",
+      "short_summary": "Gemini Omni & Gemini 3.5 hero",
+      "tag": "NEWS"
+    },
     {
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-05-29T04:00:00Z",
       "short_summary": "arXiv:2605.28994v1 Announce Type: new \nAbstract: AI tools to support real world decision making must be able to build simulation models that inform their recommendations and ren...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Adopt $\\neq$ Adapt: Longitudinal Analyses of LLM Conversations in the Wild",
-      "url": "https://arxiv.org/abs/2605.29018",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.29018v1 Announce Type: new \nAbstract: Although a growing body of research has begun to describe user--LLM interactions, the picture it paints is largely static; littl...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When Models Disagree: Rethinking LLM Evaluation for Public Comment Analysis",
-      "url": "https://arxiv.org/abs/2605.29025",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.29025v1 Announce Type: new \nAbstract: Federal agencies are deploying large language models (LLMs) to categorize public comment corpora, where the model's organization...",
       "tag": "RESEARCH"
     }
   ]
