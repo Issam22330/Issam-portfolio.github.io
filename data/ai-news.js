@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-30T03:41:45.274858Z",
+  "last_updated": "2026-05-30T13:45:15.429846Z",
   "items": [
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -26,76 +26,76 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
-      "url": "https://arxiv.org/abs/2605.28849",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28849v1 Announce Type: new \nAbstract: Gradient temporal-difference methods provide stable off-policy prediction with linear function approximation, but their practica...",
-      "tag": "RESEARCH"
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-29T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction",
-      "url": "https://arxiv.org/abs/2605.28855",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28855v1 Announce Type: new \nAbstract: Temporal-difference learning with function approximation can be unstable under off-policy sampling. TDC stabilizes off-policy TD...",
-      "tag": "RESEARCH"
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-28T15:00:00Z",
+      "short_summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "tag": "NEWS"
     },
     {
-      "title": "The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling",
-      "url": "https://arxiv.org/abs/2605.28864",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28864v1 Announce Type: new \nAbstract: The Cognitive Categorical Transformer (CCT) is a 306M-parameter architecture that augments a pretrained GPT-2 Small backbone wit...",
-      "tag": "RESEARCH"
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-27T17:20:29Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems",
-      "url": "https://arxiv.org/abs/2605.28883",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28883v1 Announce Type: new \nAbstract: Tropical forests worldwide are under intense deforestation pressure driven by economic and political interests, and scientific e...",
-      "tag": "RESEARCH"
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-27T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Review Arcade: On the Human Alignment and Gameability of LLM Reviews",
-      "url": "https://arxiv.org/abs/2605.28897",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28897v1 Announce Type: new \nAbstract: LLM-generated reviews for scientific papers are gaining considerable traction and are even being officially piloted by major con...",
-      "tag": "RESEARCH"
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-27T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Orthogonal Concept Erasure for Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.28902",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28902v1 Announce Type: new \nAbstract: Concept erasure has emerged as a promising approach to mitigate undesired or unsafe content in diffusion models, yet existing me...",
-      "tag": "RESEARCH"
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-25T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Frontier LLM-based agents can overcome the ontology curation bottleneck for natural phenotypes",
-      "url": "https://arxiv.org/abs/2605.28965",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28965v1 Announce Type: new \nAbstract: Linking free-text phenotype descriptions to ontology terms, typically referred to as phenotype annotation, is essential for the ...",
-      "tag": "RESEARCH"
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-23T00:02:03Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis",
-      "url": "https://arxiv.org/abs/2605.28978",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28978v1 Announce Type: new \nAbstract: Finite Element Analysis (FEA) serves as the cornerstone of modern engineering design. However, its workflow is inherently comple...",
-      "tag": "RESEARCH"
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-22T18:00:00Z",
+      "short_summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "tag": "NEWS"
     },
     {
-      "title": "BEAMS: Benchmarking and Evaluating AI for Modeling and Simulation",
-      "url": "https://arxiv.org/abs/2605.28994",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-05-29T04:00:00Z",
-      "short_summary": "arXiv:2605.28994v1 Announce Type: new \nAbstract: AI tools to support real world decision making must be able to build simulation models that inform their recommendations and ren...",
-      "tag": "RESEARCH"
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-05-22T15:25:59Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
