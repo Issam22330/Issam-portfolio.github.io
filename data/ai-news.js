@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-31T04:08:25.421725Z",
+  "last_updated": "2026-05-31T13:50:16.409313Z",
   "items": [
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
