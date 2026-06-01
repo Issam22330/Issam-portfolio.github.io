@@ -1,6 +1,38 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-01T04:22:38.602813Z",
+  "last_updated": "2026-06-01T17:46:15.034003Z",
   "items": [
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-01T16:00:00Z",
+      "short_summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the l...",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-01T15:45:17Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-01T13:51:18Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-01T04:44:55Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
       "url": "https://arxiv.org/abs/2605.30512",
@@ -63,38 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-01T04:00:00Z",
       "short_summary": "arXiv:2605.30664v1 Announce Type: new \nAbstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic probl...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
-      "url": "https://arxiv.org/abs/2605.30680",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-01T04:00:00Z",
-      "short_summary": "arXiv:2605.30680v1 Announce Type: new \nAbstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold t...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
-      "url": "https://arxiv.org/abs/2605.30738",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-01T04:00:00Z",
-      "short_summary": "arXiv:2605.30738v1 Announce Type: new \nAbstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Alth...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
-      "url": "https://arxiv.org/abs/2605.30747",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-01T04:00:00Z",
-      "short_summary": "arXiv:2605.30747v1 Announce Type: new \nAbstract: Logical rules constitute a cornerstone of knowledge graph (KG) reasoning, valued for their interpretability and ability to model...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
-      "url": "https://arxiv.org/abs/2605.30785",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-01T04:00:00Z",
-      "short_summary": "arXiv:2605.30785v1 Announce Type: new \nAbstract: LLM agents increasingly face long-horizon tasks such as web search and deep research in real-world applications, where accumulat...",
       "tag": "RESEARCH"
     }
   ]
