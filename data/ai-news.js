@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-05-31T13:50:16.409313Z",
+  "last_updated": "2026-06-01T04:22:38.602813Z",
   "items": [
     {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-29T19:00:00Z",
-      "short_summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "tag": "NEWS"
+      "title": "PhyDrawGen: Physically Grounded Diagram Generation from Natural Language",
+      "url": "https://arxiv.org/abs/2605.30512",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30512v1 Announce Type: new \nAbstract: Generating physics diagrams from text requires strict adherence to physical laws. While current generative models produce visual...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-29T17:30:00Z",
-      "short_summary": "Gemini Omni & Gemini 3.5 hero",
-      "tag": "NEWS"
+      "title": "Physically Viable World Models: A Case for Query-Conditioned Embodied AI",
+      "url": "https://arxiv.org/abs/2605.30542",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30542v1 Announce Type: new \nAbstract: World models for embodied AI must be physically viable: constructed to answer intervention queries by representing the physical ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-29T12:00:00Z",
-      "short_summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-      "tag": "NEWS"
+      "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+      "url": "https://arxiv.org/abs/2605.30563",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30563v1 Announce Type: new \nAbstract: Factored tasks are a classical planning representation that extends SAS+ with limited forms of disjunctive preconditions, condit...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Procedural Generation of First Person Shooter Maps using Map-Elites",
+      "url": "https://arxiv.org/abs/2605.30570",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30570v1 Announce Type: new \nAbstract: We investigate the application of MAP-Elites (a well-known quality diversity algorithm) to design levels for First-Person Shoote...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-28T15:00:00Z",
-      "short_summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
-      "tag": "NEWS"
+      "title": "Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2605.30576",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30576v1 Announce Type: new \nAbstract: Exploration in reinforcement learning for autonomous driving is inherently unsafe: agents must experience novel behaviors to lea...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-27T17:20:29Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2605.30621",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30621v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed as systems built around editable external harnesses, including prompts, skills, memories an...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-27T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs",
+      "url": "https://arxiv.org/abs/2605.30637",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30637v1 Announce Type: new \nAbstract: Clinical decision-making (CDM) is central to real-world clinical workflows, where clinicians infer diagnoses, select treatments,...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-27T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Structure-Induced Information for Rerooting Levin Tree Search",
+      "url": "https://arxiv.org/abs/2605.30664",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30664v1 Announce Type: new \nAbstract: Subgoal-based policy tree search, which uses a policy to guide search, is effective for complex single-agent deterministic probl...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-25T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Healthcare Mechanisms from Policy-as-Code Search under Strategic Provider Response",
+      "url": "https://arxiv.org/abs/2605.30680",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30680v1 Announce Type: new \nAbstract: Healthcare mechanisms are inseparable from the strategic provider response they induce: existing healthcare AI benchmarks hold t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-23T00:02:03Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+      "url": "https://arxiv.org/abs/2605.30738",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30738v1 Announce Type: new \nAbstract: Generalization across agentic tool-calling environments remains a central challenge for reliable agentic reasoning systems. Alth...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-22T18:00:00Z",
-      "short_summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-      "tag": "NEWS"
+      "title": "Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.30747",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30747v1 Announce Type: new \nAbstract: Logical rules constitute a cornerstone of knowledge graph (KG) reasoning, valued for their interpretability and ability to model...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-05-22T15:25:59Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2605.30785",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-01T04:00:00Z",
+      "short_summary": "arXiv:2605.30785v1 Announce Type: new \nAbstract: LLM agents increasingly face long-horizon tasks such as web search and deep research in real-world applications, where accumulat...",
+      "tag": "RESEARCH"
     }
   ]
 };
