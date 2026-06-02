@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-02T04:16:06.018919Z",
+  "last_updated": "2026-06-02T16:38:28.317718Z",
   "items": [
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-02T14:13:23Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations",
       "url": "https://arxiv.org/abs/2606.00002",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-02T04:00:00Z",
       "short_summary": "arXiv:2606.00103v1 Announce Type: new \nAbstract: We introduce a multi-turn interactive framework for reasoning evaluation that treats reasoning as active evidence acquisition an...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems",
-      "url": "https://arxiv.org/abs/2606.00138",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-02T04:00:00Z",
-      "short_summary": "arXiv:2606.00138v1 Announce Type: new \nAbstract: Finite element analysis (FEA) is the most important numerical approach for solid mechanics. Challenges of FEA include a steep le...",
       "tag": "RESEARCH"
     }
   ]
