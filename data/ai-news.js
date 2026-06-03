@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-03T04:25:38.271756Z",
+  "last_updated": "2026-06-03T16:55:06.282950Z",
   "items": [
+    {
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-03T13:00:00Z",
+      "short_summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red strip...",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-03T12:55:11Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
       "url": "https://arxiv.org/abs/2606.02673",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-03T04:00:00Z",
       "short_summary": "arXiv:2606.02863v1 Announce Type: new \nAbstract: AI-Driven Research Systems (ADRS) -- systems coupling LLMs with automated evaluation to discover algorithms, proofs, and designs...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When Helping Hurts and How to Fix It: Multi-Agent Debate for Data Cleaning",
-      "url": "https://arxiv.org/abs/2606.02866",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02866v1 Announce Type: new \nAbstract: When does multi-agent debate help data cleaning, and when does it hurt? Across three benchmarks, four model families, and over 6...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
-      "url": "https://arxiv.org/abs/2606.02875",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02875v1 Announce Type: new \nAbstract: Coding-agent benchmarks evaluate whether a single uninterrupted agent can resolve a repository issue. Real software work is mess...",
       "tag": "RESEARCH"
     }
   ]
