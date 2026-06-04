@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-03T16:55:06.282950Z",
+  "last_updated": "2026-06-04T04:20:29.625260Z",
   "items": [
     {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-03T13:00:00Z",
-      "short_summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red strip...",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-03T12:55:11Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2606.02673",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02673v1 Announce Type: new \nAbstract: Graphs have been used to enhance large language models (LLMs) for structured reasoning, mostly as external knowledge sources are...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04037v1 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language mode...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
-      "url": "https://arxiv.org/abs/2606.02775",
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "url": "https://arxiv.org/abs/2606.04150",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02775v1 Announce Type: new \nAbstract: The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short reques...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously s...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
-      "url": "https://arxiv.org/abs/2606.02791",
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "url": "https://arxiv.org/abs/2606.04152",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02791v1 Announce Type: new \nAbstract: Watershed networks exhibit convergent topologies in which multiple tributaries merge into downstream channels,integrating divers...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentar...",
       "tag": "RESEARCH"
     },
     {
-      "title": "BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces",
-      "url": "https://arxiv.org/abs/2606.02798",
+      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
+      "url": "https://arxiv.org/abs/2606.04202",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02798v1 Announce Type: new \nAbstract: Many decision-support settings require systems that adapt to individual users, but evaluation data for this problem remain limit...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in i...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
-      "url": "https://arxiv.org/abs/2606.02802",
+      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+      "url": "https://arxiv.org/abs/2606.04223",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02802v1 Announce Type: new \nAbstract: Large language models (LLMs) exhibit strong natural-language reasoning abilities for clinical decision support, but struggle to ...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04223v1 Announce Type: new \nAbstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Traj-Evolve: A Self-Evolving Multi-Agent System for Patient Trajectory Modeling in Lung Cancer Early Detection",
-      "url": "https://arxiv.org/abs/2606.02812",
+      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
+      "url": "https://arxiv.org/abs/2606.04244",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02812v1 Announce Type: new \nAbstract: Modeling patient trajectories from longitudinal electronic health records (EHRs) requires reasoning over sparse, noisy, and long...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04244v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they m...",
       "tag": "RESEARCH"
     },
     {
-      "title": "An Exploration of Collision-based Enemy Morphology Generation",
-      "url": "https://arxiv.org/abs/2606.02832",
+      "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
+      "url": "https://arxiv.org/abs/2606.04246",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02832v1 Announce Type: new \nAbstract: Despite a great deal of prior research into Procedural Content Generation (PCG), relatively little prior work has explored gener...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04246v1 Announce Type: new \nAbstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step depe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Thinking Past the Answer: Evaluating Harmful Overthinking in Large Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.02835",
+      "title": "Can Generalist Agents Automate Data Curation?",
+      "url": "https://arxiv.org/abs/2606.04261",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02835v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) improve performance by generating explicit intermediate reasoning traces through increased test-ti...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04261v1 Announce Type: new \nAbstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iterati...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
-      "url": "https://arxiv.org/abs/2606.02862",
+      "title": "Characterizing initial human-AI proof formalization workflows",
+      "url": "https://arxiv.org/abs/2606.04273",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02862v1 Announce Type: new \nAbstract: The rise of Large Language Models (LLMs) has enabled agentic AI capable of complex reasoning and tool use; however, deploying su...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04273v1 Announce Type: new \nAbstract: For centuries, human mathematicians have written proofs to substantiate their mathematical arguments; yet, the ability to automa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Don't Gamble, GAMBLe: An Analytical Framework for AI-Driven Research Systems",
-      "url": "https://arxiv.org/abs/2606.02863",
+      "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
+      "url": "https://arxiv.org/abs/2606.04296",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-03T04:00:00Z",
-      "short_summary": "arXiv:2606.02863v1 Announce Type: new \nAbstract: AI-Driven Research Systems (ADRS) -- systems coupling LLMs with automated evaluation to discover algorithms, proofs, and designs...",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04296v1 Announce Type: new \nAbstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide w...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+      "url": "https://arxiv.org/abs/2606.04315",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04315v1 Announce Type: new \nAbstract: LLM agents accumulate histories that outgrow their context windows, motivating a growing literature on memory systems. Yet most ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+      "url": "https://arxiv.org/abs/2606.04321",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-04T04:00:00Z",
+      "short_summary": "arXiv:2606.04321v1 Announce Type: new \nAbstract: Agentic AI deployments face a recurring design tension: heavy human oversight limits scale, while broad autonomy outruns account...",
       "tag": "RESEARCH"
     }
   ]
