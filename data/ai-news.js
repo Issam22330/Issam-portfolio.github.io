@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-04T04:20:29.625260Z",
+  "last_updated": "2026-06-04T15:22:04.814932Z",
   "items": [
+    {
+      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
+      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-04T12:59:35Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-04T12:24:58Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
       "url": "https://arxiv.org/abs/2606.04037",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-04T04:00:00Z",
       "short_summary": "arXiv:2606.04296v1 Announce Type: new \nAbstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide w...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
-      "url": "https://arxiv.org/abs/2606.04315",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
-      "short_summary": "arXiv:2606.04315v1 Announce Type: new \nAbstract: LLM agents accumulate histories that outgrow their context windows, motivating a growing literature on memory systems. Yet most ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
-      "url": "https://arxiv.org/abs/2606.04321",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
-      "short_summary": "arXiv:2606.04321v1 Announce Type: new \nAbstract: Agentic AI deployments face a recurring design tension: heavy human oversight limits scale, while broad autonomy outruns account...",
       "tag": "RESEARCH"
     }
   ]
