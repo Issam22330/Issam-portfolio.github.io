@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-05T04:03:54.558567Z",
+  "last_updated": "2026-06-05T14:56:54.219911Z",
   "items": [
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-05T14:45:00Z",
+      "short_summary": "May AI recap",
+      "tag": "BREAKING"
+    },
     {
       "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
       "url": "https://arxiv.org/abs/2606.04037",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04315v1 Announce Type: new \nAbstract: LLM agents accumulate histories that outgrow their context windows, motivating a growing literature on memory systems. Yet most ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
-      "url": "https://arxiv.org/abs/2606.04321",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04321v1 Announce Type: new \nAbstract: Agentic AI deployments face a recurring design tension: heavy human oversight limits scale, while broad autonomy outruns account...",
       "tag": "RESEARCH"
     }
   ]
