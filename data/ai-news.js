@@ -1,35 +1,19 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-04T15:22:04.814932Z",
+  "last_updated": "2026-06-05T04:03:54.558567Z",
   "items": [
-    {
-      "title": "How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent",
-      "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-04T12:59:35Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-04T12:24:58Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
     {
       "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
       "url": "https://arxiv.org/abs/2606.04037",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
-      "short_summary": "arXiv:2606.04037v1 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language mode...",
+      "published_at": "2026-06-05T04:00:00Z",
+      "short_summary": "arXiv:2606.04037v2 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language mode...",
       "tag": "RESEARCH"
     },
     {
       "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
       "url": "https://arxiv.org/abs/2606.04150",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously s...",
       "tag": "RESEARCH"
     },
@@ -37,7 +21,7 @@ window.aiNewsData = {
       "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
       "url": "https://arxiv.org/abs/2606.04152",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentar...",
       "tag": "RESEARCH"
     },
@@ -45,7 +29,7 @@ window.aiNewsData = {
       "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
       "url": "https://arxiv.org/abs/2606.04202",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in i...",
       "tag": "RESEARCH"
     },
@@ -53,7 +37,7 @@ window.aiNewsData = {
       "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
       "url": "https://arxiv.org/abs/2606.04223",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04223v1 Announce Type: new \nAbstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant ...",
       "tag": "RESEARCH"
     },
@@ -61,7 +45,7 @@ window.aiNewsData = {
       "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
       "url": "https://arxiv.org/abs/2606.04244",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04244v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they m...",
       "tag": "RESEARCH"
     },
@@ -69,7 +53,7 @@ window.aiNewsData = {
       "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
       "url": "https://arxiv.org/abs/2606.04246",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04246v1 Announce Type: new \nAbstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step depe...",
       "tag": "RESEARCH"
     },
@@ -77,7 +61,7 @@ window.aiNewsData = {
       "title": "Can Generalist Agents Automate Data Curation?",
       "url": "https://arxiv.org/abs/2606.04261",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04261v1 Announce Type: new \nAbstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iterati...",
       "tag": "RESEARCH"
     },
@@ -85,7 +69,7 @@ window.aiNewsData = {
       "title": "Characterizing initial human-AI proof formalization workflows",
       "url": "https://arxiv.org/abs/2606.04273",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04273v1 Announce Type: new \nAbstract: For centuries, human mathematicians have written proofs to substantiate their mathematical arguments; yet, the ability to automa...",
       "tag": "RESEARCH"
     },
@@ -93,8 +77,24 @@ window.aiNewsData = {
       "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
       "url": "https://arxiv.org/abs/2606.04296",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-04T04:00:00Z",
+      "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04296v1 Announce Type: new \nAbstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide w...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
+      "url": "https://arxiv.org/abs/2606.04315",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-05T04:00:00Z",
+      "short_summary": "arXiv:2606.04315v1 Announce Type: new \nAbstract: LLM agents accumulate histories that outgrow their context windows, motivating a growing literature on memory systems. Yet most ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "The Digital Apprentice: A Framework for Human-Directed Agentic AI Development",
+      "url": "https://arxiv.org/abs/2606.04321",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-05T04:00:00Z",
+      "short_summary": "arXiv:2606.04321v1 Announce Type: new \nAbstract: Agentic AI deployments face a recurring design tension: heavy human oversight limits scale, while broad autonomy outruns account...",
       "tag": "RESEARCH"
     }
   ]
