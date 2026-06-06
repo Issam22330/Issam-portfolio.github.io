@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-06T03:47:52.895876Z",
+  "last_updated": "2026-06-06T13:49:45.997545Z",
   "items": [
     {
-      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "title": "Persona Atlas: Mapping How Famous Minds Think",
+      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
       "source": "Hugging Face Blog",
-      "published_at": "2026-06-05T22:18:46Z",
+      "published_at": "2026-06-06T11:42:01Z",
       "short_summary": "",
-      "tag": "MODEL"
+      "tag": "NEWS"
     },
     {
-      "title": "The latest AI news we announced in May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-05T14:45:00Z",
-      "short_summary": "May AI recap",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "url": "https://arxiv.org/abs/2606.04037",
+      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
+      "url": "https://arxiv.org/abs/2606.05256",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04037v2 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language mode...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The interventio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
-      "url": "https://arxiv.org/abs/2606.04150",
+      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.05304",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously s...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, wh...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
-      "url": "https://arxiv.org/abs/2606.04152",
+      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
+      "url": "https://arxiv.org/abs/2606.05316",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04152v1 Announce Type: new \nAbstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentar...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlo...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models",
-      "url": "https://arxiv.org/abs/2606.04202",
+      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
+      "url": "https://arxiv.org/abs/2606.05332",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04202v1 Announce Type: new \nAbstract: As LLMs become more widely deployed, they are increasingly expected to work alongside other AI agents rather than operating in i...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture dispropo...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
-      "url": "https://arxiv.org/abs/2606.04223",
+      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+      "url": "https://arxiv.org/abs/2606.05334",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04223v1 Announce Type: new \nAbstract: Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant ...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remainin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "VAMPS: Visual-Assisted Mathematical Problem Solving Benchmark",
-      "url": "https://arxiv.org/abs/2606.04244",
+      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+      "url": "https://arxiv.org/abs/2606.05342",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04244v1 Announce Type: new \nAbstract: Multimodal large language models are increasingly capable of complex reasoning, yet their performance often degrades when they m...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05342v1 Announce Type: new \nAbstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior...",
       "tag": "RESEARCH"
     },
     {
-      "title": "StepPRM-RTL: Stepwise Process-Reward Guided LLM Fine-Tuning for Enhanced RTL Synthesis",
-      "url": "https://arxiv.org/abs/2606.04246",
+      "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
+      "url": "https://arxiv.org/abs/2606.05357",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04246v1 Announce Type: new \nAbstract: Automatic generation of RTL code for digital hardware designs remains challenging due to long-horizon reasoning, multi-step depe...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05357v1 Announce Type: new \nAbstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Scor...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Can Generalist Agents Automate Data Curation?",
-      "url": "https://arxiv.org/abs/2606.04261",
+      "title": "Synthetic Contrastive Reasoning for Multi-Table QA",
+      "url": "https://arxiv.org/abs/2606.05382",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04261v1 Announce Type: new \nAbstract: Curating training data is among the most consequential yet labor-intensive parts of modern AI development: practitioners iterati...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05382v1 Announce Type: new \nAbstract: Multi-table question answering requires models to retrieve relevant evidence, link schemas, and perform compositional reasoning ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Characterizing initial human-AI proof formalization workflows",
-      "url": "https://arxiv.org/abs/2606.04273",
+      "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
+      "url": "https://arxiv.org/abs/2606.05384",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04273v1 Announce Type: new \nAbstract: For centuries, human mathematicians have written proofs to substantiate their mathematical arguments; yet, the ability to automa...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05384v1 Announce Type: new \nAbstract: LLM-as-judge evaluation is widely used in benchmarking pipelines, where model outputs are compared and ranked using automated ev...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents",
-      "url": "https://arxiv.org/abs/2606.04296",
+      "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
+      "url": "https://arxiv.org/abs/2606.05389",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04296v1 Announce Type: new \nAbstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide w...",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05389v1 Announce Type: new \nAbstract: Lossy compression is essential for massive spatiotemporal data from scientific simulations. Learned compressors can achieve high...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
+      "url": "https://arxiv.org/abs/2606.05400",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-06T04:00:00Z",
+      "short_summary": "arXiv:2606.05400v1 Announce Type: new \nAbstract: Long-horizon autoformalization of research mathematics fails not only at hard lemmas, but at scale: statements drift, dependenci...",
       "tag": "RESEARCH"
     }
   ]
