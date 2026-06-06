@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-05T14:56:54.219911Z",
+  "last_updated": "2026-06-06T03:47:52.895876Z",
   "items": [
+    {
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-05T22:18:46Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "The latest AI news we announced in May 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-05T04:00:00Z",
       "short_summary": "arXiv:2606.04296v1 Announce Type: new \nAbstract: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide w...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline",
-      "url": "https://arxiv.org/abs/2606.04315",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-05T04:00:00Z",
-      "short_summary": "arXiv:2606.04315v1 Announce Type: new \nAbstract: LLM agents accumulate histories that outgrow their context windows, motivating a growing literature on memory systems. Yet most ...",
       "tag": "RESEARCH"
     }
   ]
