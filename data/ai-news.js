@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-06T13:49:45.997545Z",
+  "last_updated": "2026-06-07T04:13:57.335966Z",
   "items": [
     {
-      "title": "Persona Atlas: Mapping How Famous Minds Think",
-      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
       "source": "Hugging Face Blog",
-      "published_at": "2026-06-06T11:42:01Z",
+      "published_at": "2026-06-06T19:02:33Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-05T14:45:00Z",
+      "short_summary": "May AI recap",
+      "tag": "BREAKING"
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-04T18:57:45Z",
       "short_summary": "",
       "tag": "NEWS"
     },
     {
-      "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-      "url": "https://arxiv.org/abs/2606.05256",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The interventio...",
-      "tag": "RESEARCH"
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-04T12:24:58Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2606.05304",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, wh...",
-      "tag": "RESEARCH"
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-04T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-      "url": "https://arxiv.org/abs/2606.05316",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlo...",
-      "tag": "RESEARCH"
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-03T13:00:00Z",
+      "short_summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red strip...",
+      "tag": "NEWS"
     },
     {
-      "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-      "url": "https://arxiv.org/abs/2606.05332",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture dispropo...",
-      "tag": "RESEARCH"
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-03T12:55:11Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-      "url": "https://arxiv.org/abs/2606.05334",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remainin...",
-      "tag": "RESEARCH"
+      "title": "Adding MCP Tools to Reachy Mini",
+      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
-      "url": "https://arxiv.org/abs/2606.05342",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05342v1 Announce Type: new \nAbstract: AI agents are increasingly asked to carry out work that spans minutes, hours, or longer. Yet the default model of agent behavior...",
-      "tag": "RESEARCH"
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-02T14:13:23Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "An interpretable and trustworthy AI framework for large-scale longitudinal structure-pain association studies using data from the Osteoarthritis Initiative (OAI)",
-      "url": "https://arxiv.org/abs/2606.05357",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05357v1 Announce Type: new \nAbstract: Purpose: To develop an interpretable and trustworthy AI framework that combines deep learning based MRI Osteoarthritis Knee Scor...",
-      "tag": "RESEARCH"
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-01T16:00:00Z",
+      "short_summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the l...",
+      "tag": "NEWS"
     },
     {
-      "title": "Synthetic Contrastive Reasoning for Multi-Table QA",
-      "url": "https://arxiv.org/abs/2606.05382",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05382v1 Announce Type: new \nAbstract: Multi-table question answering requires models to retrieve relevant evidence, link schemas, and perform compositional reasoning ...",
-      "tag": "RESEARCH"
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-01T15:45:17Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Stability vs. Manipulability: Evaluating Robustness Under Post-Decision Interaction in LLM Judges",
-      "url": "https://arxiv.org/abs/2606.05384",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05384v1 Announce Type: new \nAbstract: LLM-as-judge evaluation is widely used in benchmarking pipelines, where model outputs are compared and ranked using automated ev...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Residual Modeling for High-Fidelity Learned Compression of Scientific Data",
-      "url": "https://arxiv.org/abs/2606.05389",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05389v1 Announce Type: new \nAbstract: Lossy compression is essential for massive spatiotemporal data from scientific simulations. Learned compressors can achieve high...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "LeanMarathon: Toward Reliable AI Co-Mathematicians through Long-Horizon Lean Autoformalization",
-      "url": "https://arxiv.org/abs/2606.05400",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-06T04:00:00Z",
-      "short_summary": "arXiv:2606.05400v1 Announce Type: new \nAbstract: Long-horizon autoformalization of research mathematics fails not only at hard lemmas, but at scale: statements drift, dependenci...",
-      "tag": "RESEARCH"
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-01T13:51:18Z",
+      "short_summary": "",
+      "tag": "MODEL"
     }
   ]
 };
