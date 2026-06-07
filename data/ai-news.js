@@ -1,13 +1,13 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-07T04:13:57.335966Z",
+  "last_updated": "2026-06-07T13:59:58.061707Z",
   "items": [
     {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
       "source": "Hugging Face Blog",
-      "published_at": "2026-06-06T19:02:33Z",
+      "published_at": "2026-06-07T11:38:54Z",
       "short_summary": "",
-      "tag": "MODEL"
+      "tag": "NEWS"
     },
     {
       "title": "The latest AI news we announced in May 2026",
