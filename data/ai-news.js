@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-08T04:18:40.546387Z",
+  "last_updated": "2026-06-08T15:57:47.178928Z",
   "items": [
+    {
+      "title": "The crash that vanished: control and emergence in a five-model economy",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-08T13:10:48Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
       "url": "https://arxiv.org/abs/2606.06514",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-08T04:00:00Z",
       "short_summary": "arXiv:2606.06660v1 Announce Type: new \nAbstract: Long-horizon robot manipulation tends to fail gradually: one bad step degrades the state, and the policy spirals into a basin fr...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
-      "url": "https://arxiv.org/abs/2606.06735",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06735v1 Announce Type: new \nAbstract: Linear activation steering has gained popularity as a simple and empirically effective way to control language model behavior. M...",
       "tag": "RESEARCH"
     }
   ]
