@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-09T03:49:47.905627Z",
+  "last_updated": "2026-06-09T14:57:51.521119Z",
   "items": [
     {
-      "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-      "url": "https://arxiv.org/abs/2606.06514",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-09T10:46:19Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+      "url": "https://arxiv.org/abs/2606.07549",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06514v1 Announce Type: new \nAbstract: Machine learning systems deployed in high stakes socioeconomic settings routinely display bias. We formalize bias as a symmetry ...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07549v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational path...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DiBS: Diffusion-Informed Branch Selection",
-      "url": "https://arxiv.org/abs/2606.06518",
+      "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+      "url": "https://arxiv.org/abs/2606.07577",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06518v1 Announce Type: new \nAbstract: Sudoku is a representative constraint satisfaction problem that requires global structural reasoning under strict discrete const...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07577v1 Announce Type: new \nAbstract: Audio-visual large language models (LLMs) hold strong promise for long-form video understanding, yet their long-video inference ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
-      "url": "https://arxiv.org/abs/2606.06519",
+      "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+      "url": "https://arxiv.org/abs/2606.07594",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06519v1 Announce Type: new \nAbstract: Open-weight LLMs are increasingly fine-tuned into customized assistants, but downstream fine-tuning can weaken safety alignment ...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07594v1 Announce Type: new \nAbstract: Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-      "url": "https://arxiv.org/abs/2606.06523",
+      "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+      "url": "https://arxiv.org/abs/2606.07718",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06523v1 Announce Type: new \nAbstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial int...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07718v1 Announce Type: new \nAbstract: Agentic AI tools offer a promising path to automating software development bottlenecks in scientific research pipelines, particu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-      "url": "https://arxiv.org/abs/2606.06526",
+      "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
+      "url": "https://arxiv.org/abs/2606.07720",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06526v1 Announce Type: new \nAbstract: Large language models have made substantial progress on mathematical reasoning, but existing benchmarks typically evaluate well-...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07720v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable reasoning abilities on mathematical and multi-hop planning tasks. The ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
-      "url": "https://arxiv.org/abs/2606.06529",
+      "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
+      "url": "https://arxiv.org/abs/2606.07721",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06529v1 Announce Type: new \nAbstract: An attacker that strategically chooses when to attack is much harder to catch than one that attacks indiscriminately. AI control...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07721v1 Announce Type: new \nAbstract: Objectives: Automatic data extraction from free-text radiology reports enables large-scale research, but few studies assessed th...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CARVE-Q: Quantum-Proposed, Classically Certified Interactive Driving Repair",
-      "url": "https://arxiv.org/abs/2606.06531",
+      "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
+      "url": "https://arxiv.org/abs/2606.07722",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06531v1 Announce Type: new \nAbstract: The critical question after a correct driving veto is not only whether a maneuver is unsafe, but whether the blocked interaction...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07722v1 Announce Type: new \nAbstract: This article offers a perspective on the nature of chatbots as genuine conversation partners when discussing problems in relatio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Don't Just \"Fix it in Post\": A Science of AI Must Study Training Dynamics",
-      "url": "https://arxiv.org/abs/2606.06533",
+      "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
+      "url": "https://arxiv.org/abs/2606.07780",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06533v1 Announce Type: new \nAbstract: What would it mean to have a scientific understanding of AI? Models are not static objects: they are snapshots of time-evolving ...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07780v1 Announce Type: new \nAbstract: Floods are among the most destructive natural hazards, and their increasing frequency under climate change makes satellite-based...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
-      "url": "https://arxiv.org/abs/2606.06641",
+      "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
+      "url": "https://arxiv.org/abs/2606.07798",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06641v1 Announce Type: new \nAbstract: We present Accelerated Fourier SAT (AFSAT), a GPU-accelerated solver for pseudo-Boolean satisfiability based on continuous local...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07798v1 Announce Type: new \nAbstract: Alzheimer's disease is a progressive neurodegenerative disorder, and its progression varies substantially across patients. Exist...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Study of Parallel Continuous Local Search",
-      "url": "https://arxiv.org/abs/2606.06656",
+      "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
+      "url": "https://arxiv.org/abs/2606.07801",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06656v1 Announce Type: new \nAbstract: We study parallel Continuous Local Search (CLS) as a solution approach for Boolean satisfiability problems with symmetric pseudo...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07801v1 Announce Type: new \nAbstract: Multimodal reasoning requires a path that retains integrity over a wide range of constraints, from visual grounding to logic con...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AEGIS: A Backup Reflex for Physical AI",
-      "url": "https://arxiv.org/abs/2606.06660",
+      "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.07805",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06660v1 Announce Type: new \nAbstract: Long-horizon robot manipulation tends to fail gradually: one bad step degrades the state, and the policy spirals into a basin fr...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
-      "url": "https://arxiv.org/abs/2606.06735",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-08T04:00:00Z",
-      "short_summary": "arXiv:2606.06735v1 Announce Type: new \nAbstract: Linear activation steering has gained popularity as a simple and empirically effective way to control language model behavior. M...",
+      "published_at": "2026-06-09T04:00:00Z",
+      "short_summary": "arXiv:2606.07805v1 Announce Type: new \nAbstract: The rapid evolution of Large Language Models (LLMs) from passive assistants to autonomous, execution-capable agents has introduc...",
       "tag": "RESEARCH"
     }
   ]
