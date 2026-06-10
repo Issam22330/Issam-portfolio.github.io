@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-09T14:57:51.521119Z",
+  "last_updated": "2026-06-10T04:00:49.395781Z",
   "items": [
     {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-09T10:46:19Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
-      "url": "https://arxiv.org/abs/2606.07549",
+      "title": "Business World Model",
+      "url": "https://arxiv.org/abs/2606.10044",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07549v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational path...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10044v1 Announce Type: new \nAbstract: Businesses are increasingly adopting AI-enabled tools to improve productivity, reduce costs, and enhance products and services. ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
-      "url": "https://arxiv.org/abs/2606.07577",
+      "title": "Deployment-Time Memorization in Foundation-Model Agents",
+      "url": "https://arxiv.org/abs/2606.10062",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07577v1 Announce Type: new \nAbstract: Audio-visual large language models (LLMs) hold strong promise for long-form video understanding, yet their long-video inference ...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10062v1 Announce Type: new \nAbstract: Foundation-model agents are increasingly long-lived systems that remember users across interactions, making memorization an expl...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
-      "url": "https://arxiv.org/abs/2606.07594",
+      "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+      "url": "https://arxiv.org/abs/2606.10086",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07594v1 Announce Type: new \nAbstract: Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned ...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10086v1 Announce Type: new \nAbstract: This paper develops a theory of exploratory adaptation under AI-assisted optimization. The central argument is that the long-run...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
-      "url": "https://arxiv.org/abs/2606.07718",
+      "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+      "url": "https://arxiv.org/abs/2606.10094",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07718v1 Announce Type: new \nAbstract: Agentic AI tools offer a promising path to automating software development bottlenecks in scientific research pipelines, particu...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10094v1 Announce Type: new \nAbstract: Classical theories of cognition describe problem solving as exploratory search through structured problem spaces in which repeat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
-      "url": "https://arxiv.org/abs/2606.07720",
+      "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2606.10147",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07720v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable reasoning abilities on mathematical and multi-hop planning tasks. The ...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10147v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) can listen and see, but how do audio and visual signals actually travel through the net...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Automatic Extraction of Structured Information from Brain MRI Reports Using an Open-Weight Large Language Model",
-      "url": "https://arxiv.org/abs/2606.07721",
+      "title": "Less Context, Better Agents: Efficient Context Engineering for Long-Horizon Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2606.10209",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07721v1 Announce Type: new \nAbstract: Objectives: Automatic data extraction from free-text radiology reports enables large-scale research, but few studies assessed th...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10209v1 Announce Type: new \nAbstract: Large language models deployed as autonomous agents for enterprise workflows face a key challenge: verbose tool responses from e...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Some hypotheses on how chatbots work in problem-solving-driven conversations. Large Language Models as confirmation of the Innovation Illusion",
-      "url": "https://arxiv.org/abs/2606.07722",
+      "title": "Minimalist Genetic Programming",
+      "url": "https://arxiv.org/abs/2606.10237",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07722v1 Announce Type: new \nAbstract: This article offers a perspective on the nature of chatbots as genuine conversation partners when discussing problems in relatio...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10237v1 Announce Type: new \nAbstract: Genetic programming (GP) is based on two important insights. First, that any learning task can fundamentally be posed as a progr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Land cover and flood type govern the detection limits of satellite-based flood mapping across diverse global flood events",
-      "url": "https://arxiv.org/abs/2606.07780",
+      "title": "Regimes: An Auditable, Held-Out-Gated Improvement Loop Demonstrated on LongMemEval with ActiveGraph",
+      "url": "https://arxiv.org/abs/2606.10241",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07780v1 Announce Type: new \nAbstract: Floods are among the most destructive natural hazards, and their increasing frequency under climate change makes satellite-based...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10241v1 Announce Type: new \nAbstract: Autonomous improvement loops are hard to trust because the improvement process is usually external scaffolding bolted onto the a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Reconstructing and forecasting disease trajectories of patients with Alzheimer's disease using routine data in resource-constrained settings",
-      "url": "https://arxiv.org/abs/2606.07798",
+      "title": "RealMath-Eval: Why SOTA Judges Struggle with Real Human Reasoning",
+      "url": "https://arxiv.org/abs/2606.10254",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07798v1 Announce Type: new \nAbstract: Alzheimer's disease is a progressive neurodegenerative disorder, and its progression varies substantially across patients. Exist...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10254v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have achieved near-perfect performance in \\emph{solving} high-school mathematics, their abili...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Improving Multimodal Reasoning via Worst Dimension Optimization",
-      "url": "https://arxiv.org/abs/2606.07801",
+      "title": "Supervised Fine-tuning with Synthetic Rationale Data Hurts Real-World Disease Prediction",
+      "url": "https://arxiv.org/abs/2606.10279",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07801v1 Announce Type: new \nAbstract: Multimodal reasoning requires a path that retains integrity over a wide range of constraints, from visual grounding to logic con...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10279v1 Announce Type: new \nAbstract: Supervised fine-tuning with synthetic rationale data is widely assumed to improve language model performance on clinical predict...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2606.07805",
+      "title": "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling",
+      "url": "https://arxiv.org/abs/2606.10286",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-09T04:00:00Z",
-      "short_summary": "arXiv:2606.07805v1 Announce Type: new \nAbstract: The rapid evolution of Large Language Models (LLMs) from passive assistants to autonomous, execution-capable agents has introduc...",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10286v1 Announce Type: new \nAbstract: Open-pit mine scheduling is a critical process for maximizing economic return under complex geotechnical and operational constra...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "From Context-Aware to Conflict-Aware: Generalizing Contrastive Decoding for Knowledge Conflict in LLMs",
+      "url": "https://arxiv.org/abs/2606.10298",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-10T04:00:00Z",
+      "short_summary": "arXiv:2606.10298v1 Announce Type: new \nAbstract: When large language models generate from retrieved or augmented contexts, conflicts between external context and parametric prio...",
       "tag": "RESEARCH"
     }
   ]
