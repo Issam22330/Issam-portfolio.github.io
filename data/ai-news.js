@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-10T04:00:49.395781Z",
+  "last_updated": "2026-06-10T15:42:15.899850Z",
   "items": [
     {
       "title": "Business World Model",
