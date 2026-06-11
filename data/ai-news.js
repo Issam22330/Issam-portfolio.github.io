@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-11T04:14:56.719537Z",
+  "last_updated": "2026-06-11T16:07:32.897843Z",
   "items": [
     {
       "title": "From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference",
