@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-12T04:16:28.728803Z",
+  "last_updated": "2026-06-12T15:21:29.933501Z",
   "items": [
     {
       "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
