@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-12T15:21:29.933501Z",
+  "last_updated": "2026-06-13T04:05:00.027245Z",
   "items": [
     {
-      "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
-      "url": "https://arxiv.org/abs/2606.12451",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12451v1 Announce Type: new \nAbstract: Large language models deployed as agents over large tool catalogs face a critical tool-retrieval bottleneck. As embedding-based ...",
-      "tag": "RESEARCH"
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-11T20:00:00Z",
+      "short_summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "tag": "NEWS"
     },
     {
-      "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
-      "url": "https://arxiv.org/abs/2606.12563",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12563v1 Announce Type: new \nAbstract: Arbor is a multi-agent framework that introduces structured tree search as a cognition layer for autonomous agents operating in ...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-05T14:45:00Z",
+      "short_summary": "May AI recap",
+      "tag": "BREAKING"
     },
     {
-      "title": "Strategic Decision Support for AI Agents",
-      "url": "https://arxiv.org/abs/2606.12587",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12587v1 Announce Type: new \nAbstract: Traditionally, decision support studies how humans use machine learning models to make better decisions. In modern agentic syste...",
-      "tag": "RESEARCH"
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-03T13:00:00Z",
+      "short_summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red strip...",
+      "tag": "NEWS"
     },
     {
-      "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
-      "url": "https://arxiv.org/abs/2606.12594",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12594v1 Announce Type: new \nAbstract: Modern Lean theorem provers achieve strong performance only with substantial training and inference compute, driven in part by s...",
-      "tag": "RESEARCH"
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-01T16:00:00Z",
+      "short_summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the l...",
+      "tag": "NEWS"
     },
     {
-      "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
-      "url": "https://arxiv.org/abs/2606.12616",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12616v1 Announce Type: new \nAbstract: Closed-loop driving simulators typically populate their environments with non-ego traffic agents that behave largely the same wa...",
-      "tag": "RESEARCH"
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-29T19:00:00Z",
+      "short_summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+      "tag": "NEWS"
     },
     {
-      "title": "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms",
-      "url": "https://arxiv.org/abs/2606.12618",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12618v1 Announce Type: new \nAbstract: Robust lie detectors for language models could enable powerful techniques for auditing, monitoring, and post-hoc investigation o...",
-      "tag": "RESEARCH"
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-29T17:30:00Z",
+      "short_summary": "Gemini Omni & Gemini 3.5 hero",
+      "tag": "NEWS"
     },
     {
-      "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
-      "url": "https://arxiv.org/abs/2606.12657",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12657v1 Announce Type: new \nAbstract: Human mobility data is important for transportation, urban planning, and epidemic control, but large-scale trajectory collection...",
-      "tag": "RESEARCH"
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-29T12:00:00Z",
+      "short_summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+      "tag": "NEWS"
     },
     {
-      "title": "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents",
-      "url": "https://arxiv.org/abs/2606.12674",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12674v1 Announce Type: new \nAbstract: Compact language models (LMs) reduce cost, latency, and deployment risk for tool agents. Yet MCP-style tool use requires more th...",
-      "tag": "RESEARCH"
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-28T15:00:00Z",
+      "short_summary": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+      "tag": "NEWS"
     },
     {
-      "title": "From AGI to ASI",
-      "url": "https://arxiv.org/abs/2606.12683",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12683v1 Announce Type: new \nAbstract: Over the last decade, building human-level artificial general intelligence has moved from far-fetched speculation to being a con...",
-      "tag": "RESEARCH"
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-22T18:00:00Z",
+      "short_summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+      "tag": "NEWS"
     },
     {
-      "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
-      "url": "https://arxiv.org/abs/2606.12702",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12702v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical systems, making it essential to evaluate the real-world u...",
-      "tag": "RESEARCH"
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T20:40:00Z",
+      "short_summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+      "tag": "NEWS"
     },
     {
-      "title": "Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI",
-      "url": "https://arxiv.org/abs/2606.12713",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12713v1 Announce Type: new \nAbstract: Claims that artificial general intelligence has already arrived and claims that it remains decades away are often defended from ...",
-      "tag": "RESEARCH"
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T19:30:00Z",
+      "short_summary": "Image with the words \"Ready, Set, I/O\" and a colorful Gemini logo",
+      "tag": "BREAKING"
     },
     {
-      "title": "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism",
-      "url": "https://arxiv.org/abs/2606.12721",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-12T04:00:00Z",
-      "short_summary": "arXiv:2606.12721v1 Announce Type: new \nAbstract: Inferring others' beliefs requires more than reading surface signals; it requires tracking who told them what, in what order, an...",
-      "tag": "RESEARCH"
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-20T16:45:00Z",
+      "short_summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
+      "tag": "NEWS"
     }
   ]
 };
