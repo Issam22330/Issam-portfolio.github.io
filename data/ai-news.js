@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-13T14:05:51.004955Z",
+  "last_updated": "2026-06-14T04:22:49.795931Z",
   "items": [
     {
       "title": "olmo-eval: An evaluation workbench for the model development loop",
