@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-14T14:09:38.949789Z",
+  "last_updated": "2026-06-15T04:46:03.125417Z",
   "items": [
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-12T15:56:10Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+      "url": "https://arxiv.org/abs/2606.13682",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13682v1 Announce Type: new \nAbstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging a...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-11T20:00:00Z",
-      "short_summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "tag": "NEWS"
+      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+      "url": "https://arxiv.org/abs/2606.13683",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteris...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-11T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "History of the Muddy Children Puzzle",
+      "url": "https://arxiv.org/abs/2606.13703",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13703v1 Announce Type: new \nAbstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic log...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-09T15:56:23Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "url": "https://arxiv.org/abs/2606.13707",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13707v1 Announce Type: new \nAbstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflo...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-09T10:46:19Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+      "url": "https://arxiv.org/abs/2606.13710",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13710v1 Announce Type: new \nAbstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general int...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-09T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "WorkBench Revisited: Workplace Agents Two Years On",
+      "url": "https://arxiv.org/abs/2606.13715",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13715v1 Announce Type: new \nAbstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-08T00:00:00Z",
-      "short_summary": "",
-      "tag": "BREAKING"
+      "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+      "url": "https://arxiv.org/abs/2606.13720",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13720v1 Announce Type: new \nAbstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the res...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-05T14:45:00Z",
-      "short_summary": "May AI recap",
-      "tag": "BREAKING"
+      "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+      "url": "https://arxiv.org/abs/2606.13722",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13722v1 Announce Type: new \nAbstract: This paper introduces YeasierAgent, an application-building paradigm based on symbiotic agents, narrative worlds, and scene-awar...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-04T18:57:45Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+      "url": "https://arxiv.org/abs/2606.13731",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13731v1 Announce Type: new \nAbstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-04T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "When Sample Selection Bias Precipitates Model Collapse",
+      "url": "https://arxiv.org/abs/2606.13732",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13732v1 Announce Type: new \nAbstract: The proliferation of recursive training on synthetic data can alleviate data scarcity but risks model collapse, where repeated t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-03T13:00:00Z",
-      "short_summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red strip...",
-      "tag": "NEWS"
+      "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
+      "url": "https://arxiv.org/abs/2606.13734",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13734v1 Announce Type: new \nAbstract: Recent evidence reported by Tully, Longoni, and Appel (2025) suggests that lower artificial intelligence (AI) literacy predicts ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-03T12:55:11Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
+      "url": "https://arxiv.org/abs/2606.13782",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-15T04:00:00Z",
+      "short_summary": "arXiv:2606.13782v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made notable progress in automated theorem proving, yet existing formal benchmarks remain limi...",
+      "tag": "RESEARCH"
     }
   ]
 };
