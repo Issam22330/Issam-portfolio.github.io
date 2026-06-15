@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-15T04:46:03.125417Z",
+  "last_updated": "2026-06-15T17:17:56.716458Z",
   "items": [
+    {
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-15T15:00:00Z",
+      "short_summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "tag": "NEWS"
+    },
     {
       "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
       "url": "https://arxiv.org/abs/2606.13682",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-15T04:00:00Z",
       "short_summary": "arXiv:2606.13734v1 Announce Type: new \nAbstract: Recent evidence reported by Tully, Longoni, and Appel (2025) suggests that lower artificial intelligence (AI) literacy predicts ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis",
-      "url": "https://arxiv.org/abs/2606.13782",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13782v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have made notable progress in automated theorem proving, yet existing formal benchmarks remain limi...",
       "tag": "RESEARCH"
     }
   ]
