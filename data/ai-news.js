@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-15T17:17:56.716458Z",
+  "last_updated": "2026-06-16T04:43:21.403526Z",
   "items": [
     {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-15T15:00:00Z",
-      "short_summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "tag": "NEWS"
-    },
-    {
-      "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-      "url": "https://arxiv.org/abs/2606.13682",
+      "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
+      "url": "https://arxiv.org/abs/2606.14838",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13682v1 Announce Type: new \nAbstract: The open shop scheduling problem (OSSP) arises in many industrial and service settings but remains computationally challenging a...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14838v1 Announce Type: new \nAbstract: How to define a good explanation is a long-standing philosophical debate which has found recent renewed interest in the context ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-      "url": "https://arxiv.org/abs/2606.13683",
+      "title": "Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion",
+      "url": "https://arxiv.org/abs/2606.14885",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13683v1 Announce Type: new \nAbstract: To address the challenge that current dialogue policy planning methods struggle to dynamically adapt to diverse user characteris...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14885v1 Announce Type: new \nAbstract: Agentic search over large corpora relies on retriever-mediated interfaces (e.g., BM25 or ColBERT) for scalable candidate discove...",
       "tag": "RESEARCH"
     },
     {
-      "title": "History of the Muddy Children Puzzle",
-      "url": "https://arxiv.org/abs/2606.13703",
+      "title": "Relational Structural Causal Models",
+      "url": "https://arxiv.org/abs/2606.14892",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13703v1 Announce Type: new \nAbstract: The Muddy Children Puzzle is a puzzle about knowledge and ignorance that has been inspiring for the development of epistemic log...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14892v1 Announce Type: new \nAbstract: An artificial intelligence must have a model of its environment that is causal, supporting reasoning about interventions and cou...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-      "url": "https://arxiv.org/abs/2606.13707",
+      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.14923",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13707v1 Announce Type: new \nAbstract: The recent success of agent swarms has shifted the paradigm of large language model (LLM)-based agents from single-agent workflo...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14923v1 Announce Type: new \nAbstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a stand...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-      "url": "https://arxiv.org/abs/2606.13710",
+      "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
+      "url": "https://arxiv.org/abs/2606.14935",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13710v1 Announce Type: new \nAbstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general int...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14935v1 Announce Type: new \nAbstract: Frontier reasoning-tuned language models still fail on deductive tasks at depth, and the cost of improved performance through ex...",
       "tag": "RESEARCH"
     },
     {
-      "title": "WorkBench Revisited: Workplace Agents Two Years On",
-      "url": "https://arxiv.org/abs/2606.13715",
+      "title": "Semantics-Enhanced Retrieval-Augmented Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2606.14941",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13715v1 Announce Type: new \nAbstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14941v1 Announce Type: new \nAbstract: Time series forecasting models often benefit from historical patterns. Inspired by Retrieval-Augmented Generation (RAG), recent ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
-      "url": "https://arxiv.org/abs/2606.13720",
+      "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2606.14997",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13720v1 Announce Type: new \nAbstract: Arditi et al. (2024) has shown that refusal in safety fine-tuned chat models is mediated by a single linear direction in the res...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.14997v1 Announce Type: new \nAbstract: Memory formation is fundamental to intelligence, yet whether deep neural networks preserve identifiable memory traces analogous ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
-      "url": "https://arxiv.org/abs/2606.13722",
+      "title": "Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability",
+      "url": "https://arxiv.org/abs/2606.15029",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13722v1 Announce Type: new \nAbstract: This paper introduces YeasierAgent, an application-building paradigm based on symbiotic agents, narrative worlds, and scene-awar...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.15029v1 Announce Type: new \nAbstract: LLM judges are used to reduce the need for costly human labor in evaluating open-ended text generation. However, the reliability...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
-      "url": "https://arxiv.org/abs/2606.13731",
+      "title": "OSGuard: A Benchmark for Safety in Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2606.15034",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13731v1 Announce Type: new \nAbstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.15034v1 Announce Type: new \nAbstract: Computer-use agents are increasingly evaluated by whether they complete realistic desktop and web tasks. However, task success a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Sample Selection Bias Precipitates Model Collapse",
-      "url": "https://arxiv.org/abs/2606.13732",
+      "title": "Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling",
+      "url": "https://arxiv.org/abs/2606.15038",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13732v1 Announce Type: new \nAbstract: The proliferation of recursive training on synthetic data can alleviate data scarcity but risks model collapse, where repeated t...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.15038v1 Announce Type: new \nAbstract: Accurate time-to-event (TTE) prediction from multimodal clinical data remains challenging due to modality imbalance and distribu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link",
-      "url": "https://arxiv.org/abs/2606.13734",
+      "title": "Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation",
+      "url": "https://arxiv.org/abs/2606.15077",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-15T04:00:00Z",
-      "short_summary": "arXiv:2606.13734v1 Announce Type: new \nAbstract: Recent evidence reported by Tully, Longoni, and Appel (2025) suggests that lower artificial intelligence (AI) literacy predicts ...",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.15077v1 Announce Type: new \nAbstract: We present an LLM-driven framework for retrieving remote sensing data from cloud-based geospatial catalogues using natural langu...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility",
+      "url": "https://arxiv.org/abs/2606.15078",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-16T04:00:00Z",
+      "short_summary": "arXiv:2606.15078v1 Announce Type: new \nAbstract: We develop a formal theory of cognitive debt: the stock of unverified reasoning obligations that accumulates when individuals us...",
       "tag": "RESEARCH"
     }
   ]
