@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-16T04:43:21.403526Z",
+  "last_updated": "2026-06-16T17:00:17.282331Z",
   "items": [
     {
       "title": "A Definition of Good Explanations and the Challenges Explaining LLM Outputs",
