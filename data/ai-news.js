@@ -1,6 +1,38 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-17T04:23:43.889402Z",
+  "last_updated": "2026-06-17T15:40:04.898276Z",
   "items": [
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-17T15:26:44Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-17T15:00:00Z",
+      "short_summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-17T10:18:05Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-17T09:01:25Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
       "url": "https://arxiv.org/abs/2606.17209",
@@ -63,38 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-17T04:00:00Z",
       "short_summary": "arXiv:2606.17339v1 Announce Type: new \nAbstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal s...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
-      "url": "https://arxiv.org/abs/2606.17368",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17368v1 Announce Type: new \nAbstract: Large language models have accelerated the transition from passive conversational assistants to autonomous agents that can under...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-      "url": "https://arxiv.org/abs/2606.17405",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17405v1 Announce Type: new \nAbstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict sa...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-      "url": "https://arxiv.org/abs/2606.17443",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17443v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands co...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Machine-Learned Comorbidity Index",
-      "url": "https://arxiv.org/abs/2606.17450",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17450v1 Announce Type: new \nAbstract: Traditional comorbidity scores (e.g., Charlson and Elixhauser) are widely used for risk adjustment and patient stratification, b...",
       "tag": "RESEARCH"
     }
   ]
