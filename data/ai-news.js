@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-18T04:16:26.387708Z",
+  "last_updated": "2026-06-18T15:32:07.128020Z",
   "items": [
     {
       "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
