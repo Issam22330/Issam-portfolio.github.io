@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-17T15:40:04.898276Z",
+  "last_updated": "2026-06-18T04:16:26.387708Z",
   "items": [
     {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T15:26:44Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-17T15:00:00Z",
-      "short_summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+      "url": "https://arxiv.org/abs/2606.18271",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18271v1 Announce Type: new \nAbstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged be...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T10:18:05Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
-    },
-    {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T09:01:25Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-      "url": "https://arxiv.org/abs/2606.17209",
+      "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+      "url": "https://arxiv.org/abs/2606.18385",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17209v1 Announce Type: new \nAbstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., mo...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18385v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) remain prone to hallucinations, producing fluent but visually unfaithful outputs. Existing chain-o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-      "url": "https://arxiv.org/abs/2606.17220",
+      "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+      "url": "https://arxiv.org/abs/2606.18413",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17220v1 Announce Type: new \nAbstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment betw...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18413v1 Announce Type: new \nAbstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual e...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-      "url": "https://arxiv.org/abs/2606.17266",
+      "title": "CEO-Bench: Can Agents Play the Long Game?",
+      "url": "https://arxiv.org/abs/2606.18543",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17266v1 Announce Type: new \nAbstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are ...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18543v1 Announce Type: new \nAbstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and custom...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-      "url": "https://arxiv.org/abs/2606.17269",
+      "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+      "url": "https://arxiv.org/abs/2606.18557",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17269v1 Announce Type: new \nAbstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18557v1 Announce Type: new \nAbstract: A rule-based logic solver resolves every instance in our benchmark in under 50 microseconds with 100% accuracy; the best frontie...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Nothing from Something: Can a Language Model Discover 0?",
-      "url": "https://arxiv.org/abs/2606.17289",
+      "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+      "url": "https://arxiv.org/abs/2606.18598",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17289v1 Announce Type: new \nAbstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematica...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18598v1 Announce Type: new \nAbstract: Decision making in lithium production is challenging, whether from an investor's perspective or a strategic production standpoin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-      "url": "https://arxiv.org/abs/2606.17312",
+      "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+      "url": "https://arxiv.org/abs/2606.18686",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17312v1 Announce Type: new \nAbstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to ra...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18686v1 Announce Type: new \nAbstract: Forecasting benchmarks for general-purpose AI systems usually inherit the constraints of the real world: outcomes resolve slowly...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-      "url": "https://arxiv.org/abs/2606.17328",
+      "title": "What Must Generalist Agents Remember?",
+      "url": "https://arxiv.org/abs/2606.18746",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17328v1 Announce Type: new \nAbstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggrega...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18746v1 Announce Type: new \nAbstract: This paper develops a formal account of what generalist agents must store in memory in order to act near-optimally across multip...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-      "url": "https://arxiv.org/abs/2606.17339",
+      "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.18786",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-17T04:00:00Z",
-      "short_summary": "arXiv:2606.17339v1 Announce Type: new \nAbstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal s...",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18786v1 Announce Type: new \nAbstract: Robot soccer is a challenging testbed for multi-agent reinforcement learning because it combines partial observability, cooperat...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+      "url": "https://arxiv.org/abs/2606.18803",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18803v1 Announce Type: new \nAbstract: Bringing Large Language Models (LLMs) into industrial ride-hailing dispatch as semantic feature extractors over platform-scale b...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents",
+      "url": "https://arxiv.org/abs/2606.18847",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18847v1 Announce Type: new \nAbstract: To assist humans over extended periods in real homes, embodied agents must remember user routines, world states, and past intera...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness",
+      "url": "https://arxiv.org/abs/2606.18874",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-18T04:00:00Z",
+      "short_summary": "arXiv:2606.18874v1 Announce Type: new \nAbstract: AI systems can increasingly automate scientific workflows, but the reasoning that links prior evidence, generated ideas, experim...",
       "tag": "RESEARCH"
     }
   ]
