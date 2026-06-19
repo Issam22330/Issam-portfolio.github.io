@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-19T04:44:22.678195Z",
+  "last_updated": "2026-06-19T15:25:51.881332Z",
   "items": [
     {
       "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
