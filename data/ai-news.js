@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-21T04:40:30.919731Z",
+  "last_updated": "2026-06-21T14:17:29.016748Z",
   "items": [
     {
       "title": "MosaicLeaks: Can your research agent keep a secret?",
