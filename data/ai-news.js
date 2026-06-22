@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-22T04:45:42.434628Z",
+  "last_updated": "2026-06-22T17:02:28.212147Z",
   "items": [
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-22T13:18:56Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -86,14 +94,6 @@ window.aiNewsData = {
       "url": "https://huggingface.co/blog/torch-mlp-fusion",
       "source": "Hugging Face Blog",
       "published_at": "2026-06-11T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-09T10:46:19Z",
       "short_summary": "",
       "tag": "NEWS"
     }
