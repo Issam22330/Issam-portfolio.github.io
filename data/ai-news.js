@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-23T03:51:07.142290Z",
+  "last_updated": "2026-06-23T14:54:55.760448Z",
   "items": [
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-23T12:51:55Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
@@ -8,6 +24,14 @@ window.aiNewsData = {
       "published_at": "2026-06-22T13:18:56Z",
       "short_summary": "",
       "tag": "NEWS"
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-22T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
       "title": "MosaicLeaks: Can your research agent keep a secret?",
@@ -70,30 +94,6 @@ window.aiNewsData = {
       "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
       "source": "Hugging Face Blog",
       "published_at": "2026-06-17T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-15T15:00:00Z",
-      "short_summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-11T20:00:00Z",
-      "short_summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-11T00:00:00Z",
       "short_summary": "",
       "tag": "NEWS"
     }
