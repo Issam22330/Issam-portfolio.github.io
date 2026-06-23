@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-22T17:02:28.212147Z",
+  "last_updated": "2026-06-23T03:51:07.142290Z",
   "items": [
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
