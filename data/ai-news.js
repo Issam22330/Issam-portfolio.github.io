@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-24T03:52:27.356739Z",
+  "last_updated": "2026-06-24T14:37:34.058065Z",
   "items": [
     {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-23T12:51:55Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-22T13:18:56Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-22T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-18T18:13:13Z",
-      "short_summary": "",
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.23927",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.23927v1 Announce Type: new \nAbstract: Agentic AI systems powered by large language models (LLMs) are rapidly evolving into autonomous decision-making systems, exposin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-18T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-18T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T15:26:44Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-17T15:00:00Z",
-      "short_summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+      "url": "https://arxiv.org/abs/2606.23938",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.23938v1 Announce Type: new \nAbstract: Driving VLA models incorporating Chain-of-Thought (CoT) reasoning are attractive because they leverage pretrained VLM representa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T10:18:05Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.23991v1 Announce Type: new \nAbstract: What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T09:01:25Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+      "url": "https://arxiv.org/abs/2606.24010",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24010v1 Announce Type: new \nAbstract: Multi-agent systems are widely used in safety-critical applications that require coordinated behavior under strict safety constr...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+      "url": "https://arxiv.org/abs/2606.24014",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24014v1 Announce Type: new \nAbstract: As AI systems are deployed across increasingly diverse and high-stakes settings, model alignment must generalize beyond the task...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?",
+      "url": "https://arxiv.org/abs/2606.24026",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24026v1 Announce Type: new \nAbstract: Mechanistic interpretability has made substantial progress in automatically localizing circuits, but explaining what localized c...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+      "url": "https://arxiv.org/abs/2606.24042",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24042v1 Announce Type: new \nAbstract: Recommender systems often induce filter bubbles and semantic homogenization by monolithically optimizing for immediate user enga...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+      "url": "https://arxiv.org/abs/2606.24047",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24047v1 Announce Type: new \nAbstract: One of the significant mental health issues affecting female sex workers (FSWs) is mental disorders, especially depression. Expo...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Beyond Trajectory Imitation: Strategy-Guided Policy Optimization for LLM Reasoning",
+      "url": "https://arxiv.org/abs/2606.24064",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24064v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from strong to weak language models typically involves imitating specific solution trajectorie...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers",
+      "url": "https://arxiv.org/abs/2606.24099",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24099v1 Announce Type: new \nAbstract: Algorithms have become central to scientific research in the era of artificial intelligence (AI). Although algorithm mentions in...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+      "url": "https://arxiv.org/abs/2606.24112",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24112v1 Announce Type: new \nAbstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, seve...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
+      "url": "https://arxiv.org/abs/2606.24124",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-24T04:00:00Z",
+      "short_summary": "arXiv:2606.24124v1 Announce Type: new \nAbstract: Multi-step reasoning with Chain-of-Thought (CoT) prompting remains fragile: logical errors or hallucinations in early steps sile...",
+      "tag": "RESEARCH"
     }
   ]
 };
