@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-23T14:54:55.760448Z",
+  "last_updated": "2026-06-24T03:52:27.356739Z",
   "items": [
     {
       "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
@@ -12,6 +12,14 @@ window.aiNewsData = {
     {
       "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
       "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
       "source": "Hugging Face Blog",
       "published_at": "2026-06-23T00:00:00Z",
       "short_summary": "",
@@ -86,14 +94,6 @@ window.aiNewsData = {
       "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
       "source": "Hugging Face Blog",
       "published_at": "2026-06-17T09:01:25Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-17T00:00:00Z",
       "short_summary": "",
       "tag": "NEWS"
     }
