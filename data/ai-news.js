@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-24T14:37:34.058065Z",
+  "last_updated": "2026-06-25T03:53:28.215607Z",
   "items": [
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-24T16:00:13Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
       "url": "https://arxiv.org/abs/2606.23927",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-24T04:00:00Z",
       "short_summary": "arXiv:2606.24112v1 Announce Type: new \nAbstract: Multimodal misinformation detection is increasingly important because viral posts now combine long multilingual narratives, seve...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification",
-      "url": "https://arxiv.org/abs/2606.24124",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-24T04:00:00Z",
-      "short_summary": "arXiv:2606.24124v1 Announce Type: new \nAbstract: Multi-step reasoning with Chain-of-Thought (CoT) prompting remains fragile: logical errors or hallucinations in early steps sile...",
       "tag": "RESEARCH"
     }
   ]
