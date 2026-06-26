@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-26T04:00:12.787565Z",
+  "last_updated": "2026-06-26T14:30:43.781310Z",
   "items": [
     {
       "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
