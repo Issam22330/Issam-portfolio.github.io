@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-27T03:42:28.040678Z",
+  "last_updated": "2026-06-27T13:48:40.098070Z",
   "items": [
     {
-      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
-      "url": "https://arxiv.org/abs/2606.26155",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26155v1 Announce Type: new \nAbstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that...",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-26T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Which tokens does a hybrid model predict better?",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-25T16:11:42Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-25T16:00:00Z",
+      "short_summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-24T16:00:13Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-24T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-23T12:51:55Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-22T13:18:56Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-22T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-18T18:13:13Z",
+      "short_summary": "",
       "tag": "RESEARCH"
     },
     {
-      "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
-      "url": "https://arxiv.org/abs/2606.26158",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26158v1 Announce Type: new \nAbstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this appro...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Refusal Lives Downstream of Persona in Chat Models",
-      "url": "https://arxiv.org/abs/2606.26161",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26161v1 Announce Type: new \nAbstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models,...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
-      "url": "https://arxiv.org/abs/2606.26173",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26173v1 Announce Type: new \nAbstract: Recent work shows that Large Language Models (LLMs) can act as semantic mutation operators for the evolutionary discovery of pro...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
-      "url": "https://arxiv.org/abs/2606.26203",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26203v1 Announce Type: new \nAbstract: As AI agent protocols proliferate, the governance structures shaping their interoperability standards remain empirically underex...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
-      "url": "https://arxiv.org/abs/2606.26205",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26205v1 Announce Type: new \nAbstract: Patients increasingly seek medication information online, yet safety knowledge for psychiatric drugs is split between regulatory...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Accelerating Skill Assessment in Chess: A Drift-Diffusion-Enhanced Elo Rating System",
-      "url": "https://arxiv.org/abs/2606.26267",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26267v1 Announce Type: new \nAbstract: Rating systems such as Elo serve as the gold standard for matchmaking in competitive chess. However, they inherently suffer from...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
-      "url": "https://arxiv.org/abs/2606.26298",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26298v1 Announce Type: new \nAbstract: Autonomous AI agents may begin to perform consequential, irreversible actions such as clinical prescribing and production softwa...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
-      "url": "https://arxiv.org/abs/2606.26299",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26299v1 Announce Type: new \nAbstract: While generative AI has achieved remarkable success in solving problems with verifiable solutions, generating physical art that ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "The Verification Horizon: No Silver Bullet for Coding Agent Rewards",
-      "url": "https://arxiv.org/abs/2606.26300",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26300v1 Announce Type: new \nAbstract: A classical intuition holds that verifying a solution is easier than producing one. For today's coding agents, this intuition is...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-      "url": "https://arxiv.org/abs/2606.26346",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26346v1 Announce Type: new \nAbstract: Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug di...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "What We are Missing in Multimodal LLM Evaluation?",
-      "url": "https://arxiv.org/abs/2606.26348",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-26T04:00:00Z",
-      "short_summary": "arXiv:2606.26348v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) can process diverse inputs, e.g., text, images, audio, and video, and generate textual ...",
-      "tag": "RESEARCH"
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-18T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
