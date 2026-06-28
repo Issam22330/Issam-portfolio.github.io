@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-28T04:06:54.588348Z",
+  "last_updated": "2026-06-28T13:52:51.745866Z",
   "items": [
     {
       "title": "Run a vLLM Server on HF Jobs in One Command",
