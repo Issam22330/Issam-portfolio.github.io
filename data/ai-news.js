@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-29T04:14:01.132803Z",
+  "last_updated": "2026-06-29T15:51:57.748441Z",
   "items": [
+    {
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-29T16:00:00Z",
+      "short_summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "tag": "NEWS"
+    },
     {
       "title": "AI-Model Network: Concept, Current State and Future",
       "url": "https://arxiv.org/abs/2606.27382",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-29T04:00:00Z",
       "short_summary": "arXiv:2606.27814v1 Announce Type: new \nAbstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improveme...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning",
-      "url": "https://arxiv.org/abs/2606.27826",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27826v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) are increasingly deployed as embodied planners in egocentric environments, where task s...",
       "tag": "RESEARCH"
     }
   ]
