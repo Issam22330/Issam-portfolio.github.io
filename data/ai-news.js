@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-29T15:51:57.748441Z",
+  "last_updated": "2026-06-30T03:55:35.372622Z",
   "items": [
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-29T18:02:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Ask an AI expert: What exactly is the full stack?",
       "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-06-29T04:00:00Z",
       "short_summary": "arXiv:2606.27806v1 Announce Type: new \nAbstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in l...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
-      "url": "https://arxiv.org/abs/2606.27814",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27814v1 Announce Type: new \nAbstract: Training small language-model agents for long-horizon interactive tasks requires both fast imitation and reward-driven improveme...",
       "tag": "RESEARCH"
     }
   ]
