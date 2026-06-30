@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-30T03:55:35.372622Z",
+  "last_updated": "2026-06-30T14:28:48.513557Z",
   "items": [
     {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-29T18:02:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
       "source": "Google AI Blog",
-      "published_at": "2026-06-29T16:00:00Z",
-      "short_summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "published_at": "2026-06-30T06:00:00Z",
+      "short_summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
       "tag": "NEWS"
     },
     {
-      "title": "AI-Model Network: Concept, Current State and Future",
-      "url": "https://arxiv.org/abs/2606.27382",
+      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+      "url": "https://arxiv.org/abs/2606.28374",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27382v1 Announce Type: new \nAbstract: While the primary function of computers lies in computation and processing, the core value of the Internet is rooted in sharing ...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workfl...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-      "url": "https://arxiv.org/abs/2606.27443",
+      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
+      "url": "https://arxiv.org/abs/2606.28471",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27443v1 Announce Type: new \nAbstract: Personality prompting shapes how large language models communicate, yet whether these behavioral shifts affect objective task ou...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28471v1 Announce Type: new \nAbstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, whil...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-      "url": "https://arxiv.org/abs/2606.27483",
+      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
+      "url": "https://arxiv.org/abs/2606.28514",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27483v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capability in sequential decision-making, yet they remains fundamenta...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-      "url": "https://arxiv.org/abs/2606.27593",
+      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+      "url": "https://arxiv.org/abs/2606.28556",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27593v1 Announce Type: new \nAbstract: We introduce a categorical framework called ODYSSEY for constructing verifiable, local truth-preserving foundation models as com...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opport...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-      "url": "https://arxiv.org/abs/2606.27619",
+      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+      "url": "https://arxiv.org/abs/2606.28589",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27619v1 Announce Type: new \nAbstract: Dyslexic learners increasingly use artificial intelligence (AI) tools to support reading, writing, organisation, and study-relat...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28589v1 Announce Type: new \nAbstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encou...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MER-R1: Multimodal Emotion Reasoning via Slow-Fast Thinking Synergy",
-      "url": "https://arxiv.org/abs/2606.27652",
+      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
+      "url": "https://arxiv.org/abs/2606.28683",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27652v1 Announce Type: new \nAbstract: We find that explicit reasoning does not necessarily translate into better multimodal emotion recognition (MER) accuracy, even t...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28683v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different pri...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ToE: A Hierarchical and Explainable Claim Verification Framework with Dynamic Multi-source Evidence Retrieval and Aggregation",
-      "url": "https://arxiv.org/abs/2606.27736",
+      "title": "An AI agent for treatment reasoning over a biomedical tool universe",
+      "url": "https://arxiv.org/abs/2606.28692",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27736v1 Announce Type: new \nAbstract: The rapid spread of fake news poses increasing threats to information ecosystems, especially as AI-generated misinformation unde...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28692v1 Announce Type: new \nAbstract: Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindicat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Towards Reliable and Robust LLM Planning: Symbolic Feedback-Driven Iterative Self-Refinement Framework",
-      "url": "https://arxiv.org/abs/2606.27757",
+      "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
+      "url": "https://arxiv.org/abs/2606.28696",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27757v1 Announce Type: new \nAbstract: Large language models (LLMs) have attracted widespread attention from academia and industry, yet their deployment raises critica...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28696v1 Announce Type: new \nAbstract: Composition is a high-level visual intent that governs where subjects are placed and how a scene is organized, yet current unifi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Understanding Rollout Error in Graph World Models",
-      "url": "https://arxiv.org/abs/2606.27780",
+      "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2606.28707",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27780v1 Announce Type: new \nAbstract: World models are often used for planning by rolling learned dynamics forward. Many planning environments, however, are not vecto...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28707v1 Announce Type: new \nAbstract: Critic-free reinforcement learning with verifiable rewards (RLVR), exemplified by Group Relative Policy Optimization (GRPO), avo...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-      "url": "https://arxiv.org/abs/2606.27806",
+      "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
+      "url": "https://arxiv.org/abs/2606.28710",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-29T04:00:00Z",
-      "short_summary": "arXiv:2606.27806v1 Announce Type: new \nAbstract: World models for language agents come in two useful forms. An agent-based world model calls an LLM API and reasons flexibly in l...",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28710v1 Announce Type: new \nAbstract: We ask under what conditions an agent with a harm-minimizing policy can displace an approval-seeking (RLHF) agent in a competiti...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "TrajRS: Towards Certified Robustness in Pedestrian Trajectory Prediction",
+      "url": "https://arxiv.org/abs/2606.28716",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-06-30T04:00:00Z",
+      "short_summary": "arXiv:2606.28716v1 Announce Type: new \nAbstract: The robustness of trajectory prediction models is crucial for developing safe autonomous driving systems. Adversarial attacks on...",
       "tag": "RESEARCH"
     }
   ]
