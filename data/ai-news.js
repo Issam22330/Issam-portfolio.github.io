@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-06-30T14:28:48.513557Z",
+  "last_updated": "2026-07-01T04:10:30.402599Z",
   "items": [
     {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-30T06:00:00Z",
-      "short_summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Recursive Self-Evolving Agents via Held-Out Selection",
-      "url": "https://arxiv.org/abs/2606.28374",
+      "title": "What Drives Interactive Improvement from Feedback?",
+      "url": "https://arxiv.org/abs/2606.30774",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28374v1 Announce Type: new \nAbstract: LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workfl...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Data and Evaluation Closed-Loop for Model Capability Enhancement",
-      "url": "https://arxiv.org/abs/2606.28471",
+      "title": "Contrastive Reflection for Iterative Prompt Optimization",
+      "url": "https://arxiv.org/abs/2606.30840",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28471v1 Announce Type: new \nAbstract: Model capability is the central variable in LLM pre-training, yet is never observed directly: data shapes it prospectively, whil...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly ser...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
-      "url": "https://arxiv.org/abs/2606.28514",
+      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+      "url": "https://arxiv.org/abs/2606.30846",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28514v1 Announce Type: new \nAbstract: Multimodal models are increasingly deployed to solve tasks collaboratively with humans or other artificial agents. Existing benc...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
-      "url": "https://arxiv.org/abs/2606.28556",
+      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+      "url": "https://arxiv.org/abs/2606.30850",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28556v1 Announce Type: new \nAbstract: Recent advances in large language models and vision-language models have enabled reasoning over multimodal data, offering opport...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30850v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that shou...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
-      "url": "https://arxiv.org/abs/2606.28589",
+      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.30852",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28589v1 Announce Type: new \nAbstract: Current approaches to enhance Large Language Model (LLM) reasoning, such as Chain-of-Thought and \"Wait\" prompts, primarily encou...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30852v1 Announce Type: new \nAbstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Aristotelian Virtue Profiling of LLMs through Ethical Dilemmas",
-      "url": "https://arxiv.org/abs/2606.28683",
+      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
+      "url": "https://arxiv.org/abs/2606.30863",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28683v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often face ethical tradeoffs in which several responses may be defensible but express different pri...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30863v1 Announce Type: new \nAbstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying que...",
       "tag": "RESEARCH"
     },
     {
-      "title": "An AI agent for treatment reasoning over a biomedical tool universe",
-      "url": "https://arxiv.org/abs/2606.28692",
+      "title": "Investigating Multi-Agent Deliberation in Law",
+      "url": "https://arxiv.org/abs/2606.30906",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28692v1 Announce Type: new \nAbstract: Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindicat...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30906v1 Announce Type: new \nAbstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One pa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models",
-      "url": "https://arxiv.org/abs/2606.28696",
+      "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
+      "url": "https://arxiv.org/abs/2606.30911",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28696v1 Announce Type: new \nAbstract: Composition is a high-level visual intent that governs where subjects are placed and how a scene is organized, yet current unifi...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30911v1 Announce Type: new \nAbstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "BV-Blend: Uncertainty-Weighted Historical Baselines for Stable Critic-Free RL with Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2606.28707",
+      "title": "RoPoLL: Robust Panel of LLM Judges",
+      "url": "https://arxiv.org/abs/2606.30931",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28707v1 Announce Type: new \nAbstract: Critic-free reinforcement learning with verifiable rewards (RLVR), exemplified by Group Relative Policy Optimization (GRPO), avo...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30931v1 Announce Type: new \nAbstract: The LLM Jury, a Panel of LLM Evaluators (PoLL) reporting consensus scores, has become a practical alternative to single-judge LL...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Two Genie Game: Adoption and Welfare in Audit-Grounded AI Governance",
-      "url": "https://arxiv.org/abs/2606.28710",
+      "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+      "url": "https://arxiv.org/abs/2606.30949",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28710v1 Announce Type: new \nAbstract: We ask under what conditions an agent with a harm-minimizing policy can displace an approval-seeking (RLHF) agent in a competiti...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30949v1 Announce Type: new \nAbstract: High-Level Synthesis (HLS) provides a fast path from concepts to silicon, but converting real-world software into synthesizable ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TrajRS: Towards Certified Robustness in Pedestrian Trajectory Prediction",
-      "url": "https://arxiv.org/abs/2606.28716",
+      "title": "Neuro-Bayesian-Symbolic Residual Attention Shallow Network: Explainable Deep Learning for Cybersecurity Risk Assessment",
+      "url": "https://arxiv.org/abs/2606.30953",
       "source": "arXiv cs.AI",
-      "published_at": "2026-06-30T04:00:00Z",
-      "short_summary": "arXiv:2606.28716v1 Announce Type: new \nAbstract: The robustness of trajectory prediction models is crucial for developing safe autonomous driving systems. Adversarial attacks on...",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30953v1 Announce Type: new \nAbstract: We introduce the Neuro-Bayesian-Symbolic Residual Attention Shallow Network (NBS-RASN), a hybrid neural architecture for explain...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation",
+      "url": "https://arxiv.org/abs/2606.30966",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-01T04:00:00Z",
+      "short_summary": "arXiv:2606.30966v1 Announce Type: new \nAbstract: Formal specification is a powerful tool to guide the learning process and provides significant advantages over reward shaping: (...",
       "tag": "RESEARCH"
     }
   ]
