@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-01T04:10:30.402599Z",
+  "last_updated": "2026-07-01T14:42:16.076197Z",
   "items": [
     {
       "title": "What Drives Interactive Improvement from Feedback?",
