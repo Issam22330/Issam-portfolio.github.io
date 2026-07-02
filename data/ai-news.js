@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-01T14:42:16.076197Z",
+  "last_updated": "2026-07-02T03:51:29.154289Z",
   "items": [
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T18:15:00Z",
+      "short_summary": "June Pixel Drop hero",
+      "tag": "BREAKING"
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T16:00:00Z",
+      "short_summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "tag": "NEWS"
+    },
     {
       "title": "What Drives Interactive Improvement from Feedback?",
       "url": "https://arxiv.org/abs/2606.30774",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-01T04:00:00Z",
       "short_summary": "arXiv:2606.30949v1 Announce Type: new \nAbstract: High-Level Synthesis (HLS) provides a fast path from concepts to silicon, but converting real-world software into synthesizable ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Neuro-Bayesian-Symbolic Residual Attention Shallow Network: Explainable Deep Learning for Cybersecurity Risk Assessment",
-      "url": "https://arxiv.org/abs/2606.30953",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30953v1 Announce Type: new \nAbstract: We introduce the Neuro-Bayesian-Symbolic Residual Attention Shallow Network (NBS-RASN), a hybrid neural architecture for explain...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation",
-      "url": "https://arxiv.org/abs/2606.30966",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30966v1 Announce Type: new \nAbstract: Formal specification is a powerful tool to guide the learning process and provides significant advantages over reward shaping: (...",
       "tag": "RESEARCH"
     }
   ]
