@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-02T03:51:29.154289Z",
+  "last_updated": "2026-07-02T14:08:14.889237Z",
   "items": [
     {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T18:15:00Z",
-      "short_summary": "June Pixel Drop hero",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T16:00:00Z",
-      "short_summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "What Drives Interactive Improvement from Feedback?",
-      "url": "https://arxiv.org/abs/2606.30774",
+      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+      "url": "https://arxiv.org/abs/2607.00001",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00001v1 Announce Type: new \nAbstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Contrastive Reflection for Iterative Prompt Optimization",
-      "url": "https://arxiv.org/abs/2606.30840",
+      "title": "Bounded Morality: Defining the Space of Moral Computation",
+      "url": "https://arxiv.org/abs/2607.00002",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly ser...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00002v1 Announce Type: new \nAbstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-      "url": "https://arxiv.org/abs/2606.30846",
+      "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+      "url": "https://arxiv.org/abs/2607.00032",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexi...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00032v1 Announce Type: new \nAbstract: Many information systems are built around documents: self-contained units optimised for print production and linear reading. Whi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
-      "url": "https://arxiv.org/abs/2606.30850",
+      "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+      "url": "https://arxiv.org/abs/2607.00035",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30850v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically deployed in multi-turn conversations, where each turn provides new evidence that shou...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00035v1 Announce Type: new \nAbstract: LLMs and agents can generate web scrapers from natural-language requirements, but direct generation remains unreliable because o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.30852",
+      "title": "Solution space path planning for supporting en-route air traffic control",
+      "url": "https://arxiv.org/abs/2607.00064",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30852v1 Announce Type: new \nAbstract: Reasoning models spend different amounts of useful computation across instances, but it remains unclear when a learned stopping ...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00064v1 Announce Type: new \nAbstract: As technology advances, many path-planning algorithms have been proposed for Air Traffic Management, yet their operational adopt...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond expert users: agents should help users construct preferences, not just elicit them",
-      "url": "https://arxiv.org/abs/2606.30863",
+      "title": "RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "url": "https://arxiv.org/abs/2607.00147",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30863v1 Announce Type: new \nAbstract: Agents typically assume an expert user -- one with well-formed preferences about what they want -- and default to clarifying que...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00147v1 Announce Type: new \nAbstract: Rare disease differential diagnosis is a critical yet arduous clinical task, requiring physicians to identify precise phenotypes...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Investigating Multi-Agent Deliberation in Law",
-      "url": "https://arxiv.org/abs/2606.30906",
+      "title": "A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+      "url": "https://arxiv.org/abs/2607.00155",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30906v1 Announce Type: new \nAbstract: Artificial Intelligence is increasingly applied to the field of law, and has the potential to increase access to justice. One pa...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00155v1 Announce Type: new \nAbstract: We study runtime human oversight of an AI agent when private information runs in both directions: the human privately knows her ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Why Solve It Twice? Hierarchical Accumulation of Skills for Transfer-Efficient ML Engineering",
-      "url": "https://arxiv.org/abs/2606.30911",
+      "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+      "url": "https://arxiv.org/abs/2607.00211",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30911v1 Announce Type: new \nAbstract: ML engineering agents waste compute rediscovering known techniques because every competition is a cold start. We present HASTE, ...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00211v1 Announce Type: new \nAbstract: Epistemic thinking plays a central role in students' learning processes when applying generative artificial intelligence (GenAI)...",
       "tag": "RESEARCH"
     },
     {
-      "title": "RoPoLL: Robust Panel of LLM Judges",
-      "url": "https://arxiv.org/abs/2606.30931",
+      "title": "From Signals to Structure: How Memory Architecture Drives Language Emergence in LLM Agents",
+      "url": "https://arxiv.org/abs/2607.00233",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30931v1 Announce Type: new \nAbstract: The LLM Jury, a Panel of LLM Evaluators (PoLL) reporting consensus scores, has become a practical alternative to single-judge LL...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00233v1 Announce Type: new \nAbstract: How do two agents invent a shared language from scratch? In a Lewis signaling game, a sender and receiver must coordinate on a c...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
-      "url": "https://arxiv.org/abs/2606.30949",
+      "title": "Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity",
+      "url": "https://arxiv.org/abs/2607.00248",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-01T04:00:00Z",
-      "short_summary": "arXiv:2606.30949v1 Announce Type: new \nAbstract: High-Level Synthesis (HLS) provides a fast path from concepts to silicon, but converting real-world software into synthesizable ...",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00248v1 Announce Type: new \nAbstract: We present Seed2.0, a model series that takes a meaningful step toward solving complex, real-world tasks. Our approach begins wi...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Mnemosyne: Agentic Transaction Processing for Validating and Repairing AI-generated Workflows",
+      "url": "https://arxiv.org/abs/2607.00269",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00269v1 Announce Type: new \nAbstract: LLMs, solvers, and agent teams increasingly generate workflow actions, repairs, and plans, but a generated action may be syntact...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2607.00334",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-02T04:00:00Z",
+      "short_summary": "arXiv:2607.00334v1 Announce Type: new \nAbstract: Autonomous agents, whether LLM-driven software agents or robotic physical agents, face a common class of failure modes when oper...",
       "tag": "RESEARCH"
     }
   ]
