@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-02T14:08:14.889237Z",
+  "last_updated": "2026-07-03T03:32:56.874083Z",
   "items": [
     {
       "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
