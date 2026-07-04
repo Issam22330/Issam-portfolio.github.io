@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-04T03:25:53.634529Z",
+  "last_updated": "2026-07-04T13:39:07.312570Z",
   "items": [
     {
-      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-      "url": "https://arxiv.org/abs/2607.01306",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01306v1 Announce Type: new \nAbstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T18:15:00Z",
+      "short_summary": "June Pixel Drop hero",
+      "tag": "BREAKING"
     },
     {
-      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-      "url": "https://arxiv.org/abs/2607.01366",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01366v1 Announce Type: new \nAbstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server a...",
-      "tag": "RESEARCH"
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T16:00:00Z",
+      "short_summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "tag": "NEWS"
     },
     {
-      "title": "The Wiola Architecture for Efficient Small Language Models",
-      "url": "https://arxiv.org/abs/2607.01394",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01394v1 Announce Type: new \nAbstract: We present Wiola, a fully original Small Language Model (SLM) architecture built from first principles, sharing no structural li...",
-      "tag": "RESEARCH"
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-01T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-      "url": "https://arxiv.org/abs/2607.01425",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01425v1 Announce Type: new \nAbstract: Understanding large, complex codebases, especially those with obfuscated structures and incomplete documentation, remains a sign...",
-      "tag": "RESEARCH"
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-30T18:32:50Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
-      "url": "https://arxiv.org/abs/2607.01426",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01426v1 Announce Type: new \nAbstract: Autonomous customer-service agents are shifting from conversational interfaces toward operational execution roles: they retrieve...",
-      "tag": "RESEARCH"
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-30T14:39:11Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
-      "url": "https://arxiv.org/abs/2607.01433",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01433v1 Announce Type: new \nAbstract: Divergent thinking is a crucial aspect of creativity, yet large language models (LLMs) tend to consistently generate similar res...",
-      "tag": "RESEARCH"
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-30T06:00:00Z",
+      "short_summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+      "tag": "NEWS"
     },
     {
-      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
-      "url": "https://arxiv.org/abs/2607.01436",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01436v1 Announce Type: new \nAbstract: Diffusion language models, which generate text by denoising a token canvas bidirectionally instead of emitting tokens left to ri...",
-      "tag": "RESEARCH"
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-30T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Beyond Next-Token Prediction: An RLVR Proof of Concept for Tool-Use Agents on Atlassian Workflows",
-      "url": "https://arxiv.org/abs/2607.01465",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01465v1 Announce Type: new \nAbstract: Large language models are trained to predict the next token, not to act inside a specific API. In niche enterprise SaaS workflow...",
-      "tag": "RESEARCH"
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-29T18:02:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
-      "url": "https://arxiv.org/abs/2607.01470",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01470v1 Announce Type: new \nAbstract: Clinical protocol-execution tasks -- checking a lab value, applying a threshold, placing a correctly structured FHIR order -- ar...",
-      "tag": "RESEARCH"
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-29T16:00:00Z",
+      "short_summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "tag": "NEWS"
     },
     {
-      "title": "Procedural Memory Distillation: Online Reflection for Self-Improving Language Models",
-      "url": "https://arxiv.org/abs/2607.01480",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01480v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR), along with recent selfdistillation variants such as SDPO, evaluates each ...",
-      "tag": "RESEARCH"
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-26T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "The Agentic Garden of Forking Paths",
-      "url": "https://arxiv.org/abs/2607.01507",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01507v1 Announce Type: new \nAbstract: Empirical research rarely admits a unique analysis. Different analytical choices can lead to different conclusions from the same...",
-      "tag": "RESEARCH"
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-25T16:00:00Z",
+      "short_summary": "The Google Finance logo, surrounded by elements of the user interface",
+      "tag": "NEWS"
     },
     {
-      "title": "Janus: a Playground for User-Involved Agentic Permission Management",
-      "url": "https://arxiv.org/abs/2607.01510",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-03T04:00:00Z",
-      "short_summary": "arXiv:2607.01510v1 Announce Type: new \nAbstract: AI agents that autonomously execute tool calls on a user's behalf raise pressing questions about permission management: what rol...",
-      "tag": "RESEARCH"
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-06-24T16:00:13Z",
+      "short_summary": "",
+      "tag": "MODEL"
     }
   ]
 };
