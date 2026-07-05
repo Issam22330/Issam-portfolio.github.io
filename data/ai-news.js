@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-05T03:42:03.210691Z",
+  "last_updated": "2026-07-05T13:45:53.470193Z",
   "items": [
     {
       "title": "The latest AI news we announced in June 2026",
