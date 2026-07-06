@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-06T03:51:03.653067Z",
+  "last_updated": "2026-07-06T15:38:53.203559Z",
   "items": [
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T00:00:00Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
+    {
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-06T15:30:55Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-06T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "The latest AI news we announced in June 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
@@ -72,30 +96,6 @@ window.aiNewsData = {
       "published_at": "2026-06-29T16:00:00Z",
       "short_summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
       "tag": "NEWS"
-    },
-    {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-26T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-25T16:00:00Z",
-      "short_summary": "The Google Finance logo, surrounded by elements of the user interface",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-06-24T16:00:13Z",
-      "short_summary": "",
-      "tag": "MODEL"
     }
   ]
 };
