@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-06T15:38:53.203559Z",
+  "last_updated": "2026-07-07T03:40:46.378194Z",
   "items": [
     {
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
