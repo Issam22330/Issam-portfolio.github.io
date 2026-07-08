@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-07T14:41:58.477772Z",
+  "last_updated": "2026-07-08T02:55:35.942862Z",
   "items": [
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T21:15:33Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T15:20:06Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-07T08:54:00Z",
+      "short_summary": "Managed agents feature bundle launch",
+      "tag": "NEWS"
+    },
     {
       "title": "iFLYTEK-Embodied-Omni Technical Report",
       "url": "https://arxiv.org/abs/2607.02542",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-07T04:00:00Z",
       "short_summary": "arXiv:2607.02931v1 Announce Type: new \nAbstract: AI tools are accelerating scientific publication while the systems that review it struggle to keep up, and independent verificat...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery",
-      "url": "https://arxiv.org/abs/2607.02941",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02941v1 Announce Type: new \nAbstract: Multi-product kitting delivery imposes significant challenges for real-time scheduling in hybrid manufacturing systems that inte...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using Incognita",
-      "url": "https://arxiv.org/abs/2607.02975",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02975v1 Announce Type: new \nAbstract: Effective agency in social environments depends on when an agent seeks knowledge, when it acts, and whether its actions are just...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.02983",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02983v1 Announce Type: new \nAbstract: Recent reasoning-centric Large Language Models (LLMs) have made significant strides, yet they predominantly operate on a passive...",
       "tag": "RESEARCH"
     }
   ]
