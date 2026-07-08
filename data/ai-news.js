@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-08T02:55:35.942862Z",
+  "last_updated": "2026-07-08T14:20:01.683570Z",
   "items": [
     {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-07T21:15:33Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-07T15:20:06Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-07T08:54:00Z",
-      "short_summary": "Managed agents feature bundle launch",
-      "tag": "NEWS"
-    },
-    {
-      "title": "iFLYTEK-Embodied-Omni Technical Report",
-      "url": "https://arxiv.org/abs/2607.02542",
+      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
+      "url": "https://arxiv.org/abs/2607.05456",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02542v1 Announce Type: new \nAbstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produ...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05456v1 Announce Type: new \nAbstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
-      "url": "https://arxiv.org/abs/2607.02672",
+      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
+      "url": "https://arxiv.org/abs/2607.05563",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02672v1 Announce Type: new \nAbstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory desig...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05563v1 Announce Type: new \nAbstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
-      "url": "https://arxiv.org/abs/2607.02686",
+      "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
+      "url": "https://arxiv.org/abs/2607.05571",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02686v1 Announce Type: new \nAbstract: Reinforcement learning agents operating under partial observability must act on incomplete information, making them natural cand...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05571v1 Announce Type: new \nAbstract: Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Automated Data Readiness for Scientific AI",
-      "url": "https://arxiv.org/abs/2607.02771",
+      "title": "Foundation Models for Automatic CAD Generation",
+      "url": "https://arxiv.org/abs/2607.05573",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02771v1 Announce Type: new \nAbstract: Leadership computing facilities steward large-scale scientific datasets that routinely require substantial transformation before...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05573v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
-      "url": "https://arxiv.org/abs/2607.02807",
+      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
+      "url": "https://arxiv.org/abs/2607.05577",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02807v1 Announce Type: new \nAbstract: Long-running coding agents such as autoresearch can persistently discover optimizations for open-ended problems. However, they t...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05577v1 Announce Type: new \nAbstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Object-Centric Environment Modeling for Agentic Tasks",
-      "url": "https://arxiv.org/abs/2607.02846",
+      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+      "url": "https://arxiv.org/abs/2607.05682",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02846v1 Announce Type: new \nAbstract: Large language model (LLM) agents can improve through accumulated experience, but free-form textual memories become difficult to...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05682v1 Announce Type: new \nAbstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report ge...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
-      "url": "https://arxiv.org/abs/2607.02879",
+      "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
+      "url": "https://arxiv.org/abs/2607.05690",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02879v1 Announce Type: new \nAbstract: Current benchmarks for evaluating large language models (LLMs) in medical calculation are largely based on simplified settings, ...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05690v1 Announce Type: new \nAbstract: Language agents run a loop - observe, reason, act - but the memory they reason over sits outside it: a store queried at most onc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
-      "url": "https://arxiv.org/abs/2607.02914",
+      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
+      "url": "https://arxiv.org/abs/2607.05708",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02914v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable capabilities across diverse applications, yet ensuring their simultane...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05708v1 Announce Type: new \nAbstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-sessi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
-      "url": "https://arxiv.org/abs/2607.02931",
+      "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2607.05750",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-07T04:00:00Z",
-      "short_summary": "arXiv:2607.02931v1 Announce Type: new \nAbstract: AI tools are accelerating scientific publication while the systems that review it struggle to keep up, and independent verificat...",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05750v1 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, ed...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Synthetic Consumer Insight Generation with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.05761",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05761v1 Announce Type: new \nAbstract: Modern data-driven marketing relies on large amounts of consumer data, yet collecting such data can be costly, time-consuming, a...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.05773",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05773v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) evolve into autonomous agents, traditional static evaluation fails to capture multi-step decisio...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2607.05775",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-08T04:00:00Z",
+      "short_summary": "arXiv:2607.05775v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly evaluated on their ability to use tools, plan multi-step tasks, coordinate wi...",
       "tag": "RESEARCH"
     }
   ]
