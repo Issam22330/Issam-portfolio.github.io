@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-09T03:34:13.340259Z",
+  "last_updated": "2026-07-09T15:15:40.855699Z",
   "items": [
     {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-08T17:16:05Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-      "url": "https://arxiv.org/abs/2607.05456",
+      "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+      "url": "https://arxiv.org/abs/2607.06624",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05456v1 Announce Type: new \nAbstract: While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer ...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond",
-      "url": "https://arxiv.org/abs/2607.05563",
+      "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+      "url": "https://arxiv.org/abs/2607.06720",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05563v1 Announce Type: new \nAbstract: Interpretable explanation methods in Artificial Intelligence aim to uncover the underlying causes and their effects, enabling a ...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
-      "url": "https://arxiv.org/abs/2607.05571",
+      "title": "LLM-powered reasoning in agent-based modeling",
+      "url": "https://arxiv.org/abs/2607.06757",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05571v1 Announce Type: new \nAbstract: Large language models are increasingly explored as AI tutors, yet deploying them in K-12 settings raises concerns around privacy...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for polic...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Foundation Models for Automatic CAD Generation",
-      "url": "https://arxiv.org/abs/2607.05573",
+      "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+      "url": "https://arxiv.org/abs/2607.06760",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05573v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) enable the automatic generation of parametric ...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06760v1 Announce Type: new \nAbstract: Autonomous systems under partial observability act on beliefs, not raw sensor events. QANTIS treats the quantum processor as a c...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
-      "url": "https://arxiv.org/abs/2607.05577",
+      "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+      "url": "https://arxiv.org/abs/2607.06764",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05577v1 Announce Type: new \nAbstract: Long-form fiction writers need memory that answers multi-hop questions about evolving story state: who knows a secret and when t...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06764v1 Announce Type: new \nAbstract: Recent progress on ARC-AGI-1 from disclosed architectures has come broadly from two regimes: heavy test-time compute over fronti...",
       "tag": "RESEARCH"
     },
     {
-      "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
-      "url": "https://arxiv.org/abs/2607.05682",
+      "title": "Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics",
+      "url": "https://arxiv.org/abs/2607.06820",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05682v1 Announce Type: new \nAbstract: LLM systems for scientific discovery increasingly assist with ideation, literature synthesis, experiment planning, and report ge...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06820v1 Announce Type: new \nAbstract: Recent advances in AI for Mathematics have focused largely on autoformalization and theorem proving, leaving the role of Compute...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Memory in the Loop: In-Process Retrieval as ExtendedWorking Memory for Language Agents",
-      "url": "https://arxiv.org/abs/2607.05690",
+      "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+      "url": "https://arxiv.org/abs/2607.06906",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05690v1 Announce Type: new \nAbstract: Language agents run a loop - observe, reason, act - but the memory they reason over sits outside it: a store queried at most onc...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06906v1 Announce Type: new \nAbstract: Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Akashic: A Low-Overhead LLM Inference Service with MemAttention",
-      "url": "https://arxiv.org/abs/2607.05708",
+      "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+      "url": "https://arxiv.org/abs/2607.06925",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05708v1 Announce Type: new \nAbstract: Recent LLM-based agent systems continuously accumulate context across multi-turn interactions, tool invocations, and cross-sessi...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06925v1 Announce Type: new \nAbstract: Compact world models that condition on a language goal promise to ground relations such as ``put the red block left of the blue ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2607.05750",
+      "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+      "url": "https://arxiv.org/abs/2607.06993",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05750v1 Announce Type: new \nAbstract: Computer-aided design (CAD) for industrial components requires long-horizon procedural modeling, robust feature dependencies, ed...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.06993v1 Announce Type: new \nAbstract: Customer behavior modeling underpins recommendation, marketing, and decision support, yet existing approaches either optimize pr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Synthetic Consumer Insight Generation with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.05761",
+      "title": "Learning social norms enhances compatibility in dynamic human-AI coordination",
+      "url": "https://arxiv.org/abs/2607.07021",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05761v1 Announce Type: new \nAbstract: Modern data-driven marketing relies on large amounts of consumer data, yet collecting such data can be costly, time-consuming, a...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.07021v1 Announce Type: new \nAbstract: Humans continuously coordinate with others in dynamic interactions, often through implicit, hard-to-quantify social norms that a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.05773",
+      "title": "Measuring Intelligence Beyond Human Scale",
+      "url": "https://arxiv.org/abs/2607.07040",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05773v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) evolve into autonomous agents, traditional static evaluation fails to capture multi-step decisio...",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.07040v1 Announce Type: new \nAbstract: How can we measure intelligence beyond human capability?\n  Human-authored benchmarks saturate, and above human capability, exami...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Operational Reframing and Approval-Framed Delegation in Multi-Agent LLM Safety",
+      "url": "https://arxiv.org/abs/2607.07097",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-09T04:00:00Z",
+      "short_summary": "arXiv:2607.07097v1 Announce Type: new \nAbstract: Safety evaluations of multi-agent LLM systems often compare a direct prompt with a planner-executor pipeline and report the diff...",
       "tag": "RESEARCH"
     }
   ]
