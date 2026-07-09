@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-08T14:20:01.683570Z",
+  "last_updated": "2026-07-09T03:34:13.340259Z",
   "items": [
+    {
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-08T17:16:05Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
       "url": "https://arxiv.org/abs/2607.05456",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-08T04:00:00Z",
       "short_summary": "arXiv:2607.05773v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) evolve into autonomous agents, traditional static evaluation fails to capture multi-step decisio...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
-      "url": "https://arxiv.org/abs/2607.05775",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-08T04:00:00Z",
-      "short_summary": "arXiv:2607.05775v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly evaluated on their ability to use tools, plan multi-step tasks, coordinate wi...",
       "tag": "RESEARCH"
     }
   ]
