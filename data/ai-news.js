@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-11T02:51:12.896676Z",
+  "last_updated": "2026-07-11T13:25:11.423353Z",
   "items": [
     {
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamen...",
-      "tag": "RESEARCH"
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "AI-integrated models for assessing agricultural resilience",
-      "url": "https://arxiv.org/abs/2607.07759",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07759v1 Announce Type: new \nAbstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-power...",
-      "tag": "RESEARCH"
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-08T17:16:05Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.07760",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07760v1 Announce Type: new \nAbstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions ...",
-      "tag": "RESEARCH"
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-      "url": "https://arxiv.org/abs/2607.07761",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and...",
-      "tag": "RESEARCH"
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T21:15:33Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-      "url": "https://arxiv.org/abs/2607.07766",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07766v1 Announce Type: new \nAbstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attentio...",
-      "tag": "RESEARCH"
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T15:20:06Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Idiobionics: The Unification of Privacy and Intelligent Robotic Prostheses",
-      "url": "https://arxiv.org/abs/2607.07775",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07775v1 Announce Type: new \nAbstract: The human body is at the center of a growing family of technologies designed to tightly and persistently couple biological and d...",
-      "tag": "RESEARCH"
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-07T08:54:00Z",
+      "short_summary": "Managed agents feature bundle launch",
+      "tag": "NEWS"
     },
     {
-      "title": "Infinity-Parser2 Technical Report",
-      "url": "https://arxiv.org/abs/2607.07836",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07836v1 Announce Type: new \nAbstract: We present Infinity-Parser2, a large multimodal model that couples a controllable data-synthesis pipeline with multi-task reinfo...",
-      "tag": "RESEARCH"
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-      "url": "https://arxiv.org/abs/2607.07846",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07846v1 Announce Type: new \nAbstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist student...",
-      "tag": "RESEARCH"
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-07T00:00:00Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
     },
     {
-      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
-      "url": "https://arxiv.org/abs/2607.07850",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07850v1 Announce Type: new \nAbstract: For seemless control of advanced hand prostheses and augmented reality, accurate and immediate hand gestures recognition is esse...",
-      "tag": "RESEARCH"
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-06T15:30:55Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
-      "url": "https://arxiv.org/abs/2607.07858",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07858v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is beginning to reshape actuarial practice, particularly in domains that require reasoning over uns...",
-      "tag": "RESEARCH"
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-06T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
-      "url": "https://arxiv.org/abs/2607.07859",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07859v1 Announce Type: new \nAbstract: Reinforcement learning (RL) research has increasingly shifted focus towards alignment, ensuring agents learn behaviors adhering ...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T18:15:00Z",
+      "short_summary": "June Pixel Drop hero",
+      "tag": "BREAKING"
     },
     {
-      "title": "Nigeria Machinery: A Low-Resource Industrial Dataset with a Domain-Grounded Reasoning Layer",
-      "url": "https://arxiv.org/abs/2607.07883",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-10T04:00:00Z",
-      "short_summary": "arXiv:2607.07883v1 Announce Type: new \nAbstract: There is relatively little, public, and model-ready data on industrial machinery for African economies. This makes it hard to do...",
-      "tag": "RESEARCH"
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T16:00:00Z",
+      "short_summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "tag": "NEWS"
     }
   ]
 };
