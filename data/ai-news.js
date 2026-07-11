@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-10T14:33:08.115014Z",
+  "last_updated": "2026-07-11T02:51:12.896676Z",
   "items": [
     {
       "title": "Context Graphs for Proactive Enterprise Agents",
