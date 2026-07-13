@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-12T13:25:38.638798Z",
+  "last_updated": "2026-07-13T03:18:28.674514Z",
   "items": [
     {
       "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
