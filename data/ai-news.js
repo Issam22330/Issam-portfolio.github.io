@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-13T03:18:28.674514Z",
+  "last_updated": "2026-07-13T14:39:41.719830Z",
   "items": [
     {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+      "url": "https://arxiv.org/abs/2607.08773",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.08773v1 Announce Type: new \nAbstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-08T17:16:05Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
+      "url": "https://arxiv.org/abs/2607.08774",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.08774v1 Announce Type: new \nAbstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by de...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-08T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+      "url": "https://arxiv.org/abs/2607.08894",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language A...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-07T21:15:33Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "url": "https://arxiv.org/abs/2607.08964",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks larg...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-07T15:20:06Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
+      "url": "https://arxiv.org/abs/2607.08986",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.08986v1 Announce Type: new \nAbstract: We formalize a research result in the Lean 4 proof assistant by having a mathematician direct an AI system, and frame the activi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-07T08:54:00Z",
-      "short_summary": "Managed agents feature bundle launch",
-      "tag": "NEWS"
+      "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
+      "url": "https://arxiv.org/abs/2607.09059",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09059v1 Announce Type: new \nAbstract: We present ARCANA, a collaborative multi agent framework for solving ARC AGI 2 tasks under strict test time and hardware constra...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-07T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09076v1 Announce Type: new \nAbstract: Cyberattacks on operational technology are increasingly causing costly downtime and physical damage, exposing the limitations of...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-07T00:00:00Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "L-MAD: A Systematic Evaluation of Multi-Agent Debate Structures in Legal Reasoning",
+      "url": "https://arxiv.org/abs/2607.09099",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09099v1 Announce Type: new \nAbstract: While multi-agent debate (MAD) frameworks have shown significant potential in general reasoning, their effectiveness in highly s...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-06T15:30:55Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+      "url": "https://arxiv.org/abs/2607.09142",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09142v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in online medical consultation, yet existing benchmarks remain poorly ali...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-06T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2607.09153",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09153v1 Announce Type: new \nAbstract: Process Reward Models (PRMs) have been proven to be highly effective in guiding test-time scaling (TTS) methods, which significa...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T18:15:00Z",
-      "short_summary": "June Pixel Drop hero",
-      "tag": "BREAKING"
+      "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+      "url": "https://arxiv.org/abs/2607.09175",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09175v1 Announce Type: new \nAbstract: Deployed LLM agents rely on agentic context, the model-external textual control content assembled by an operational harness. In ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T16:00:00Z",
-      "short_summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "tag": "NEWS"
+      "title": "Toward Auditable AI Scientists: A Hypothesis Evolution Protocol for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.09195",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-13T04:00:00Z",
+      "short_summary": "arXiv:2607.09195v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly expected to play a central role in AI-driven scientific discovery. Equipped w...",
+      "tag": "RESEARCH"
     }
   ]
 };
