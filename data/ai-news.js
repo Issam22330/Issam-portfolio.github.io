@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-13T14:39:41.719830Z",
+  "last_updated": "2026-07-14T02:42:51.788492Z",
   "items": [
     {
       "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
