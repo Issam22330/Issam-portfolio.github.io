@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-15T02:41:32.575338Z",
+  "last_updated": "2026-07-15T13:48:19.199026Z",
   "items": [
     {
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-14T16:00:00Z",
-      "short_summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "tag": "NEWS"
-    },
-    {
-      "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-      "url": "https://arxiv.org/abs/2607.09664",
+      "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
+      "url": "https://arxiv.org/abs/2607.11888",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09664v1 Announce Type: new \nAbstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulm...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11888v1 Announce Type: new \nAbstract: We develop a rigorous theoretical framework for optimal market making in perpetual futures markets with zero maker fees. We mode...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-      "url": "https://arxiv.org/abs/2607.09665",
+      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
+      "url": "https://arxiv.org/abs/2607.11906",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We stu...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11906v1 Announce Type: new \nAbstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agent...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-      "url": "https://arxiv.org/abs/2607.09678",
+      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
+      "url": "https://arxiv.org/abs/2607.11948",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09678v1 Announce Type: new \nAbstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimizati...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11948v1 Announce Type: new \nAbstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-      "url": "https://arxiv.org/abs/2607.09689",
+      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
+      "url": "https://arxiv.org/abs/2607.11951",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09689v1 Announce Type: new \nAbstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gib...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11951v1 Announce Type: new \nAbstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically v...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-      "url": "https://arxiv.org/abs/2607.09698",
+      "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
+      "url": "https://arxiv.org/abs/2607.11959",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09698v1 Announce Type: new \nAbstract: Recent latent reasoning methods, such as CODI and COCONUT, face a fundamental interpretability problem: they maintain multiple s...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11959v1 Announce Type: new \nAbstract: Greenhouse reinforcement learning can test climate-control ideas at a speed and scale that is difficult to achieve with crop exp...",
       "tag": "RESEARCH"
     },
     {
-      "title": "YUKTI: From Natural-Language Situations to Robust, Verifiable Decisions An Uncertainty-Typed Proposition IR, Assumption-Robust Pareto Frontiers, and a Regret Certificate",
-      "url": "https://arxiv.org/abs/2607.09706",
+      "title": "Optimization Is Not All You Need",
+      "url": "https://arxiv.org/abs/2607.11977",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09706v1 Announce Type: new \nAbstract: Language models turn a worded situation into a numeric plan, and the dominant pipelines (NL4Opt, OptiMUS, ORLM, OR-LLM-Agent) co...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11977v1 Announce Type: new \nAbstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. Th...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GES-TSP: Graph Edge Sparsification for TSP",
-      "url": "https://arxiv.org/abs/2607.09708",
+      "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
+      "url": "https://arxiv.org/abs/2607.11980",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09708v1 Announce Type: new \nAbstract: Solving large-scale instances of the Traveling Salesman Problem (TSP) exactly is computationally expensive. Researchers often em...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.11980v1 Announce Type: new \nAbstract: Like many optimization-driven domains, railway rescheduling relies on Mixed-Integer Linear Programming (MILP), yet the field's m...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Verifier is the Curriculum: Execution-Gated Self-Distillation for Cross-Family Game Generation",
-      "url": "https://arxiv.org/abs/2607.09709",
+      "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
+      "url": "https://arxiv.org/abs/2607.12056",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09709v1 Announce Type: new \nAbstract: Post-training a code generator against a learned judge can optimize proxy features that raise the score without improving the ar...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.12056v1 Announce Type: new \nAbstract: Online shopping is increasingly shifting toward a model in which AI agents independently search for products, compare options, e...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction",
-      "url": "https://arxiv.org/abs/2607.09713",
+      "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+      "url": "https://arxiv.org/abs/2607.12077",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09713v1 Announce Type: new \nAbstract: A key step toward autonomous industrial operation is the ability to create and reconfigure control policies from natural-languag...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.12077v1 Announce Type: new \nAbstract: Multi-agent language-model systems increasingly route local interactions, yet the runtime interaction graph is often treated as ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Feedback-Coupled Memory Systems in Continuous Time",
-      "url": "https://arxiv.org/abs/2607.09714",
+      "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
+      "url": "https://arxiv.org/abs/2607.12085",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09714v1 Announce Type: new \nAbstract: The Feedback-Coupled Memory Systems (FCMS) architecture formalizes closed-loop coordination through four abstract operators, two...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.12085v1 Announce Type: new \nAbstract: Evaluating retail conversational agents requires methods beyond lexical-overlap metrics to assess intent alignment, factuality, ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AGM-like Paraconsistent Partial Meet Abductive Expansion Operation",
-      "url": "https://arxiv.org/abs/2607.09729",
+      "title": "Representing and Generating Levels Over Time through Playtrace Reconstructive Partitioning",
+      "url": "https://arxiv.org/abs/2607.12097",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09729v1 Announce Type: new \nAbstract: In his 1996 doctoral thesis, Maurice Pagnucco created the first AGM-like abductive expansion operation. Taking his operation as ...",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.12097v1 Announce Type: new \nAbstract: Video games are a dynamic medium experienced over time. While there are many Procedural Content Generation (PCG) approaches for ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Connected by Construction: Learning Tractable Near-Tour Marginals for Traveling Salesman Problems",
+      "url": "https://arxiv.org/abs/2607.12127",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-15T04:00:00Z",
+      "short_summary": "arXiv:2607.12127v1 Announce Type: new \nAbstract: Learning-based methods for the traveling salesman problem (TSP) are often evaluated through the tours produced after decoding or...",
       "tag": "RESEARCH"
     }
   ]
