@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-14T13:49:24.934501Z",
+  "last_updated": "2026-07-15T02:41:32.575338Z",
   "items": [
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-14T16:00:00Z",
+      "short_summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "tag": "NEWS"
+    },
     {
       "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
       "url": "https://arxiv.org/abs/2607.09664",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-14T04:00:00Z",
       "short_summary": "arXiv:2607.09729v1 Announce Type: new \nAbstract: In his 1996 doctoral thesis, Maurice Pagnucco created the first AGM-like abductive expansion operation. Taking his operation as ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks",
-      "url": "https://arxiv.org/abs/2607.09739",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-14T04:00:00Z",
-      "short_summary": "arXiv:2607.09739v1 Announce Type: new \nAbstract: We study LLM benchmark coreset selection: selecting a small subset of prompts over multiple benchmarks whose induced model score...",
       "tag": "RESEARCH"
     }
   ]
