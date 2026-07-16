@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-16T02:48:13.012417Z",
+  "last_updated": "2026-07-16T13:58:57.973566Z",
   "items": [
     {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "source": "Hugging Face Blog",
-      "published_at": "2026-07-15T17:29:41Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-15T17:27:01Z",
+      "published_at": "2026-07-16T11:49:48Z",
       "short_summary": "",
       "tag": "MODEL"
     },
     {
-      "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
-      "url": "https://arxiv.org/abs/2607.11888",
+      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "url": "https://arxiv.org/abs/2607.13037",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11888v1 Announce Type: new \nAbstract: We develop a rigorous theoretical framework for optimal market making in perpetual futures markets with zero maker fees. We mode...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13037v1 Announce Type: new \nAbstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet n...",
       "tag": "RESEARCH"
     },
     {
-      "title": "In-Context Reinforcement Learning under Non-Stationarity: A Survey",
-      "url": "https://arxiv.org/abs/2607.11906",
+      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "url": "https://arxiv.org/abs/2607.13049",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11906v1 Announce Type: new \nAbstract: The development of decision-pretrained transformers, algorithm distillation, long-context meta-RL, and retrieval-augmented agent...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13049v1 Announce Type: new \nAbstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a ph...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study",
-      "url": "https://arxiv.org/abs/2607.11948",
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "url": "https://arxiv.org/abs/2607.13069",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11948v1 Announce Type: new \nAbstract: Regulated financial institutions operating under data-residency rules need tenant-owned language models that can run inside the ...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GRID: Grammar-Railed Decoding for Enterprise SQL Generation",
-      "url": "https://arxiv.org/abs/2607.11951",
+      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "url": "https://arxiv.org/abs/2607.13073",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11951v1 Announce Type: new \nAbstract: Large language models can write SQL, but enterprise deployment demands more than plausible text: outputs must be syntactically v...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses",
-      "url": "https://arxiv.org/abs/2607.11959",
+      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+      "url": "https://arxiv.org/abs/2607.13104",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11959v1 Announce Type: new \nAbstract: Greenhouse reinforcement learning can test climate-control ideas at a speed and scale that is difficult to achieve with crop exp...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13104v1 Announce Type: new \nAbstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Optimization Is Not All You Need",
-      "url": "https://arxiv.org/abs/2607.11977",
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "url": "https://arxiv.org/abs/2607.13115",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11977v1 Announce Type: new \nAbstract: In 2019, OpenAI released two million GPT-2 outputs-ungrammatical, half broken-to aid the detection of machine-generated text. Th...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13115v1 Announce Type: new \nAbstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LP Mining with LP2Graph: A Use Case for Railway Rescheduling",
-      "url": "https://arxiv.org/abs/2607.11980",
+      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
+      "url": "https://arxiv.org/abs/2607.13157",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.11980v1 Announce Type: new \nAbstract: Like many optimization-driven domains, railway rescheduling relies on Mixed-Integer Linear Programming (MILP), yet the field's m...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13157v1 Announce Type: new \nAbstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Designing Agent-Ready Websites for AI Web Agents: A Framework for Machine Readability, Actionability, and Decision Reliability",
-      "url": "https://arxiv.org/abs/2607.12056",
+      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
+      "url": "https://arxiv.org/abs/2607.13172",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.12056v1 Announce Type: new \nAbstract: Online shopping is increasingly shifting toward a model in which AI agents independently search for products, compare options, e...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13172v1 Announce Type: new \nAbstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environmen...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
-      "url": "https://arxiv.org/abs/2607.12077",
+      "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
+      "url": "https://arxiv.org/abs/2607.13219",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.12077v1 Announce Type: new \nAbstract: Multi-agent language-model systems increasingly route local interactions, yet the runtime interaction graph is often treated as ...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13219v1 Announce Type: new \nAbstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core alg...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Operationalising Multi-Dimensional Evaluation for Conversational Agents: A Scalable, Governed Pipeline with Selective Re-evaluation and Model Benchmarking",
-      "url": "https://arxiv.org/abs/2607.12085",
+      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+      "url": "https://arxiv.org/abs/2607.13220",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.12085v1 Announce Type: new \nAbstract: Evaluating retail conversational agents requires methods beyond lexical-overlap metrics to assess intent alignment, factuality, ...",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13220v1 Announce Type: new \nAbstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-hori...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
+      "url": "https://arxiv.org/abs/2607.13230",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-16T04:00:00Z",
+      "short_summary": "arXiv:2607.13230v1 Announce Type: new \nAbstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external e...",
       "tag": "RESEARCH"
     }
   ]
