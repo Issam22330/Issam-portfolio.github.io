@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-15T13:48:19.199026Z",
+  "last_updated": "2026-07-16T02:48:13.012417Z",
   "items": [
+    {
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T17:29:41Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T17:27:01Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets",
       "url": "https://arxiv.org/abs/2607.11888",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-15T04:00:00Z",
       "short_summary": "arXiv:2607.12085v1 Announce Type: new \nAbstract: Evaluating retail conversational agents requires methods beyond lexical-overlap metrics to assess intent alignment, factuality, ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Representing and Generating Levels Over Time through Playtrace Reconstructive Partitioning",
-      "url": "https://arxiv.org/abs/2607.12097",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.12097v1 Announce Type: new \nAbstract: Video games are a dynamic medium experienced over time. While there are many Procedural Content Generation (PCG) approaches for ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Connected by Construction: Learning Tractable Near-Tour Marginals for Traveling Salesman Problems",
-      "url": "https://arxiv.org/abs/2607.12127",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-15T04:00:00Z",
-      "short_summary": "arXiv:2607.12127v1 Announce Type: new \nAbstract: Learning-based methods for the traveling salesman problem (TSP) are often evaluated through the tours produced after decoding or...",
       "tag": "RESEARCH"
     }
   ]
