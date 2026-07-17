@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-17T02:50:33.475724Z",
+  "last_updated": "2026-07-17T13:44:00.831704Z",
   "items": [
     {
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-16T16:01:21Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-16T16:00:00Z",
-      "short_summary": "Connected apps rendering",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-16T16:00:00Z",
-      "short_summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-16T11:49:48Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-      "url": "https://arxiv.org/abs/2607.13037",
+      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "url": "https://arxiv.org/abs/2607.14093",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13037v1 Announce Type: new \nAbstract: When a data contributor requests removal, model trainers face a practical gap: unlearning algorithms require a forget set, yet n...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-      "url": "https://arxiv.org/abs/2607.13049",
+      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2607.14095",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13049v1 Announce Type: new \nAbstract: Foundation models have given robots a sophisticated brain for complex decision-making, yet deploying that intelligence into a ph...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Lar...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-      "url": "https://arxiv.org/abs/2607.13069",
+      "title": "IMEX Interaction-Based Model Explanation",
+      "url": "https://arxiv.org/abs/2607.14096",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13069v1 Announce Type: new \nAbstract: Large language models produce chain-of-thought (CoT) reasoning that appears logically sound yet may not genuinely depend on its ...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14096v1 Announce Type: new \nAbstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-      "url": "https://arxiv.org/abs/2607.13073",
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "url": "https://arxiv.org/abs/2607.14097",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13073v1 Announce Type: new \nAbstract: Neuro-symbolic AI based on $IFOL_B$ is a way to combine neural learning and symbolic reasoning to overcome limitations of purely...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-      "url": "https://arxiv.org/abs/2607.13104",
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "url": "https://arxiv.org/abs/2607.14115",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13104v1 Announce Type: new \nAbstract: Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolu...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14115v1 Announce Type: new \nAbstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
-      "url": "https://arxiv.org/abs/2607.13115",
+      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+      "url": "https://arxiv.org/abs/2607.14126",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13115v1 Announce Type: new \nAbstract: Small language models (SLMs) have shown promise for zero-shot molecular property prediction from SMILES strings, yet they often ...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14126v1 Announce Type: new \nAbstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-p...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Oracle Agent Memory as an Enterprise Memory Substrate for Long-Horizon AI Agents",
-      "url": "https://arxiv.org/abs/2607.13157",
+      "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+      "url": "https://arxiv.org/abs/2607.14141",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13157v1 Announce Type: new \nAbstract: Agent memory is a systems problem for long-horizon agents. Practical deployments require retention of task state across extended...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14141v1 Announce Type: new \nAbstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Learning Safe Agent Behaviour from Human Preferences and Justifications via World Models",
-      "url": "https://arxiv.org/abs/2607.13172",
+      "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+      "url": "https://arxiv.org/abs/2607.14144",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13172v1 Announce Type: new \nAbstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environmen...",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14144v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge towa...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+      "url": "https://arxiv.org/abs/2607.14145",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. W...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+      "url": "https://arxiv.org/abs/2607.14149",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+      "url": "https://arxiv.org/abs/2607.14158",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14158v1 Announce Type: new \nAbstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission Sy...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+      "url": "https://arxiv.org/abs/2607.14159",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-17T04:00:00Z",
+      "short_summary": "arXiv:2607.14159v1 Announce Type: new \nAbstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orches...",
       "tag": "RESEARCH"
     }
   ]
