@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-16T13:58:57.973566Z",
+  "last_updated": "2026-07-17T02:50:33.475724Z",
   "items": [
+    {
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-16T16:01:21Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-16T16:00:00Z",
+      "short_summary": "Connected apps rendering",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-16T16:00:00Z",
+      "short_summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "tag": "NEWS"
+    },
     {
       "title": "Newer Models, Same Advantage",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-16T04:00:00Z",
       "short_summary": "arXiv:2607.13172v1 Announce Type: new \nAbstract: We address the problem of safely training an agent policy and deploying a good and safe policy, in settings where the environmen...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "CayleyR: Solving the TopSpin puzzle via cycle intersection",
-      "url": "https://arxiv.org/abs/2607.13219",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13219v1 Announce Type: new \nAbstract: We present cayleyR, an R package for solving permutation puzzles by detecting cycle intersections in Cayley graphs. The core alg...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
-      "url": "https://arxiv.org/abs/2607.13220",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13220v1 Announce Type: new \nAbstract: Most AI-for-science systems focus on scaling a single reasoning process through better models, larger context windows, long-hori...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "AI-Native Insurance for Agentic AI: Pricing, Underwriting, and End-to-End Automation",
-      "url": "https://arxiv.org/abs/2607.13230",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-16T04:00:00Z",
-      "short_summary": "arXiv:2607.13230v1 Announce Type: new \nAbstract: Agentic AI introduces new insurance challenges because autonomous AI systems can make decisions, invoke tools, modify external e...",
       "tag": "RESEARCH"
     }
   ]
