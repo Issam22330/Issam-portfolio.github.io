@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-17T13:44:00.831704Z",
+  "last_updated": "2026-07-18T02:43:01.164047Z",
   "items": [
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-17T15:57:54Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
       "url": "https://arxiv.org/abs/2607.14093",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-17T04:00:00Z",
       "short_summary": "arXiv:2607.14158v1 Announce Type: new \nAbstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission Sy...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
-      "url": "https://arxiv.org/abs/2607.14159",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-17T04:00:00Z",
-      "short_summary": "arXiv:2607.14159v1 Announce Type: new \nAbstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orches...",
       "tag": "RESEARCH"
     }
   ]
