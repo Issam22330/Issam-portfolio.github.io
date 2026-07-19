@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-18T13:21:05.665499Z",
+  "last_updated": "2026-07-19T02:57:01.010064Z",
   "items": [
     {
       "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
