@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-19T02:57:01.010064Z",
+  "last_updated": "2026-07-19T13:22:32.644764Z",
   "items": [
     {
-      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-      "url": "https://arxiv.org/abs/2607.14093",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescu...",
-      "tag": "RESEARCH"
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-17T15:57:54Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2607.14095",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Lar...",
-      "tag": "RESEARCH"
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-16T16:00:00Z",
+      "short_summary": "Connected apps rendering",
+      "tag": "NEWS"
     },
     {
-      "title": "IMEX Interaction-Based Model Explanation",
-      "url": "https://arxiv.org/abs/2607.14096",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14096v1 Announce Type: new \nAbstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important ...",
-      "tag": "RESEARCH"
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-16T16:00:00Z",
+      "short_summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "tag": "NEWS"
     },
     {
-      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-      "url": "https://arxiv.org/abs/2607.14097",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification...",
-      "tag": "RESEARCH"
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-16T11:49:48Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-      "url": "https://arxiv.org/abs/2607.14115",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14115v1 Announce Type: new \nAbstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its...",
-      "tag": "RESEARCH"
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
-      "url": "https://arxiv.org/abs/2607.14126",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14126v1 Announce Type: new \nAbstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-p...",
-      "tag": "RESEARCH"
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T17:29:41Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
-      "url": "https://arxiv.org/abs/2607.14141",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14141v1 Announce Type: new \nAbstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and...",
-      "tag": "RESEARCH"
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T17:27:01Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
-      "url": "https://arxiv.org/abs/2607.14144",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14144v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge towa...",
-      "tag": "RESEARCH"
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
-      "url": "https://arxiv.org/abs/2607.14145",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. W...",
-      "tag": "RESEARCH"
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
-      "url": "https://arxiv.org/abs/2607.14149",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and...",
-      "tag": "RESEARCH"
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-14T16:00:00Z",
+      "short_summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "tag": "NEWS"
     },
     {
-      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
-      "url": "https://arxiv.org/abs/2607.14158",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14158v1 Announce Type: new \nAbstract: This position paper explores how Agentic AI and Model Context Protocol (MCP) can support power-grid studies in a Transmission Sy...",
-      "tag": "RESEARCH"
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
-      "url": "https://arxiv.org/abs/2607.14159",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-18T04:00:00Z",
-      "short_summary": "arXiv:2607.14159v1 Announce Type: new \nAbstract: An agent harness is the external control layer that turns a base LLM into an executable agent by managing context, tools, orches...",
-      "tag": "RESEARCH"
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     }
   ]
 };
