@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-19T13:22:32.644764Z",
+  "last_updated": "2026-07-20T03:26:30.565977Z",
   "items": [
     {
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
