@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-20T14:11:08.998520Z",
+  "last_updated": "2026-07-21T02:53:17.415196Z",
   "items": [
+    {
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-20T15:58:51Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
       "url": "https://arxiv.org/abs/2607.15280",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-20T04:00:00Z",
       "short_summary": "arXiv:2607.15532v1 Announce Type: new \nAbstract: Logic and optimization can, in combination, make valuable contributions to rule-based AI. Logic is the obvious medium for encodi...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "SeerGuard: A Safety Framework for Mobile GUI Agents via World Model Prediction",
-      "url": "https://arxiv.org/abs/2607.15550",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15550v1 Announce Type: new \nAbstract: Mobile graphical user interface (GUI) agents have demonstrated remarkable capabilities in automating complex tasks, yet they int...",
       "tag": "RESEARCH"
     }
   ]
