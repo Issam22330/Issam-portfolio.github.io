@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-21T02:53:17.415196Z",
+  "last_updated": "2026-07-21T13:57:55.874459Z",
   "items": [
     {
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-20T15:58:51Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-      "url": "https://arxiv.org/abs/2607.15280",
+      "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "url": "https://arxiv.org/abs/2607.16195",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15280v1 Announce Type: new \nAbstract: Sequential diagnosis requires balancing diagnostic accuracy against resource costs through iterative information gathering. Exis...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16195v1 Announce Type: new \nAbstract: We identify a structured confound in Reinforcement Learning from Human Feedback (RLHF). Pairwise preference labels are intended ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-      "url": "https://arxiv.org/abs/2607.15281",
+      "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "url": "https://arxiv.org/abs/2607.16196",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15281v1 Announce Type: new \nAbstract: Causal and intervention-based question answering is fundamental to advancing large language models (LLMs) toward reasoning beyon...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16196v1 Announce Type: new \nAbstract: Soft, sensorized companions offer a physically safe and emotionally intuitive interface for socially assistive technologies, yet...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-      "url": "https://arxiv.org/abs/2607.15314",
+      "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "url": "https://arxiv.org/abs/2607.16197",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15314v1 Announce Type: new \nAbstract: Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized LLMs that cover these use ...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16197v1 Announce Type: new \nAbstract: As artificial intelligence systems are deployed in open-ended, high-stakes settings, a critical dimension remains unmeasured: ho...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-      "url": "https://arxiv.org/abs/2607.15367",
+      "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "url": "https://arxiv.org/abs/2607.16198",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15367v1 Announce Type: new \nAbstract: Desktop voice assistants are still dominated by cloud pipelines that ship raw audio off the machine and expose a fixed set of sk...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16198v1 Announce Type: new \nAbstract: Graph Neural Networks (GNNs) have emerged as the leading paradigm for link prediction, enabling the inference of missing connect...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-      "url": "https://arxiv.org/abs/2607.15388",
+      "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+      "url": "https://arxiv.org/abs/2607.16199",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15388v1 Announce Type: new \nAbstract: Many math- and science-oriented agent systems use hierarchical designs with specialized reviewer roles, assuming that a dedicate...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16199v1 Announce Type: new \nAbstract: Multi-agent LLM systems increasingly rely on a Planner to decompose goals into sub-task sequences that downstream Executor and C...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
-      "url": "https://arxiv.org/abs/2607.15418",
+      "title": "Deterministic Replay for AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.16200",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15418v1 Announce Type: new \nAbstract: We introduce DrawingVQA, the first benchmark designed to evaluate multimodal large language models (MLLMs) on real-world constru...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16200v1 Announce Type: new \nAbstract: AI agent systems that couple large language models (LLMs) with external tools and APIs are inherently non-deterministic: LLM sam...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?",
-      "url": "https://arxiv.org/abs/2607.15439",
+      "title": "Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models",
+      "url": "https://arxiv.org/abs/2607.16201",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15439v1 Announce Type: new \nAbstract: Our previous ARC-AGI-3 agent bundled executable world modeling, scheduled simplification, and exact replay verification, leaving...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16201v1 Announce Type: new \nAbstract: Ontology engineering remains a critical bottleneck in knowledge-intensive AI systems. Existing automated approaches either depen...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond a Joke: Multi-Angle Reasoning for Detecting and Explaining Harmful Humor in Memes",
-      "url": "https://arxiv.org/abs/2607.15442",
+      "title": "Democratizing AI with Small Language Models: Structured Benchmarking and Parameter-Efficient Fine-Tuning for Local Deployment",
+      "url": "https://arxiv.org/abs/2607.16202",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15442v1 Announce Type: new \nAbstract: Internet memes intertwine visual cues, textual content, and cultural context, making them particularly challenging to interpret ...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16202v1 Announce Type: new \nAbstract: AI democratization is not primarily a question of matching frontier-scale generality; it is a question of whether capable models...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Black Box to Executable Logic: Explainable Reinforcement Learning through Prolog Expert Systems",
-      "url": "https://arxiv.org/abs/2607.15459",
+      "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL",
+      "url": "https://arxiv.org/abs/2607.16204",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15459v1 Announce Type: new \nAbstract: A trained deep reinforcement learning policy is a black box, and we ask whether it can be made explainable by rewriting it as an...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16204v1 Announce Type: new \nAbstract: Recent growth in reinforcement learning (RL) has surfaced a need for diverse, specialized training environments. Hand-curated en...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Critical Analysis of Trustworthy AI Tools, Mark Frameworks, and the Implementation Chasms",
-      "url": "https://arxiv.org/abs/2607.15480",
+      "title": "It Takes 8 Tokens: Weak-to-Strong Off-Policy RL via Auxiliary Branches",
+      "url": "https://arxiv.org/abs/2607.16205",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15480v1 Announce Type: new \nAbstract: As artificial intelligence (AI) systems increasingly impact society, ensuring their ethical and trustworthy deployment has becom...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16205v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards has emerged as a standard approach for enhancing reasoning in large language mode...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Logic, Optimization, and Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2607.15532",
+      "title": "PPO-HSC: An Exploratory Reinforcement Learning Framework Based on Wide-Area Policy Coverage Optimization",
+      "url": "https://arxiv.org/abs/2607.16206",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-20T04:00:00Z",
-      "short_summary": "arXiv:2607.15532v1 Announce Type: new \nAbstract: Logic and optimization can, in combination, make valuable contributions to rule-based AI. Logic is the obvious medium for encodi...",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16206v1 Announce Type: new \nAbstract: This paper introduces PPO-HSC (Proximal Policy Optimization with High-order Sampling Coverage), an exploratory reinforcement lea...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.16207",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-21T04:00:00Z",
+      "short_summary": "arXiv:2607.16207v1 Announce Type: new \nAbstract: Membership inference attacks (MIAs) test whether a candidate example appeared in a model's training data. We study MIAs for fine...",
       "tag": "RESEARCH"
     }
   ]
