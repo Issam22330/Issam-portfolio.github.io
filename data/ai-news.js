@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-21T13:57:55.874459Z",
+  "last_updated": "2026-07-22T02:51:22.537114Z",
   "items": [
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-21T20:00:27Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
       "url": "https://arxiv.org/abs/2607.16195",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-21T04:00:00Z",
       "short_summary": "arXiv:2607.16206v1 Announce Type: new \nAbstract: This paper introduces PPO-HSC (Proximal Policy Optimization with High-order Sampling Coverage), an exploratory reinforcement lea...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "JUMP: Single-Pass Membership Inference on Fine-Tuned Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2607.16207",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-21T04:00:00Z",
-      "short_summary": "arXiv:2607.16207v1 Announce Type: new \nAbstract: Membership inference attacks (MIAs) test whether a candidate example appeared in a model's training data. We study MIAs for fine...",
       "tag": "RESEARCH"
     }
   ]
