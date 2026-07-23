@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-23T02:57:44.861465Z",
+  "last_updated": "2026-07-23T14:07:00.340919Z",
   "items": [
     {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-22T13:00:00Z",
-      "short_summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "tag": "NEWS"
-    },
-    {
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "url": "https://arxiv.org/abs/2607.18239",
+      "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "url": "https://arxiv.org/abs/2607.19349",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requir...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19349v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed as always-on online services, making efficient LLM serving a critical sys...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "url": "https://arxiv.org/abs/2607.18240",
+      "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "url": "https://arxiv.org/abs/2607.19350",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18240v1 Announce Type: new \nAbstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliabili...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19350v1 Announce Type: new \nAbstract: Financial institutions face significant challenges in detecting sophisticated money laundering patterns, such as smurfing and la...",
       "tag": "RESEARCH"
     },
     {
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "url": "https://arxiv.org/abs/2607.18241",
+      "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "url": "https://arxiv.org/abs/2607.19351",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18241v1 Announce Type: new \nAbstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical quest...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19351v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (LLM-MAS) are increasingly deployed in safety-critical applications, where adversaries inject mali...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "url": "https://arxiv.org/abs/2607.18242",
+      "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "url": "https://arxiv.org/abs/2607.19353",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18242v1 Announce Type: new \nAbstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solut...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19353v1 Announce Type: new \nAbstract: Confidential computing is becoming a practical deployment requirement for AI inference workloads that process sensitive inputs o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "url": "https://arxiv.org/abs/2607.18243",
+      "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "url": "https://arxiv.org/abs/2607.19354",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18243v1 Announce Type: new \nAbstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two pa...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19354v1 Announce Type: new \nAbstract: Spreadsheet applications are used by hundreds of millions worldwide, yet writing formulas remains a significant barrier. Existin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SAAG: Structured Agent Assessment and Grounding",
-      "url": "https://arxiv.org/abs/2607.18245",
+      "title": "Information Discernment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19355",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18245v1 Announce Type: new \nAbstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function ye...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19355v1 Announce Type: new \nAbstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updatin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-      "url": "https://arxiv.org/abs/2607.18246",
+      "title": "NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2607.19356",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18246v1 Announce Type: new \nAbstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduc...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19356v1 Announce Type: new \nAbstract: Tool-using LLM agents increasingly execute high-impact actions, making runtime safety monitoring essential. We present NEXUS (Ne...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
-      "url": "https://arxiv.org/abs/2607.18251",
+      "title": "Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+      "url": "https://arxiv.org/abs/2607.19357",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18251v1 Announce Type: new \nAbstract: In this paper, we propose angular stabilization of drone motion using distributed feedback control in the form of an integral op...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19357v1 Announce Type: new \nAbstract: Recent advances in recommender systems (RS) have shown substantial performance gains through generative modelling. In practice, ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-      "url": "https://arxiv.org/abs/2607.18252",
+      "title": "LISA: Linear-Indexed Sparse Attention for Efficient Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2607.19358",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18252v1 Announce Type: new \nAbstract: Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, bu...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19358v1 Announce Type: new \nAbstract: Recent advances in long chain-of-thought reasoning models such as DeepSeek-R1 have led to increasingly longer inference context ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
-      "url": "https://arxiv.org/abs/2607.18253",
+      "title": "Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles",
+      "url": "https://arxiv.org/abs/2607.19359",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18253v1 Announce Type: new \nAbstract: Modern language query routers improve inference efficiency by assigning each query to a model that balances response quality and...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19359v1 Announce Type: new \nAbstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate sin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR",
-      "url": "https://arxiv.org/abs/2607.18254",
+      "title": "Lifted Representation Hypothesis in Language Models",
+      "url": "https://arxiv.org/abs/2607.19360",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-22T04:00:00Z",
-      "short_summary": "arXiv:2607.18254v1 Announce Type: new \nAbstract: Multi-Level Intermediate Representation (MLIR) underlies modern ML compiler infrastructure (TensorFlow, JAX/StableHLO, PyTorch I...",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19360v1 Announce Type: new \nAbstract: Large language models (LLMs) often answer queries by mapping individual observations to more general rule-like structures. Howev...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "GraphContainer: A Unified Platform for Comparing and Debugging Graph RAG Methods",
+      "url": "https://arxiv.org/abs/2607.19362",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-23T04:00:00Z",
+      "short_summary": "arXiv:2607.19362v1 Announce Type: new \nAbstract: Graph RAG mitigates hallucinations and stale knowledge in LLMs, particularly for multi-hop question answering. However, existing...",
       "tag": "RESEARCH"
     }
   ]
