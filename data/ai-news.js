@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-22T14:01:30.147635Z",
+  "last_updated": "2026-07-23T02:57:44.861465Z",
   "items": [
     {
       "title": "3 Google updates from Galaxy Unpacked 2026",
