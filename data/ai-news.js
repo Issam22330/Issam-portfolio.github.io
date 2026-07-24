@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-23T14:07:00.340919Z",
+  "last_updated": "2026-07-24T02:51:54.170091Z",
   "items": [
     {
       "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
