@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-25T02:51:10.438578Z",
+  "last_updated": "2026-07-25T13:39:50.721629Z",
   "items": [
     {
-      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-      "url": "https://arxiv.org/abs/2607.20452",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20452v1 Announce Type: new \nAbstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed...",
-      "tag": "RESEARCH"
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-      "url": "https://arxiv.org/abs/2607.20462",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20462v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability o...",
-      "tag": "RESEARCH"
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-22T13:00:00Z",
+      "short_summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+      "tag": "NEWS"
     },
     {
-      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-      "url": "https://arxiv.org/abs/2607.20463",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20463v1 Announce Type: new \nAbstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. M...",
-      "tag": "RESEARCH"
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-21T20:00:27Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
-      "url": "https://arxiv.org/abs/2607.20464",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20464v1 Announce Type: new \nAbstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consisten...",
-      "tag": "RESEARCH"
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-21T00:00:00Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
     },
     {
-      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
-      "url": "https://arxiv.org/abs/2607.20466",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20466v1 Announce Type: new \nAbstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hi...",
-      "tag": "RESEARCH"
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-16T16:00:00Z",
+      "short_summary": "Connected apps rendering",
+      "tag": "NEWS"
     },
     {
-      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
-      "url": "https://arxiv.org/abs/2607.20467",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20467v1 Announce Type: new \nAbstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hi...",
-      "tag": "RESEARCH"
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-16T16:00:00Z",
+      "short_summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
+      "tag": "NEWS"
     },
     {
-      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
-      "url": "https://arxiv.org/abs/2607.20468",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20468v1 Announce Type: new \nAbstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on p...",
-      "tag": "RESEARCH"
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-16T11:49:48Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
-      "url": "https://arxiv.org/abs/2607.20469",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20469v1 Announce Type: new \nAbstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task...",
-      "tag": "RESEARCH"
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
-      "url": "https://arxiv.org/abs/2607.20470",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20470v1 Announce Type: new \nAbstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datas...",
-      "tag": "RESEARCH"
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T17:29:41Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
-      "url": "https://arxiv.org/abs/2607.20471",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20471v1 Announce Type: new \nAbstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time ...",
-      "tag": "RESEARCH"
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T17:27:01Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Robust Critics: Defending LLMs Against Multi-Turn Attacks",
-      "url": "https://arxiv.org/abs/2607.20472",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20472v1 Announce Type: new \nAbstract: When a user asks a language model something harmful, is it a genuine attack or a misunderstood but well-meaning question? This a...",
-      "tag": "RESEARCH"
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Incomplete Prompt Jailbreaks in Large Language Models",
-      "url": "https://arxiv.org/abs/2607.20473",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-24T04:00:00Z",
-      "short_summary": "arXiv:2607.20473v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly released as open-weight models with safeguards against harmful requests. Neverthel...",
-      "tag": "RESEARCH"
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
