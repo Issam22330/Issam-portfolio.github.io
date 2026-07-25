@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-24T13:49:27.129838Z",
+  "last_updated": "2026-07-25T02:51:10.438578Z",
   "items": [
     {
       "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
