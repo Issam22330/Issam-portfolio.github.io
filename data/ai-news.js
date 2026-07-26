@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-26T03:16:02.530572Z",
+  "last_updated": "2026-07-26T13:34:35.602836Z",
   "items": [
     {
       "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
