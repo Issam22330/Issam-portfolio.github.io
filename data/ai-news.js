@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-27T03:26:06.785671Z",
+  "last_updated": "2026-07-27T14:40:51.799549Z",
   "items": [
     {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face Blog",
-      "published_at": "2026-07-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-22T13:00:00Z",
-      "short_summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-21T20:00:27Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-21T00:00:00Z",
+      "published_at": "2026-07-27T09:32:20Z",
       "short_summary": "",
       "tag": "ROBOTICS"
     },
     {
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-16T16:00:00Z",
-      "short_summary": "Connected apps rendering",
-      "tag": "NEWS"
+      "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+      "url": "https://arxiv.org/abs/2607.21623",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21623v1 Announce Type: new \nAbstract: We present EaaS, a cloud-native reference architecture that operationalizes AI evaluation methods as six stateless Kubernetes mi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-16T16:00:00Z",
-      "short_summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-      "tag": "NEWS"
+      "title": "On the Depth Scalability of Logic Gate Networks",
+      "url": "https://arxiv.org/abs/2607.21633",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21633v1 Announce Type: new \nAbstract: Logic Gate Networks (LGNs) implement computation through compositions of Boolean operations, yet unlike classical Boolean circui...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-16T11:49:48Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+      "url": "https://arxiv.org/abs/2607.21634",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21634v1 Announce Type: new \nAbstract: Masked discrete diffusion for molecular graph generation typically applies a uniform corruption schedule to all tokens in a loss...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-16T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+      "url": "https://arxiv.org/abs/2607.21635",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21635v1 Announce Type: new \nAbstract: Personal agents maintain memories, learned skills, tool configurations, and policy state that evolve with each user. Existing ag...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-15T17:29:41Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
+      "url": "https://arxiv.org/abs/2607.21636",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21636v1 Announce Type: new \nAbstract: Synthetic tabular data is valued for preserving not only each column's marginal distribution but the dependencies between column...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-15T17:27:01Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.21637",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21637v1 Announce Type: new \nAbstract: This paper explores the efficacy of quasi-Monte Carlo (QMC) weight initialization for meta-reinforcement learning within modern ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-15T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations",
+      "url": "https://arxiv.org/abs/2607.21644",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21644v1 Announce Type: new \nAbstract: We present a goal-agnostic control framework for partial differential equations (PDEs) built around a joint-embedding predictive...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-15T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Multi-Horizon Consistency as Geometry: When Latent Dynamics Contract, and When They Do Not",
+      "url": "https://arxiv.org/abs/2607.21645",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21645v1 Announce Type: new \nAbstract: Multi-horizon latent consistency is a common training knob in video predictors and world models, but practitioners rarely know w...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Adjustment Speed as a Safety Constraint for Nonstationary Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.21646",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21646v1 Announce Type: new \nAbstract: Ensuring safety in reinforcement learning under nonstationarity requires determining whether a learning system can safely adapt ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "A Drift Stable Quantum Federated Learning for Intelligent Services",
+      "url": "https://arxiv.org/abs/2607.21647",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21647v1 Announce Type: new \nAbstract: Quantum federated learning enables distributed clients to train quantum neural networks without sharing local data, making it pr...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Shallower ReLU Network Representations via Exact Linear Algebra",
+      "url": "https://arxiv.org/abs/2607.21651",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-07-27T04:00:00Z",
+      "short_summary": "arXiv:2607.21651v1 Announce Type: new \nAbstract: We prove that the maximum of $n$ real numbers is exactly representable by a ReLU network with two hidden layers for every $n\\le ...",
+      "tag": "RESEARCH"
     }
   ]
 };
