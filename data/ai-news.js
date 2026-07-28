@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-27T14:40:51.799549Z",
+  "last_updated": "2026-07-28T02:43:28.007869Z",
   "items": [
     {
       "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
