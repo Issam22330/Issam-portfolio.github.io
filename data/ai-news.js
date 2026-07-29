@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-28T14:12:33.716180Z",
+  "last_updated": "2026-07-29T02:50:21.869189Z",
   "items": [
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-28T16:27:42Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-28T16:00:00Z",
+      "short_summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "tag": "NEWS"
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-28T15:01:45Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-28T04:00:00Z",
       "short_summary": "arXiv:2607.22561v1 Announce Type: new \nAbstract: LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "SF-AMS: Strategic Forgetting for Structured Memory in LLM Agent",
-      "url": "https://arxiv.org/abs/2607.22562",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22562v1 Announce Type: new \nAbstract: Managing long-context dependencies remains a primary bottleneck in LLM agents, as redundant and irrelevant information can degra...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Synthetic Scenario Generation for Evaluation of Industry 4.0 Agents",
-      "url": "https://arxiv.org/abs/2607.22563",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22563v1 Announce Type: new \nAbstract: Industrial agent benchmarks require realistic evaluation scenarios that integrate telemetry, failure modes, maintenance records,...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Loss-Aware Feature-Map Pruning in Convolutional Neural Networks Using Multi-Armed Bandits",
-      "url": "https://arxiv.org/abs/2607.22564",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22564v1 Announce Type: new \nAbstract: Convolutional neural networks often contain redundant feature maps that increase storage and inference cost. This paper presents...",
       "tag": "RESEARCH"
     }
   ]
