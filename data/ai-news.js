@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-29T02:50:21.869189Z",
+  "last_updated": "2026-07-29T14:15:11.111855Z",
   "items": [
     {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-28T16:27:42Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T16:00:00Z",
-      "short_summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "tag": "NEWS"
-    },
-    {
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-28T15:01:45Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "short_summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "tag": "NEWS"
-    },
-    {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "short_summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-      "url": "https://arxiv.org/abs/2607.22544",
+      "title": "Do Models Fake Alignment Without Clear Consequences?",
+      "url": "https://arxiv.org/abs/2607.24758",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22544v1 Announce Type: new \nAbstract: Visual counterfactual explanations aim to answer \"what minimal change to this image would flip the model's prediction?\", and are...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24758v1 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectatio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-      "url": "https://arxiv.org/abs/2607.22548",
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22548v1 Announce Type: new \nAbstract: Data centers and their compute nodes require accurate and flexible digital twins capable of modeling the complex interplay of wo...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future co...",
       "tag": "RESEARCH"
     },
     {
-      "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
-      "url": "https://arxiv.org/abs/2607.22549",
+      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "url": "https://arxiv.org/abs/2607.24762",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22549v1 Announce Type: new \nAbstract: Hybrid quantum-classical protein structure prediction depends strongly on Hamiltonian penalty weights, yet existing lattice-base...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of com...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-      "url": "https://arxiv.org/abs/2607.22554",
+      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2607.24763",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22554v1 Announce Type: new \nAbstract: Large language models (LLMs) often achieve strong accuracy on benchmarks, yet it remains unclear how reliably they apply this kn...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-      "url": "https://arxiv.org/abs/2607.22555",
+      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "url": "https://arxiv.org/abs/2607.24764",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22555v1 Announce Type: new \nAbstract: Medical diagnosis is a multi-stage process: extract facts, consult knowledge, generate a differential analysis, and select the b...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24764v1 Announce Type: new \nAbstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and divers...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MIITA: Memory-Induced Inference-Time Adaptation for Continual Learning with Small Language Models",
-      "url": "https://arxiv.org/abs/2607.22556",
+      "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+      "url": "https://arxiv.org/abs/2607.24766",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22556v1 Announce Type: new \nAbstract: Continual learning (CL) is essential for small language models (SLMs) to adapt to evolving real-world needs in resource-constrai...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24766v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Codifying the Judge: Scalable Evaluation via Program Distillation",
-      "url": "https://arxiv.org/abs/2607.22561",
+      "title": "PATHFinder Agent for Tailored Prenatal Care",
+      "url": "https://arxiv.org/abs/2607.24768",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-28T04:00:00Z",
-      "short_summary": "arXiv:2607.22561v1 Announce Type: new \nAbstract: LLM-as-a-judge has become the standard for automated evaluation, but it suffers from high cost, significant latency, and opaque ...",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+      "url": "https://arxiv.org/abs/2607.24769",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. W...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+      "url": "https://arxiv.org/abs/2607.24770",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret in...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+      "url": "https://arxiv.org/abs/2607.24771",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24771v1 Announce Type: new \nAbstract: Knowledge injection updates pretrained MLLMs with new factual or domain-specific knowledge, but fitting full authoritative answe...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
+      "url": "https://arxiv.org/abs/2607.24772",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. H...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
+      "url": "https://arxiv.org/abs/2607.24773",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-29T04:00:00Z",
+      "short_summary": "arXiv:2607.24773v1 Announce Type: new \nAbstract: Managing cloud infrastructure efficiently, especially in environments of large cloud providers or hyperscalers, requires optimiz...",
       "tag": "RESEARCH"
     }
   ]
