@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-29T14:15:11.111855Z",
+  "last_updated": "2026-07-30T02:35:19.814702Z",
   "items": [
     {
       "title": "Do Models Fake Alignment Without Clear Consequences?",
