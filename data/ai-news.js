@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-30T14:07:59.666467Z",
+  "last_updated": "2026-07-31T03:16:25.772166Z",
   "items": [
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-30T15:09:09Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Do Models Fake Alignment Without Clear Consequences?",
       "url": "https://arxiv.org/abs/2607.24758",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-07-30T04:00:00Z",
       "short_summary": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. H...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Right-sizing Recommendations (RSR): Cloud Workload Conformal Prediction for Virtual Machines in Data Center Operations",
-      "url": "https://arxiv.org/abs/2607.24773",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24773v1 Announce Type: new \nAbstract: Managing cloud infrastructure efficiently, especially in environments of large cloud providers or hyperscalers, requires optimiz...",
       "tag": "RESEARCH"
     }
   ]
