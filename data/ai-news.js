@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-07-31T03:16:25.772166Z",
+  "last_updated": "2026-07-31T14:12:46.193949Z",
   "items": [
     {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-30T15:09:09Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Do Models Fake Alignment Without Clear Consequences?",
-      "url": "https://arxiv.org/abs/2607.24758",
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "url": "https://arxiv.org/abs/2607.26119",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24758v2 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectatio...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26119v1 Announce Type: new \nAbstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-      "url": "https://arxiv.org/abs/2607.24759",
+      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2607.26120",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future co...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26120v1 Announce Type: new \nAbstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents op...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-      "url": "https://arxiv.org/abs/2607.24762",
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "url": "https://arxiv.org/abs/2607.26155",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of com...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26155v1 Announce Type: new \nAbstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-      "url": "https://arxiv.org/abs/2607.24763",
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "url": "https://arxiv.org/abs/2607.26159",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their ...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26159v1 Announce Type: new \nAbstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-      "url": "https://arxiv.org/abs/2607.24764",
+      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "url": "https://arxiv.org/abs/2607.26160",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24764v1 Announce Type: new \nAbstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and divers...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26160v1 Announce Type: new \nAbstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
-      "url": "https://arxiv.org/abs/2607.24766",
+      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+      "url": "https://arxiv.org/abs/2607.26181",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24766v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26181v1 Announce Type: new \nAbstract: Functional verification dominates integrated circuit (IC) front-end engineering effort, and a single missed bug that escapes to ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PATHFinder Agent for Tailored Prenatal Care",
-      "url": "https://arxiv.org/abs/2607.24768",
+      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+      "url": "https://arxiv.org/abs/2607.26191",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of ...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26191v1 Announce Type: new \nAbstract: Evaluation methodologies for language models increasingly combine multiple signals, from automated metrics and LLM-as-judge rati...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
-      "url": "https://arxiv.org/abs/2607.24769",
+      "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
+      "url": "https://arxiv.org/abs/2607.26307",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. W...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26307v1 Announce Type: new \nAbstract: Contemporary LLM-based coding agents produce code as black-box outputs: the rationale behind each line is hidden, the evolution ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
-      "url": "https://arxiv.org/abs/2607.24770",
+      "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+      "url": "https://arxiv.org/abs/2607.26367",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret in...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26367v1 Announce Type: new \nAbstract: An important skill in theoretical physics is to recognize when a new problem can be transformed into a known model. We study thi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
-      "url": "https://arxiv.org/abs/2607.24771",
+      "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+      "url": "https://arxiv.org/abs/2607.26393",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24771v1 Announce Type: new \nAbstract: Knowledge injection updates pretrained MLLMs with new factual or domain-specific knowledge, but fitting full authoritative answe...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26393v1 Announce Type: new \nAbstract: Social deduction games (SDGs) such as Werewolf have become challenging testbeds for AI agents. These games require complex socia...",
       "tag": "RESEARCH"
     },
     {
-      "title": "RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation",
-      "url": "https://arxiv.org/abs/2607.24772",
+      "title": "CG-World: A Large-Scale World-State Dataset and Protocol for World Models",
+      "url": "https://arxiv.org/abs/2607.26452",
       "source": "arXiv cs.AI",
-      "published_at": "2026-07-30T04:00:00Z",
-      "short_summary": "arXiv:2607.24772v1 Announce Type: new \nAbstract: Geoscience research requires complex analysis and domain expertise, with remote sensing (RS) observations as a key foundation. H...",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26452v1 Announce Type: new \nAbstract: World models must learn the joint dynamics of states, actions, events, and observations, yet existing video, robotics, and simul...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "MultivationBench: A Benchmark for Multimodal Sequential Motivation Reasoning",
+      "url": "https://arxiv.org/abs/2607.26465",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-07-31T04:00:00Z",
+      "short_summary": "arXiv:2607.26465v1 Announce Type: new \nAbstract: Multimodal Large Language Models have sparked significant interest due to their potential for social intelligence; however, thei...",
       "tag": "RESEARCH"
     }
   ]
