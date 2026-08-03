@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-03T03:16:59.116584Z",
+  "last_updated": "2026-08-03T14:44:26.984731Z",
   "items": [
     {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-30T15:09:09Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-28T16:27:42Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T16:00:00Z",
-      "short_summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "tag": "NEWS"
+      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and v...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-28T15:01:45Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "url": "https://arxiv.org/abs/2607.28642",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28642v1 Announce Type: new \nAbstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, contex...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "short_summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "tag": "NEWS"
+      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "short_summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "tag": "NEWS"
+      "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+      "url": "https://arxiv.org/abs/2607.28659",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28659v1 Announce Type: new \nAbstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across m...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-27T09:32:20Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+      "url": "https://arxiv.org/abs/2607.28662",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28662v1 Announce Type: new \nAbstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabular...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-27T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+      "url": "https://arxiv.org/abs/2607.28674",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28674v1 Announce Type: new \nAbstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open cha...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2607.28677",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developme...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-22T13:00:00Z",
-      "short_summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "tag": "NEWS"
+      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+      "url": "https://arxiv.org/abs/2607.28678",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28678v1 Announce Type: new \nAbstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-21T00:00:00Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO",
+      "url": "https://arxiv.org/abs/2607.28679",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28679v1 Announce Type: new \nAbstract: Multi-agent planning problems arise in a variety of engineering applications, such as multi-robot wildfire fighting and unmanned...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-16T16:00:00Z",
-      "short_summary": "Connected apps rendering",
-      "tag": "NEWS"
+      "title": "Library Reachability in LSR-Synth: How Anti-Memorization Design Changes the Measurement of Symbolic Discovery",
+      "url": "https://arxiv.org/abs/2607.28684",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-03T04:00:00Z",
+      "short_summary": "arXiv:2607.28684v1 Announce Type: new \nAbstract: Existing benchmarks for scientific equation discovery are largely composed of well-known equations available in the public domai...",
+      "tag": "RESEARCH"
     }
   ]
 };
