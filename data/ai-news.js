@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-02T13:26:30.734546Z",
+  "last_updated": "2026-08-03T03:16:59.116584Z",
   "items": [
     {
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
