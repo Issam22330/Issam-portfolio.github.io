@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-03T14:44:26.984731Z",
+  "last_updated": "2026-08-04T02:45:47.954587Z",
   "items": [
     {
       "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
