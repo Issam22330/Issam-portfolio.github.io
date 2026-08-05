@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-05T02:43:33.658399Z",
+  "last_updated": "2026-08-05T14:14:10.085675Z",
   "items": [
     {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-04T13:58:29Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-04T13:00:00Z",
-      "short_summary": "July AI recap header",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "url": "https://arxiv.org/abs/2607.28629",
+      "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+      "url": "https://arxiv.org/abs/2608.02604",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps ...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
-      "url": "https://arxiv.org/abs/2607.28631",
+      "title": "Self-Organising Digital Circuits",
+      "url": "https://arxiv.org/abs/2608.02606",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02606v1 Announce Type: new \nAbstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcti...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-      "url": "https://arxiv.org/abs/2607.28632",
+      "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+      "url": "https://arxiv.org/abs/2608.02618",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and v...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02618v1 Announce Type: new \nAbstract: Recent studies have identified an ``Artificial Hivemind'' effect in Large Language Models (LLMs) causing models to converge on a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
-      "url": "https://arxiv.org/abs/2607.28642",
+      "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+      "url": "https://arxiv.org/abs/2608.02630",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28642v1 Announce Type: new \nAbstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, contex...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02630v1 Announce Type: new \nAbstract: Knowledge graph engineering often distributes accepted state, observations, constraints, processes, and hypothetical scenarios a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-      "url": "https://arxiv.org/abs/2607.28657",
+      "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+      "url": "https://arxiv.org/abs/2608.02650",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for ...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02650v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on external tools to complete complex real-world tasks. However, reliable to...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
-      "url": "https://arxiv.org/abs/2607.28659",
+      "title": "Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap",
+      "url": "https://arxiv.org/abs/2608.02699",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28659v1 Announce Type: new \nAbstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across m...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02699v1 Announce Type: new \nAbstract: When algorithms make or influence consequential decisions---about loan eligibility, hiring, or healthcare---EU law grants affect...",
       "tag": "RESEARCH"
     },
     {
-      "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
-      "url": "https://arxiv.org/abs/2607.28662",
+      "title": "Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms",
+      "url": "https://arxiv.org/abs/2608.02704",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28662v1 Announce Type: new \nAbstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabular...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02704v1 Announce Type: new \nAbstract: Predictive processing theories portray the brain as a hierarchical prediction engine that minimizes prediction error, yet they l...",
       "tag": "RESEARCH"
     },
     {
-      "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
-      "url": "https://arxiv.org/abs/2607.28674",
+      "title": "Towards a new paradigm of scientific discovery with socialized artificial intelligence",
+      "url": "https://arxiv.org/abs/2608.02775",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28674v1 Announce Type: new \nAbstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open cha...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02775v1 Announce Type: new \nAbstract: Scientific discovery has advanced through successive transformations in the organization of knowledge. Observation and experimen...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
-      "url": "https://arxiv.org/abs/2607.28677",
+      "title": "BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL",
+      "url": "https://arxiv.org/abs/2608.02876",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developme...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02876v1 Announce Type: new \nAbstract: Tool-using agents do not merely consume observations: their actions determine what arrives next. In agentic text-to-SQL, a broad...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
-      "url": "https://arxiv.org/abs/2607.28678",
+      "title": "VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space",
+      "url": "https://arxiv.org/abs/2608.02878",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-04T04:00:00Z",
-      "short_summary": "arXiv:2607.28678v1 Announce Type: new \nAbstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity...",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02878v1 Announce Type: new \nAbstract: Large language models have shown promise for automated Verilog RTL generation, yet state-of-the-art multi-agent systems plateau ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes",
+      "url": "https://arxiv.org/abs/2608.02879",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02879v1 Announce Type: new \nAbstract: The widespread adoption of proprietary Large Language Models (LLMs) accessed strictly through closed APIs has created a critical...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Hypercubes, Hyperplanes, and Constraint-Induced Complexity Collapse in Atomic Concept Learning",
+      "url": "https://arxiv.org/abs/2608.02930",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-05T04:00:00Z",
+      "short_summary": "arXiv:2608.02930v1 Announce Type: new \nAbstract: We revisit higher-arity atomic concept learning through the geometry of hypercubes and hyperplanes of ground instances. Our star...",
       "tag": "RESEARCH"
     }
   ]
