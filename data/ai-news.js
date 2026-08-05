@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-04T14:21:11.944234Z",
+  "last_updated": "2026-08-05T02:43:33.658399Z",
   "items": [
     {
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
