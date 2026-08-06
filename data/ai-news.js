@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-05T14:14:10.085675Z",
+  "last_updated": "2026-08-06T02:46:23.554576Z",
   "items": [
     {
       "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
