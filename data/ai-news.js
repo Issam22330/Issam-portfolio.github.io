@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-06T14:17:25.913323Z",
+  "last_updated": "2026-08-07T02:46:51.852202Z",
   "items": [
     {
       "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
