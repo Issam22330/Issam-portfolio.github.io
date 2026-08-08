@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-07T13:08:55.442451Z",
+  "last_updated": "2026-08-08T01:48:06.055927Z",
   "items": [
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-07T17:53:32Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
       "url": "https://arxiv.org/abs/2608.05159",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-07T04:00:00Z",
       "short_summary": "arXiv:2608.05224v1 Announce Type: new \nAbstract: Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Project2Task: Graph-Guided Project-Level Planning for Autonomous Research",
-      "url": "https://arxiv.org/abs/2608.05225",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05225v1 Announce Type: new \nAbstract: Research agents can increasingly search literature, propose hypotheses, generate code, run experiments, and draft manuscripts fr...",
       "tag": "RESEARCH"
     }
   ]
