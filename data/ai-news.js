@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-08T01:48:06.055927Z",
+  "last_updated": "2026-08-08T12:53:07.534401Z",
   "items": [
     {
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -10,92 +10,92 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-      "url": "https://arxiv.org/abs/2608.05159",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05159v1 Announce Type: new \nAbstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also resul...",
-      "tag": "RESEARCH"
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-06T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-      "url": "https://arxiv.org/abs/2608.05160",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05160v1 Announce Type: new \nAbstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ...",
-      "tag": "RESEARCH"
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-04T13:58:29Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-      "url": "https://arxiv.org/abs/2608.05168",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05168v1 Announce Type: new \nAbstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such fai...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-04T13:00:00Z",
+      "short_summary": "July AI recap header",
+      "tag": "BREAKING"
     },
     {
-      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-      "url": "https://arxiv.org/abs/2608.05203",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05203v1 Announce Type: new \nAbstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical...",
-      "tag": "RESEARCH"
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-03T15:00:00Z",
+      "short_summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
+      "tag": "NEWS"
     },
     {
-      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-      "url": "https://arxiv.org/abs/2608.05204",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05204v1 Announce Type: new \nAbstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructi...",
-      "tag": "RESEARCH"
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-30T15:09:09Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Abstract Event Causal Rules: Induction and Application",
-      "url": "https://arxiv.org/abs/2608.05205",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05205v1 Announce Type: new \nAbstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-...",
-      "tag": "RESEARCH"
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-28T16:00:00Z",
+      "short_summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+      "tag": "NEWS"
     },
     {
-      "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-      "url": "https://arxiv.org/abs/2608.05206",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05206v1 Announce Type: new \nAbstract: Otter is a 15.3M-parameter human chess AI that predicts human move selection by modeling play as a time-aware, sequential proces...",
-      "tag": "RESEARCH"
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-28T13:00:00Z",
+      "short_summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
+      "tag": "NEWS"
     },
     {
-      "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-      "url": "https://arxiv.org/abs/2608.05212",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05212v1 Announce Type: new \nAbstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragil...",
-      "tag": "RESEARCH"
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-28T13:00:00Z",
+      "short_summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
+      "tag": "NEWS"
     },
     {
-      "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
-      "url": "https://arxiv.org/abs/2608.05218",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05218v1 Announce Type: new \nAbstract: 3D Gaussian Splatting (3DGS) enables fast, photorealistic talking-head rendering, yet accurate lip articulation remains elusive:...",
-      "tag": "RESEARCH"
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-27T09:32:20Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
     },
     {
-      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
-      "url": "https://arxiv.org/abs/2608.05219",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05219v1 Announce Type: new \nAbstract: Privileged on-policy distillation provides dense supervision for multi-turn agents by allowing a synchronized teacher to re-scor...",
-      "tag": "RESEARCH"
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-27T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Small Foundation Models of Human Cognition and Behaviour",
-      "url": "https://arxiv.org/abs/2608.05224",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-07T04:00:00Z",
-      "short_summary": "arXiv:2608.05224v1 Announce Type: new \nAbstract: Large language models fine-tuned on human behavioural data have emerged as general-purpose cognitive proxies, but the scale this...",
-      "tag": "RESEARCH"
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-07-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
