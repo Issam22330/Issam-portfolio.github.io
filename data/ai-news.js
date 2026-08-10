@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-09T12:55:37.105851Z",
+  "last_updated": "2026-08-10T02:00:06.912125Z",
   "items": [
     {
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
