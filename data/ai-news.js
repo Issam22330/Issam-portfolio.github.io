@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-10T02:00:06.912125Z",
+  "last_updated": "2026-08-10T13:13:37.749063Z",
   "items": [
     {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "source": "Hugging Face Blog",
-      "published_at": "2026-08-07T17:53:32Z",
+      "published_at": "2026-08-10T10:05:36Z",
       "short_summary": "",
       "tag": "NEWS"
     },
     {
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-06T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+      "url": "https://arxiv.org/abs/2608.06394",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics s...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-04T13:58:29Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+      "url": "https://arxiv.org/abs/2608.06398",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06398v1 Announce Type: new \nAbstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-04T13:00:00Z",
-      "short_summary": "July AI recap header",
-      "tag": "BREAKING"
+      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+      "url": "https://arxiv.org/abs/2608.06400",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06400v1 Announce Type: new \nAbstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging....",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-03T15:00:00Z",
-      "short_summary": "Illustrations of a laptop, an AI spark, messages, code, and a 3-D cube",
-      "tag": "NEWS"
+      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+      "url": "https://arxiv.org/abs/2608.06402",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar beha...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-30T15:09:09Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+      "url": "https://arxiv.org/abs/2608.06410",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06410v1 Announce Type: new \nAbstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing met...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T16:00:00Z",
-      "short_summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
-      "tag": "NEWS"
+      "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
+      "url": "https://arxiv.org/abs/2608.06411",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06411v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency i...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "short_summary": "Illustration of a black magnifying glass in a white circle on green grass surrounded by items related to fun activities like tennis and games",
-      "tag": "NEWS"
+      "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
+      "url": "https://arxiv.org/abs/2608.06474",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06474v1 Announce Type: new \nAbstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-28T13:00:00Z",
-      "short_summary": "An illustrated black magnifying glass with a sparkle in a white circle surrounded by a dinner party tablescape",
-      "tag": "NEWS"
+      "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
+      "url": "https://arxiv.org/abs/2608.06501",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06501v1 Announce Type: new \nAbstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-27T09:32:20Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
+      "url": "https://arxiv.org/abs/2608.06530",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06530v1 Announce Type: new \nAbstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must fir...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-27T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "TaskSense: Focusing on What Matters in World Models",
+      "url": "https://arxiv.org/abs/2608.06544",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06544v1 Announce Type: new \nAbstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging rep...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-07-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
+      "url": "https://arxiv.org/abs/2608.06578",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-10T04:00:00Z",
+      "short_summary": "arXiv:2608.06578v1 Announce Type: new \nAbstract: Frontier language models are trained using distinct data, objectives, and safety pipelines. Whether these differences produce me...",
+      "tag": "RESEARCH"
     }
   ]
 };
