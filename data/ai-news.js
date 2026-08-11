@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-10T13:13:37.749063Z",
+  "last_updated": "2026-08-11T01:55:04.512156Z",
   "items": [
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-10T16:25:36Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-10T14:30:00Z",
+      "short_summary": "Advisor UI in Google Ads and Google Analytics",
+      "tag": "NEWS"
+    },
     {
       "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-10T04:00:00Z",
       "short_summary": "arXiv:2608.06530v1 Announce Type: new \nAbstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must fir...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "TaskSense: Focusing on What Matters in World Models",
-      "url": "https://arxiv.org/abs/2608.06544",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06544v1 Announce Type: new \nAbstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging rep...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Divergent Response Modes in Frontier Language Models Under Steering Pressure",
-      "url": "https://arxiv.org/abs/2608.06578",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06578v1 Announce Type: new \nAbstract: Frontier language models are trained using distinct data, objectives, and safety pipelines. Whether these differences produce me...",
       "tag": "RESEARCH"
     }
   ]
