@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-11T01:55:04.512156Z",
+  "last_updated": "2026-08-11T13:10:29.822522Z",
   "items": [
     {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-10T16:25:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-10T14:30:00Z",
-      "short_summary": "Advisor UI in Google Ads and Google Analytics",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-10T10:05:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
-      "url": "https://arxiv.org/abs/2608.06394",
+      "title": "Towards an Argumentative Foundation for Evaluative AI",
+      "url": "https://arxiv.org/abs/2608.07473",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics s...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07473v1 Announce Type: new \nAbstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendati...",
       "tag": "RESEARCH"
     },
     {
-      "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
-      "url": "https://arxiv.org/abs/2608.06398",
+      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+      "url": "https://arxiv.org/abs/2608.07474",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06398v1 Announce Type: new \nAbstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07474v1 Announce Type: new \nAbstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
-      "url": "https://arxiv.org/abs/2608.06400",
+      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+      "url": "https://arxiv.org/abs/2608.07476",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06400v1 Announce Type: new \nAbstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging....",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07476v1 Announce Type: new \nAbstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
-      "url": "https://arxiv.org/abs/2608.06402",
+      "title": "Emotion in an active inference model of human driving",
+      "url": "https://arxiv.org/abs/2608.07480",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06402v1 Announce Type: new \nAbstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar beha...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07480v1 Announce Type: new \nAbstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with unc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
-      "url": "https://arxiv.org/abs/2608.06410",
+      "title": "Training Variable Long Sequences with Data-Centric Parallel",
+      "url": "https://arxiv.org/abs/2608.07524",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06410v1 Announce Type: new \nAbstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing met...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07524v1 Announce Type: new \nAbstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a di...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
-      "url": "https://arxiv.org/abs/2608.06411",
+      "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
+      "url": "https://arxiv.org/abs/2608.07528",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06411v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency i...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07528v1 Announce Type: new \nAbstract: Linear probes detect corrupted context in language models with near-perfect accuracy, yet this does not translate into reliable ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "WebGrader: Training LLMs for Web Development with Self-Evolving Programmatic Grader",
-      "url": "https://arxiv.org/abs/2608.06474",
+      "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
+      "url": "https://arxiv.org/abs/2608.07530",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06474v1 Announce Type: new \nAbstract: Large language models increasingly generate complete websites from natural-language descriptions, and reinforcement learning has...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07530v1 Announce Type: new \nAbstract: SHACL is a core technology for validating the conformance of RDF knowledge graphs (KGs). Yet, authoring SHACL shapes requires te...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding",
-      "url": "https://arxiv.org/abs/2608.06501",
+      "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2608.07532",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06501v1 Announce Type: new \nAbstract: Creative capabilities of MLLMs matter in design, communication, education, and human--AI collaboration, yet remain difficult to ...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07532v1 Announce Type: new \nAbstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning",
-      "url": "https://arxiv.org/abs/2608.06530",
+      "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
+      "url": "https://arxiv.org/abs/2608.07533",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-10T04:00:00Z",
-      "short_summary": "arXiv:2608.06530v1 Announce Type: new \nAbstract: Planning a degree from official university sources requires solving two problems in order. The institution's curriculum must fir...",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07533v1 Announce Type: new \nAbstract: An embodied agent is an intelligent entity that interacts with its environment through a physical body. Currently, the evaluatio...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
+      "url": "https://arxiv.org/abs/2608.07538",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07538v1 Announce Type: new \nAbstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create valu...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
+      "url": "https://arxiv.org/abs/2608.07540",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07540v1 Announce Type: new \nAbstract: AI systems increasingly operate between flexible input representations and formal objects used by downstream tools. A key challe...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
+      "url": "https://arxiv.org/abs/2608.07542",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-11T04:00:00Z",
+      "short_summary": "arXiv:2608.07542v1 Announce Type: new \nAbstract: Autonomous research loops driven by large language models can run machine-learning experiments at scale but tend to drift toward...",
       "tag": "RESEARCH"
     }
   ]
