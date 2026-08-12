@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-11T13:10:29.822522Z",
+  "last_updated": "2026-08-12T02:07:59.886553Z",
   "items": [
+    {
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-11T17:00:00Z",
+      "short_summary": "AMIE promotional video",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-11T13:37:10Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Towards an Argumentative Foundation for Evaluative AI",
       "url": "https://arxiv.org/abs/2608.07473",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-11T04:00:00Z",
       "short_summary": "arXiv:2608.07538v1 Announce Type: new \nAbstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create valu...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "TREAT: Evaluating Access to Formal Knowledge across Equivalent Mathematical Representations",
-      "url": "https://arxiv.org/abs/2608.07540",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07540v1 Announce Type: new \nAbstract: AI systems increasingly operate between flexible input representations and formal objects used by downstream tools. A key challe...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "An AI Scientist that Doesn't Drift: Taste, Structure, and Falsifiable Findings in a Quadruped Navigation Research Loop",
-      "url": "https://arxiv.org/abs/2608.07542",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07542v1 Announce Type: new \nAbstract: Autonomous research loops driven by large language models can run machine-learning experiments at scale but tend to drift toward...",
       "tag": "RESEARCH"
     }
   ]
