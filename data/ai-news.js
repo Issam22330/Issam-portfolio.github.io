@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-12T02:07:59.886553Z",
+  "last_updated": "2026-08-12T13:14:32.950340Z",
   "items": [
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-11T17:00:00Z",
-      "short_summary": "AMIE promotional video",
+      "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-11T13:37:10Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "url": "https://arxiv.org/abs/2608.07473",
+      "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.09967",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07473v1 Announce Type: new \nAbstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendati...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.09967v1 Announce Type: new \nAbstract: Deep reinforcement learning (DRL) agents achieve strong performance in complex environments, yet their decision-making processes...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "url": "https://arxiv.org/abs/2608.07474",
+      "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "url": "https://arxiv.org/abs/2608.09986",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07474v1 Announce Type: new \nAbstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.09986v1 Announce Type: new \nAbstract: Most existing multimodal sentiment analysis approaches assume access to complete multimodal inputs. However, real-world applicat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "url": "https://arxiv.org/abs/2608.07476",
+      "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "url": "https://arxiv.org/abs/2608.09998",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07476v1 Announce Type: new \nAbstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.09998v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) and Machine Learning (ML) have become powerful tools for supporting and automating complex human ta...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Emotion in an active inference model of human driving",
-      "url": "https://arxiv.org/abs/2608.07480",
+      "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+      "url": "https://arxiv.org/abs/2608.10004",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07480v1 Announce Type: new \nAbstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with unc...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10004v1 Announce Type: new \nAbstract: Concept Bottleneck Models (CBMs) provide an interpretable framework by grounding predictions in human-understandable concepts, e...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "url": "https://arxiv.org/abs/2608.07524",
+      "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
+      "url": "https://arxiv.org/abs/2608.10030",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07524v1 Announce Type: new \nAbstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a di...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10030v1 Announce Type: new \nAbstract: As AI agents are increasingly deployed in complex environments, understanding their behaviors becomes critical. Yet behavioral s...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-      "url": "https://arxiv.org/abs/2608.07528",
+      "title": "CHORUS: Complementary Experts for High-Coverage Testbench Stimulus Generation",
+      "url": "https://arxiv.org/abs/2608.10090",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07528v1 Announce Type: new \nAbstract: Linear probes detect corrupted context in language models with near-perfect accuracy, yet this does not translate into reliable ...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10090v1 Announce Type: new \nAbstract: Large language models (LLMs) have advanced code generation, where executable feedback provides a more reliable learning signal t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
-      "url": "https://arxiv.org/abs/2608.07530",
+      "title": "MESA:Task-Adaptive Multi-Structure Evidence Selection for Long-Horizon Agent Memory",
+      "url": "https://arxiv.org/abs/2608.10108",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07530v1 Announce Type: new \nAbstract: SHACL is a core technology for validating the conformance of RDF knowledge graphs (KGs). Yet, authoring SHACL shapes requires te...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10108v1 Announce Type: new \nAbstract: Long-horizon agents accumulate trajectories spanning hundreds of interleaved reasoning, action, and observation steps, where ans...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2608.07532",
+      "title": "The CASE Framework: A Multi-Disciplinary Control Architecture for Governing Enterprise Agentic AI",
+      "url": "https://arxiv.org/abs/2608.10153",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07532v1 Announce Type: new \nAbstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either ...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10153v1 Announce Type: new \nAbstract: Enterprises are deploying autonomous AI agents faster than they can govern them, and prevailing approaches stretch a single disc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents",
-      "url": "https://arxiv.org/abs/2608.07533",
+      "title": "SBCO: Self-Supervised, Verifier-Grounded Harness Optimization For Planning Agents",
+      "url": "https://arxiv.org/abs/2608.10157",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07533v1 Announce Type: new \nAbstract: An embodied agent is an intelligent entity that interacts with its environment through a physical body. Currently, the evaluatio...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10157v1 Announce Type: new \nAbstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When LLM Agents Negotiate: Private Information and Dynamic Bargaining in Supply Chains",
-      "url": "https://arxiv.org/abs/2608.07538",
+      "title": "Generating Attacks for LLMs with GFlowNets",
+      "url": "https://arxiv.org/abs/2608.10171",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-11T04:00:00Z",
-      "short_summary": "arXiv:2608.07538v1 Announce Type: new \nAbstract: As LLM agents move from decision support to autonomous procurement, firms need to know whether delegated negotiators create valu...",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10171v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
+      "url": "https://arxiv.org/abs/2608.10176",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-12T04:00:00Z",
+      "short_summary": "arXiv:2608.10176v1 Announce Type: new \nAbstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making s...",
       "tag": "RESEARCH"
     }
   ]
