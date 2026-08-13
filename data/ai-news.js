@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-12T13:14:32.950340Z",
+  "last_updated": "2026-08-13T02:09:48.959858Z",
   "items": [
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-12T16:14:36Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-12T14:00:51Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
       "url": "https://arxiv.org/abs/2608.09949",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-12T04:00:00Z",
       "short_summary": "arXiv:2608.10157v1 Announce Type: new \nAbstract: Self-improving agents seek to reduce the human engineering effort behind AI systems by enabling them to evolve and self-improve ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Generating Attacks for LLMs with GFlowNets",
-      "url": "https://arxiv.org/abs/2608.10171",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-12T04:00:00Z",
-      "short_summary": "arXiv:2608.10171v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has facilitated their ubiquitous integration into various domains, leading...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "TRACE: Trustworthy Retrieval-Augmented Conversational Engine",
-      "url": "https://arxiv.org/abs/2608.10176",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-12T04:00:00Z",
-      "short_summary": "arXiv:2608.10176v1 Announce Type: new \nAbstract: Public service chatbots are expected to deliver recommendations from an underlying public service directory, while also making s...",
       "tag": "RESEARCH"
     }
   ]
