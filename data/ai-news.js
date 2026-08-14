@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-13T13:16:56.802407Z",
+  "last_updated": "2026-08-14T02:08:10.109931Z",
   "items": [
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-13T17:16:04Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
+    {
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-13T16:45:00Z",
+      "short_summary": "The video shows Sheets canvas in action.",
+      "tag": "NEWS"
+    },
     {
       "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
       "url": "https://arxiv.org/abs/2608.11207",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-13T04:00:00Z",
       "short_summary": "arXiv:2608.11221v1 Announce Type: new \nAbstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific d...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
-      "url": "https://arxiv.org/abs/2608.11224",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11224v1 Announce Type: new \nAbstract: Materials research advances through accumulated experience - scripts that work, protocols that are trusted, warnings attached to...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
-      "url": "https://arxiv.org/abs/2608.11225",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11225v1 Announce Type: new \nAbstract: AI \"personality clones\" force a re-examination of personal identity in operational terms. Setting aside the hard problem of cons...",
       "tag": "RESEARCH"
     }
   ]
