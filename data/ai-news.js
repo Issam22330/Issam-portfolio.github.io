@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-14T02:08:10.109931Z",
+  "last_updated": "2026-08-14T13:11:32.681979Z",
   "items": [
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-13T17:16:04Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-13T16:45:00Z",
-      "short_summary": "The video shows Sheets canvas in action.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "url": "https://arxiv.org/abs/2608.11207",
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "url": "https://arxiv.org/abs/2608.12325",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11207v1 Announce Type: new \nAbstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function p...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "url": "https://arxiv.org/abs/2608.11210",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "url": "https://arxiv.org/abs/2608.12345",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11210v1 Announce Type: new \nAbstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodol...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional p...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "url": "https://arxiv.org/abs/2608.11211",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "url": "https://arxiv.org/abs/2608.12346",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11211v1 Announce Type: new \nAbstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a sy...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use techn...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2608.11212",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "url": "https://arxiv.org/abs/2608.12368",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11212v1 Announce Type: new \nAbstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-c...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "url": "https://arxiv.org/abs/2608.11215",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "url": "https://arxiv.org/abs/2608.12371",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11215v1 Announce Type: new \nAbstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usu...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatilit...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "url": "https://arxiv.org/abs/2608.11216",
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "url": "https://arxiv.org/abs/2608.12372",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11216v1 Announce Type: new \nAbstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, an...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper ar...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
-      "url": "https://arxiv.org/abs/2608.11218",
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "url": "https://arxiv.org/abs/2608.12373",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11218v1 Announce Type: new \nAbstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluate...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-      "url": "https://arxiv.org/abs/2608.11219",
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "url": "https://arxiv.org/abs/2608.12385",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11219v1 Announce Type: new \nAbstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12385v1 Announce Type: new \nAbstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-      "url": "https://arxiv.org/abs/2608.11220",
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "url": "https://arxiv.org/abs/2608.12389",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11220v1 Announce Type: new \nAbstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagr...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12389v1 Announce Type: new \nAbstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
-      "url": "https://arxiv.org/abs/2608.11221",
+      "title": "Research Assistant: AstraZeneca's Agentic System for RD",
+      "url": "https://arxiv.org/abs/2608.12395",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-13T04:00:00Z",
-      "short_summary": "arXiv:2608.11221v1 Announce Type: new \nAbstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific d...",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12395v1 Announce Type: new \nAbstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "url": "https://arxiv.org/abs/2608.12426",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12426v1 Announce Type: new \nAbstract: Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+      "url": "https://arxiv.org/abs/2608.12428",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-14T04:00:00Z",
+      "short_summary": "arXiv:2608.12428v1 Announce Type: new \nAbstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-t...",
       "tag": "RESEARCH"
     }
   ]
