@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-15T12:41:13.224913Z",
+  "last_updated": "2026-08-16T01:26:39.022251Z",
   "items": [
     {
       "title": "Position: Reasoning is a Learnable Rule-Based Process",
