@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-16T12:42:43.587097Z",
+  "last_updated": "2026-08-17T01:23:56.774622Z",
   "items": [
     {
       "title": "State of Open Models: Summer 2026 Observations",
