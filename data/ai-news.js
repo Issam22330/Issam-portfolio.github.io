@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-17T01:23:56.774622Z",
+  "last_updated": "2026-08-17T12:48:40.007234Z",
   "items": [
     {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-14T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-13T17:16:04Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "source": "Google AI Blog",
-      "published_at": "2026-08-13T16:45:00Z",
-      "short_summary": "The video shows Sheets canvas in action.",
+      "published_at": "2026-08-17T08:00:00Z",
+      "short_summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
       "tag": "NEWS"
     },
     {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-13T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-12T16:14:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-12T14:00:51Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-11T17:00:00Z",
-      "short_summary": "AMIE promotional video",
+      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "url": "https://arxiv.org/abs/2608.13564",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13564v1 Announce Type: new \nAbstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-11T13:37:10Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13565v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through spar...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-10T16:25:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reas...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-10T14:30:00Z",
-      "short_summary": "Advisor UI in Google Ads and Google Analytics",
-      "tag": "NEWS"
+      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13573v1 Announce Type: new \nAbstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and b...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-10T10:05:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13574v1 Announce Type: new \nAbstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "BREAKING"
+      "title": "AI Evaluation Should Work With Humans",
+      "url": "https://arxiv.org/abs/2608.13577",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13577v1 Announce Type: new \nAbstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and s...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "url": "https://arxiv.org/abs/2608.13591",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13591v1 Announce Type: new \nAbstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a differen...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+      "url": "https://arxiv.org/abs/2608.13598",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13598v1 Announce Type: new \nAbstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "url": "https://arxiv.org/abs/2608.13604",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13604v1 Announce Type: new \nAbstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person inter...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Active Perception for Embodied Disambiguation",
+      "url": "https://arxiv.org/abs/2608.13605",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13605v1 Announce Type: new \nAbstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only f...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "MobileMem: Learning from a Year of Mobile Experiences",
+      "url": "https://arxiv.org/abs/2608.13606",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-17T04:00:00Z",
+      "short_summary": "arXiv:2608.13606v1 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal...",
+      "tag": "RESEARCH"
     }
   ]
 };
