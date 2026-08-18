@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-18T01:20:48.265783Z",
+  "last_updated": "2026-08-18T12:50:32.136243Z",
   "items": [
     {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-17T19:46:21Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-17T08:00:00Z",
-      "short_summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
-      "url": "https://arxiv.org/abs/2608.13564",
+      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+      "url": "https://arxiv.org/abs/2608.14550",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13564v1 Announce Type: new \nAbstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14550v1 Announce Type: new \nAbstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, an...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
-      "url": "https://arxiv.org/abs/2608.13565",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "url": "https://arxiv.org/abs/2608.14552",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13565v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through spar...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14552v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
-      "url": "https://arxiv.org/abs/2608.13567",
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "url": "https://arxiv.org/abs/2608.14558",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13567v1 Announce Type: new \nAbstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reas...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14558v1 Announce Type: new \nAbstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
-      "url": "https://arxiv.org/abs/2608.13573",
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "url": "https://arxiv.org/abs/2608.14559",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13573v1 Announce Type: new \nAbstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and b...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14559v1 Announce Type: new \nAbstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, b...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2608.13574",
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "url": "https://arxiv.org/abs/2608.14562",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13574v1 Announce Type: new \nAbstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact ...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14562v1 Announce Type: new \nAbstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Evaluation Should Work With Humans",
-      "url": "https://arxiv.org/abs/2608.13577",
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "url": "https://arxiv.org/abs/2608.14565",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13577v1 Announce Type: new \nAbstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and s...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14565v1 Announce Type: new \nAbstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
-      "url": "https://arxiv.org/abs/2608.13591",
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+      "url": "https://arxiv.org/abs/2608.14566",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13591v1 Announce Type: new \nAbstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a differen...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14566v1 Announce Type: new \nAbstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral v...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-      "url": "https://arxiv.org/abs/2608.13598",
+      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+      "url": "https://arxiv.org/abs/2608.14567",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13598v1 Announce Type: new \nAbstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14567v1 Announce Type: new \nAbstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
-      "url": "https://arxiv.org/abs/2608.13604",
+      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+      "url": "https://arxiv.org/abs/2608.14568",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13604v1 Announce Type: new \nAbstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person inter...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14568v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust gov...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Active Perception for Embodied Disambiguation",
-      "url": "https://arxiv.org/abs/2608.13605",
+      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+      "url": "https://arxiv.org/abs/2608.14569",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13605v1 Announce Type: new \nAbstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only f...",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14569v1 Announce Type: new \nAbstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fu...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+      "url": "https://arxiv.org/abs/2608.14571",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14571v1 Announce Type: new \nAbstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and witho...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+      "url": "https://arxiv.org/abs/2608.14578",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-18T04:00:00Z",
+      "short_summary": "arXiv:2608.14578v1 Announce Type: new \nAbstract: Early identification of adolescent substance-use risk is an important prevention challenge, yet the relative value of baseline c...",
       "tag": "RESEARCH"
     }
   ]
