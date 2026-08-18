@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-17T12:48:40.007234Z",
+  "last_updated": "2026-08-18T01:20:48.265783Z",
   "items": [
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-17T19:46:21Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Get closer to the game with Gemini and Pixel",
       "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-17T04:00:00Z",
       "short_summary": "arXiv:2608.13605v1 Announce Type: new \nAbstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only f...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "MobileMem: Learning from a Year of Mobile Experiences",
-      "url": "https://arxiv.org/abs/2608.13606",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-17T04:00:00Z",
-      "short_summary": "arXiv:2608.13606v1 Announce Type: new \nAbstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal...",
       "tag": "RESEARCH"
     }
   ]
