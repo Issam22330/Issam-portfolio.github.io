@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-19T01:22:15.498109Z",
+  "last_updated": "2026-08-19T12:51:34.013139Z",
   "items": [
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-18T18:09:38Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
-      "url": "https://arxiv.org/abs/2608.14550",
+      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "url": "https://arxiv.org/abs/2608.16890",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14550v1 Announce Type: new \nAbstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, an...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
-      "url": "https://arxiv.org/abs/2608.14552",
+      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "url": "https://arxiv.org/abs/2608.16891",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14552v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
-      "url": "https://arxiv.org/abs/2608.14558",
+      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "url": "https://arxiv.org/abs/2608.16956",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14558v1 Announce Type: new \nAbstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, t...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-ef...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
-      "url": "https://arxiv.org/abs/2608.14559",
+      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "url": "https://arxiv.org/abs/2608.16971",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14559v1 Announce Type: new \nAbstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, b...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
-      "url": "https://arxiv.org/abs/2608.14562",
+      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2608.16977",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14562v1 Announce Type: new \nAbstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creat...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
-      "url": "https://arxiv.org/abs/2608.14565",
+      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+      "url": "https://arxiv.org/abs/2608.17007",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14565v1 Announce Type: new \nAbstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and ...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17007v1 Announce Type: new \nAbstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete prog...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
-      "url": "https://arxiv.org/abs/2608.14566",
+      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+      "url": "https://arxiv.org/abs/2608.17053",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14566v1 Announce Type: new \nAbstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral v...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17053v1 Announce Type: new \nAbstract: A bounded agent may obtain information for a decision from its own past, from peers, or from both sources. Retaining task-releva...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
-      "url": "https://arxiv.org/abs/2608.14567",
+      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+      "url": "https://arxiv.org/abs/2608.17067",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14567v1 Announce Type: new \nAbstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17067v1 Announce Type: new \nAbstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Wor...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
-      "url": "https://arxiv.org/abs/2608.14568",
+      "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+      "url": "https://arxiv.org/abs/2608.17071",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14568v1 Announce Type: new \nAbstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust gov...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17071v1 Announce Type: new \nAbstract: We present KernelArc, a multi-agent framework for autonomous GPU kernel optimization across heterogeneous workloads. Strategy-sp...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
-      "url": "https://arxiv.org/abs/2608.14569",
+      "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+      "url": "https://arxiv.org/abs/2608.17124",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14569v1 Announce Type: new \nAbstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fu...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17124v1 Announce Type: new \nAbstract: Combining the answers a large language model (LLM) samples for a question into one decision is a test-time information fusion pr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
-      "url": "https://arxiv.org/abs/2608.14571",
+      "title": "Toward Personal Intelligence Through Cooperative Observation",
+      "url": "https://arxiv.org/abs/2608.17128",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14571v1 Announce Type: new \nAbstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and witho...",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17128v1 Announce Type: new \nAbstract: A personal AI system needs a model of the user's goals, constraints, and ongoing commitments to plan and act on their behalf, an...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
+      "url": "https://arxiv.org/abs/2608.17150",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-19T04:00:00Z",
+      "short_summary": "arXiv:2608.17150v1 Announce Type: new \nAbstract: To effectively collaborate with users on knowledge-intensive tasks, Large Language Models (LLMs) must perform information calibr...",
       "tag": "RESEARCH"
     }
   ]
