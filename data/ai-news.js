@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-18T12:50:32.136243Z",
+  "last_updated": "2026-08-19T01:22:15.498109Z",
   "items": [
+    {
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-18T18:09:38Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
       "url": "https://arxiv.org/abs/2608.14550",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-18T04:00:00Z",
       "short_summary": "arXiv:2608.14571v1 Announce Type: new \nAbstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and witho...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
-      "url": "https://arxiv.org/abs/2608.14578",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-18T04:00:00Z",
-      "short_summary": "arXiv:2608.14578v1 Announce Type: new \nAbstract: Early identification of adolescent substance-use risk is an important prevention challenge, yet the relative value of baseline c...",
       "tag": "RESEARCH"
     }
   ]
