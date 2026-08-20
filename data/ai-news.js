@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-19T12:51:34.013139Z",
+  "last_updated": "2026-08-20T01:21:31.828576Z",
   "items": [
+    {
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-19T19:00:00Z",
+      "short_summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "tag": "NEWS"
+    },
+    {
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-19T13:48:49Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
       "url": "https://arxiv.org/abs/2608.16890",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-19T04:00:00Z",
       "short_summary": "arXiv:2608.17124v1 Announce Type: new \nAbstract: Combining the answers a large language model (LLM) samples for a question into one decision is a test-time information fusion pr...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Toward Personal Intelligence Through Cooperative Observation",
-      "url": "https://arxiv.org/abs/2608.17128",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17128v1 Announce Type: new \nAbstract: A personal AI system needs a model of the user's goals, constraints, and ongoing commitments to plan and act on their behalf, an...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
-      "url": "https://arxiv.org/abs/2608.17150",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17150v1 Announce Type: new \nAbstract: To effectively collaborate with users on knowledge-intensive tasks, Large Language Models (LLMs) must perform information calibr...",
       "tag": "RESEARCH"
     }
   ]
