@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-20T01:21:31.828576Z",
+  "last_updated": "2026-08-20T12:53:30.152838Z",
   "items": [
     {
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-19T19:00:00Z",
-      "short_summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "tag": "NEWS"
-    },
-    {
-      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-19T13:48:49Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-      "url": "https://arxiv.org/abs/2608.16890",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "url": "https://arxiv.org/abs/2608.18078",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive beha...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "url": "https://arxiv.org/abs/2608.16891",
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "url": "https://arxiv.org/abs/2608.18079",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18079v1 Announce Type: new \nAbstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how diffi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-      "url": "https://arxiv.org/abs/2608.16956",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "url": "https://arxiv.org/abs/2608.18080",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-ef...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18080v1 Announce Type: new \nAbstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical convers...",
       "tag": "RESEARCH"
     },
     {
-      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-      "url": "https://arxiv.org/abs/2608.16971",
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "url": "https://arxiv.org/abs/2608.18081",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a ...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18081v1 Announce Type: new \nAbstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "url": "https://arxiv.org/abs/2608.16977",
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "url": "https://arxiv.org/abs/2608.18086",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is ...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18086v1 Announce Type: new \nAbstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downst...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-      "url": "https://arxiv.org/abs/2608.17007",
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "url": "https://arxiv.org/abs/2608.18088",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17007v1 Announce Type: new \nAbstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete prog...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18088v1 Announce Type: new \nAbstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log cha...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
-      "url": "https://arxiv.org/abs/2608.17053",
+      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+      "url": "https://arxiv.org/abs/2608.18092",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17053v1 Announce Type: new \nAbstract: A bounded agent may obtain information for a decision from its own past, from peers, or from both sources. Retaining task-releva...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18092v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position p...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-      "url": "https://arxiv.org/abs/2608.17067",
+      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+      "url": "https://arxiv.org/abs/2608.18099",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17067v1 Announce Type: new \nAbstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Wor...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18099v1 Announce Type: new \nAbstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must r...",
       "tag": "RESEARCH"
     },
     {
-      "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
-      "url": "https://arxiv.org/abs/2608.17071",
+      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+      "url": "https://arxiv.org/abs/2608.18104",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17071v1 Announce Type: new \nAbstract: We present KernelArc, a multi-agent framework for autonomous GPU kernel optimization across heterogeneous workloads. Strategy-sp...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18104v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, mainta...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
-      "url": "https://arxiv.org/abs/2608.17124",
+      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+      "url": "https://arxiv.org/abs/2608.18110",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-19T04:00:00Z",
-      "short_summary": "arXiv:2608.17124v1 Announce Type: new \nAbstract: Combining the answers a large language model (LLM) samples for a question into one decision is a test-time information fusion pr...",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18110v1 Announce Type: new \nAbstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+      "url": "https://arxiv.org/abs/2608.18111",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18111v1 Announce Type: new \nAbstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geome...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+      "url": "https://arxiv.org/abs/2608.18117",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-20T04:00:00Z",
+      "short_summary": "arXiv:2608.18117v1 Announce Type: new \nAbstract: This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack indepe...",
       "tag": "RESEARCH"
     }
   ]
