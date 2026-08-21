@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-21T01:25:40.340700Z",
+  "last_updated": "2026-08-21T12:52:20.897624Z",
   "items": [
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-20T16:52:57Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "url": "https://arxiv.org/abs/2608.18078",
+      "title": "Active Inference as Context Acquisition for AI Agents",
+      "url": "https://arxiv.org/abs/2608.19202",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive beha...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19202v1 Announce Type: new \nAbstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, fil...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Profiling Game Worlds by Transition Complexity",
-      "url": "https://arxiv.org/abs/2608.18079",
+      "title": "Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review",
+      "url": "https://arxiv.org/abs/2608.19214",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18079v1 Announce Type: new \nAbstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how diffi...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19214v1 Announce Type: new \nAbstract: The berth allocation and quay crane assignment problem (BACAP) is a representative port-terminal scheduling problem in maritime ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "url": "https://arxiv.org/abs/2608.18080",
+      "title": "How to Navigate Uncertainty About AI Consciousness",
+      "url": "https://arxiv.org/abs/2608.19215",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18080v1 Announce Type: new \nAbstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical convers...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19215v1 Announce Type: new \nAbstract: Given deep uncertainty about the possibility of artificial consciousness, it is unclear how we should treat potentially sentient...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "url": "https://arxiv.org/abs/2608.18081",
+      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+      "url": "https://arxiv.org/abs/2608.19216",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18081v1 Announce Type: new \nAbstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, ...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19216v1 Announce Type: new \nAbstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that th...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "url": "https://arxiv.org/abs/2608.18086",
+      "title": "Interaction valence reveals contrasting social networks in dairy cattle",
+      "url": "https://arxiv.org/abs/2608.19222",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18086v1 Announce Type: new \nAbstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downst...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19222v1 Announce Type: new \nAbstract: Social relationships shape access to resources, exposure to conflict and group stability, yet automated livestock monitoring typ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
-      "url": "https://arxiv.org/abs/2608.18088",
+      "title": "Air Traffic Control Using Large Language Models: Prompt Engineering, Architecture, and Evaluation",
+      "url": "https://arxiv.org/abs/2608.19299",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18088v1 Announce Type: new \nAbstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log cha...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19299v1 Announce Type: new \nAbstract: Air traffic control (ATC) communication is a safety-critical dialogue that remains largely human-driven even as other parts of a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-      "url": "https://arxiv.org/abs/2608.18092",
+      "title": "Outcome Monitors: Recovery Affordances for Silent Tool Failures",
+      "url": "https://arxiv.org/abs/2608.19303",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18092v1 Announce Type: new \nAbstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position p...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19303v1 Announce Type: new \nAbstract: When a tool call times out, the agent sees the failure and can route around it. A cached error page or negative price can instea...",
       "tag": "RESEARCH"
     },
     {
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-      "url": "https://arxiv.org/abs/2608.18099",
+      "title": "Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress",
+      "url": "https://arxiv.org/abs/2608.19408",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18099v1 Announce Type: new \nAbstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must r...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19408v1 Announce Type: new \nAbstract: On-policy distillation (OPD) has emerged as an effective framework for post-training language models by pairing student-generate...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-      "url": "https://arxiv.org/abs/2608.18104",
+      "title": "Symposium: Trust via Auditable Records for Communities of AI Scientist Agents",
+      "url": "https://arxiv.org/abs/2608.19511",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18104v1 Announce Type: new \nAbstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, mainta...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19511v1 Announce Type: new \nAbstract: Symposium is a formal framework and practical implementation to record the operation of AI agents deployed by small scientific r...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
-      "url": "https://arxiv.org/abs/2608.18110",
+      "title": "From Retrieved Context to Runtime Control: Adaptive Compression for Edge-based RAG",
+      "url": "https://arxiv.org/abs/2608.19535",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18110v1 Announce Type: new \nAbstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to ...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19535v1 Announce Type: new \nAbstract: Retrieval-augmented generation (RAG) improves language-model responses by grounding generation in external passages, which comes...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
-      "url": "https://arxiv.org/abs/2608.18111",
+      "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
+      "url": "https://arxiv.org/abs/2608.19579",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18111v1 Announce Type: new \nAbstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geome...",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19579v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmfu...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+      "url": "https://arxiv.org/abs/2608.19625",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-21T04:00:00Z",
+      "short_summary": "arXiv:2608.19625v1 Announce Type: new \nAbstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for autonomous ...",
       "tag": "RESEARCH"
     }
   ]
