@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-20T12:53:30.152838Z",
+  "last_updated": "2026-08-21T01:25:40.340700Z",
   "items": [
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-20T16:52:57Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
       "url": "https://arxiv.org/abs/2608.18078",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-20T04:00:00Z",
       "short_summary": "arXiv:2608.18111v1 Announce Type: new \nAbstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geome...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
-      "url": "https://arxiv.org/abs/2608.18117",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-20T04:00:00Z",
-      "short_summary": "arXiv:2608.18117v1 Announce Type: new \nAbstract: This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack indepe...",
       "tag": "RESEARCH"
     }
   ]
