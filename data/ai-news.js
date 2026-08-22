@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-21T12:52:20.897624Z",
+  "last_updated": "2026-08-22T01:20:49.040654Z",
   "items": [
     {
       "title": "Active Inference as Context Acquisition for AI Agents",
