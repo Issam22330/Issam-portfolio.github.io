@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-22T12:42:47.697723Z",
+  "last_updated": "2026-08-23T01:34:11.969447Z",
   "items": [
     {
       "title": "Measuring benchmark optimization in speech recognition",
