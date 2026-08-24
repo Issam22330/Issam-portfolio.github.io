@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-24T01:25:47.763884Z",
+  "last_updated": "2026-08-24T12:54:08.055849Z",
   "items": [
     {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-21T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-20T16:52:57Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-19T19:00:00Z",
-      "short_summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "tag": "NEWS"
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the fi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-18T18:09:38Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-18T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "url": "https://arxiv.org/abs/2608.20384",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20384v1 Announce Type: new \nAbstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-17T19:46:21Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20389v1 Announce Type: new \nAbstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task....",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-17T08:00:00Z",
-      "short_summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
-      "tag": "NEWS"
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20397v1 Announce Type: new \nAbstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill -...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-14T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "url": "https://arxiv.org/abs/2608.20398",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20398v1 Announce Type: new \nAbstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-13T17:16:04Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
+      "url": "https://arxiv.org/abs/2608.20400",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20400v1 Announce Type: new \nAbstract: Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicit...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-13T16:45:00Z",
-      "short_summary": "The video shows Sheets canvas in action.",
-      "tag": "NEWS"
+      "title": "World models of environment, agent and joint agent-environment systems",
+      "url": "https://arxiv.org/abs/2608.20401",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20401v1 Announce Type: new \nAbstract: World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variable...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-13T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2608.20414",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20414v1 Announce Type: new \nAbstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-12T16:14:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Categorical AI phenomenology: A first-person approach",
+      "url": "https://arxiv.org/abs/2608.20420",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-24T04:00:00Z",
+      "short_summary": "arXiv:2608.20420v1 Announce Type: new \nAbstract: This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective expe...",
+      "tag": "RESEARCH"
     }
   ]
 };
