@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-24T12:54:08.055849Z",
+  "last_updated": "2026-08-25T01:22:48.864079Z",
   "items": [
     {
       "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
