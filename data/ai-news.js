@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-25T01:22:48.864079Z",
+  "last_updated": "2026-08-25T12:51:10.569272Z",
   "items": [
     {
-      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-      "url": "https://arxiv.org/abs/2608.20341",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-25T11:39:24Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "url": "https://arxiv.org/abs/2608.21362",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20341v1 Announce Type: new \nAbstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-      "url": "https://arxiv.org/abs/2608.20342",
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "url": "https://arxiv.org/abs/2608.21363",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20342v1 Announce Type: new \nAbstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from ...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21363v1 Announce Type: new \nAbstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-      "url": "https://arxiv.org/abs/2608.20378",
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "url": "https://arxiv.org/abs/2608.21366",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20378v1 Announce Type: new \nAbstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the fi...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21366v1 Announce Type: new \nAbstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applicatio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-      "url": "https://arxiv.org/abs/2608.20379",
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "url": "https://arxiv.org/abs/2608.21372",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20379v1 Announce Type: new \nAbstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This ...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21372v1 Announce Type: new \nAbstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-      "url": "https://arxiv.org/abs/2608.20384",
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "url": "https://arxiv.org/abs/2608.21374",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20384v1 Announce Type: new \nAbstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve ...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21374v1 Announce Type: new \nAbstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains diffi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-      "url": "https://arxiv.org/abs/2608.20389",
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "url": "https://arxiv.org/abs/2608.21375",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20389v1 Announce Type: new \nAbstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task....",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21375v1 Announce Type: new \nAbstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, v...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-      "url": "https://arxiv.org/abs/2608.20397",
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+      "url": "https://arxiv.org/abs/2608.21379",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20397v1 Announce Type: new \nAbstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill -...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21379v1 Announce Type: new \nAbstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently excee...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Environmental Slow AI: Design Principles for Generative Systems",
-      "url": "https://arxiv.org/abs/2608.20398",
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+      "url": "https://arxiv.org/abs/2608.21382",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20398v1 Announce Type: new \nAbstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their ...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21382v1 Announce Type: new \nAbstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Retrieval Fails Before It Begins: Structurally Indirect Prerequisite Eviction as a Retention Failure in Agentic Memory",
-      "url": "https://arxiv.org/abs/2608.20400",
+      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
+      "url": "https://arxiv.org/abs/2608.21393",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20400v1 Announce Type: new \nAbstract: Agentic memory under a fixed budget involves two stages: retention and retrieval. Existing retrieval-centered paradigms implicit...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21393v1 Announce Type: new \nAbstract: Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in on...",
       "tag": "RESEARCH"
     },
     {
-      "title": "World models of environment, agent and joint agent-environment systems",
-      "url": "https://arxiv.org/abs/2608.20401",
+      "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
+      "url": "https://arxiv.org/abs/2608.21408",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20401v1 Announce Type: new \nAbstract: World models are a central component of model-based reinforcement learning. They are usually discussed in terms of what variable...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21408v1 Announce Type: new \nAbstract: Due to the widespread accessibility of the internet and social media, toxic and hateful con-tent has grown exponentially, causin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "StateSight: Benchmarking Latent Spatial-State Reconstruction in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2608.20414",
+      "title": "The Abstention Protocol: RCA for Clos Fabrics",
+      "url": "https://arxiv.org/abs/2608.21412",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20414v1 Announce Type: new \nAbstract: Vision-language models are increasingly used for multimodal question answering, yet their ability to reconstruct latent spatial ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Categorical AI phenomenology: A first-person approach",
-      "url": "https://arxiv.org/abs/2608.20420",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-24T04:00:00Z",
-      "short_summary": "arXiv:2608.20420v1 Announce Type: new \nAbstract: This paper develops a phenomenology-first approach to artificial consciousness by reframing consciousness as the subjective expe...",
+      "published_at": "2026-08-25T04:00:00Z",
+      "short_summary": "arXiv:2608.21412v1 Announce Type: new \nAbstract: Root cause analysis (RCA) in large datacenter networks is challenging because telemetry is noisy, partial, and asynchronous. Sco...",
       "tag": "RESEARCH"
     }
   ]
