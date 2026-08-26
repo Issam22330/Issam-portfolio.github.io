@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-26T01:25:55.744708Z",
+  "last_updated": "2026-08-26T12:56:06.861632Z",
   "items": [
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-25T16:00:00Z",
-      "short_summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-25T15:14:14Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-25T11:39:24Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-      "url": "https://arxiv.org/abs/2608.21362",
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "url": "https://arxiv.org/abs/2608.23568",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for ...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render t...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
-      "url": "https://arxiv.org/abs/2608.21363",
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "url": "https://arxiv.org/abs/2608.23569",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21363v1 Announce Type: new \nAbstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmark...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Reviewing Model Collapse and Countermeasures",
-      "url": "https://arxiv.org/abs/2608.21366",
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "url": "https://arxiv.org/abs/2608.23622",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21366v1 Announce Type: new \nAbstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applicatio...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engine...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
-      "url": "https://arxiv.org/abs/2608.21372",
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "url": "https://arxiv.org/abs/2608.23626",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21372v1 Announce Type: new \nAbstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained ...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23626v1 Announce Type: new \nAbstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Tho...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
-      "url": "https://arxiv.org/abs/2608.21374",
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "url": "https://arxiv.org/abs/2608.23631",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21374v1 Announce Type: new \nAbstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains diffi...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23631v1 Announce Type: new \nAbstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
-      "url": "https://arxiv.org/abs/2608.21375",
+      "title": "Function-Level Execution Feedback for Code Preference Optimization",
+      "url": "https://arxiv.org/abs/2608.23632",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21375v1 Announce Type: new \nAbstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, v...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23632v1 Announce Type: new \nAbstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
-      "url": "https://arxiv.org/abs/2608.21379",
+      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+      "url": "https://arxiv.org/abs/2608.23640",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21379v1 Announce Type: new \nAbstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently excee...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23640v1 Announce Type: new \nAbstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
-      "url": "https://arxiv.org/abs/2608.21382",
+      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+      "url": "https://arxiv.org/abs/2608.23641",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21382v1 Announce Type: new \nAbstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23641v1 Announce Type: new \nAbstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling e...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-      "url": "https://arxiv.org/abs/2608.21393",
+      "title": "AI Agents Push Humans Out of the Loop",
+      "url": "https://arxiv.org/abs/2608.23642",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21393v1 Announce Type: new \nAbstract: Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in on...",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23642v1 Announce Type: new \nAbstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and ke...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
+      "url": "https://arxiv.org/abs/2608.23643",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23643v1 Announce Type: new \nAbstract: Artificial intelligence is increasingly being introduced into healthcare workflows, yet most evaluations emphasize model accurac...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
+      "url": "https://arxiv.org/abs/2608.23644",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23644v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypot...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
+      "url": "https://arxiv.org/abs/2608.23646",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-26T04:00:00Z",
+      "short_summary": "arXiv:2608.23646v1 Announce Type: new \nAbstract: Molecular embedding models can serve as foundational infrastructure for computational chemistry and drug discovery, where reusab...",
       "tag": "RESEARCH"
     }
   ]
