@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-25T12:51:10.569272Z",
+  "last_updated": "2026-08-26T01:25:55.744708Z",
   "items": [
+    {
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-25T16:00:00Z",
+      "short_summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-25T15:14:14Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-25T04:00:00Z",
       "short_summary": "arXiv:2608.21393v1 Announce Type: new \nAbstract: Running large language models inside enterprise environments has always bumped up against a practical wall: the data lives in on...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Hate Speech Classification In Roman Urdu: A Comparative Study On Parameter Efficient Fine-Tuning And Prompt Engineering",
-      "url": "https://arxiv.org/abs/2608.21408",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21408v1 Announce Type: new \nAbstract: Due to the widespread accessibility of the internet and social media, toxic and hateful con-tent has grown exponentially, causin...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "The Abstention Protocol: RCA for Clos Fabrics",
-      "url": "https://arxiv.org/abs/2608.21412",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-25T04:00:00Z",
-      "short_summary": "arXiv:2608.21412v1 Announce Type: new \nAbstract: Root cause analysis (RCA) in large datacenter networks is challenging because telemetry is noisy, partial, and asynchronous. Sco...",
       "tag": "RESEARCH"
     }
   ]
