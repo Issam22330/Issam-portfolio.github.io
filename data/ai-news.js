@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-27T08:13:50.853208Z",
+  "last_updated": "2026-08-27T21:58:06.615374Z",
   "items": [
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-27T16:00:00Z",
+      "short_summary": "Graphic depicting new travel features for AI Mode in Search",
+      "tag": "NEWS"
+    },
     {
       "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
       "url": "https://arxiv.org/abs/2608.23568",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-08-27T04:00:00Z",
       "short_summary": "arXiv:2608.23644v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypot...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models",
-      "url": "https://arxiv.org/abs/2608.23646",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23646v1 Announce Type: new \nAbstract: Molecular embedding models can serve as foundational infrastructure for computational chemistry and drug discovery, where reusab...",
       "tag": "RESEARCH"
     }
   ]
