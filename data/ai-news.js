@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-27T21:58:06.615374Z",
+  "last_updated": "2026-08-28T10:16:27.447205Z",
   "items": [
     {
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-27T16:00:00Z",
-      "short_summary": "Graphic depicting new travel features for AI Mode in Search",
-      "tag": "NEWS"
-    },
-    {
-      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-      "url": "https://arxiv.org/abs/2608.23568",
+      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "url": "https://arxiv.org/abs/2608.26107",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render t...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "url": "https://arxiv.org/abs/2608.23569",
+      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "url": "https://arxiv.org/abs/2608.26109",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23569v1 Announce Type: new \nAbstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmark...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "url": "https://arxiv.org/abs/2608.23622",
+      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "url": "https://arxiv.org/abs/2608.26111",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23622v1 Announce Type: new \nAbstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engine...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of ba...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-      "url": "https://arxiv.org/abs/2608.23626",
+      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "url": "https://arxiv.org/abs/2608.26113",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23626v1 Announce Type: new \nAbstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Tho...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-      "url": "https://arxiv.org/abs/2608.23631",
+      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "url": "https://arxiv.org/abs/2608.26114",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23631v1 Announce Type: new \nAbstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerica...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Function-Level Execution Feedback for Code Preference Optimization",
-      "url": "https://arxiv.org/abs/2608.23632",
+      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.26116",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23632v1 Announce Type: new \nAbstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. ...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditi...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-      "url": "https://arxiv.org/abs/2608.23640",
+      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+      "url": "https://arxiv.org/abs/2608.26134",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23640v1 Announce Type: new \nAbstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a ...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26134v1 Announce Type: new \nAbstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-      "url": "https://arxiv.org/abs/2608.23641",
+      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "url": "https://arxiv.org/abs/2608.26145",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23641v1 Announce Type: new \nAbstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling e...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLM...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AI Agents Push Humans Out of the Loop",
-      "url": "https://arxiv.org/abs/2608.23642",
+      "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+      "url": "https://arxiv.org/abs/2608.26149",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23642v1 Announce Type: new \nAbstract: AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and ke...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26149v1 Announce Type: new \nAbstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relatio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "FLARE: A Systematic, Uncertainty-Aware Framework for Evidence-Based Adoption of Artificial Intelligence in Healthcare",
-      "url": "https://arxiv.org/abs/2608.23643",
+      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
+      "url": "https://arxiv.org/abs/2608.26150",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23643v1 Announce Type: new \nAbstract: Artificial intelligence is increasingly being introduced into healthcare workflows, yet most evaluations emphasize model accurac...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26150v1 Announce Type: new \nAbstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many r...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Ethical LLM-Assisted Research: A Framework for Responsible Delegation, Verification, and Epistemic Value",
-      "url": "https://arxiv.org/abs/2608.23644",
+      "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
+      "url": "https://arxiv.org/abs/2608.26151",
       "source": "arXiv cs.AI",
-      "published_at": "2026-08-27T04:00:00Z",
-      "short_summary": "arXiv:2608.23644v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming routine instruments of scientific research, assisting with literature synthesis, hypot...",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26151v1 Announce Type: new \nAbstract: Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1.9% in m...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
+      "url": "https://arxiv.org/abs/2608.26153",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-08-28T04:00:00Z",
+      "short_summary": "arXiv:2608.26153v1 Announce Type: new \nAbstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems d...",
       "tag": "RESEARCH"
     }
   ]
