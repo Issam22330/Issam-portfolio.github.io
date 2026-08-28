@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-28T10:16:27.447205Z",
+  "last_updated": "2026-08-28T21:52:07.474501Z",
   "items": [
     {
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
