@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-29T16:24:36.383013Z",
+  "last_updated": "2026-08-30T04:24:32.393195Z",
   "items": [
     {
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention a...",
-      "tag": "RESEARCH"
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-28T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical ...",
-      "tag": "RESEARCH"
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-27T16:00:00Z",
+      "short_summary": "Graphic depicting new travel features for AI Mode in Search",
+      "tag": "NEWS"
     },
     {
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of ba...",
-      "tag": "RESEARCH"
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-26T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circ...",
-      "tag": "RESEARCH"
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-25T16:00:00Z",
+      "short_summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
+      "tag": "NEWS"
     },
     {
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerica...",
-      "tag": "RESEARCH"
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-25T15:14:14Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.26116",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditi...",
-      "tag": "RESEARCH"
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-25T11:39:24Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-      "url": "https://arxiv.org/abs/2608.26134",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26134v1 Announce Type: new \nAbstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equ...",
-      "tag": "RESEARCH"
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-25T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-      "url": "https://arxiv.org/abs/2608.26145",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLM...",
-      "tag": "RESEARCH"
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-21T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-      "url": "https://arxiv.org/abs/2608.26149",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26149v1 Announce Type: new \nAbstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relatio...",
-      "tag": "RESEARCH"
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-21T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-      "url": "https://arxiv.org/abs/2608.26150",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26150v1 Announce Type: new \nAbstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many r...",
-      "tag": "RESEARCH"
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-20T16:52:57Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
-      "url": "https://arxiv.org/abs/2608.26151",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26151v1 Announce Type: new \nAbstract: Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1.9% in m...",
-      "tag": "RESEARCH"
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI Blog",
+      "published_at": "2026-08-19T19:00:00Z",
+      "short_summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "tag": "NEWS"
     },
     {
-      "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
-      "url": "https://arxiv.org/abs/2608.26153",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-08-29T04:00:00Z",
-      "short_summary": "arXiv:2608.26153v1 Announce Type: new \nAbstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems d...",
-      "tag": "RESEARCH"
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-08-18T18:09:38Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
