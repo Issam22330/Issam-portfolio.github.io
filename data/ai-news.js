@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-30T04:24:32.393195Z",
+  "last_updated": "2026-08-30T16:17:53.300855Z",
   "items": [
     {
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
