@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-31T04:29:22.917799Z",
+  "last_updated": "2026-08-31T18:56:05.979873Z",
   "items": [
     {
       "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
