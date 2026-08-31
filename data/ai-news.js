@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-08-30T16:17:53.300855Z",
+  "last_updated": "2026-08-31T04:29:22.917799Z",
   "items": [
     {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-28T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27507v1 Announce Type: new \nAbstract: Policy Gradient for Parallel State Entropy maximization (PGPSE) expands state-space coverage by training independently parameter...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-27T16:00:00Z",
-      "short_summary": "Graphic depicting new travel features for AI Mode in Search",
-      "tag": "NEWS"
+      "title": "Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27512v1 Announce Type: new \nAbstract: Post-training quantization is often treated as a semantically neutral optimization for edge deployment of Large Language Models....",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-26T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27513v1 Announce Type: new \nAbstract: Softmax attention stores key and value vectors for every preceding token, causing inference memory to grow with sequence length....",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-25T16:00:00Z",
-      "short_summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "tag": "NEWS"
+      "title": "A Deeper Analysis of Block-Sparse Featurizers",
+      "url": "https://arxiv.org/abs/2608.27515",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27515v1 Announce Type: new \nAbstract: The recently introduced block-sparse featurizer (BSF; Fel et al., 2026) is similar to a sparse autoencoder (SAE), but its atomic...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-25T15:14:14Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "url": "https://arxiv.org/abs/2608.27518",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27518v1 Announce Type: new \nAbstract: Continual learning (CL) and model merging (MM) both aim to obtain a single model that performs well across multiple tasks, chall...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-25T11:39:24Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+      "url": "https://arxiv.org/abs/2608.27521",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27521v1 Announce Type: new \nAbstract: Many dynamical processes unfold on the sphere but the default scientific machine learning architectures are Euclidean. Applying ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-25T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+      "url": "https://arxiv.org/abs/2608.27574",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27574v1 Announce Type: new \nAbstract: Multi-label graph learning intends to capture the intrinsic complexity of real-world applications, where one sample is often rel...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-21T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Curvature-Aware Radius Shrinkage for Adaptive Nearest Neighbor Classification",
+      "url": "https://arxiv.org/abs/2608.27634",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27634v1 Announce Type: new \nAbstract: Nearest neighbor classification relies fundamentally on how locality is defined, yet conventional $k$-NN imposes the same neighb...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-21T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "More Data Cannot Break a Symmetry: Identifiability by Design",
+      "url": "https://arxiv.org/abs/2608.27651",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27651v1 Announce Type: new \nAbstract: Unsupervised representational alignment recovers a stimulus-by-stimulus correspondence from geometry alone, but the automorphism...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-20T16:52:57Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Unsupervised Continual Learning with Growing Self-Organizing Maps and Synthetic Replay",
+      "url": "https://arxiv.org/abs/2608.27662",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27662v1 Announce Type: new \nAbstract: This work presents a generative continual learning framework based on growing self-organizing maps (GSOMs) that are augmented wi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-19T19:00:00Z",
-      "short_summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
-      "tag": "NEWS"
+      "title": "SegBench-GC: Testing Segmentation Invariance in Multi-Step Offline Goal-Conditioned Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.27678",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27678v1 Announce Type: new \nAbstract: Offline goal-conditioned reinforcement learning (GCRL) often uses trajectory structure for future-goal sampling and multi-step t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-18T18:09:38Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "SafeStep: An Interactive Demonstration of Semantic Communication for Pedestrian Safety Monitoring",
+      "url": "https://arxiv.org/abs/2608.27688",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-08-31T04:00:00Z",
+      "short_summary": "arXiv:2608.27688v1 Announce Type: new \nAbstract: In this paper, we develop SafeStep, an interactive browser-based semantic communication platform for live pedestrian safety moni...",
+      "tag": "RESEARCH"
     }
   ]
 };
