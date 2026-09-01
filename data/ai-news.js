@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-01T04:12:19.102267Z",
+  "last_updated": "2026-09-01T16:16:13.733401Z",
   "items": [
+    {
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-01T16:00:00Z",
+      "short_summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "tag": "NEWS"
+    },
     {
       "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
       "url": "https://arxiv.org/abs/2608.28590",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-01T04:00:00Z",
       "short_summary": "arXiv:2608.28601v1 Announce Type: new \nAbstract: Interactive visualizations support conceptual understanding in undergraduate mathematics, but building them has required program...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Integrating Triaxial IMU Sensors and Ensemble Learning for Effective Parkinson Disease Severity Classification",
-      "url": "https://arxiv.org/abs/2608.28602",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28602v1 Announce Type: new \nAbstract: Parkinson disease PD is a progressive neurodegenerative disease that can have a significant impact on motor performance resultin...",
       "tag": "RESEARCH"
     }
   ]
