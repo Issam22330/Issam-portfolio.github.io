@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-02T03:34:46.735773Z",
+  "last_updated": "2026-09-02T16:12:17.386583Z",
   "items": [
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-02T15:40:00Z",
+      "short_summary": "Introducing Fairwind Program",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "source": "Hugging Face Blog",
-      "published_at": "2026-09-01T21:39:07Z",
+      "published_at": "2026-09-02T13:49:14Z",
       "short_summary": "",
       "tag": "MODEL"
     },
     {
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T20:45:00Z",
-      "short_summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 ye...",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T16:00:00Z",
-      "short_summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
-      "tag": "NEWS"
-    },
-    {
-      "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
-      "url": "https://arxiv.org/abs/2608.28590",
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "url": "https://arxiv.org/abs/2609.00002",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance dep...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00002v1 Announce Type: new \nAbstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the mode...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Expert-validated STEM QA",
-      "url": "https://arxiv.org/abs/2608.28591",
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "url": "https://arxiv.org/abs/2609.00003",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28591v1 Announce Type: new \nAbstract: Recent advancements in AI are helping scientists achieve breakthroughs in fields such as mathematics, medicine, and materials sc...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00003v1 Announce Type: new \nAbstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
-      "url": "https://arxiv.org/abs/2608.28592",
+      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "url": "https://arxiv.org/abs/2609.00004",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28592v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve high scores on medical knowledge examinations, yet real-world oncology is not a knowledge t...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00004v1 Announce Type: new \nAbstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, whil...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Statutory AI: Aligning Large Language Models With Legal Norms",
-      "url": "https://arxiv.org/abs/2608.28593",
+      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+      "url": "https://arxiv.org/abs/2609.00005",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28593v1 Announce Type: new \nAbstract: With the increasing development of AI regulatory frameworks, ensuring that artificial intelligence systems, particularly generat...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00005v1 Announce Type: new \nAbstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, u...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics",
-      "url": "https://arxiv.org/abs/2608.28594",
+      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+      "url": "https://arxiv.org/abs/2609.00012",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28594v1 Announce Type: new \nAbstract: Conversational analytics systems assume the user already has a well-formed question, leaving a non-expert facing a blank query b...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00012v1 Announce Type: new \nAbstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the las...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Signal in the Noise: An Auditable Reliability Layer for Biomedical Text Classification",
-      "url": "https://arxiv.org/abs/2608.28595",
+      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "url": "https://arxiv.org/abs/2609.00015",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28595v1 Announce Type: new \nAbstract: Biomedical NLP pipelines routinely presuppose clean input text, yet large-scale corpora assembled through automated PDF parsing ...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00015v1 Announce Type: new \nAbstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple ag...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Paper Pilot: A Human-in-the-Loop Expert System for Evidence-Traceable Scientific Manuscript Generation in Applied Sciences",
-      "url": "https://arxiv.org/abs/2608.28596",
+      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+      "url": "https://arxiv.org/abs/2609.00018",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28596v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly embedded in scientific workflows for literature analysis, drafting, and revie...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00018v1 Announce Type: new \nAbstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often c...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Race between Agentic AI Capabilities and Data Quality Control in Online Surveys",
-      "url": "https://arxiv.org/abs/2608.28597",
+      "title": "UI-Venus-2 Technical Report",
+      "url": "https://arxiv.org/abs/2609.00028",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28597v1 Announce Type: new \nAbstract: Online surveys are a foundational data collection instrument in a variety of fields, with attention checks serving as critical g...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00028v1 Announce Type: new \nAbstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriente...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CDPR: Counterfactual Advantage-based Credit Assignment for Cost-Aware Sequential Medical Diagnosis",
-      "url": "https://arxiv.org/abs/2608.28599",
+      "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
+      "url": "https://arxiv.org/abs/2609.00032",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28599v1 Announce Type: new \nAbstract: Clinical diagnosis is a step-by-step, cost-aware process: a physician orders examinations one at a time, observes the results, a...",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00032v1 Announce Type: new \nAbstract: Mathematical communities work with different objects, invariants, and tools, so transferring a problem across them is expensive ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
+      "url": "https://arxiv.org/abs/2609.00071",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-02T04:00:00Z",
+      "short_summary": "arXiv:2609.00071v1 Announce Type: new \nAbstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal e...",
       "tag": "RESEARCH"
     }
   ]
