@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-01T16:16:13.733401Z",
+  "last_updated": "2026-09-02T03:34:46.735773Z",
   "items": [
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-01T21:39:07Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-01T20:45:00Z",
+      "short_summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 ye...",
+      "tag": "BREAKING"
+    },
     {
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-01T04:00:00Z",
       "short_summary": "arXiv:2608.28599v1 Announce Type: new \nAbstract: Clinical diagnosis is a step-by-step, cost-aware process: a physician orders examinations one at a time, observes the results, a...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "SHAPE of Chain-of-Thought in Math Reasoning",
-      "url": "https://arxiv.org/abs/2608.28600",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28600v1 Announce Type: new \nAbstract: Large language models (LLMs) achieve strong performance on mathematical reasoning benchmarks, yet the mathematically meaningful ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Leveraging Generative AI to Design Accessible Interactive Visualizations for Undergraduate Mathematics: A Six-Phase Workflow",
-      "url": "https://arxiv.org/abs/2608.28601",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-01T04:00:00Z",
-      "short_summary": "arXiv:2608.28601v1 Announce Type: new \nAbstract: Interactive visualizations support conceptual understanding in undergraduate mathematics, but building them has required program...",
       "tag": "RESEARCH"
     }
   ]
