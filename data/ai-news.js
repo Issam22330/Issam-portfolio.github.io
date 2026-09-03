@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-02T16:12:17.386583Z",
+  "last_updated": "2026-09-03T03:34:31.256624Z",
   "items": [
     {
       "title": "Proactive cyber defense for governments and enterprises",
