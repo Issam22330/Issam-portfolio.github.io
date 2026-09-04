@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-04T03:34:53.839326Z",
+  "last_updated": "2026-09-04T15:58:14.818763Z",
   "items": [
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T13:13:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
-      "url": "https://arxiv.org/abs/2609.01611",
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2609.02981",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.02981v1 Announce Type: new \nAbstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning system...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
-      "url": "https://arxiv.org/abs/2609.01685",
+      "title": "MasterControl Seventeen Every Time",
+      "url": "https://arxiv.org/abs/2609.03209",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01685v1 Announce Type: new \nAbstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, f...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03209v1 Announce Type: new \nAbstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selec...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
-      "url": "https://arxiv.org/abs/2609.01741",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.03236",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01741v1 Announce Type: new \nAbstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two inde...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03236v1 Announce Type: new \nAbstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
-      "url": "https://arxiv.org/abs/2609.01814",
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "url": "https://arxiv.org/abs/2609.03340",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01814v1 Announce Type: new \nAbstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effec...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03340v1 Announce Type: new \nAbstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action f...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
-      "url": "https://arxiv.org/abs/2609.01815",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "url": "https://arxiv.org/abs/2609.03402",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01815v1 Announce Type: new \nAbstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge ...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03402v1 Announce Type: new \nAbstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
-      "url": "https://arxiv.org/abs/2609.01834",
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "url": "https://arxiv.org/abs/2609.03407",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01834v1 Announce Type: new \nAbstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architect...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03407v1 Announce Type: new \nAbstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
-      "url": "https://arxiv.org/abs/2609.01849",
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "url": "https://arxiv.org/abs/2609.03416",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01849v1 Announce Type: new \nAbstract: This article presents SSAKG 2.0, an open-source software package for constructing and operating Structural Sequential Associativ...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03416v1 Announce Type: new \nAbstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds th...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
-      "url": "https://arxiv.org/abs/2609.01852",
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "url": "https://arxiv.org/abs/2609.03423",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01852v1 Announce Type: new \nAbstract: Persistent memory supports personalized agents, but a stale stored fact can override current authoritative evidence without warn...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03423v1 Announce Type: new \nAbstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
-      "url": "https://arxiv.org/abs/2609.01861",
+      "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+      "url": "https://arxiv.org/abs/2609.03438",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01861v1 Announce Type: new \nAbstract: The performance of an LLM agent depends on the scaffold around a frozen model. A common way to improve that scaffold is to use a...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03438v1 Announce Type: new \nAbstract: Graphical user interface (GUI) agents are increasingly used to execute natural-language instructions on user interfaces, yet rea...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
-      "url": "https://arxiv.org/abs/2609.01873",
+      "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+      "url": "https://arxiv.org/abs/2609.03460",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01873v1 Announce Type: new \nAbstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observati...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03460v1 Announce Type: new \nAbstract: As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this f...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Ceiling Is in the Channel: Auditing Learner Gaps and Measurement Frontiers in Clinical Prediction",
-      "url": "https://arxiv.org/abs/2609.01909",
+      "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+      "url": "https://arxiv.org/abs/2609.03478",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-03T04:00:00Z",
-      "short_summary": "arXiv:2609.01909v1 Announce Type: new \nAbstract: Clinical prediction can saturate for two different reasons: a fitted learner may fail to extract available information, or the r...",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03478v1 Announce Type: new \nAbstract: We report on our ongoing project to develop a computational pipeline, AutoGraphForge, for an automated graph-theoretic conjectur...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.03493",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-04T04:00:00Z",
+      "short_summary": "arXiv:2609.03493v1 Announce Type: new \nAbstract: Modern vision-language models (VLMs) can directly answer many image-grounded questions, yet they often struggle with complex que...",
       "tag": "RESEARCH"
     }
   ]
