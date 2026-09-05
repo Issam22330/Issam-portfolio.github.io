@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-04T15:58:14.818763Z",
+  "last_updated": "2026-09-05T03:35:13.628983Z",
   "items": [
     {
       "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
