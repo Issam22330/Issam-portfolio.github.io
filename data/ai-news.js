@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-06T03:36:15.718388Z",
+  "last_updated": "2026-09-06T15:08:36.677755Z",
   "items": [
     {
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
