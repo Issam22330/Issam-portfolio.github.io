@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-07T03:36:15.164255Z",
+  "last_updated": "2026-09-07T17:31:19.331205Z",
   "items": [
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T13:13:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "EXAONE Forecast for Finance",
+      "url": "https://arxiv.org/abs/2609.04239",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04239v1 Announce Type: new \nAbstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "url": "https://arxiv.org/abs/2609.04286",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04286v1 Announce Type: new \nAbstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "url": "https://arxiv.org/abs/2609.04298",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04298v1 Announce Type: new \nAbstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "url": "https://arxiv.org/abs/2609.04300",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04300v1 Announce Type: new \nAbstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Eff...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-02T15:40:00Z",
-      "short_summary": "Introducing Fairwind Program",
-      "tag": "NEWS"
+      "title": "Iris: Climbing to the Search Frontier",
+      "url": "https://arxiv.org/abs/2609.04304",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04304v1 Announce Type: new \nAbstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipelin...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-02T13:49:14Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "url": "https://arxiv.org/abs/2609.04343",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04343v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-01T21:39:07Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "url": "https://arxiv.org/abs/2609.04373",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04373v1 Announce Type: new \nAbstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T20:45:00Z",
-      "short_summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 ye...",
-      "tag": "BREAKING"
+      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+      "url": "https://arxiv.org/abs/2609.04377",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04377v1 Announce Type: new \nAbstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how the...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T16:00:00Z",
-      "short_summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
-      "tag": "NEWS"
+      "title": "HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals",
+      "url": "https://arxiv.org/abs/2609.04444",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04444v1 Announce Type: new \nAbstract: Benchmarks for the side effects an agent causes on the way to a goal already exist, but HarvestBench is the first to put a price...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-01T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "PerfReasoning: How Well Do LLMs Reason on Hardware Performance?",
+      "url": "https://arxiv.org/abs/2609.04476",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04476v1 Announce Type: new \nAbstract: Performance modeling is central to hardware design and software optimization, yet constructing these models requires structured ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-08-28T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+      "url": "https://arxiv.org/abs/2609.04490",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04490v1 Announce Type: new \nAbstract: Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, h...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-27T16:00:00Z",
-      "short_summary": "Graphic depicting new travel features for AI Mode in Search",
-      "tag": "NEWS"
+      "title": "ResLearn-XR: Residual Learning for Network Traffic and Quality-of-Experience-Aware Modeling in Extended Reality",
+      "url": "https://arxiv.org/abs/2609.04493",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-07T04:00:00Z",
+      "short_summary": "arXiv:2609.04493v1 Announce Type: new \nAbstract: We present ResLearn-XR, a residual learning framework for predicting eXtended Reality (XR) network traffic and estimating Qualit...",
+      "tag": "RESEARCH"
     }
   ]
 };
