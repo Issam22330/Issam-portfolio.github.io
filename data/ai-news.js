@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-07T17:31:19.331205Z",
+  "last_updated": "2026-09-08T03:41:04.799545Z",
   "items": [
     {
       "title": "EXAONE Forecast for Finance",
