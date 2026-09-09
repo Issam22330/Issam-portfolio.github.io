@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-08T16:15:34.167880Z",
+  "last_updated": "2026-09-09T03:46:08.190710Z",
   "items": [
     {
       "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
