@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-10T03:44:21.072140Z",
+  "last_updated": "2026-09-10T16:02:52.529942Z",
   "items": [
     {
-      "title": "Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-09T16:00:00Z",
-      "short_summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini ...",
-      "tag": "NEWS"
+      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.05437",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-09T16:00:00Z",
-      "short_summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "tag": "NEWS"
+      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
+      "url": "https://arxiv.org/abs/2609.05439",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05439v1 Announce Type: new \nAbstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explana...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-09T15:36:24Z",
-      "short_summary": "",
-      "tag": "BREAKING"
+      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
+      "url": "https://arxiv.org/abs/2609.05441",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure ques...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-08T14:23:07Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+      "url": "https://arxiv.org/abs/2609.05446",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T13:13:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
+      "url": "https://arxiv.org/abs/2609.05448",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited d...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Compiling VGDL into Causal Models",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05459v1 Announce Type: new \nAbstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments....",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
+      "url": "https://arxiv.org/abs/2609.05461",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05461v1 Announce Type: new \nAbstract: Reward-free latent world models plan by scoring candidate actions with distances in a frozen latent space: an action is preferre...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "RAPID: Reliability-Aware Pair Importance Distillation",
+      "url": "https://arxiv.org/abs/2609.05481",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05481v1 Announce Type: new \nAbstract: Inter example relational distillation transfers a teacher's representation geometry by matching relations among examples within ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-02T15:40:00Z",
-      "short_summary": "Introducing Fairwind Program",
-      "tag": "NEWS"
+      "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
+      "url": "https://arxiv.org/abs/2609.05488",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05488v1 Announce Type: new \nAbstract: Clinical deterioration unfolds through coupled, partially observed trajectories, not a single diagnostic label. We introduce PGP...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-01T21:39:07Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
+      "url": "https://arxiv.org/abs/2609.05505",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05505v1 Announce Type: new \nAbstract: Systematic reviews require sustained human judgment across thousands of records, yet existing evaluations of large language mode...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T20:45:00Z",
-      "short_summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 ye...",
-      "tag": "BREAKING"
+      "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
+      "url": "https://arxiv.org/abs/2609.05511",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05511v1 Announce Type: new \nAbstract: Web agents need to navigate visually rich, long-horizon interfaces that change across sites, yet most previous agents still lear...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-01T16:00:00Z",
-      "short_summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
-      "tag": "NEWS"
+      "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
+      "url": "https://arxiv.org/abs/2609.05512",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-10T04:00:00Z",
+      "short_summary": "arXiv:2609.05512v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) impose substantial energy costs during deployment, yet current compression methods apply uniform q...",
+      "tag": "RESEARCH"
     }
   ]
 };
