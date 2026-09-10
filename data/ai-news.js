@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-09T16:09:58.017835Z",
+  "last_updated": "2026-09-10T03:44:21.072140Z",
   "items": [
     {
       "title": "Get ready for the game with new football features in Search",
