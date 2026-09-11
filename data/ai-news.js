@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-11T03:41:57.087924Z",
+  "last_updated": "2026-09-11T16:06:35.854255Z",
   "items": [
     {
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-10T16:00:00Z",
-      "short_summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-      "url": "https://arxiv.org/abs/2609.05437",
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "url": "https://arxiv.org/abs/2609.09203",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable ...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet disca...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-      "url": "https://arxiv.org/abs/2609.05439",
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "url": "https://arxiv.org/abs/2609.09226",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05439v1 Announce Type: new \nAbstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explana...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09226v1 Announce Type: new \nAbstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "url": "https://arxiv.org/abs/2609.05441",
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "url": "https://arxiv.org/abs/2609.09233",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05441v1 Announce Type: new \nAbstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure ques...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09233v1 Announce Type: new \nAbstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2609.05446",
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "url": "https://arxiv.org/abs/2609.09306",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05446v1 Announce Type: new \nAbstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09306v1 Announce Type: new \nAbstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, cha...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-      "url": "https://arxiv.org/abs/2609.05448",
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "url": "https://arxiv.org/abs/2609.09374",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05448v1 Announce Type: new \nAbstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited d...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09374v1 Announce Type: new \nAbstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Compiling VGDL into Causal Models",
-      "url": "https://arxiv.org/abs/2609.05459",
+      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "url": "https://arxiv.org/abs/2609.09395",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05459v1 Announce Type: new \nAbstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments....",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09395v1 Announce Type: new \nAbstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
-      "url": "https://arxiv.org/abs/2609.05461",
+      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+      "url": "https://arxiv.org/abs/2609.09413",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05461v1 Announce Type: new \nAbstract: Reward-free latent world models plan by scoring candidate actions with distances in a frozen latent space: an action is preferre...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09413v1 Announce Type: new \nAbstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and sc...",
       "tag": "RESEARCH"
     },
     {
-      "title": "RAPID: Reliability-Aware Pair Importance Distillation",
-      "url": "https://arxiv.org/abs/2609.05481",
+      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "url": "https://arxiv.org/abs/2609.09418",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05481v1 Announce Type: new \nAbstract: Inter example relational distillation transfers a teacher's representation geometry by matching relations among examples within ...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09418v1 Announce Type: new \nAbstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PGP-Clinical-TimeKAN: Prior-Guided Joint Probabilistic Forecasting of Clinical Trajectories",
-      "url": "https://arxiv.org/abs/2609.05488",
+      "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+      "url": "https://arxiv.org/abs/2609.09428",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05488v1 Announce Type: new \nAbstract: Clinical deterioration unfolds through coupled, partially observed trajectories, not a single diagnostic label. We introduce PGP...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09428v1 Announce Type: new \nAbstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SciLitBench: Benchmark and Design Principles for LLM-Powered Systematic Literature Reviews",
-      "url": "https://arxiv.org/abs/2609.05505",
+      "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+      "url": "https://arxiv.org/abs/2609.09448",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05505v1 Announce Type: new \nAbstract: Systematic reviews require sustained human judgment across thousands of records, yet existing evaluations of large language mode...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09448v1 Announce Type: new \nAbstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated wit...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SCAFFOLD: Self-Improving Web Agents via Recursive Parametric Skill Abstraction",
-      "url": "https://arxiv.org/abs/2609.05511",
+      "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+      "url": "https://arxiv.org/abs/2609.09458",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05511v1 Announce Type: new \nAbstract: Web agents need to navigate visually rich, long-horizon interfaces that change across sites, yet most previous agents still lear...",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09458v1 Announce Type: new \nAbstract: As LLM agents move from answering questions to carrying out procedures, failures can be unwarranted rather than visibly wrong: t...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+      "url": "https://arxiv.org/abs/2609.09565",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-11T04:00:00Z",
+      "short_summary": "arXiv:2609.09565v1 Announce Type: new \nAbstract: Agentic graph learning (AGL) has recently achieved promising results on graph reasoning tasks, where an agent powered by a large...",
       "tag": "RESEARCH"
     }
   ]
