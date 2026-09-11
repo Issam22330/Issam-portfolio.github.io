@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-10T16:02:52.529942Z",
+  "last_updated": "2026-09-11T03:41:57.087924Z",
   "items": [
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-10T16:00:00Z",
+      "short_summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "tag": "NEWS"
+    },
     {
       "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
       "url": "https://arxiv.org/abs/2609.05437",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-10T04:00:00Z",
       "short_summary": "arXiv:2609.05511v1 Announce Type: new \nAbstract: Web agents need to navigate visually rich, long-horizon interfaces that change across sites, yet most previous agents still lear...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Reasoning-Aware Compression: Identifying and Protecting Vulnerable Reasoning Circuits for Energy-Efficient LLM Deployment",
-      "url": "https://arxiv.org/abs/2609.05512",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-10T04:00:00Z",
-      "short_summary": "arXiv:2609.05512v1 Announce Type: new \nAbstract: Large Reasoning Models (LRMs) impose substantial energy costs during deployment, yet current compression methods apply uniform q...",
       "tag": "RESEARCH"
     }
   ]
