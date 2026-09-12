@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-11T16:06:35.854255Z",
+  "last_updated": "2026-09-12T03:45:30.973135Z",
   "items": [
     {
       "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
