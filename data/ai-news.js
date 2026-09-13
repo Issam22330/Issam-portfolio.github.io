@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-13T03:53:33.744707Z",
+  "last_updated": "2026-09-13T15:49:11.786168Z",
   "items": [
     {
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "url": "https://arxiv.org/abs/2609.10584",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10584v1 Announce Type: new \nAbstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses h...",
-      "tag": "RESEARCH"
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-10T16:00:00Z",
+      "short_summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "tag": "NEWS"
     },
     {
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "url": "https://arxiv.org/abs/2609.10629",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10629v1 Announce Type: new \nAbstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increa...",
-      "tag": "RESEARCH"
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "url": "https://arxiv.org/abs/2609.10654",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10654v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules fr...",
-      "tag": "RESEARCH"
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-09T16:00:00Z",
+      "short_summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini ...",
+      "tag": "NEWS"
     },
     {
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "url": "https://arxiv.org/abs/2609.10656",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10656v1 Announce Type: new \nAbstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFA...",
-      "tag": "RESEARCH"
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-09T16:00:00Z",
+      "short_summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
+      "tag": "NEWS"
     },
     {
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "url": "https://arxiv.org/abs/2609.10657",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10657v1 Announce Type: new \nAbstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokk...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "url": "https://arxiv.org/abs/2609.10712",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10712v1 Announce Type: new \nAbstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathe...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "url": "https://arxiv.org/abs/2609.10724",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10724v1 Announce Type: new \nAbstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-      "url": "https://arxiv.org/abs/2609.10728",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10728v1 Announce Type: new \nAbstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error c...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Studying Without a Syllabus: Task-Agnostic Environment Preprocessing",
-      "url": "https://arxiv.org/abs/2609.10824",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10824v1 Announce Type: new \nAbstract: Before an LLM agent tackles tasks in a new environment, it can inspect available corpora and tools and construct reusable resour...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents",
-      "url": "https://arxiv.org/abs/2609.10873",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10873v1 Announce Type: new \nAbstract: Independent evaluation can reject harmful policy updates yet also prevent useful continual learning. We argue that update admiss...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
-      "url": "https://arxiv.org/abs/2609.10964",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10964v1 Announce Type: new \nAbstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion tim...",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-09T15:36:24Z",
+      "short_summary": "",
       "tag": "BREAKING"
     },
     {
-      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
-      "url": "https://arxiv.org/abs/2609.10992",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-12T04:00:00Z",
-      "short_summary": "arXiv:2609.10992v1 Announce Type: new \nAbstract: The integration of Large Language Models into daily tasks relies on context-rich instructions, inevitably exposing sensitive use...",
-      "tag": "RESEARCH"
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-08T14:23:07Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-03T13:13:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-02T15:40:00Z",
+      "short_summary": "Introducing Fairwind Program",
+      "tag": "NEWS"
+    },
+    {
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-01T21:39:07Z",
+      "short_summary": "",
+      "tag": "MODEL"
     }
   ]
 };
