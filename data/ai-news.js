@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-13T15:49:11.786168Z",
+  "last_updated": "2026-09-14T04:00:28.761213Z",
   "items": [
     {
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-10T16:00:00Z",
-      "short_summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
-      "tag": "NEWS"
+      "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
+      "url": "https://arxiv.org/abs/2609.11934",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11934v1 Announce Type: new \nAbstract: In networked dynamical systems, the parameter of primary mechanistic interest is signed interaction structure. Recovering this s...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Physics-Informed Conformal Prediction: Embedding PDE Consistency into Distribution-Free Uncertainty Quantification for Neural Operators",
+      "url": "https://arxiv.org/abs/2609.11935",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11935v1 Announce Type: new \nAbstract: Neural operators such as the Fourier Neural Operator (FNO) achieve remarkable accuracy in approximating solutions to partial dif...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-09T16:00:00Z",
-      "short_summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini ...",
-      "tag": "NEWS"
+      "title": "Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning",
+      "url": "https://arxiv.org/abs/2609.11937",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11937v1 Announce Type: new \nAbstract: The deployment of Federated Learning (FL) in multi-center clinical networks faces the challenge of \"knowledge dominance,\" where ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-09T16:00:00Z",
-      "short_summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
-      "tag": "NEWS"
+      "title": "Efficient AI Model Deployment Using Quantization Analysis Tool",
+      "url": "https://arxiv.org/abs/2609.11954",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11954v1 Announce Type: new \nAbstract: As deep learning models are increasingly deployed on resource constrained devices, the demand for efficient model optimization t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-09T15:36:24Z",
-      "short_summary": "",
-      "tag": "BREAKING"
+      "title": "Performance, Efficiency and Collapse -- Advantages and Challenges in Offline Post-training of Code LLMs",
+      "url": "https://arxiv.org/abs/2609.11956",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11956v1 Announce Type: new \nAbstract: Post-training with reinforcement learning (RL) is a critical phase in the development of code-generating large language models (...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-08T14:23:07Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Look Before You Leap: Pre-Action Verification for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.11957",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11957v1 Announce Type: new \nAbstract: An LLM agent acts on the world by emitting actions: shell commands to run, edits to apply. A wrong action does not always fail l...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T13:13:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Decoding Mixture Perception through Computational Modeling of Component Interactions",
+      "url": "https://arxiv.org/abs/2609.11958",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11958v1 Announce Type: new \nAbstract: Olfaction played an indispensable role throughout human evolution and civilization. Even in the contemporary era of advanced tec...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Space as an Interventional Invariant: Cross-Modal Predictive Geometry for Stratified Cities and Em-Spaced Intelligence",
+      "url": "https://arxiv.org/abs/2609.11959",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11959v1 Announce Type: new \nAbstract: Space is a foundational concept across mathematics, physics, spatial cognition, urban science, and embodied intelligence, yet th...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "On-Device Language Models for Privacy-Preserving Stress Prediction: A Multimodal Evaluation on Mobile Health",
+      "url": "https://arxiv.org/abs/2609.11961",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11961v1 Announce Type: new \nAbstract: Stress is a pervasive determinant of mental health and a key target for mobile health interventions. On-device language models (...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences",
+      "url": "https://arxiv.org/abs/2609.11993",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11993v1 Announce Type: new \nAbstract: Machine learning research in financial services is limited by the scarcity of representative open-source datasets. Existing reso...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-02T15:40:00Z",
-      "short_summary": "Introducing Fairwind Program",
-      "tag": "NEWS"
+      "title": "Explainable Prediction from Mobile Sensing Data through LLM-guided Concept Integration",
+      "url": "https://arxiv.org/abs/2609.11995",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11995v1 Announce Type: new \nAbstract: Mobile sensing enables longitudinal monitoring of behavioral and physiological patterns in everyday settings. However, accurate ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-01T21:39:07Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "DCRA: Diffusion-Conditioned Representation Alignment for Robust Time-Series Learning",
+      "url": "https://arxiv.org/abs/2609.11997",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-09-14T04:00:00Z",
+      "short_summary": "arXiv:2609.11997v1 Announce Type: new \nAbstract: Learning robust representations for time-series signals under noise and distribution shifts remains challenging, especially in c...",
+      "tag": "RESEARCH"
     }
   ]
 };
