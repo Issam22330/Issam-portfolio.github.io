@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-14T04:00:28.761213Z",
+  "last_updated": "2026-09-14T17:53:53.684583Z",
   "items": [
+    {
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-14T16:00:00Z",
+      "short_summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+      "tag": "NEWS"
+    },
     {
       "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
       "url": "https://arxiv.org/abs/2609.11934",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.LG",
       "published_at": "2026-09-14T04:00:00Z",
       "short_summary": "arXiv:2609.11995v1 Announce Type: new \nAbstract: Mobile sensing enables longitudinal monitoring of behavioral and physiological patterns in everyday settings. However, accurate ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "DCRA: Diffusion-Conditioned Representation Alignment for Robust Time-Series Learning",
-      "url": "https://arxiv.org/abs/2609.11997",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-09-14T04:00:00Z",
-      "short_summary": "arXiv:2609.11997v1 Announce Type: new \nAbstract: Learning robust representations for time-series signals under noise and distribution shifts remains challenging, especially in c...",
       "tag": "RESEARCH"
     }
   ]
