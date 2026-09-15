@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-14T17:53:53.684583Z",
+  "last_updated": "2026-09-15T03:59:47.849807Z",
   "items": [
+    {
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-14T19:00:00Z",
+      "short_summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "tag": "NEWS"
+    },
     {
       "title": "DevFest is back",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.LG",
       "published_at": "2026-09-14T04:00:00Z",
       "short_summary": "arXiv:2609.11993v1 Announce Type: new \nAbstract: Machine learning research in financial services is limited by the scarcity of representative open-source datasets. Existing reso...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Explainable Prediction from Mobile Sensing Data through LLM-guided Concept Integration",
-      "url": "https://arxiv.org/abs/2609.11995",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-09-14T04:00:00Z",
-      "short_summary": "arXiv:2609.11995v1 Announce Type: new \nAbstract: Mobile sensing enables longitudinal monitoring of behavioral and physiological patterns in everyday settings. However, accurate ...",
       "tag": "RESEARCH"
     }
   ]
