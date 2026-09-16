@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-16T03:57:28.460845Z",
+  "last_updated": "2026-09-16T16:24:51.859120Z",
   "items": [
     {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-15T16:00:44Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-15T16:00:00Z",
-      "short_summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-15T16:00:00Z",
-      "short_summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
-      "tag": "NEWS"
-    },
-    {
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-15T16:00:00Z",
-      "short_summary": "Animation of several words in different languages slowly zooming past",
-      "tag": "NEWS"
-    },
-    {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-15T13:00:00Z",
-      "short_summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
-      "tag": "NEWS"
-    },
-    {
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "url": "https://arxiv.org/abs/2609.13356",
+      "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+      "url": "https://arxiv.org/abs/2609.16129",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13356v1 Announce Type: new \nAbstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algo...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16129v1 Announce Type: new \nAbstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a par...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-      "url": "https://arxiv.org/abs/2609.13396",
+      "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+      "url": "https://arxiv.org/abs/2609.16145",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13396v1 Announce Type: new \nAbstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with mu...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16145v1 Announce Type: new \nAbstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading i...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.13406",
+      "title": "GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events",
+      "url": "https://arxiv.org/abs/2609.16163",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13406v1 Announce Type: new \nAbstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomo...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16163v1 Announce Type: new \nAbstract: The sharp increase in mass shootings underscores an urgent need for systems that guide victims to safety in real time. An effect...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-      "url": "https://arxiv.org/abs/2609.13422",
+      "title": "Position: AI Is Not Ready for Strategic Conflicts",
+      "url": "https://arxiv.org/abs/2609.16189",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13422v1 Announce Type: new \nAbstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional wo...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16189v1 Announce Type: new \nAbstract: Open-ended strategic wargames are high-stakes LM-based social simulations: they model adversaries, institutions, escalation, pla...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-      "url": "https://arxiv.org/abs/2609.13436",
+      "title": "Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving",
+      "url": "https://arxiv.org/abs/2609.16206",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13436v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human int...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16206v1 Announce Type: new \nAbstract: Disaggregated LLM serving places compute heavy prefill and memory heavy decode on separate GPU pools. Systems such as DistServe,...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-      "url": "https://arxiv.org/abs/2609.13437",
+      "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+      "url": "https://arxiv.org/abs/2609.16213",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13437v1 Announce Type: new \nAbstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded up...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16213v1 Announce Type: new \nAbstract: Artificial intelligence is reshaping biological research across an increasingly connected digital-to-physical workflow. General-...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-      "url": "https://arxiv.org/abs/2609.13457",
+      "title": "Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions",
+      "url": "https://arxiv.org/abs/2609.16215",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-15T04:00:00Z",
-      "short_summary": "arXiv:2609.13457v1 Announce Type: new \nAbstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large langua...",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16215v1 Announce Type: new \nAbstract: GPU high bandwidth memory is scarce and expensive, and KV caches consume much of it as chats, agent loops, and document question...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI",
+      "url": "https://arxiv.org/abs/2609.16232",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16232v1 Announce Type: new \nAbstract: Geospatial artificial intelligence (GeoAI) powered by large language models (LLMs) is expanding the capacity to query, generate,...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Metacognitive Steering: Learning the Structure of Scientific Judgment",
+      "url": "https://arxiv.org/abs/2609.16245",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16245v1 Announce Type: new \nAbstract: Long-horizon scientific discovery requires agents to alternate between exploration, disciplined execution, and critical reassess...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+      "url": "https://arxiv.org/abs/2609.16247",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16247v1 Announce Type: new \nAbstract: Large language models sometimes behave in ways resembling human emotional responses, and recent work has identified internal rep...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design",
+      "url": "https://arxiv.org/abs/2609.16251",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16251v1 Announce Type: new \nAbstract: Computer-use agents are increasingly evaluated in realistic desktop environments, but existing benchmarks provide limited covera...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "The AI-Enabled Scientific Frontier",
+      "url": "https://arxiv.org/abs/2609.16258",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-16T04:00:00Z",
+      "short_summary": "arXiv:2609.16258v1 Announce Type: new \nAbstract: As artificial intelligence's capabilities improve, it is increasingly viewed as a general scientific method. But how true are th...",
       "tag": "RESEARCH"
     }
   ]
