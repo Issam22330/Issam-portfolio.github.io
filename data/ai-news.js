@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-17T04:03:22.679396Z",
+  "last_updated": "2026-09-17T16:31:27.837888Z",
   "items": [
     {
       "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
