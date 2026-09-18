@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-18T03:49:44.642726Z",
+  "last_updated": "2026-09-18T16:02:48.553427Z",
   "items": [
     {
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "source": "Google AI Blog",
-      "published_at": "2026-09-17T20:00:00Z",
-      "short_summary": "UN System Data Commons Data webpage",
+      "published_at": "2026-09-18T14:00:00Z",
+      "short_summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
       "tag": "NEWS"
     },
     {
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "url": "https://arxiv.org/abs/2609.17631",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-18T13:00:00Z",
+      "short_summary": "Jane Wade and Sergio Hudson",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "url": "https://arxiv.org/abs/2609.19170",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17631v1 Announce Type: new \nAbstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history r...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19170v1 Announce Type: new \nAbstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, bu...",
       "tag": "RESEARCH"
     },
     {
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "url": "https://arxiv.org/abs/2609.17632",
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "url": "https://arxiv.org/abs/2609.19180",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17632v1 Announce Type: new \nAbstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often co...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19180v1 Announce Type: new \nAbstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, fa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "One Color Preprocessing Improves DSATUR",
-      "url": "https://arxiv.org/abs/2609.17633",
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "url": "https://arxiv.org/abs/2609.19182",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17633v1 Announce Type: new \nAbstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing coloring...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19182v1 Announce Type: new \nAbstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone re...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "url": "https://arxiv.org/abs/2609.17635",
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "url": "https://arxiv.org/abs/2609.19203",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17635v1 Announce Type: new \nAbstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on ...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19203v1 Announce Type: new \nAbstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks rema...",
       "tag": "RESEARCH"
     },
     {
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "url": "https://arxiv.org/abs/2609.17637",
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "url": "https://arxiv.org/abs/2609.19212",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17637v1 Announce Type: new \nAbstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation wit...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19212v1 Announce Type: new \nAbstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelli...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-      "url": "https://arxiv.org/abs/2609.17688",
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "url": "https://arxiv.org/abs/2609.19244",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17688v1 Announce Type: new \nAbstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19244v1 Announce Type: new \nAbstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly underst...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-      "url": "https://arxiv.org/abs/2609.17695",
+      "title": "Do AI Agents Understand Computer Architecture?",
+      "url": "https://arxiv.org/abs/2609.19387",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17695v1 Announce Type: new \nAbstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whet...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19387v1 Announce Type: new \nAbstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed. Such reports establish that a design imp...",
       "tag": "RESEARCH"
     },
     {
-      "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
-      "url": "https://arxiv.org/abs/2609.17696",
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "url": "https://arxiv.org/abs/2609.19391",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17696v1 Announce Type: new \nAbstract: Document repositories evolve continuously. Guidelines and policies are revised, superseded, and re-uploaded, so the same content...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19391v1 Announce Type: new \nAbstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation",
-      "url": "https://arxiv.org/abs/2609.17699",
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.19425",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17699v1 Announce Type: new \nAbstract: We present NeMo Data Designer (NDD), an open-source, general-purpose framework for multi-modal synthetic data generation (SDG). ...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19425v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call to...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products",
-      "url": "https://arxiv.org/abs/2609.17731",
+      "title": "The syntax and semantics of goals",
+      "url": "https://arxiv.org/abs/2609.19448",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17731v1 Announce Type: new \nAbstract: High-resolution land use and land cover (LULC) products derived from Sentinel-2 imagery are widely used for environmental monito...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Imitation Learning for Autonomous Driving in CARLA",
-      "url": "https://arxiv.org/abs/2609.17757",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17757v1 Announce Type: new \nAbstract: Behavioral cloning trains a policy offline on expert demonstrations, but deployment is closed loop: each action affects the obse...",
+      "published_at": "2026-09-18T04:00:00Z",
+      "short_summary": "arXiv:2609.19448v1 Announce Type: new \nAbstract: In both cognitive science and computer science, goals are conceptualized as cognitive states that flexibly combine with world kn...",
       "tag": "RESEARCH"
     }
   ]
