@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-17T16:31:27.837888Z",
+  "last_updated": "2026-09-18T03:49:44.642726Z",
   "items": [
+    {
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-17T20:00:00Z",
+      "short_summary": "UN System Data Commons Data webpage",
+      "tag": "NEWS"
+    },
     {
       "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
       "url": "https://arxiv.org/abs/2609.17631",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-17T04:00:00Z",
       "short_summary": "arXiv:2609.17757v1 Announce Type: new \nAbstract: Behavioral cloning trains a policy offline on expert demonstrations, but deployment is closed loop: each action affects the obse...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "SAGE: Governed Artifact Generation from Enterprise Guidelines",
-      "url": "https://arxiv.org/abs/2609.17775",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-17T04:00:00Z",
-      "short_summary": "arXiv:2609.17775v1 Announce Type: new \nAbstract: Enterprise guideline documents mix narrative text, complex tables, and embedded images, and converting them into structured work...",
       "tag": "RESEARCH"
     }
   ]
