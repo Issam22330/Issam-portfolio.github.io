@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-19T03:46:38.679324Z",
+  "last_updated": "2026-09-19T15:35:20.169410Z",
   "items": [
     {
       "title": "New experts join Google’s AI & Economy team",
@@ -18,84 +18,84 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
-      "url": "https://arxiv.org/abs/2609.19170",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19170v1 Announce Type: new \nAbstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, bu...",
-      "tag": "RESEARCH"
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-17T20:00:00Z",
+      "short_summary": "UN System Data Commons Data webpage",
+      "tag": "NEWS"
     },
     {
-      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
-      "url": "https://arxiv.org/abs/2609.19180",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19180v1 Announce Type: new \nAbstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, fa...",
-      "tag": "RESEARCH"
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-15T16:00:44Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
-      "url": "https://arxiv.org/abs/2609.19182",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19182v1 Announce Type: new \nAbstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone re...",
-      "tag": "RESEARCH"
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T16:00:00Z",
+      "short_summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "tag": "NEWS"
     },
     {
-      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
-      "url": "https://arxiv.org/abs/2609.19203",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19203v1 Announce Type: new \nAbstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks rema...",
-      "tag": "RESEARCH"
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T16:00:00Z",
+      "short_summary": "B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor",
+      "tag": "NEWS"
     },
     {
-      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
-      "url": "https://arxiv.org/abs/2609.19212",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19212v1 Announce Type: new \nAbstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelli...",
-      "tag": "RESEARCH"
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T16:00:00Z",
+      "short_summary": "Animation of several words in different languages slowly zooming past",
+      "tag": "NEWS"
     },
     {
-      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
-      "url": "https://arxiv.org/abs/2609.19244",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19244v1 Announce Type: new \nAbstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly underst...",
-      "tag": "RESEARCH"
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-15T13:00:00Z",
+      "short_summary": "Text \"AI & Economy Atlas v1.0 2026\" with the Google G and a spinning globe illustration",
+      "tag": "NEWS"
     },
     {
-      "title": "Do AI Agents Understand Computer Architecture?",
-      "url": "https://arxiv.org/abs/2609.19387",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19387v1 Announce Type: new \nAbstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed. Such reports establish that a design imp...",
-      "tag": "RESEARCH"
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-14T19:00:00Z",
+      "short_summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "tag": "NEWS"
     },
     {
-      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
-      "url": "https://arxiv.org/abs/2609.19391",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19391v1 Announce Type: new \nAbstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the ...",
-      "tag": "RESEARCH"
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-14T16:00:00Z",
+      "short_summary": "Animation of the text \"{DevFest} 2026 Join us! Google Developer Groups\" with a globe icon, asterisk icon, < icon, and > icon",
+      "tag": "NEWS"
     },
     {
-      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
-      "url": "https://arxiv.org/abs/2609.19425",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19425v1 Announce Type: new \nAbstract: Tool-augmented large language model (LLM) agents fail in a way no tool-selection or tool-security method addresses: they call to...",
-      "tag": "RESEARCH"
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-10T16:00:00Z",
+      "short_summary": "Illustration on a blue background of technicolor runners with a magnifying glass and Gemini spark overlaid",
+      "tag": "NEWS"
     },
     {
-      "title": "The syntax and semantics of goals",
-      "url": "https://arxiv.org/abs/2609.19448",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-18T04:00:00Z",
-      "short_summary": "arXiv:2609.19448v1 Announce Type: new \nAbstract: In both cognitive science and computer science, goals are conceptualized as cognitive states that flexibly combine with world kn...",
-      "tag": "RESEARCH"
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
