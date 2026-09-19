@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-18T16:02:48.553427Z",
+  "last_updated": "2026-09-19T03:46:38.679324Z",
   "items": [
     {
       "title": "New experts join Google’s AI & Economy team",
