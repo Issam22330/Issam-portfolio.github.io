@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-19T15:35:20.169410Z",
+  "last_updated": "2026-09-20T04:02:55.839410Z",
   "items": [
     {
       "title": "New experts join Google’s AI & Economy team",
@@ -23,14 +23,6 @@ window.aiNewsData = {
       "source": "Google AI Blog",
       "published_at": "2026-09-17T20:00:00Z",
       "short_summary": "UN System Data Commons Data webpage",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-15T16:00:44Z",
-      "short_summary": "",
       "tag": "NEWS"
     },
     {
@@ -90,11 +82,19 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-10T00:00:00Z",
-      "short_summary": "",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-09T16:00:00Z",
+      "short_summary": "An illustrated graphic set against a vibrant green background featuring American football elements, including a gold trophy, a blue helmet, a silver whistle, a football, a mini ...",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-09T16:00:00Z",
+      "short_summary": "An elderly couple sitting in a movie theater. Overlayed are \"Teulluride Film Festival\" and \"Love, Rendered\"",
       "tag": "NEWS"
     }
   ]
