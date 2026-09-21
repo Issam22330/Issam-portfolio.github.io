@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-21T04:00:05.155720Z",
+  "last_updated": "2026-09-21T18:00:54.555216Z",
   "items": [
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-21T13:44:34Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
       "url": "https://arxiv.org/abs/2609.20971",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-21T04:00:00Z",
       "short_summary": "arXiv:2609.21181v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but ofte...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-      "url": "https://arxiv.org/abs/2609.21192",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-21T04:00:00Z",
-      "short_summary": "arXiv:2609.21192v1 Announce Type: new \nAbstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must estab...",
       "tag": "RESEARCH"
     }
   ]
