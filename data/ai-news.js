@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-21T18:00:54.555216Z",
+  "last_updated": "2026-09-22T03:57:30.226371Z",
   "items": [
     {
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
