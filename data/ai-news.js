@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-22T16:33:02.399104Z",
+  "last_updated": "2026-09-23T03:55:10.511653Z",
   "items": [
     {
       "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
