@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-23T03:55:10.511653Z",
+  "last_updated": "2026-09-23T16:23:02.836429Z",
   "items": [
     {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "url": "https://arxiv.org/abs/2609.20971",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-23T13:17:01Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+      "url": "https://arxiv.org/abs/2609.22161",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire ...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patie...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "url": "https://arxiv.org/abs/2609.20974",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "url": "https://arxiv.org/abs/2609.22277",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.20974v1 Announce Type: new \nAbstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utili...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22277v1 Announce Type: new \nAbstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or prov...",
       "tag": "RESEARCH"
     },
     {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "url": "https://arxiv.org/abs/2609.20981",
+      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
+      "url": "https://arxiv.org/abs/2609.22353",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.20981v1 Announce Type: new \nAbstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal str...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22353v1 Announce Type: new \nAbstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "url": "https://arxiv.org/abs/2609.21061",
+      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
+      "url": "https://arxiv.org/abs/2609.22408",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21061v1 Announce Type: new \nAbstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning i...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22408v1 Announce Type: new \nAbstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "url": "https://arxiv.org/abs/2609.21096",
+      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
+      "url": "https://arxiv.org/abs/2609.22410",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21096v1 Announce Type: new \nAbstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinat...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22410v1 Announce Type: new \nAbstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "url": "https://arxiv.org/abs/2609.21113",
+      "title": "Goal-driven Variant Categorization",
+      "url": "https://arxiv.org/abs/2609.22475",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21113v1 Announce Type: new \nAbstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshape...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22475v1 Announce Type: new \nAbstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "url": "https://arxiv.org/abs/2609.21139",
+      "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
+      "url": "https://arxiv.org/abs/2609.22478",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21139v1 Announce Type: new \nAbstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations ...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22478v1 Announce Type: new \nAbstract: Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrument, or both di...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "url": "https://arxiv.org/abs/2609.21149",
+      "title": "The Wisdom of Artificial Deliberative Crowds",
+      "url": "https://arxiv.org/abs/2609.22497",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21149v1 Announce Type: new \nAbstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these t...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22497v1 Announce Type: new \nAbstract: The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdom of crowds. ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
-      "url": "https://arxiv.org/abs/2609.21157",
+      "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
+      "url": "https://arxiv.org/abs/2609.22512",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21157v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly being explored for chip design, but most existing approaches operate directly...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22512v1 Announce Type: new \nAbstract: Consensus among LLM judges is often taken as strong evidence that a decision is correct. This assumes that judges make their err...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
-      "url": "https://arxiv.org/abs/2609.21165",
+      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
+      "url": "https://arxiv.org/abs/2609.22529",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21165v1 Announce Type: new \nAbstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular des...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22529v1 Announce Type: new \nAbstract: International law provides the normative framework through which states coordinate action, regulate armed conflict, and protect ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
-      "url": "https://arxiv.org/abs/2609.21181",
+      "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
+      "url": "https://arxiv.org/abs/2609.22537",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21181v1 Announce Type: new \nAbstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but ofte...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-      "url": "https://arxiv.org/abs/2609.21192",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-22T04:00:00Z",
-      "short_summary": "arXiv:2609.21192v1 Announce Type: new \nAbstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must estab...",
+      "published_at": "2026-09-23T04:00:00Z",
+      "short_summary": "arXiv:2609.22537v1 Announce Type: new \nAbstract: Enterprise AI assistants must produce responses that are verifiable and traceable to source evidence. However, retrieval augment...",
       "tag": "RESEARCH"
     }
   ]
