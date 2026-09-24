@@ -1,12 +1,20 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-23T16:23:02.836429Z",
+  "last_updated": "2026-09-24T03:48:07.635063Z",
   "items": [
     {
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "source": "Hugging Face Blog",
-      "published_at": "2026-09-23T13:17:01Z",
+      "published_at": "2026-09-23T18:41:40Z",
       "short_summary": "",
+      "tag": "ROBOTICS"
+    },
+    {
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-23T18:00:00Z",
+      "short_summary": "Google Beam promotional animation",
       "tag": "NEWS"
     },
     {
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-23T04:00:00Z",
       "short_summary": "arXiv:2609.22529v1 Announce Type: new \nAbstract: International law provides the normative framework through which states coordinate action, regulate armed conflict, and protect ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "EvidenT: Building Trustworthy Enterprise Assistants through Evidence Groundedness and Traceability",
-      "url": "https://arxiv.org/abs/2609.22537",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22537v1 Announce Type: new \nAbstract: Enterprise AI assistants must produce responses that are verifiable and traceable to source evidence. However, retrieval augment...",
       "tag": "RESEARCH"
     }
   ]
