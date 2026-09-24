@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-24T03:48:07.635063Z",
+  "last_updated": "2026-09-24T16:44:58.806092Z",
   "items": [
     {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "source": "Hugging Face Blog",
-      "published_at": "2026-09-23T18:41:40Z",
+      "published_at": "2026-09-24T14:08:57Z",
       "short_summary": "",
-      "tag": "ROBOTICS"
+      "tag": "MODEL"
     },
     {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-23T18:00:00Z",
-      "short_summary": "Google Beam promotional animation",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
-      "url": "https://arxiv.org/abs/2609.22161",
+      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+      "url": "https://arxiv.org/abs/2609.26836",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patie...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchma...",
       "tag": "RESEARCH"
     },
     {
-      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
-      "url": "https://arxiv.org/abs/2609.22277",
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "url": "https://arxiv.org/abs/2609.26891",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22277v1 Announce Type: new \nAbstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or prov...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation",
-      "url": "https://arxiv.org/abs/2609.22353",
+      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "url": "https://arxiv.org/abs/2609.26911",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22353v1 Announce Type: new \nAbstract: Mobile river monitoring robots must interpret obstacles and water boundaries that geographic waypoints alone cannot describe. On...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify inter...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Social Influence and the Allocation of Scientific Attention in AI Populations",
-      "url": "https://arxiv.org/abs/2609.22408",
+      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
+      "url": "https://arxiv.org/abs/2609.26927",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22408v1 Announce Type: new \nAbstract: AI systems are becoming participants in the evaluation and use of scientific research. They encounter citation counts, download ...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between human...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Learning 3D biophysical cell properties from 2D images and cell-population statistics",
-      "url": "https://arxiv.org/abs/2609.22410",
+      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
+      "url": "https://arxiv.org/abs/2609.26929",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22410v1 Announce Type: new \nAbstract: Inferring 3D cellular properties from 2D microscopy is difficult when a reference instrument reports only population statistics ...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26929v1 Announce Type: new \nAbstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment theref...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Goal-driven Variant Categorization",
-      "url": "https://arxiv.org/abs/2609.22475",
+      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
+      "url": "https://arxiv.org/abs/2609.26952",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22475v1 Announce Type: new \nAbstract: Process discovery rarely yields a single coherent process structure. For analysis, a common step is to cluster process variants ...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26952v1 Announce Type: new \nAbstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compat...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Replication Without Persistence in Hosted LLMs: Measurement Sensitivity in Action-Time Belief Evaluation",
-      "url": "https://arxiv.org/abs/2609.22478",
+      "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
+      "url": "https://arxiv.org/abs/2609.26986",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22478v1 Announce Type: new \nAbstract: Behavioural evaluations of hosted language models can vary because the evaluated service, the measurement instrument, or both di...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.26986v1 Announce Type: new \nAbstract: For multimodal large language models, when images or speech conflict with accompanying text, measured text reliance can entangle...",
       "tag": "RESEARCH"
     },
     {
-      "title": "The Wisdom of Artificial Deliberative Crowds",
-      "url": "https://arxiv.org/abs/2609.22497",
+      "title": "Reinforcement Learning with Decomposed Subtasks",
+      "url": "https://arxiv.org/abs/2609.27035",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22497v1 Announce Type: new \nAbstract: The aggregation of many lay estimates often outperforms individual expert judgment, a phenomenon known as the wisdom of crowds. ...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.27035v1 Announce Type: new \nAbstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an ent...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Agreement Overstates Evidence: Error Dependence in LLM Judge Consensus",
-      "url": "https://arxiv.org/abs/2609.22512",
+      "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
+      "url": "https://arxiv.org/abs/2609.27037",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22512v1 Announce Type: new \nAbstract: Consensus among LLM judges is often taken as strong evidence that a decision is correct. This assumes that judges make their err...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.27037v1 Announce Type: new \nAbstract: Wake word detection is a critical component of virtual assistants, serving as the gateway to seamless user interactions. This pa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "IntLawNER: A Named Entity Recognition Dataset and Benchmark in International Law",
-      "url": "https://arxiv.org/abs/2609.22529",
+      "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
+      "url": "https://arxiv.org/abs/2609.27038",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-23T04:00:00Z",
-      "short_summary": "arXiv:2609.22529v1 Announce Type: new \nAbstract: International law provides the normative framework through which states coordinate action, regulate armed conflict, and protect ...",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.27038v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring assumes that the reasoning a model writes reflects the computation that directly produces its ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
+      "url": "https://arxiv.org/abs/2609.27041",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-24T04:00:00Z",
+      "short_summary": "arXiv:2609.27041v1 Announce Type: new \nAbstract: Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal computation ...",
       "tag": "RESEARCH"
     }
   ]
