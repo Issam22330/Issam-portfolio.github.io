@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-24T16:44:58.806092Z",
+  "last_updated": "2026-09-25T04:03:28.007143Z",
   "items": [
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-24T14:08:57Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-      "url": "https://arxiv.org/abs/2609.26836",
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "url": "https://arxiv.org/abs/2609.28475",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26836v1 Announce Type: new \nAbstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchma...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28475v1 Announce Type: new \nAbstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-      "url": "https://arxiv.org/abs/2609.26891",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "url": "https://arxiv.org/abs/2609.28506",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26891v1 Announce Type: new \nAbstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set ...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28506v1 Announce Type: new \nAbstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank,...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-      "url": "https://arxiv.org/abs/2609.26911",
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "url": "https://arxiv.org/abs/2609.28547",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26911v1 Announce Type: new \nAbstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify inter...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28547v1 Announce Type: new \nAbstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets fo...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-      "url": "https://arxiv.org/abs/2609.26927",
+      "title": "Pistis Technical Report",
+      "url": "https://arxiv.org/abs/2609.28554",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26927v1 Announce Type: new \nAbstract: The objective of this article is to provide design principles and a software architecture for enabling interaction between human...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28554v1 Announce Type: new \nAbstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwe...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-      "url": "https://arxiv.org/abs/2609.26929",
+      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+      "url": "https://arxiv.org/abs/2609.28557",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26929v1 Announce Type: new \nAbstract: People hold diverse, sometimes conflicting values, so no single aligned model can satisfy everyone. Pluralistic alignment theref...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28557v1 Announce Type: new \nAbstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by wor...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-      "url": "https://arxiv.org/abs/2609.26952",
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "url": "https://arxiv.org/abs/2609.28570",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26952v1 Announce Type: new \nAbstract: Dependency conflicts in Python ecosystems arise from incompatible version constraints, missing packages, and undocumented compat...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28570v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on h...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
-      "url": "https://arxiv.org/abs/2609.26986",
+      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+      "url": "https://arxiv.org/abs/2609.28575",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.26986v1 Announce Type: new \nAbstract: For multimodal large language models, when images or speech conflict with accompanying text, measured text reliance can entangle...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28575v1 Announce Type: new \nAbstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving us...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Reinforcement Learning with Decomposed Subtasks",
-      "url": "https://arxiv.org/abs/2609.27035",
+      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+      "url": "https://arxiv.org/abs/2609.28609",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.27035v1 Announce Type: new \nAbstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an ent...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28609v1 Announce Type: new \nAbstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
-      "url": "https://arxiv.org/abs/2609.27037",
+      "title": "Training Object Permanence in World Models",
+      "url": "https://arxiv.org/abs/2609.28654",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.27037v1 Announce Type: new \nAbstract: Wake word detection is a critical component of virtual assistants, serving as the gateway to seamless user interactions. This pa...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28654v1 Announce Type: new \nAbstract: Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a para...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
-      "url": "https://arxiv.org/abs/2609.27038",
+      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+      "url": "https://arxiv.org/abs/2609.28690",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.27038v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring assumes that the reasoning a model writes reflects the computation that directly produces its ...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28690v1 Announce Type: new \nAbstract: Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. However, plausible indiv...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Math Reasoning in LLMs is Organized by Approach, Not Topic",
-      "url": "https://arxiv.org/abs/2609.27041",
+      "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+      "url": "https://arxiv.org/abs/2609.28692",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-24T04:00:00Z",
-      "short_summary": "arXiv:2609.27041v1 Announce Type: new \nAbstract: Mathematical reasoning benchmarks are typically organized by topic, but language models may organize their internal computation ...",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28692v1 Announce Type: new \nAbstract: Artificial Intelligence agents based on large language models provide convenient natural language interfaces to scientific softw...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "url": "https://arxiv.org/abs/2609.28693",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-25T04:00:00Z",
+      "short_summary": "arXiv:2609.28693v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with acc...",
       "tag": "RESEARCH"
     }
   ]
