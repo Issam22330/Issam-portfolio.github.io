@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-25T04:03:28.007143Z",
+  "last_updated": "2026-09-25T16:49:47.815215Z",
   "items": [
     {
       "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
