@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-26T04:08:46.057866Z",
+  "last_updated": "2026-09-26T16:01:05.814801Z",
   "items": [
     {
       "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
