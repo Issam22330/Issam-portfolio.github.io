@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-25T16:49:47.815215Z",
+  "last_updated": "2026-09-26T04:08:46.057866Z",
   "items": [
     {
-      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-      "url": "https://arxiv.org/abs/2609.28475",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28475v1 Announce Type: new \nAbstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear...",
-      "tag": "RESEARCH"
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-24T14:08:57Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-      "url": "https://arxiv.org/abs/2609.28506",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28506v1 Announce Type: new \nAbstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank,...",
-      "tag": "RESEARCH"
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-23T18:41:40Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
     },
     {
-      "title": "PAWS: Policy-driven Agentic World Simulation",
-      "url": "https://arxiv.org/abs/2609.28547",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28547v1 Announce Type: new \nAbstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets fo...",
-      "tag": "RESEARCH"
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-23T18:00:00Z",
+      "short_summary": "Google Beam promotional animation",
+      "tag": "NEWS"
     },
     {
-      "title": "Pistis Technical Report",
-      "url": "https://arxiv.org/abs/2609.28554",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28554v1 Announce Type: new \nAbstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwe...",
-      "tag": "RESEARCH"
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-22T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "url": "https://arxiv.org/abs/2609.28557",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28557v1 Announce Type: new \nAbstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by wor...",
-      "tag": "RESEARCH"
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-22T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-      "url": "https://arxiv.org/abs/2609.28570",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28570v1 Announce Type: new \nAbstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on h...",
-      "tag": "RESEARCH"
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-22T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-      "url": "https://arxiv.org/abs/2609.28575",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28575v1 Announce Type: new \nAbstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving us...",
-      "tag": "RESEARCH"
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-21T13:44:34Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-      "url": "https://arxiv.org/abs/2609.28609",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28609v1 Announce Type: new \nAbstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social ...",
-      "tag": "RESEARCH"
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-21T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Training Object Permanence in World Models",
-      "url": "https://arxiv.org/abs/2609.28654",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28654v1 Announce Type: new \nAbstract: Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a para...",
-      "tag": "RESEARCH"
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-18T14:00:00Z",
+      "short_summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "tag": "NEWS"
     },
     {
-      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
-      "url": "https://arxiv.org/abs/2609.28690",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28690v1 Announce Type: new \nAbstract: Faithful user simulation is fundamental to building, evaluating, and improving interactive AI at scale. However, plausible indiv...",
-      "tag": "RESEARCH"
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-18T13:00:00Z",
+      "short_summary": "Jane Wade and Sergio Hudson",
+      "tag": "NEWS"
     },
     {
-      "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
-      "url": "https://arxiv.org/abs/2609.28692",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28692v1 Announce Type: new \nAbstract: Artificial Intelligence agents based on large language models provide convenient natural language interfaces to scientific softw...",
-      "tag": "RESEARCH"
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-17T20:00:00Z",
+      "short_summary": "UN System Data Commons Data webpage",
+      "tag": "NEWS"
     },
     {
-      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
-      "url": "https://arxiv.org/abs/2609.28693",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-25T04:00:00Z",
-      "short_summary": "arXiv:2609.28693v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets. Providing an agent with acc...",
-      "tag": "RESEARCH"
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-15T16:00:44Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
