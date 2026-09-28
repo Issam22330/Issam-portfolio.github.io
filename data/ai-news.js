@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-28T04:23:59.461634Z",
+  "last_updated": "2026-09-28T19:24:21.003141Z",
   "items": [
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-28T19:00:00Z",
+      "short_summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-28T09:44:05Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
       "url": "https://arxiv.org/abs/2609.30291",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-28T04:00:00Z",
       "short_summary": "arXiv:2609.30484v1 Announce Type: new \nAbstract: While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-      "url": "https://arxiv.org/abs/2609.30489",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-28T04:00:00Z",
-      "short_summary": "arXiv:2609.30489v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical sc...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
-      "url": "https://arxiv.org/abs/2609.30550",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-28T04:00:00Z",
-      "short_summary": "arXiv:2609.30550v1 Announce Type: new \nAbstract: Benchy is a semantic language and execution engine for benchmarking AI programs. A benchmark is completely specified by a progra...",
       "tag": "RESEARCH"
     }
   ]
