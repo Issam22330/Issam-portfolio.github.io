@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-29T04:54:02.128774Z",
+  "last_updated": "2026-09-29T17:51:02.486989Z",
   "items": [
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-29T15:30:38Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-29T13:07:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
       "url": "https://arxiv.org/abs/2609.30291",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-09-29T04:00:00Z",
       "short_summary": "arXiv:2609.30484v1 Announce Type: new \nAbstract: While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
-      "url": "https://arxiv.org/abs/2609.30489",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30489v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical sc...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Benchy: towards a universal language for task-oriented AI benchmarks",
-      "url": "https://arxiv.org/abs/2609.30550",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30550v1 Announce Type: new \nAbstract: Benchy is a semantic language and execution engine for benchmarking AI programs. A benchmark is completely specified by a progra...",
       "tag": "RESEARCH"
     }
   ]
