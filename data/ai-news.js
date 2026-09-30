@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-29T17:51:02.486989Z",
+  "last_updated": "2026-09-30T04:41:12.890186Z",
   "items": [
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-29T15:30:38Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-29T13:07:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "url": "https://arxiv.org/abs/2609.30291",
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "url": "https://arxiv.org/abs/2609.35799",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30291v1 Announce Type: new \nAbstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of A...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35799v1 Announce Type: new \nAbstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "url": "https://arxiv.org/abs/2609.30325",
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.35833",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30325v1 Announce Type: new \nAbstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-sc...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35833v1 Announce Type: new \nAbstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the s...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "url": "https://arxiv.org/abs/2609.30328",
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "url": "https://arxiv.org/abs/2609.35868",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30328v1 Announce Type: new \nAbstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confi...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35868v1 Announce Type: new \nAbstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned trai...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "url": "https://arxiv.org/abs/2609.30341",
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+      "url": "https://arxiv.org/abs/2609.35869",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30341v1 Announce Type: new \nAbstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents re...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35869v1 Announce Type: new \nAbstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokeniser...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems",
-      "url": "https://arxiv.org/abs/2609.30383",
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "url": "https://arxiv.org/abs/2609.35873",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30383v1 Announce Type: new \nAbstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can loa...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35873v1 Announce Type: new \nAbstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-      "url": "https://arxiv.org/abs/2609.30397",
+      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+      "url": "https://arxiv.org/abs/2609.35874",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30397v1 Announce Type: new \nAbstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation proced...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35874v1 Announce Type: new \nAbstract: Online POMDP planners optimize the expected cumulative cost, which can mask dangerous states when the belief places significant ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Predicting Transmembrane Protein Topology from 3D Structure",
-      "url": "https://arxiv.org/abs/2609.30446",
+      "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+      "url": "https://arxiv.org/abs/2609.35875",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30446v1 Announce Type: new \nAbstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. Th...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35875v1 Announce Type: new \nAbstract: Multi-agent debate (MAD) reportedly improves reasoning and factuality over single-model inference, but prior work treats agents ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
-      "url": "https://arxiv.org/abs/2609.30456",
+      "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+      "url": "https://arxiv.org/abs/2609.35890",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30456v1 Announce Type: new \nAbstract: Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, eith...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35890v1 Announce Type: new \nAbstract: Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a model's comp...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-      "url": "https://arxiv.org/abs/2609.30469",
+      "title": "Self-discovering RL in the Era of Experience: Is Learning History an Asset or a Burden?",
+      "url": "https://arxiv.org/abs/2609.35897",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30469v1 Announce Type: new \nAbstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police deci...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35897v1 Announce Type: new \nAbstract: The pursuit of recursive self-improvement (RSI) toward general intelligence is divided between macro-level language model scalin...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework",
-      "url": "https://arxiv.org/abs/2609.30484",
+      "title": "Grab a Coffee: Future-Aware Guidance for Discrete Diffusion with Compiled Objectives",
+      "url": "https://arxiv.org/abs/2609.35924",
       "source": "arXiv cs.AI",
-      "published_at": "2026-09-29T04:00:00Z",
-      "short_summary": "arXiv:2609.30484v1 Announce Type: new \nAbstract: While large language models (LLMs) have achieved remarkable linguistic capabilities, a profound question lingers at their core: ...",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35924v1 Announce Type: new \nAbstract: Discrete diffusion models generate sequences by iteratively resolving multiple tokens in parallel, offering a flexible alternati...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Right Words, Wrong Moment: A Clinician-Grounded Analysis of Distress in 19,930 Conversations between Young People and ChatGPT",
+      "url": "https://arxiv.org/abs/2609.35953",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.35953v1 Announce Type: new \nAbstract: Young people increasingly turn to General-Purpose Conversational Agents (GPCAs), such as ChatGPT, in moments of distress. We exa...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "SAGE: A Statistical Acceptance Gate for Self-Evolving Agents",
+      "url": "https://arxiv.org/abs/2609.36043",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-09-30T04:00:00Z",
+      "short_summary": "arXiv:2609.36043v1 Announce Type: new \nAbstract: Large Language Model (LLM)-based agents increasingly self-evolve by editing a persistent skill document that encodes their workf...",
       "tag": "RESEARCH"
     }
   ]
