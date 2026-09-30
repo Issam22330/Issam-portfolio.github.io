@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-09-30T04:41:12.890186Z",
+  "last_updated": "2026-09-30T17:46:25.138661Z",
   "items": [
     {
       "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
