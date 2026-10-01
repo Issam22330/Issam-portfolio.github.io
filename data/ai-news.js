@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-01T04:52:33.355771Z",
+  "last_updated": "2026-10-01T18:12:00.712169Z",
   "items": [
+    {
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-01T15:01:43Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
       "url": "https://arxiv.org/abs/2609.38282",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-01T04:00:00Z",
       "short_summary": "arXiv:2609.38385v1 Announce Type: new \nAbstract: Supervised fine-tuning of discrete diffusion language models masks some response tokens and trains the model to recover their or...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Decode-Latency Feedback Prefill: A Model-Free Controller and Its Generalization Limits",
-      "url": "https://arxiv.org/abs/2609.38386",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-01T04:00:00Z",
-      "short_summary": "arXiv:2609.38386v1 Announce Type: new \nAbstract: Concurrent autoregressive inference creates a fundamental interference problem: prefilling a newly arrived long prompt can delay...",
       "tag": "RESEARCH"
     }
   ]
