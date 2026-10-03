@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-02T17:37:45.876648Z",
+  "last_updated": "2026-10-03T04:25:29.572670Z",
   "items": [
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-02T15:19:50Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-02T15:00:00Z",
-      "short_summary": "A video showing the September AI updates",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-02T04:01:31Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "url": "https://arxiv.org/abs/2610.00010",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usuall...",
+      "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
+      "url": "https://arxiv.org/abs/2610.00002",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00002v1 Announce Type: new \nAbstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"su...",
       "tag": "RESEARCH"
     },
     {
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "url": "https://arxiv.org/abs/2610.00012",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00012v1 Announce Type: new \nAbstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in ...",
+      "title": "How Far is Adam from Natural Gradient Descent?",
+      "url": "https://arxiv.org/abs/2610.00004",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00004v1 Announce Type: new \nAbstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unres...",
       "tag": "RESEARCH"
     },
     {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "url": "https://arxiv.org/abs/2610.00015",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00015v1 Announce Type: new \nAbstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and se...",
+      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
+      "url": "https://arxiv.org/abs/2610.00009",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00009v1 Announce Type: new \nAbstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot pr...",
       "tag": "RESEARCH"
     },
     {
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "url": "https://arxiv.org/abs/2610.00018",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00018v1 Announce Type: new \nAbstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message ac...",
+      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
+      "url": "https://arxiv.org/abs/2610.00035",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00035v1 Announce Type: new \nAbstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transpa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "url": "https://arxiv.org/abs/2610.00025",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00025v1 Announce Type: new \nAbstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (...",
+      "title": "Fast Polynomial Transcendentals for LLMs",
+      "url": "https://arxiv.org/abs/2610.00049",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00049v1 Announce Type: new \nAbstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bo...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-      "url": "https://arxiv.org/abs/2610.00047",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00047v1 Announce Type: new \nAbstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a pro...",
+      "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
+      "url": "https://arxiv.org/abs/2610.00050",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00050v1 Announce Type: new \nAbstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learn...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-      "url": "https://arxiv.org/abs/2610.00061",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00061v1 Announce Type: new \nAbstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggr...",
+      "title": "Format-Aware Fusion for Fast FP4 Pretraining",
+      "url": "https://arxiv.org/abs/2610.00053",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00053v1 Announce Type: new \nAbstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout cons...",
       "tag": "RESEARCH"
     },
     {
-      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-      "url": "https://arxiv.org/abs/2610.00074",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00074v1 Announce Type: new \nAbstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the res...",
+      "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
+      "url": "https://arxiv.org/abs/2610.00083",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00083v1 Announce Type: new \nAbstract: Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantification (UQ) relie...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-      "url": "https://arxiv.org/abs/2610.00084",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-02T04:00:00Z",
-      "short_summary": "arXiv:2610.00084v1 Announce Type: new \nAbstract: Detailed profession-specific system prompts raise token use and estimated cost per response without a consistent accuracy gain. ...",
+      "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
+      "url": "https://arxiv.org/abs/2610.00094",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00094v1 Announce Type: new \nAbstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "One Mastery Threshold Does Not Fit All Knowledge Tracing Models",
+      "url": "https://arxiv.org/abs/2610.00095",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00095v1 Announce Type: new \nAbstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshol...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Uncertainty-Aware Learning from Multi-Expert Interval Targets",
+      "url": "https://arxiv.org/abs/2610.00102",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00102v1 Announce Type: new \nAbstract: Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plausible interpr...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
+      "url": "https://arxiv.org/abs/2610.00118",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-10-03T04:00:00Z",
+      "short_summary": "arXiv:2610.00118v1 Announce Type: new \nAbstract: Customer churn prediction on the IBM Telco Customer Churn benchmark (n = 7,043) routinely reports test accuracies above 95%, wit...",
       "tag": "RESEARCH"
     }
   ]
