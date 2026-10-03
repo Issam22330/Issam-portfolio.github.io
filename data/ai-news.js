@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-03T04:25:29.572670Z",
+  "last_updated": "2026-10-03T15:55:35.181567Z",
   "items": [
     {
       "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
