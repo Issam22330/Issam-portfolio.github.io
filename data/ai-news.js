@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-03T15:55:35.181567Z",
+  "last_updated": "2026-10-04T04:56:39.789929Z",
   "items": [
     {
-      "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
-      "url": "https://arxiv.org/abs/2610.00002",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00002v1 Announce Type: new \nAbstract: We introduce reverse Item Response Theory (IRT) to pharmacogenomic drug-response analysis by treating cancer types as latent \"su...",
-      "tag": "RESEARCH"
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-03T22:56:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "How Far is Adam from Natural Gradient Descent?",
-      "url": "https://arxiv.org/abs/2610.00004",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00004v1 Announce Type: new \nAbstract: Adam is the standard optimizer in deep learning, yet its geometric relationship to natural gradient descent (NGD) contains unres...",
-      "tag": "RESEARCH"
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-02T15:19:50Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law",
-      "url": "https://arxiv.org/abs/2610.00009",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00009v1 Announce Type: new \nAbstract: Frequency-collapse attention [Zeris, 2026e] achieves large gains over standard dot-product attention by replacing the Q/K dot pr...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-02T15:00:00Z",
+      "short_summary": "A video showing the September AI updates",
+      "tag": "BREAKING"
     },
     {
-      "title": "Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System",
-      "url": "https://arxiv.org/abs/2610.00035",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00035v1 Announce Type: new \nAbstract: Predicting student performance from educational interaction data requires models that are both accurate and sufficiently transpa...",
-      "tag": "RESEARCH"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-02T04:01:31Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Fast Polynomial Transcendentals for LLMs",
-      "url": "https://arxiv.org/abs/2610.00049",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00049v1 Announce Type: new \nAbstract: Graphics processing unit (GPU) generations scale matrix, special-function, and memory pipelines at different rates, so kernel bo...",
-      "tag": "RESEARCH"
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-30T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials",
-      "url": "https://arxiv.org/abs/2610.00050",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00050v1 Announce Type: new \nAbstract: Kolmogorov-Arnold Networks (KANs) represent a paradigmatic shift in deep learning by replacing fixed node activations with learn...",
-      "tag": "RESEARCH"
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-29T15:30:38Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Format-Aware Fusion for Fast FP4 Pretraining",
-      "url": "https://arxiv.org/abs/2610.00053",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00053v1 Announce Type: new \nAbstract: Four-bit floating-point (FP4) Tensor Cores accelerate matrix multiplication, but scale computation, operand packing, layout cons...",
-      "tag": "RESEARCH"
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-29T13:07:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "\"very likely\" Means \"uncertain\"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification",
-      "url": "https://arxiv.org/abs/2610.00083",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00083v1 Announce Type: new \nAbstract: Humans express uncertainty verbally via markers (e.g., \"possible,\" \"likely\"), yet most LLM uncertainty quantification (UQ) relie...",
-      "tag": "RESEARCH"
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-28T19:00:00Z",
+      "short_summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "tag": "NEWS"
     },
     {
-      "title": "Nous: Learning and Certifying Memory Decisions Before Source Calibration",
-      "url": "https://arxiv.org/abs/2610.00094",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00094v1 Announce Type: new \nAbstract: Belief-based agent memory needs reliable decisions about current state, yet its evidence may be noisy, copied, or stale. Must a ...",
-      "tag": "RESEARCH"
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-28T09:44:05Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "One Mastery Threshold Does Not Fit All Knowledge Tracing Models",
-      "url": "https://arxiv.org/abs/2610.00095",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00095v1 Announce Type: new \nAbstract: Tutoring systems use mastery thresholds to decide when students can stop practicing and advance, but the same numerical threshol...",
-      "tag": "RESEARCH"
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-24T14:08:57Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Uncertainty-Aware Learning from Multi-Expert Interval Targets",
-      "url": "https://arxiv.org/abs/2610.00102",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00102v1 Announce Type: new \nAbstract: Many machine learning (ML) applications rely on expert labels, and qualified experts may provide different but plausible interpr...",
-      "tag": "RESEARCH"
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-23T18:00:00Z",
+      "short_summary": "Google Beam promotional animation",
+      "tag": "NEWS"
     },
     {
-      "title": "The Hidden Costs of 99% Accuracy: A Trustworthiness Audit of the Telco Customer Churn Benchmark",
-      "url": "https://arxiv.org/abs/2610.00118",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-10-03T04:00:00Z",
-      "short_summary": "arXiv:2610.00118v1 Announce Type: new \nAbstract: Customer churn prediction on the IBM Telco Customer Churn benchmark (n = 7,043) routinely reports test accuracies above 95%, wit...",
-      "tag": "RESEARCH"
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-22T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
