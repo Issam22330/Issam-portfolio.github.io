@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-04T04:56:39.789929Z",
+  "last_updated": "2026-10-04T16:37:46.480049Z",
   "items": [
     {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
