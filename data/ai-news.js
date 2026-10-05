@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-05T04:43:53.006099Z",
+  "last_updated": "2026-10-05T20:27:05.309116Z",
   "items": [
     {
       "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
