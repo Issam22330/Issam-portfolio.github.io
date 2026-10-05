@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-04T16:37:46.480049Z",
+  "last_updated": "2026-10-05T04:43:53.006099Z",
   "items": [
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-03T22:56:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "url": "https://arxiv.org/abs/2610.02260",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02260v1 Announce Type: new \nAbstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-02T15:19:50Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02267v1 Announce Type: new \nAbstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is rel...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-02T15:00:00Z",
-      "short_summary": "A video showing the September AI updates",
-      "tag": "BREAKING"
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "url": "https://arxiv.org/abs/2610.02281",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02281v1 Announce Type: new \nAbstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can ann...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-02T04:01:31Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02300v1 Announce Type: new \nAbstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or glo...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-30T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02330v1 Announce Type: new \nAbstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter t...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-29T15:30:38Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "url": "https://arxiv.org/abs/2610.02331",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02331v1 Announce Type: new \nAbstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-29T13:07:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+      "url": "https://arxiv.org/abs/2610.02342",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02342v1 Announce Type: new \nAbstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-28T19:00:00Z",
-      "short_summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "tag": "NEWS"
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "url": "https://arxiv.org/abs/2610.02351",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02351v1 Announce Type: new \nAbstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a ta...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-28T09:44:05Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+      "url": "https://arxiv.org/abs/2610.02372",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02372v1 Announce Type: new \nAbstract: Text-to-image generation enables users to explore several images generated from the same prompt. For these generated images to b...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-24T14:08:57Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "THPL: A Vision-to-Language Decision Support Framework for Rainbow Trout Feeding Management in RAS",
+      "url": "https://arxiv.org/abs/2610.02378",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02378v1 Announce Type: new \nAbstract: In Recirculating Aquaculture Systems (RAS), precision feeding is critical for minimizing costs and improving fish welfare. Howev...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-23T18:00:00Z",
-      "short_summary": "Google Beam promotional animation",
-      "tag": "NEWS"
+      "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+      "url": "https://arxiv.org/abs/2610.02395",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02395v1 Announce Type: new \nAbstract: Streaming GPU solvers for entropic optimal transport (EOT), such as FlashSinkhorn, avoid storing the dense kernel but still eval...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-22T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+      "url": "https://arxiv.org/abs/2610.02405",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-05T04:00:00Z",
+      "short_summary": "arXiv:2610.02405v1 Announce Type: new \nAbstract: Using a frontier model like Claude Opus as a meta-agent to generate terminal tasks and verifiers for RL training is increasingly...",
+      "tag": "RESEARCH"
     }
   ]
 };
