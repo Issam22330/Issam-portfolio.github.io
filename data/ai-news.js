@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-06T05:30:22.897141Z",
+  "last_updated": "2026-10-06T18:04:57.479995Z",
   "items": [
+    {
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-06T06:44:39Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -88,14 +96,6 @@ window.aiNewsData = {
       "published_at": "2026-09-24T14:08:57Z",
       "short_summary": "",
       "tag": "MODEL"
-    },
-    {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-23T18:00:00Z",
-      "short_summary": "Google Beam promotional animation",
-      "tag": "NEWS"
     }
   ]
 };
