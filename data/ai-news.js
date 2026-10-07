@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-07T05:00:08.191117Z",
+  "last_updated": "2026-10-07T18:37:54.099883Z",
   "items": [
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T16:54:33Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T12:45:31Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00Z",
+      "short_summary": "Overview of Playground",
+      "tag": "NEWS"
+    },
     {
       "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
       "url": "https://arxiv.org/abs/2610.06910",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-07T04:00:00Z",
       "short_summary": "arXiv:2610.06986v1 Announce Type: new \nAbstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing syst...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
-      "url": "https://arxiv.org/abs/2610.06992",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-07T04:00:00Z",
-      "short_summary": "arXiv:2610.06992v1 Announce Type: new \nAbstract: Improved traffic forecasts do not necessarily yield better signal-control decisions. We investigate this gap through a layered d...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
-      "url": "https://arxiv.org/abs/2610.06995",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-07T04:00:00Z",
-      "short_summary": "arXiv:2610.06995v1 Announce Type: new \nAbstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this ques...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
-      "url": "https://arxiv.org/abs/2610.07004",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-07T04:00:00Z",
-      "short_summary": "arXiv:2610.07004v1 Announce Type: new \nAbstract: Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. While existing ...",
       "tag": "RESEARCH"
     }
   ]
