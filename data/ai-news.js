@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-06T18:04:57.479995Z",
+  "last_updated": "2026-10-07T05:00:08.191117Z",
   "items": [
     {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-06T06:44:39Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "url": "https://arxiv.org/abs/2610.06910",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06910v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with brows...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-03T22:56:48Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06914v1 Announce Type: new \nAbstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An i...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-02T15:19:50Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "url": "https://arxiv.org/abs/2610.06917",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06917v1 Announce Type: new \nAbstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct ex...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-02T15:00:00Z",
-      "short_summary": "A video showing the September AI updates",
-      "tag": "BREAKING"
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "url": "https://arxiv.org/abs/2610.06919",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06919v1 Announce Type: new \nAbstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-02T04:01:31Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "url": "https://arxiv.org/abs/2610.06923",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06923v1 Announce Type: new \nAbstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stag...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-30T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "url": "https://arxiv.org/abs/2610.06928",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06928v1 Announce Type: new \nAbstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential ev...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-29T15:30:38Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+      "url": "https://arxiv.org/abs/2610.06964",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06964v1 Announce Type: new \nAbstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to contin...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-29T13:07:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+      "url": "https://arxiv.org/abs/2610.06971",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06971v1 Announce Type: new \nAbstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-28T19:00:00Z",
-      "short_summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "tag": "NEWS"
+      "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+      "url": "https://arxiv.org/abs/2610.06986",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06986v1 Announce Type: new \nAbstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing syst...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-28T09:44:05Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "When better traffic forecasts fail to improve signal control: a layered diagnostic study of forecast-to-decision value",
+      "url": "https://arxiv.org/abs/2610.06992",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06992v1 Announce Type: new \nAbstract: Improved traffic forecasts do not necessarily yield better signal-control decisions. We investigate this gap through a layered d...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Welcome RL Environments to the hub",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-28T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+      "url": "https://arxiv.org/abs/2610.06995",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.06995v1 Announce Type: new \nAbstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this ques...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-09-24T14:08:57Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Topology-Consistent Task Planning over Cellular Workflow Complexes for LLM-based Agents",
+      "url": "https://arxiv.org/abs/2610.07004",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-07T04:00:00Z",
+      "short_summary": "arXiv:2610.07004v1 Announce Type: new \nAbstract: Task planning for LLM agents requires workflows that satisfy both user intent and complex sub-task dependencies. While existing ...",
+      "tag": "RESEARCH"
     }
   ]
 };
