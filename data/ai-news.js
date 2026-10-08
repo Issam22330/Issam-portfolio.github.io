@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-08T05:10:26.409225Z",
+  "last_updated": "2026-10-08T18:36:31.304902Z",
   "items": [
     {
       "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
