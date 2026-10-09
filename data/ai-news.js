@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-09T05:13:32.230216Z",
+  "last_updated": "2026-10-09T18:07:25.406834Z",
   "items": [
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-09T15:20:29Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
       "url": "https://arxiv.org/abs/2610.10541",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-09T04:00:00Z",
       "short_summary": "arXiv:2610.10906v1 Announce Type: new \nAbstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior,...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
-      "url": "https://arxiv.org/abs/2610.10942",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10942v1 Announce Type: new \nAbstract: Reinforcement learning environments are now a primary lever for improving large language model (LLM) capabilities in post-traini...",
       "tag": "RESEARCH"
     }
   ]
