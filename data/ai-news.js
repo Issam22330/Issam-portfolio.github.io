@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-09T18:07:25.406834Z",
+  "last_updated": "2026-10-10T04:58:33.214259Z",
   "items": [
     {
       "title": "Impactful scheduling for GPU clusters",
@@ -10,92 +10,92 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "url": "https://arxiv.org/abs/2610.10541",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used b...",
-      "tag": "RESEARCH"
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "url": "https://arxiv.org/abs/2610.10549",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10549v1 Announce Type: new \nAbstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained...",
-      "tag": "RESEARCH"
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T16:54:33Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "url": "https://arxiv.org/abs/2610.10590",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10590v1 Announce Type: new \nAbstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study a...",
-      "tag": "RESEARCH"
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T13:21:03Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "url": "https://arxiv.org/abs/2610.10611",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10611v1 Announce Type: new \nAbstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outpu...",
-      "tag": "RESEARCH"
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T12:45:31Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "url": "https://arxiv.org/abs/2610.10629",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10629v1 Announce Type: new \nAbstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact...",
-      "tag": "RESEARCH"
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00Z",
+      "short_summary": "Overview of Playground",
+      "tag": "NEWS"
     },
     {
-      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-      "url": "https://arxiv.org/abs/2610.10635",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10635v1 Announce Type: new \nAbstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas us...",
-      "tag": "RESEARCH"
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-03T22:56:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "url": "https://arxiv.org/abs/2610.10786",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10786v1 Announce Type: new \nAbstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use,...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-02T15:00:00Z",
+      "short_summary": "A video showing the September AI updates",
+      "tag": "BREAKING"
     },
     {
-      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "url": "https://arxiv.org/abs/2610.10805",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10805v1 Announce Type: new \nAbstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an im...",
-      "tag": "RESEARCH"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-02T04:01:31Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-      "url": "https://arxiv.org/abs/2610.10833",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10833v1 Announce Type: new \nAbstract: We study whether small LLM agents can operate effectively under explicit wall-clock time budgets by both respecting the allocate...",
-      "tag": "RESEARCH"
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-30T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-      "url": "https://arxiv.org/abs/2610.10857",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10857v1 Announce Type: new \nAbstract: Behavior cloning (BC) in non-Markovian environments is a challenging problem because policies have to reason over contextual inf...",
-      "tag": "RESEARCH"
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-29T13:07:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
-      "url": "https://arxiv.org/abs/2610.10906",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-09T04:00:00Z",
-      "short_summary": "arXiv:2610.10906v1 Announce Type: new \nAbstract: Human communities are governed by normative systems: shared standards that produce \\textit{norms} dictating acceptable behavior,...",
-      "tag": "RESEARCH"
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-28T19:00:00Z",
+      "short_summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "tag": "NEWS"
     }
   ]
 };
