@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-11T04:46:25.876905Z",
+  "last_updated": "2026-10-11T17:29:57.600287Z",
   "items": [
     {
       "title": "Impactful scheduling for GPU clusters",
