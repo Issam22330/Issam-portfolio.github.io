@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-12T05:01:59.535647Z",
+  "last_updated": "2026-10-12T21:03:07.464432Z",
   "items": [
     {
       "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
