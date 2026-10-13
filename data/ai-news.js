@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-13T06:01:57.981689Z",
+  "last_updated": "2026-10-13T19:01:39.957835Z",
   "items": [
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-13T17:05:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-13T16:00:00Z",
+      "short_summary": "TBD",
+      "tag": "NEWS"
+    },
     {
       "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
       "url": "https://arxiv.org/abs/2610.12493",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-13T04:00:00Z",
       "short_summary": "arXiv:2610.12781v1 Announce Type: new \nAbstract: Aligning two independently pretrained unimodal encoders typically demands millions of paired examples. In this paper, we study t...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-      "url": "https://arxiv.org/abs/2610.12789",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12789v1 Announce Type: new \nAbstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedur...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-      "url": "https://arxiv.org/abs/2610.12813",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12813v1 Announce Type: new \nAbstract: LLM agents increasingly operate over sensitive resources, such as private documents and mutable system states, which can create ...",
       "tag": "RESEARCH"
     }
   ]
