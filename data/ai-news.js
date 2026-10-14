@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-14T04:04:57.381877Z",
+  "last_updated": "2026-10-14T16:46:45.965000Z",
   "items": [
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-14T16:12:42Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -15,14 +23,6 @@ window.aiNewsData = {
       "source": "Google AI Blog",
       "published_at": "2026-10-13T16:00:00Z",
       "short_summary": "TBD",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-09T15:20:29Z",
-      "short_summary": "",
       "tag": "NEWS"
     },
     {
