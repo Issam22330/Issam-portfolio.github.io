@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-13T19:01:39.957835Z",
+  "last_updated": "2026-10-14T04:04:57.381877Z",
   "items": [
     {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -18,84 +18,84 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "url": "https://arxiv.org/abs/2610.12493",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12493v1 Announce Type: new \nAbstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning model...",
-      "tag": "RESEARCH"
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-09T15:20:29Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-      "url": "https://arxiv.org/abs/2610.12536",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12536v1 Announce Type: new \nAbstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table ...",
-      "tag": "RESEARCH"
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-      "url": "https://arxiv.org/abs/2610.12542",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12542v1 Announce Type: new \nAbstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never r...",
-      "tag": "RESEARCH"
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T13:21:03Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-      "url": "https://arxiv.org/abs/2610.12593",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12593v1 Announce Type: new \nAbstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis fo...",
-      "tag": "RESEARCH"
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T12:45:31Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "url": "https://arxiv.org/abs/2610.12596",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12596v1 Announce Type: new \nAbstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agenti...",
-      "tag": "RESEARCH"
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00Z",
+      "short_summary": "Overview of Playground",
+      "tag": "NEWS"
     },
     {
-      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-      "url": "https://arxiv.org/abs/2610.12598",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12598v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through exec...",
-      "tag": "RESEARCH"
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-03T22:56:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-      "url": "https://arxiv.org/abs/2610.12655",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12655v1 Announce Type: new \nAbstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and ...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-02T15:00:00Z",
+      "short_summary": "A video showing the September AI updates",
+      "tag": "BREAKING"
     },
     {
-      "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-      "url": "https://arxiv.org/abs/2610.12659",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12659v1 Announce Type: new \nAbstract: Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. However, corpus size alone do...",
-      "tag": "RESEARCH"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-02T04:01:31Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2610.12762",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12762v1 Announce Type: new \nAbstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compa...",
-      "tag": "RESEARCH"
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-30T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-      "url": "https://arxiv.org/abs/2610.12781",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-13T04:00:00Z",
-      "short_summary": "arXiv:2610.12781v1 Announce Type: new \nAbstract: Aligning two independently pretrained unimodal encoders typically demands millions of paired examples. In this paper, we study t...",
-      "tag": "RESEARCH"
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-09-29T13:07:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
