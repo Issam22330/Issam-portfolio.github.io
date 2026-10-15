@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-14T16:46:45.965000Z",
+  "last_updated": "2026-10-15T03:47:20.396112Z",
   "items": [
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
