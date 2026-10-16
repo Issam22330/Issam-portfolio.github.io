@@ -1,13 +1,21 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-15T16:32:49.025118Z",
+  "last_updated": "2026-10-16T03:43:10.651190Z",
   "items": [
     {
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "source": "Hugging Face Blog",
-      "published_at": "2026-10-15T09:08:45Z",
+      "published_at": "2026-10-16T01:44:47Z",
       "short_summary": "",
-      "tag": "BREAKING"
+      "tag": "NEWS"
+    },
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T20:34:01Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
       "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-15T04:00:00Z",
       "short_summary": "arXiv:2610.14209v1 Announce Type: new \nAbstract: The most accurate agents executing user-provided tasks are driven by large, cloud-hosted models, which solve them by reading the...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Harness^2: Recursive Agent Harnessing for an Open World",
-      "url": "https://arxiv.org/abs/2610.14224",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-15T04:00:00Z",
-      "short_summary": "arXiv:2610.14224v1 Announce Type: new \nAbstract: LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improv...",
       "tag": "RESEARCH"
     }
   ]
