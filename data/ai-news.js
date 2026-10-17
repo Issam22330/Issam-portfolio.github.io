@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-17T03:33:07.263453Z",
+  "last_updated": "2026-10-17T15:12:18.462584Z",
   "items": [
     {
-      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
-      "url": "https://arxiv.org/abs/2610.20665",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously c...",
-      "tag": "RESEARCH"
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-16T01:44:47Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Evaluating Model Capabilities After Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2610.20667",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20667v1 Announce Type: new \nAbstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark l...",
-      "tag": "RESEARCH"
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
-      "url": "https://arxiv.org/abs/2610.20669",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20669v1 Announce Type: new \nAbstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SM...",
-      "tag": "RESEARCH"
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T20:34:01Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
-      "url": "https://arxiv.org/abs/2610.20675",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20675v1 Announce Type: new \nAbstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain histor...",
-      "tag": "RESEARCH"
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
-      "url": "https://arxiv.org/abs/2610.20676",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20676v1 Announce Type: new \nAbstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that...",
-      "tag": "RESEARCH"
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.20679",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20679v1 Announce Type: new \nAbstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but s...",
-      "tag": "RESEARCH"
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-14T16:12:42Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-      "url": "https://arxiv.org/abs/2610.20681",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20681v1 Announce Type: new \nAbstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and...",
-      "tag": "RESEARCH"
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-13T17:05:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-      "url": "https://arxiv.org/abs/2610.20685",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20685v1 Announce Type: new \nAbstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, ...",
-      "tag": "RESEARCH"
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-13T16:00:00Z",
+      "short_summary": "TBD",
+      "tag": "NEWS"
     },
     {
-      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-      "url": "https://arxiv.org/abs/2610.20764",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20764v1 Announce Type: new \nAbstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental ...",
-      "tag": "RESEARCH"
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2610.20780",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20780v1 Announce Type: new \nAbstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error i...",
-      "tag": "RESEARCH"
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T13:21:03Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Open-world AI: a Tale of Three Requirements",
-      "url": "https://arxiv.org/abs/2610.20782",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20782v1 Announce Type: new \nAbstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion l...",
-      "tag": "RESEARCH"
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00Z",
+      "short_summary": "Overview of Playground",
+      "tag": "NEWS"
     },
     {
-      "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
-      "url": "https://arxiv.org/abs/2610.20786",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-16T04:00:00Z",
-      "short_summary": "arXiv:2610.20786v1 Announce Type: new \nAbstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains...",
-      "tag": "RESEARCH"
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-03T22:56:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
