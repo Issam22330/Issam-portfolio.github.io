@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-16T16:17:54.070420Z",
+  "last_updated": "2026-10-17T03:33:07.263453Z",
   "items": [
     {
       "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
