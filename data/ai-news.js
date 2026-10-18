@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-17T15:12:18.462584Z",
+  "last_updated": "2026-10-18T03:39:55.188753Z",
   "items": [
     {
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
