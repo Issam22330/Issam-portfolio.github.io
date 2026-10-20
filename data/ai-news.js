@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-19T18:29:44.565236Z",
+  "last_updated": "2026-10-20T04:01:08.758399Z",
   "items": [
     {
-      "title": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-      "url": "https://arxiv.org/abs/2610.22373",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22373v1 Announce Type: new \nAbstract: LLM-based agents are increasingly used as autonomous orchestrators in distributed and multi-agent systems, yet a control gap rem...",
-      "tag": "RESEARCH"
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-19T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-      "url": "https://arxiv.org/abs/2610.22400",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22400v1 Announce Type: new \nAbstract: Existing large language model (LLM)-based user encoders serialize heterogeneous behavioral logs and compress them into static re...",
-      "tag": "RESEARCH"
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-16T01:44:47Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-      "url": "https://arxiv.org/abs/2610.22403",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22403v1 Announce Type: new \nAbstract: What a reasoning system emits is a conclusion; what it owes is a justification. Producing one requires every operation to be adm...",
-      "tag": "RESEARCH"
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-16T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.22408",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22408v1 Announce Type: new \nAbstract: Long-horizon GUI agents rely on visual history to maintain task states, but retaining historical screenshots increases visual-to...",
-      "tag": "RESEARCH"
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T20:34:01Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-      "url": "https://arxiv.org/abs/2610.22420",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22420v1 Announce Type: new \nAbstract: Agent-based models are well-suited for modelling agro-ecological systems for decision-making, yet turning their simulations into...",
-      "tag": "RESEARCH"
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T09:08:45Z",
+      "short_summary": "",
+      "tag": "BREAKING"
     },
     {
-      "title": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-      "url": "https://arxiv.org/abs/2610.22426",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22426v1 Announce Type: new \nAbstract: LLM agents are used to check records against an organization's requirements, for example whether a vulnerability report is ready...",
-      "tag": "RESEARCH"
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-      "url": "https://arxiv.org/abs/2610.22441",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22441v1 Announce Type: new \nAbstract: Large language models (LLMs) provide a convenient interface for translating natural language commands into task plans for cyber-...",
-      "tag": "RESEARCH"
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-15T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-      "url": "https://arxiv.org/abs/2610.22445",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22445v1 Announce Type: new \nAbstract: Automated discovery systems propose scientific explanations and test which to accept. Does passing a test establish the intended...",
-      "tag": "RESEARCH"
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-14T16:12:42Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Learnable Splines for Unstructured Neural Operators",
-      "url": "https://arxiv.org/abs/2610.22446",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22446v1 Announce Type: new \nAbstract: Neural operators approximate solution operators of partial differential equations at a fraction of the cost of numerical solvers...",
-      "tag": "RESEARCH"
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-13T17:05:48Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Functional Welfare for AI Safety",
-      "url": "https://arxiv.org/abs/2610.22460",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22460v1 Announce Type: new \nAbstract: AI welfare is generally treated purely as an ethical issue rather than also as a safety issue. We argue this is a mistake. Whate...",
-      "tag": "RESEARCH"
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-13T16:00:00Z",
+      "short_summary": "TBD",
+      "tag": "NEWS"
     },
     {
-      "title": "Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference",
-      "url": "https://arxiv.org/abs/2610.22465",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22465v1 Announce Type: new \nAbstract: Reproducibility checks during peer review require a shared understanding of what authors' code is expected to reproduce. We pres...",
-      "tag": "RESEARCH"
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-08T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Harness-Delta Attribution: Dissecting Gains From Harness Evolution",
-      "url": "https://arxiv.org/abs/2610.22466",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-19T04:00:00Z",
-      "short_summary": "arXiv:2610.22466v1 Announce Type: new \nAbstract: Harness evolution automatically optimizes the prompts, skills, tools, and orchestration code around a fixed-weight model, offeri...",
-      "tag": "RESEARCH"
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-07T13:21:03Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
