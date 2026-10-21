@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-20T16:32:17.351577Z",
+  "last_updated": "2026-10-21T03:50:24.800548Z",
   "items": [
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-20T18:17:47Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "url": "https://huggingface.co/blog/allenai/fairstress",
@@ -48,14 +56,6 @@ window.aiNewsData = {
       "published_at": "2026-10-19T00:00:00Z",
       "short_summary": "",
       "tag": "MODEL"
-    },
-    {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-16T01:44:47Z",
-      "short_summary": "",
-      "tag": "NEWS"
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
