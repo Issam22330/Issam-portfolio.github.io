@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-21T16:50:06.514182Z",
+  "last_updated": "2026-10-22T03:50:15.146673Z",
   "items": [
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-21T18:26:30Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-21T17:35:36Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
@@ -14,14 +30,6 @@ window.aiNewsData = {
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "source": "Hugging Face Blog",
       "published_at": "2026-10-21T14:58:18Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-21T12:51:24Z",
       "short_summary": "",
       "tag": "NEWS"
     },
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-21T04:00:00Z",
       "short_summary": "arXiv:2610.26942v1 Announce Type: new \nAbstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a ...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2610.26943",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-21T04:00:00Z",
-      "short_summary": "arXiv:2610.26943v1 Announce Type: new \nAbstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable ...",
       "tag": "RESEARCH"
     }
   ]
