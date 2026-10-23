@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-22T16:50:15.605046Z",
+  "last_updated": "2026-10-23T03:54:31.446784Z",
   "items": [
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-22T22:24:34Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
       "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-22T04:00:00Z",
       "short_summary": "arXiv:2610.26948v1 Announce Type: new \nAbstract: Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal p...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
-      "url": "https://arxiv.org/abs/2610.26964",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26964v1 Announce Type: new \nAbstract: Large language models (LLMs) struggle with classical planning, but benchmarks rarely distinguish structural difficulty from the ...",
       "tag": "RESEARCH"
     }
   ]
