@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-23T03:54:31.446784Z",
+  "last_updated": "2026-10-23T16:41:34.828104Z",
   "items": [
     {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
       "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T22:24:34Z",
+      "published_at": "2026-10-23T16:15:50Z",
       "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T16:11:31Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T07:51:31Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-      "url": "https://arxiv.org/abs/2610.26887",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26887v1 Announce Type: new \nAbstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning,...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
-      "url": "https://arxiv.org/abs/2610.26899",
+      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2610.28686",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26899v1 Announce Type: new \nAbstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current hous...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28686v1 Announce Type: new \nAbstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
-      "url": "https://arxiv.org/abs/2610.26904",
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "url": "https://arxiv.org/abs/2610.28698",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26904v1 Announce Type: new \nAbstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-qua...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28698v1 Announce Type: new \nAbstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences re...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "url": "https://arxiv.org/abs/2610.26913",
+      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+      "url": "https://arxiv.org/abs/2610.28706",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26913v1 Announce Type: new \nAbstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-ba...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28706v1 Announce Type: new \nAbstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, of...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
-      "url": "https://arxiv.org/abs/2610.26924",
+      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+      "url": "https://arxiv.org/abs/2610.28763",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26924v1 Announce Type: new \nAbstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, ite...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28763v1 Announce Type: new \nAbstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test o...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-      "url": "https://arxiv.org/abs/2610.26941",
+      "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+      "url": "https://arxiv.org/abs/2610.28815",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26941v1 Announce Type: new \nAbstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, c...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28815v1 Announce Type: new \nAbstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
-      "url": "https://arxiv.org/abs/2610.26942",
+      "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "url": "https://arxiv.org/abs/2610.28826",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26942v1 Announce Type: new \nAbstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a ...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28826v1 Announce Type: new \nAbstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costl...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2610.26943",
+      "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+      "url": "https://arxiv.org/abs/2610.28836",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26943v1 Announce Type: new \nAbstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable ...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28836v1 Announce Type: new \nAbstract: This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams. The system converts raw images into a S...",
       "tag": "RESEARCH"
     },
     {
-      "title": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
-      "url": "https://arxiv.org/abs/2610.26948",
+      "title": "Speedrunning Relational Foundation Model Pretraining",
+      "url": "https://arxiv.org/abs/2610.28855",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-22T04:00:00Z",
-      "short_summary": "arXiv:2610.26948v1 Announce Type: new \nAbstract: Conversational recommender systems have recently adopted vision-language models to match user dialogue intents with multimodal p...",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28855v1 Announce Type: new \nAbstract: Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception. Recipes...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+      "url": "https://arxiv.org/abs/2610.28875",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28875v1 Announce Type: new \nAbstract: Large language models increasingly take part in extended conversations where they can both shape and be shaped by another party'...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Fig: Automated Multiagent Behavior Elicitor",
+      "url": "https://arxiv.org/abs/2610.28891",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28891v1 Announce Type: new \nAbstract: Many social evaluations for multiagent systems study behaviors as they emerge from environments instead of systematically interv...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+      "url": "https://arxiv.org/abs/2610.28905",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-23T04:00:00Z",
+      "short_summary": "arXiv:2610.28905v1 Announce Type: new \nAbstract: Diffusion language models form answers through a sequence of revisable continuous states, but multi-agent systems usually discar...",
       "tag": "RESEARCH"
     }
   ]
