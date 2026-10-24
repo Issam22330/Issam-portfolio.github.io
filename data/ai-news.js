@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-23T16:41:34.828104Z",
+  "last_updated": "2026-10-24T03:49:03.028054Z",
   "items": [
     {
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
