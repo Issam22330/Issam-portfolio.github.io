@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-26T03:51:42.887528Z",
+  "last_updated": "2026-10-26T18:26:08.142815Z",
   "items": [
     {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-23T16:15:50Z",
-      "short_summary": "",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-26T16:00:00Z",
+      "short_summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "url": "https://arxiv.org/abs/2610.31701",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "url": "https://arxiv.org/abs/2610.31789",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrume...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T22:24:34Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "url": "https://arxiv.org/abs/2610.31808",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T07:51:31Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "url": "https://arxiv.org/abs/2610.31810",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31810v1 Announce Type: new \nAbstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a L...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-21T18:26:30Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "url": "https://arxiv.org/abs/2610.31846",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31846v1 Announce Type: new \nAbstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recov...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-21T17:35:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "url": "https://arxiv.org/abs/2610.31882",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31882v1 Announce Type: new \nAbstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a lar...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-21T16:04:43Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "url": "https://arxiv.org/abs/2610.31916",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31916v1 Announce Type: new \nAbstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertai...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-21T14:58:18Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "url": "https://arxiv.org/abs/2610.31918",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31918v1 Announce Type: new \nAbstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, c...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-21T04:00:00Z",
-      "short_summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star s...",
-      "tag": "NEWS"
+      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+      "url": "https://arxiv.org/abs/2610.31937",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31937v1 Announce Type: new \nAbstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypas...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-20T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+      "url": "https://arxiv.org/abs/2610.31971",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31971v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-20T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-20T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+      "url": "https://arxiv.org/abs/2610.31972",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-26T04:00:00Z",
+      "short_summary": "arXiv:2610.31972v1 Announce Type: new \nAbstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state cha...",
+      "tag": "RESEARCH"
     }
   ]
 };
