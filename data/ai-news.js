@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-26T18:26:08.142815Z",
+  "last_updated": "2026-10-27T04:13:53.739479Z",
   "items": [
     {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-26T16:00:00Z",
-      "short_summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "url": "https://arxiv.org/abs/2610.31701",
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "url": "https://arxiv.org/abs/2610.33096",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33096v1 Announce Type: new \nAbstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implica...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "url": "https://arxiv.org/abs/2610.31789",
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "url": "https://arxiv.org/abs/2610.33097",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrume...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33097v1 Announce Type: new \nAbstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly importa...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "url": "https://arxiv.org/abs/2610.31808",
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "url": "https://arxiv.org/abs/2610.33103",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33103v1 Announce Type: new \nAbstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambd...",
       "tag": "RESEARCH"
     },
     {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "url": "https://arxiv.org/abs/2610.31810",
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "url": "https://arxiv.org/abs/2610.33105",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31810v1 Announce Type: new \nAbstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a L...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33105v1 Announce Type: new \nAbstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostic...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "url": "https://arxiv.org/abs/2610.31846",
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "url": "https://arxiv.org/abs/2610.33112",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31846v1 Announce Type: new \nAbstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recov...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33112v1 Announce Type: new \nAbstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "url": "https://arxiv.org/abs/2610.31882",
+      "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+      "url": "https://arxiv.org/abs/2610.33138",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31882v1 Announce Type: new \nAbstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a lar...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33138v1 Announce Type: new \nAbstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-      "url": "https://arxiv.org/abs/2610.31916",
+      "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+      "url": "https://arxiv.org/abs/2610.33178",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31916v1 Announce Type: new \nAbstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertai...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33178v1 Announce Type: new \nAbstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-      "url": "https://arxiv.org/abs/2610.31918",
+      "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+      "url": "https://arxiv.org/abs/2610.33180",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31918v1 Announce Type: new \nAbstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, c...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33180v1 Announce Type: new \nAbstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and...",
       "tag": "RESEARCH"
     },
     {
-      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
-      "url": "https://arxiv.org/abs/2610.31937",
+      "title": "Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing",
+      "url": "https://arxiv.org/abs/2610.33200",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31937v1 Announce Type: new \nAbstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypas...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33200v1 Announce Type: new \nAbstract: Current sign language recognition and translation benchmarks are commonly collected in controlled settings using fixed or studio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
-      "url": "https://arxiv.org/abs/2610.31971",
+      "title": "Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding",
+      "url": "https://arxiv.org/abs/2610.33205",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31971v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they ...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33205v1 Announce Type: new \nAbstract: Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited guidance for rel...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
-      "url": "https://arxiv.org/abs/2610.31972",
+      "title": "Distilling Expert Judgment at Scale",
+      "url": "https://arxiv.org/abs/2610.33233",
       "source": "arXiv cs.AI",
-      "published_at": "2026-10-26T04:00:00Z",
-      "short_summary": "arXiv:2610.31972v1 Announce Type: new \nAbstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state cha...",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33233v1 Announce Type: new \nAbstract: Frontier AI models are increasingly deployed on topics where the stakes are high and expert judgment is required, including heal...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting",
+      "url": "https://arxiv.org/abs/2610.33240",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-10-27T04:00:00Z",
+      "short_summary": "arXiv:2610.33240v1 Announce Type: new \nAbstract: As frontier AI systems increasingly serve as sources of political and current-events information, evaluating the epistemic quali...",
       "tag": "RESEARCH"
     }
   ]
