@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-27T04:13:53.739479Z",
+  "last_updated": "2026-10-27T17:41:20.177026Z",
   "items": [
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-27T17:16:52Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-27T16:12:42Z",
+      "short_summary": "",
+      "tag": "RESEARCH"
+    },
     {
       "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
       "url": "https://arxiv.org/abs/2610.33096",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-27T04:00:00Z",
       "short_summary": "arXiv:2610.33205v1 Announce Type: new \nAbstract: Current uses of large language models (LLMs) for qualitative coding often rely on ad hoc prompting with limited guidance for rel...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Distilling Expert Judgment at Scale",
-      "url": "https://arxiv.org/abs/2610.33233",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-27T04:00:00Z",
-      "short_summary": "arXiv:2610.33233v1 Announce Type: new \nAbstract: Frontier AI models are increasingly deployed on topics where the stakes are high and expert judgment is required, including heal...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "NewsBench: Expert-Grounded Evaluation of Epistemic Quality in AI News Reporting",
-      "url": "https://arxiv.org/abs/2610.33240",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-27T04:00:00Z",
-      "short_summary": "arXiv:2610.33240v1 Announce Type: new \nAbstract: As frontier AI systems increasingly serve as sources of political and current-events information, evaluating the epistemic quali...",
       "tag": "RESEARCH"
     }
   ]
