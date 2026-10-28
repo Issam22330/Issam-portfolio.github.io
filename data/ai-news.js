@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-28T04:43:09.491448Z",
+  "last_updated": "2026-10-28T18:03:01.376521Z",
   "items": [
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-28T14:58:17Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Counting the Bandages: On measuring the time that AI saves",
       "url": "https://arxiv.org/abs/2610.35942",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-10-28T04:00:00Z",
       "short_summary": "arXiv:2610.36239v1 Announce Type: new \nAbstract: Sequential recommendation models typically predict a user's next action from recent session interactions, which limits personali...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
-      "url": "https://arxiv.org/abs/2610.36287",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36287v1 Announce Type: new \nAbstract: Hospitality service in online marketplaces has become increasingly popular over the past few years, not only because it helps pe...",
       "tag": "RESEARCH"
     }
   ]
