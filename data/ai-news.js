@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-28T18:03:01.376521Z",
+  "last_updated": "2026-10-29T04:55:10.836572Z",
   "items": [
     {
       "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -10,92 +10,92 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Counting the Bandages: On measuring the time that AI saves",
-      "url": "https://arxiv.org/abs/2610.35942",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.35942v1 Announce Type: new \nAbstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock ...",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-27T17:16:52Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-27T16:12:42Z",
+      "short_summary": "",
       "tag": "RESEARCH"
     },
     {
-      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-      "url": "https://arxiv.org/abs/2610.35984",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.35984v1 Announce Type: new \nAbstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their p...",
-      "tag": "RESEARCH"
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-26T16:00:00Z",
+      "short_summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "tag": "NEWS"
     },
     {
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2610.36077",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36077v1 Announce Type: new \nAbstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scali...",
-      "tag": "RESEARCH"
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-      "url": "https://arxiv.org/abs/2610.36100",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36100v1 Announce Type: new \nAbstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processin...",
-      "tag": "RESEARCH"
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-22T22:24:34Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "url": "https://arxiv.org/abs/2610.36116",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36116v1 Announce Type: new \nAbstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should hum...",
-      "tag": "RESEARCH"
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-22T07:51:31Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-      "url": "https://arxiv.org/abs/2610.36146",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36146v1 Announce Type: new \nAbstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewrit...",
-      "tag": "RESEARCH"
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-21T17:35:36Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "url": "https://arxiv.org/abs/2610.36169",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36169v1 Announce Type: new \nAbstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree...",
-      "tag": "RESEARCH"
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-21T16:04:43Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-      "url": "https://arxiv.org/abs/2610.36183",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36183v1 Announce Type: new \nAbstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch...",
-      "tag": "RESEARCH"
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-21T14:58:18Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Skill Dreaming: Evolving Repository Skills through Pull Request Streams",
-      "url": "https://arxiv.org/abs/2610.36188",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36188v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly rely on reusable skills for complex software engineering tasks, making skill libr...",
-      "tag": "RESEARCH"
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-21T04:00:00Z",
+      "short_summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star s...",
+      "tag": "NEWS"
     },
     {
-      "title": "MARQ: A Modular, LLM-Agnostic Requirement Quality Assessor Infused with Systems Engineering Knowledge",
-      "url": "https://arxiv.org/abs/2610.36234",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36234v1 Announce Type: new \nAbstract: Requirements engineering (RE) is foundational to systems engineering (SE), as requirement defects can propagate downstream and a...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "BehaveRec: When Does Long-Term Behavioral History Help Sequential Recommendation? A Study with Session, History, and Community Signals",
-      "url": "https://arxiv.org/abs/2610.36239",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-10-28T04:00:00Z",
-      "short_summary": "arXiv:2610.36239v1 Announce Type: new \nAbstract: Sequential recommendation models typically predict a user's next action from recent session interactions, which limits personali...",
-      "tag": "RESEARCH"
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-20T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
