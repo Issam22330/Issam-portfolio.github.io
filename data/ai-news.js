@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-29T18:11:49.178440Z",
+  "last_updated": "2026-10-30T04:55:01.295835Z",
   "items": [
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
