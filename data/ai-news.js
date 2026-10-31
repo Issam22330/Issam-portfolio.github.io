@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-10-31T04:41:11.848541Z",
+  "last_updated": "2026-10-31T16:59:25.501875Z",
   "items": [
     {
       "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
