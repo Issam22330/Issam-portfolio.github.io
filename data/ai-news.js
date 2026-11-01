@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-01T05:00:52.319156Z",
+  "last_updated": "2026-11-01T17:44:58.077246Z",
   "items": [
     {
       "title": "nemotron-halloween",
