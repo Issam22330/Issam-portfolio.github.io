@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-02T05:01:41.572632Z",
+  "last_updated": "2026-11-02T21:30:23.605250Z",
   "items": [
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-02T17:45:00Z",
+      "short_summary": "Animated carousel of images from AI posts in October",
+      "tag": "BREAKING"
+    },
     {
       "title": "Automatic Construction of Strong Simple Baselines",
       "url": "https://arxiv.org/abs/2610.40700",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.LG",
       "published_at": "2026-11-02T05:00:00Z",
       "short_summary": "arXiv:2610.40901v1 Announce Type: new \nAbstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existi...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
-      "url": "https://arxiv.org/abs/2610.40914",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-11-02T05:00:00Z",
-      "short_summary": "arXiv:2610.40914v1 Announce Type: new \nAbstract: Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by ...",
       "tag": "RESEARCH"
     }
   ]
