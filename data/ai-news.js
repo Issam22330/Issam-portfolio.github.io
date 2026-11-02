@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-01T17:44:58.077246Z",
+  "last_updated": "2026-11-02T05:01:41.572632Z",
   "items": [
     {
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-30T17:57:24Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T13:37:07Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-27T17:16:52Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-27T16:12:42Z",
-      "short_summary": "",
+      "title": "Automatic Construction of Strong Simple Baselines",
+      "url": "https://arxiv.org/abs/2610.40700",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40700v1 Announce Type: new \nAbstract: To rigorously establish the value of a novel deep learning method, it must be compared against appropriate baselines. As deep le...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-26T16:00:00Z",
-      "short_summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
-      "tag": "NEWS"
+      "title": "Bayesian Distribution System State Estimation with Flow Matching",
+      "url": "https://arxiv.org/abs/2610.40728",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40728v1 Announce Type: new \nAbstract: Medium-voltage feeders have few real-time measurements, so distribution system state estimation (DSSE) rests on pseudo-measureme...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection",
+      "url": "https://arxiv.org/abs/2610.40732",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40732v1 Announce Type: new \nAbstract: Industrial Internet of Things (IIoT) edge pipelines routinely lose contiguous blocks of multi-sensor data to network dropouts an...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T22:24:34Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version",
+      "url": "https://arxiv.org/abs/2610.40736",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40736v1 Announce Type: new \nAbstract: High dimensionality degrades both the efficiency and the effectiveness of learning algorithms, and in many applications no class...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-22T07:51:31Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors",
+      "url": "https://arxiv.org/abs/2610.40740",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40740v1 Announce Type: new \nAbstract: Continual adaptation requires deciding not only how to update a model, but whether to commit an update without exceeding a decla...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-21T17:35:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn",
+      "url": "https://arxiv.org/abs/2610.40757",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40757v1 Announce Type: new \nAbstract: Humans and animals have a unique capacity to generalize and learn in novel circumstances, including \"0-shot\" inference (ZI) and ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2610.40857",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40857v1 Announce Type: new \nAbstract: Scientific foundation models (SciFMs) have achieved remarkable performance on a wide range of PDEs, including the ability to eff...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation",
+      "url": "https://arxiv.org/abs/2610.40858",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40858v1 Announce Type: new \nAbstract: Training a large language model is compute-bound, and current recipes divide the work between optimizers by hand: orthogonalized...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Near-Optimal First-Order Regret for Bandits with Feedback Graphs",
+      "url": "https://arxiv.org/abs/2610.40861",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40861v1 Announce Type: new \nAbstract: We study first-order regret guarantees for adversarial bandits with a fixed, known directed feedback graph. For strongly observa...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "TensorSSM: Memorizing Spatial Position in Dynamic State Space for Tensor Core Generation",
+      "url": "https://arxiv.org/abs/2610.40871",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40871v1 Announce Type: new \nAbstract: High-dimensional tensors are ubiquitous in real-world applications but lead to massive storage overhead. Functional tensor decom...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "TSFLab: A Self-Improving Agent-Agnostic Workbench for Time Series Forecasting Research",
+      "url": "https://arxiv.org/abs/2610.40901",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40901v1 Announce Type: new \nAbstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existi...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates",
+      "url": "https://arxiv.org/abs/2610.40914",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-02T05:00:00Z",
+      "short_summary": "arXiv:2610.40914v1 Announce Type: new \nAbstract: Training acceleration methods for diffusion transformers, such as REPA and dispersive regularization, are commonly explained by ...",
+      "tag": "RESEARCH"
     }
   ]
 };
