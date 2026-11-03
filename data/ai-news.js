@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-03T05:50:17.679686Z",
+  "last_updated": "2026-11-03T19:14:38.647318Z",
   "items": [
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T17:15:21Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T16:35:36Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
       "url": "https://arxiv.org/abs/2610.41172",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-03T05:00:00Z",
       "short_summary": "arXiv:2610.41322v1 Announce Type: cross \nAbstract: Generating small molecules to target protein-protein interactions (PPIs) remains one of the most challenging yet high-reward f...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "With foundation-model features, aggregator complexity does not improve cross-hospital discrimination in gastric whole-slide image classification",
-      "url": "https://arxiv.org/abs/2610.41328",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41328v1 Announce Type: cross \nAbstract: Whole-slide image classifiers are usually developed within one hospital and often go untested at unseen hospitals. We assemble...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Pinching Antennas for ISAC: Waveguide Architectures, Solutions, and Future Directions",
-      "url": "https://arxiv.org/abs/2610.41380",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41380v1 Announce Type: cross \nAbstract: Integrated sensing and communication (ISAC) is a core design principle for sixth-generation (6G) wireless systems, yet fixed a...",
       "tag": "RESEARCH"
     }
   ]
