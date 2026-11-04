@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-03T19:14:38.647318Z",
+  "last_updated": "2026-11-04T05:25:54.953124Z",
   "items": [
+    {
+      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
+      "url": "https://arxiv.org/abs/2303.12212",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-11-04T05:00:00Z",
+      "short_summary": "arXiv:2303.12212v3 Announce Type: replace-cross \nAbstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and m...",
+      "tag": "RESEARCH"
+    },
     {
       "title": "StateBench: Testing how language models track state changes over long documents",
       "url": "https://huggingface.co/blog/allenai/statebench",
@@ -18,84 +26,76 @@ window.aiNewsData = {
       "tag": "MODEL"
     },
     {
-      "title": "Context as Infrastructure: Knowledge Compilation for Retrieval in Agentic Systems with Harnesses",
-      "url": "https://arxiv.org/abs/2610.41172",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41172v1 Announce Type: cross \nAbstract: Retrieval-augmented generation is becoming agentic. A search harness writes queries, reads results, reformulates, and decides ...",
-      "tag": "RESEARCH"
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Beyond CLIP: Calibrated (Few-Shot) Defect Detection With System One Decision Models",
-      "url": "https://arxiv.org/abs/2610.41199",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41199v1 Announce Type: cross \nAbstract: Cameras and vision sensors are widely used for product and process inspection in manufacturing environments. Traditionally, th...",
-      "tag": "RESEARCH"
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "From Evaluation to Evolution: Benchmarking Image Editing and Evolving Image Models",
-      "url": "https://arxiv.org/abs/2610.41210",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41210v1 Announce Type: cross \nAbstract: Real-world image editing requires coordinating multiple visual transformations with content preservation and reference constra...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-02T17:45:00Z",
+      "short_summary": "Animated carousel of images from AI posts in October",
+      "tag": "BREAKING"
     },
     {
-      "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
-      "url": "https://arxiv.org/abs/2610.41231",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41231v1 Announce Type: cross \nAbstract: Coarse-to-fine 3D-native generation relies heavily on the first-stage sparse structure, which determines the global orientatio...",
-      "tag": "RESEARCH"
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-30T17:57:24Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
-      "url": "https://arxiv.org/abs/2610.41272",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41272v1 Announce Type: cross \nAbstract: Web agents are increasingly deployed to complete tasks autonomously on real websites, where adversarially injected content can...",
-      "tag": "RESEARCH"
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-29T13:37:07Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
-      "url": "https://arxiv.org/abs/2610.41291",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41291v1 Announce Type: cross \nAbstract: Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts....",
-      "tag": "RESEARCH"
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-29T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "ART of PIV: Agentic Real-Time Particle Image Velocimetry for Active Flow Control",
-      "url": "https://arxiv.org/abs/2610.41304",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41304v1 Announce Type: cross \nAbstract: Particle image velocimetry (PIV) measures fluid motion from images of tracer particles, but its accuracy depends on choices th...",
-      "tag": "RESEARCH"
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-29T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2610.41307",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41307v1 Announce Type: cross \nAbstract: Multimodal indirect prompt injection embeds malicious instructions in external media that also contains information needed for...",
-      "tag": "RESEARCH"
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-29T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "GenDSR: Transferring Representations from Video Generation Models for Dynamic Spatial Reasoning",
-      "url": "https://arxiv.org/abs/2610.41314",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41314v1 Announce Type: cross \nAbstract: Dynamic spatial reasoning is essential for connecting visual intelligence to thephysical world, yet remains challenging for vi...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Transferring Peptide-Target Interaction Patterns to Small Molecules by Joint Guidance for Diffusion and Flow Matching",
-      "url": "https://arxiv.org/abs/2610.41322",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-03T05:00:00Z",
-      "short_summary": "arXiv:2610.41322v1 Announce Type: cross \nAbstract: Generating small molecules to target protein-protein interactions (PPIs) remains one of the most challenging yet high-reward f...",
-      "tag": "RESEARCH"
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-27T17:16:52Z",
+      "short_summary": "",
+      "tag": "MODEL"
     }
   ]
 };
