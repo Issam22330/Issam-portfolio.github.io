@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-04T05:25:54.953124Z",
+  "last_updated": "2026-11-04T19:30:30.207550Z",
   "items": [
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-04T17:50:10Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
       "url": "https://arxiv.org/abs/2303.12212",
@@ -86,14 +94,6 @@ window.aiNewsData = {
       "url": "https://huggingface.co/blog/anydecisionmodel",
       "source": "Hugging Face Blog",
       "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-27T17:16:52Z",
       "short_summary": "",
       "tag": "MODEL"
     }
