@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-04T19:30:30.207550Z",
+  "last_updated": "2026-11-05T05:44:44.726152Z",
   "items": [
     {
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-04T17:50:10Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering",
-      "url": "https://arxiv.org/abs/2303.12212",
-      "source": "arXiv cs.LG",
-      "published_at": "2026-11-04T05:00:00Z",
-      "short_summary": "arXiv:2303.12212v3 Announce Type: replace-cross \nAbstract: Community detection is a significant challenge in analysing real graphs, including social, citation, biological, and m...",
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "url": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05390v1 Announce Type: new \nAbstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T17:15:21Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2611.05391",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05391v1 Announce Type: new \nAbstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suit...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T16:35:36Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2611.05392",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "url": "https://arxiv.org/abs/2611.05393",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate of...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "url": "https://arxiv.org/abs/2611.05394",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05394v1 Announce Type: new \nAbstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-02T17:45:00Z",
-      "short_summary": "Animated carousel of images from AI posts in October",
-      "tag": "BREAKING"
+      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+      "url": "https://arxiv.org/abs/2611.05450",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05450v1 Announce Type: new \nAbstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Su...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-30T17:57:24Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "url": "https://arxiv.org/abs/2611.05459",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine indiv...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T13:37:07Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "url": "https://arxiv.org/abs/2611.05512",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05512v1 Announce Type: new \nAbstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended h...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
+      "url": "https://arxiv.org/abs/2611.05524",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
+      "url": "https://arxiv.org/abs/2611.05542",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05542v1 Announce Type: new \nAbstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under c...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Iterated creation, grading, and revision of data science projects by language models",
+      "url": "https://arxiv.org/abs/2611.05548",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05548v1 Announce Type: new \nAbstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with fe...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
+      "url": "https://arxiv.org/abs/2611.05549",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-05T05:00:00Z",
+      "short_summary": "arXiv:2611.05549v1 Announce Type: new \nAbstract: Transparency has become a central principle in AI governance, yet there is little agreement about what transparency means, for w...",
+      "tag": "RESEARCH"
     }
   ]
 };
