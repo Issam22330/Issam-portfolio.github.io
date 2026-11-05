@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-05T05:44:44.726152Z",
+  "last_updated": "2026-11-05T19:40:19.233607Z",
   "items": [
+    {
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-05T19:35:16Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-05T17:00:00Z",
+      "short_summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+      "tag": "NEWS"
+    },
     {
       "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
       "url": "https://arxiv.org/abs/2611.05390",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-05T05:00:00Z",
       "short_summary": "arXiv:2611.05542v1 Announce Type: new \nAbstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under c...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Iterated creation, grading, and revision of data science projects by language models",
-      "url": "https://arxiv.org/abs/2611.05548",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05548v1 Announce Type: new \nAbstract: We evaluate the extent to which agentic AI models can complete an end-to-end data science project, and how this improves with fe...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
-      "url": "https://arxiv.org/abs/2611.05549",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05549v1 Announce Type: new \nAbstract: Transparency has become a central principle in AI governance, yet there is little agreement about what transparency means, for w...",
       "tag": "RESEARCH"
     }
   ]
