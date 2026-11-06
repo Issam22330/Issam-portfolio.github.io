@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-05T19:40:19.233607Z",
+  "last_updated": "2026-11-06T05:41:52.376796Z",
   "items": [
     {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-05T19:35:16Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-05T17:00:00Z",
-      "short_summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-      "url": "https://arxiv.org/abs/2611.05390",
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "url": "https://arxiv.org/abs/2611.06962",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05390v1 Announce Type: new \nAbstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair ...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06962v1 Announce Type: new \nAbstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-      "url": "https://arxiv.org/abs/2611.05391",
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "url": "https://arxiv.org/abs/2611.06972",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05391v1 Announce Type: new \nAbstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suit...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific ski...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2611.05392",
+      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "url": "https://arxiv.org/abs/2611.06977",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines ...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06977v1 Announce Type: new \nAbstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Exist...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
-      "url": "https://arxiv.org/abs/2611.05393",
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "url": "https://arxiv.org/abs/2611.06984",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05393v1 Announce Type: new \nAbstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate of...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
-      "url": "https://arxiv.org/abs/2611.05394",
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "url": "https://arxiv.org/abs/2611.06989",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05394v1 Announce Type: new \nAbstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06989v1 Announce Type: new \nAbstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestratio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
-      "url": "https://arxiv.org/abs/2611.05450",
+      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+      "url": "https://arxiv.org/abs/2611.06995",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05450v1 Announce Type: new \nAbstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Su...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06995v1 Announce Type: new \nAbstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs re...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-      "url": "https://arxiv.org/abs/2611.05459",
+      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+      "url": "https://arxiv.org/abs/2611.06996",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05459v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine indiv...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.06996v1 Announce Type: new \nAbstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-      "url": "https://arxiv.org/abs/2611.05512",
+      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+      "url": "https://arxiv.org/abs/2611.07048",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05512v1 Announce Type: new \nAbstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended h...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.07048v1 Announce Type: new \nAbstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelli...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MA-SafeDiffuser: Safe Multi-Agent Planning with Diffusion Probabilistic Models",
-      "url": "https://arxiv.org/abs/2611.05524",
+      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+      "url": "https://arxiv.org/abs/2611.07051",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05524v1 Announce Type: new \nAbstract: We propose MA-SafeDiffuser, a multi-agent extension of SafeDiffuser that equips diffusion-based trajectory planners with finite-...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.07051v1 Announce Type: new \nAbstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors. Yet most evaluation is...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Towards Efficient Whole Page Ranking with One-Pass Inference",
-      "url": "https://arxiv.org/abs/2611.05542",
+      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+      "url": "https://arxiv.org/abs/2611.07066",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-05T05:00:00Z",
-      "short_summary": "arXiv:2611.05542v1 Announce Type: new \nAbstract: Whole-page ranking jointly optimizes advertisements and organic content to balance business outcomes and user engagement under c...",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+      "url": "https://arxiv.org/abs/2611.07073",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.07073v1 Announce Type: new \nAbstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through gen...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Synthesizing symbolic models of human and machine reasoning at scale",
+      "url": "https://arxiv.org/abs/2611.07088",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-06T05:00:00Z",
+      "short_summary": "arXiv:2611.07088v1 Announce Type: new \nAbstract: Symbolic models offer a powerful account of cognition, but their scope has historically been limited by the need for hand-engine...",
       "tag": "RESEARCH"
     }
   ]
