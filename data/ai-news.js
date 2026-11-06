@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-06T05:41:52.376796Z",
+  "last_updated": "2026-11-06T19:02:02.076524Z",
   "items": [
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-06T14:00:48Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
     {
       "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
       "url": "https://arxiv.org/abs/2611.06962",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-06T05:00:00Z",
       "short_summary": "arXiv:2611.07073v1 Announce Type: new \nAbstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through gen...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Synthesizing symbolic models of human and machine reasoning at scale",
-      "url": "https://arxiv.org/abs/2611.07088",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.07088v1 Announce Type: new \nAbstract: Symbolic models offer a powerful account of cognition, but their scope has historically been limited by the need for hand-engine...",
       "tag": "RESEARCH"
     }
   ]
