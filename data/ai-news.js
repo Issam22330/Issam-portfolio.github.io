@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-06T19:02:02.076524Z",
+  "last_updated": "2026-11-07T05:11:38.247341Z",
   "items": [
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -10,92 +10,92 @@ window.aiNewsData = {
       "tag": "ROBOTICS"
     },
     {
-      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-      "url": "https://arxiv.org/abs/2611.06962",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06962v1 Announce Type: new \nAbstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs...",
-      "tag": "RESEARCH"
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-06T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-      "url": "https://arxiv.org/abs/2611.06972",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific ski...",
-      "tag": "RESEARCH"
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-05T19:35:16Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "url": "https://arxiv.org/abs/2611.06977",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06977v1 Announce Type: new \nAbstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Exist...",
-      "tag": "RESEARCH"
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-05T17:00:00Z",
+      "short_summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+      "tag": "NEWS"
     },
     {
-      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
-      "url": "https://arxiv.org/abs/2611.06984",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06984v1 Announce Type: new \nAbstract: Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a ...",
-      "tag": "RESEARCH"
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-05T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
-      "url": "https://arxiv.org/abs/2611.06989",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06989v1 Announce Type: new \nAbstract: Enterprises run business transactions through multi-agent AI systems spanning clouds, large language models (LLMs), orchestratio...",
-      "tag": "RESEARCH"
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-04T17:50:10Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
-      "url": "https://arxiv.org/abs/2611.06995",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06995v1 Announce Type: new \nAbstract: Artificial intelligence (AI) systems have ushered in a new age of proof abundance, but helping humans understand these proofs re...",
-      "tag": "RESEARCH"
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T16:35:36Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
-      "url": "https://arxiv.org/abs/2611.06996",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.06996v1 Announce Type: new \nAbstract: The policy that converts runtime estimates of an autonomous agent's condition into operational authority is rarely specified or ...",
-      "tag": "RESEARCH"
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
-      "url": "https://arxiv.org/abs/2611.07048",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.07048v1 Announce Type: new \nAbstract: Evolution has shaped intelligence for billions of years. Artificial intelligence (AI) now raises a striking possibility: intelli...",
-      "tag": "RESEARCH"
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-03T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
-      "url": "https://arxiv.org/abs/2611.07051",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.07051v1 Announce Type: new \nAbstract: Once an agent is live, teams want to know whether it is doing its job, not just whether it throws errors. Yet most evaluation is...",
-      "tag": "RESEARCH"
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-02T17:45:00Z",
+      "short_summary": "Animated carousel of images from AI posts in October",
+      "tag": "BREAKING"
     },
     {
-      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
-      "url": "https://arxiv.org/abs/2611.07066",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.07066v1 Announce Type: new \nAbstract: Discovering cooperative behavior in multi-agent reinforcement learning (MARL) is challenging due to the combinatorial complexity...",
-      "tag": "RESEARCH"
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-29T13:37:07Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
-      "url": "https://arxiv.org/abs/2611.07073",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-06T05:00:00Z",
-      "short_summary": "arXiv:2611.07073v1 Announce Type: new \nAbstract: A verified Dafny postcondition certifies that a formula holds, but it does not guarantee that the result was reached through gen...",
-      "tag": "RESEARCH"
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-10-29T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
