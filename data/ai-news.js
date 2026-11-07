@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-07T05:11:38.247341Z",
+  "last_updated": "2026-11-07T17:35:15.060844Z",
   "items": [
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
