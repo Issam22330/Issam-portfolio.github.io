@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-09T05:17:53.189120Z",
+  "last_updated": "2026-11-09T22:03:11.883949Z",
   "items": [
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-09T15:05:57Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-09T12:34:29Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -16,14 +32,6 @@ window.aiNewsData = {
       "published_at": "2026-11-06T00:00:00Z",
       "short_summary": "",
       "tag": "NEWS"
-    },
-    {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-05T19:35:16Z",
-      "short_summary": "",
-      "tag": "MODEL"
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -88,14 +96,6 @@ window.aiNewsData = {
       "published_at": "2026-10-29T13:37:07Z",
       "short_summary": "",
       "tag": "MODEL"
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
     }
   ]
 };
