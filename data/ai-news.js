@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-09T22:03:11.883949Z",
+  "last_updated": "2026-11-10T06:31:28.780141Z",
   "items": [
     {
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
