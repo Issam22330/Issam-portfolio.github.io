@@ -1,6 +1,46 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-10T06:31:28.780141Z",
+  "last_updated": "2026-11-10T19:27:21.139264Z",
   "items": [
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T19:00:00Z",
+      "short_summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "tag": "NEWS"
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T14:00:00Z",
+      "short_summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T13:00:00Z",
+      "short_summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -56,46 +96,6 @@ window.aiNewsData = {
       "published_at": "2026-11-04T17:50:10Z",
       "short_summary": "",
       "tag": "NEWS"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T16:35:36Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-03T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-02T17:45:00Z",
-      "short_summary": "Animated carousel of images from AI posts in October",
-      "tag": "BREAKING"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-10-29T13:37:07Z",
-      "short_summary": "",
-      "tag": "MODEL"
     }
   ]
 };
