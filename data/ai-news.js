@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-11T05:17:28.400787Z",
+  "last_updated": "2026-11-11T19:22:27.452020Z",
   "items": [
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-11T18:00:00Z",
+      "short_summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-11T16:00:00Z",
+      "short_summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-11T09:00:00Z",
+      "short_summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+      "tag": "NEWS"
+    },
     {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-11T05:00:00Z",
       "short_summary": "arXiv:2611.12941v1 Announce Type: new \nAbstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competen...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "url": "https://arxiv.org/abs/2611.12942",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12942v1 Announce Type: new \nAbstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-      "url": "https://arxiv.org/abs/2611.12950",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12950v1 Announce Type: new \nAbstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output respo...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
-      "url": "https://arxiv.org/abs/2611.12953",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12953v1 Announce Type: new \nAbstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-...",
       "tag": "RESEARCH"
     }
   ]
