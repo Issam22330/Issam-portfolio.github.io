@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-11T19:22:27.452020Z",
+  "last_updated": "2026-11-12T06:22:03.924620Z",
   "items": [
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -34,68 +34,68 @@ window.aiNewsData = {
       "tag": "MODEL"
     },
     {
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "url": "https://arxiv.org/abs/2611.12933",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agen...",
-      "tag": "RESEARCH"
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-11T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into ...",
-      "tag": "RESEARCH"
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T19:00:00Z",
+      "short_summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "tag": "NEWS"
     },
     {
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "url": "https://arxiv.org/abs/2611.12935",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12935v1 Announce Type: new \nAbstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based moni...",
-      "tag": "RESEARCH"
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T14:00:00Z",
+      "short_summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "tag": "NEWS"
     },
     {
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "url": "https://arxiv.org/abs/2611.12936",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12936v1 Announce Type: new \nAbstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visua...",
-      "tag": "RESEARCH"
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T13:00:00Z",
+      "short_summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "tag": "NEWS"
     },
     {
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.12937",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12937v1 Announce Type: new \nAbstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychomet...",
-      "tag": "RESEARCH"
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-      "url": "https://arxiv.org/abs/2611.12938",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12938v1 Announce Type: new \nAbstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Usin...",
-      "tag": "RESEARCH"
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-10T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "url": "https://arxiv.org/abs/2611.12940",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12940v1 Announce Type: new \nAbstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games s...",
-      "tag": "RESEARCH"
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-09T15:05:57Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "url": "https://arxiv.org/abs/2611.12941",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-11T05:00:00Z",
-      "short_summary": "arXiv:2611.12941v1 Announce Type: new \nAbstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competen...",
-      "tag": "RESEARCH"
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-09T12:34:29Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
