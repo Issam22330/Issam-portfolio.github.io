@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-12T06:22:03.924620Z",
+  "last_updated": "2026-11-12T19:40:29.833905Z",
   "items": [
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-12T19:07:35Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-12T18:00:00Z",
+      "short_summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "tag": "NEWS"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-12T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
@@ -70,30 +94,6 @@ window.aiNewsData = {
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "source": "Hugging Face Blog",
       "published_at": "2026-11-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-10T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-09T15:05:57Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-09T12:34:29Z",
       "short_summary": "",
       "tag": "NEWS"
     }
