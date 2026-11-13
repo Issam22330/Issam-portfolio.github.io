@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-13T05:42:27.039618Z",
+  "last_updated": "2026-11-13T19:22:04.776445Z",
   "items": [
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-13T18:00:39Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
+    {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-13T17:02:35Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-13T14:05:22Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -71,30 +95,6 @@ window.aiNewsData = {
       "source": "Google AI Blog",
       "published_at": "2026-11-10T19:00:00Z",
       "short_summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "tag": "NEWS"
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T14:00:00Z",
-      "short_summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T13:00:00Z",
-      "short_summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-10T00:00:00Z",
-      "short_summary": "",
       "tag": "NEWS"
     }
   ]
