@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-12T19:40:29.833905Z",
+  "last_updated": "2026-11-13T05:42:27.039618Z",
   "items": [
     {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
