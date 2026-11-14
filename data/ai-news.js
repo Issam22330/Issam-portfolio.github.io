@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-13T19:22:04.776445Z",
+  "last_updated": "2026-11-14T05:31:41.061130Z",
   "items": [
     {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T18:00:39Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+      "url": "https://arxiv.org/abs/2611.14544",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14544v1 Announce Type: new \nAbstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and ch...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T17:02:35Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+      "url": "https://arxiv.org/abs/2611.14654",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14654v1 Announce Type: new \nAbstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off su...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T14:05:22Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14681v1 Announce Type: new \nAbstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-12T19:07:35Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+      "url": "https://arxiv.org/abs/2611.14736",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14736v1 Announce Type: new \nAbstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-12T18:00:00Z",
-      "short_summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "tag": "NEWS"
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14765v1 Announce Type: new \nAbstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-12T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Rational Use of Time for Social Coordination in Humans and AI",
+      "url": "https://arxiv.org/abs/2611.14766",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14766v1 Announce Type: new \nAbstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, su...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T18:00:00Z",
-      "short_summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "tag": "NEWS"
+      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+      "url": "https://arxiv.org/abs/2611.14769",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14769v1 Announce Type: new \nAbstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and mode...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T16:00:00Z",
-      "short_summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "tag": "NEWS"
+      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
+      "url": "https://arxiv.org/abs/2611.14781",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14781v1 Announce Type: new \nAbstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundament...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T09:00:00Z",
-      "short_summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-      "tag": "NEWS"
+      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2611.14794",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14794v1 Announce Type: new \nAbstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-11T05:01:16Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+      "url": "https://arxiv.org/abs/2611.14804",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14804v1 Announce Type: new \nAbstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-11T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "AutoAssumption: Searching over Assumptions Discovers ML-Systems Algorithms",
+      "url": "https://arxiv.org/abs/2611.14844",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14844v1 Announce Type: new \nAbstract: Many advances in ML systems came from breaking an assumption that earlier methods took for granted: speculative decoding dropped...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T19:00:00Z",
-      "short_summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "tag": "NEWS"
+      "title": "Open Challenges and Opportunities in Human-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.14846",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-14T05:00:00Z",
+      "short_summary": "arXiv:2611.14846v1 Announce Type: new \nAbstract: Agentic AI systems increasingly undertake extended tasks and act on people's behalf, making human-agent interaction central to t...",
+      "tag": "RESEARCH"
     }
   ]
 };
