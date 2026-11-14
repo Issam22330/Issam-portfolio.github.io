@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-14T05:31:41.061130Z",
+  "last_updated": "2026-11-14T17:46:11.800791Z",
   "items": [
     {
       "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
