@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-15T05:29:44.019372Z",
+  "last_updated": "2026-11-15T18:36:54.879997Z",
   "items": [
     {
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
