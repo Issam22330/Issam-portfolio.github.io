@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-15T18:36:54.879997Z",
+  "last_updated": "2026-11-16T05:29:08.495953Z",
   "items": [
     {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T18:00:39Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T17:02:35Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17339v1 Announce Type: new \nAbstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant samp...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T14:05:22Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adapt...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-12T19:07:35Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17341v1 Announce Type: new \nAbstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RA...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-12T18:00:00Z",
-      "short_summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "tag": "NEWS"
+      "title": "An Operationalization of Opaque Serial Depth",
+      "url": "https://arxiv.org/abs/2611.17495",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17495v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-12T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17501v1 Announce Type: new \nAbstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit e...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T18:00:00Z",
-      "short_summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "tag": "NEWS"
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17515v1 Announce Type: new \nAbstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T16:00:00Z",
-      "short_summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "tag": "NEWS"
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17524v1 Announce Type: new \nAbstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T09:00:00Z",
-      "short_summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-      "tag": "NEWS"
+      "title": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
+      "url": "https://arxiv.org/abs/2611.17532",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17532v1 Announce Type: new \nAbstract: Conductors are critical for the performance of an orchestra even though they do not emit sound. Basic research and clinical stud...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-11T05:01:16Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17539v1 Announce Type: new \nAbstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materi...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-11T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17564v1 Announce Type: new \nAbstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often befo...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T19:00:00Z",
-      "short_summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-      "tag": "NEWS"
+      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
+      "url": "https://arxiv.org/abs/2611.17583",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-16T05:00:00Z",
+      "short_summary": "arXiv:2611.17583v1 Announce Type: new \nAbstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits o...",
+      "tag": "RESEARCH"
     }
   ]
 };
