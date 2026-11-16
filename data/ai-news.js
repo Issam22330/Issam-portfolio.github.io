@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-16T05:29:08.495953Z",
+  "last_updated": "2026-11-16T21:45:44.562059Z",
   "items": [
+    {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-16T14:00:00Z",
+      "short_summary": "tbd",
+      "tag": "NEWS"
+    },
     {
       "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
       "url": "https://arxiv.org/abs/2611.17338",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-16T05:00:00Z",
       "short_summary": "arXiv:2611.17564v1 Announce Type: new \nAbstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often befo...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "When Does Less Information Pay? An Exact Finite Atlas of Representation, Payoff, and Cost",
-      "url": "https://arxiv.org/abs/2611.17583",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-16T05:00:00Z",
-      "short_summary": "arXiv:2611.17583v1 Announce Type: new \nAbstract: A representation that retains one bit about a four-state world can solve a task perfectly, while another that retains 1.5 bits o...",
       "tag": "RESEARCH"
     }
   ]
