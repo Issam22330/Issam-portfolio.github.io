@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-17T07:07:09.391081Z",
+  "last_updated": "2026-11-17T20:36:48.774403Z",
   "items": [
+    {
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-17T17:00:00Z",
+      "short_summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "tag": "NEWS"
+    },
     {
       "title": "New Ask Maps features to help with holiday travel and prep",
       "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
@@ -88,14 +96,6 @@ window.aiNewsData = {
       "published_at": "2026-11-11T09:00:00Z",
       "short_summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
       "tag": "NEWS"
-    },
-    {
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-11T05:01:16Z",
-      "short_summary": "",
-      "tag": "MODEL"
     }
   ]
 };
