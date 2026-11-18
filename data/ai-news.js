@@ -1,6 +1,38 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-18T06:31:34.463501Z",
+  "last_updated": "2026-11-18T20:09:27.058500Z",
   "items": [
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T19:54:56Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T18:53:43Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-18T17:00:00Z",
+      "short_summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T15:00:23Z",
+      "short_summary": "",
+      "tag": "MODEL"
+    },
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
       "url": "https://arxiv.org/abs/2611.21682",
@@ -63,38 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-18T05:00:00Z",
       "short_summary": "arXiv:2611.21946v1 Announce Type: new \nAbstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-      "url": "https://arxiv.org/abs/2611.21948",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-18T05:00:00Z",
-      "short_summary": "arXiv:2611.21948v1 Announce Type: new \nAbstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influenc...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "url": "https://arxiv.org/abs/2611.21950",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-18T05:00:00Z",
-      "short_summary": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirec...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
-      "url": "https://arxiv.org/abs/2611.21978",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-18T05:00:00Z",
-      "short_summary": "arXiv:2611.21978v1 Announce Type: new \nAbstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
-      "url": "https://arxiv.org/abs/2611.21998",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-18T05:00:00Z",
-      "short_summary": "arXiv:2611.21998v1 Announce Type: new \nAbstract: Personal assistants accumulate months of conversations, but today's long-term memory stacks put derivation or selection between ...",
       "tag": "RESEARCH"
     }
   ]
