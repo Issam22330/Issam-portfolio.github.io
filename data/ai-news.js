@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-17T20:36:48.774403Z",
+  "last_updated": "2026-11-18T06:31:34.463501Z",
   "items": [
     {
-      "title": "Put Gemini to work for you",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-17T17:00:00Z",
-      "short_summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-      "tag": "NEWS"
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-16T14:00:00Z",
-      "short_summary": "tbd",
-      "tag": "NEWS"
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21799v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI ag...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-16T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "url": "https://arxiv.org/abs/2611.21827",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21827v1 Announce Type: new \nAbstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T18:00:39Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model saf...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T17:02:35Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21885v1 Announce Type: new \nAbstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-13T14:05:22Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "url": "https://arxiv.org/abs/2611.21925",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21925v1 Announce Type: new \nAbstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then un...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-12T19:07:35Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "SLED: Sensor SLicing from Edge to Datacenter",
+      "url": "https://arxiv.org/abs/2611.21937",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21937v1 Announce Type: new \nAbstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-12T18:00:00Z",
-      "short_summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-      "tag": "NEWS"
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "url": "https://arxiv.org/abs/2611.21946",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21946v1 Announce Type: new \nAbstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-12T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
+      "url": "https://arxiv.org/abs/2611.21948",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21948v1 Announce Type: new \nAbstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influenc...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T18:00:00Z",
-      "short_summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-      "tag": "NEWS"
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "url": "https://arxiv.org/abs/2611.21950",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirec...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T16:00:00Z",
-      "short_summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "tag": "NEWS"
+      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
+      "url": "https://arxiv.org/abs/2611.21978",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21978v1 Announce Type: new \nAbstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-11T09:00:00Z",
-      "short_summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
-      "tag": "NEWS"
+      "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
+      "url": "https://arxiv.org/abs/2611.21998",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-18T05:00:00Z",
+      "short_summary": "arXiv:2611.21998v1 Announce Type: new \nAbstract: Personal assistants accumulate months of conversations, but today's long-term memory stacks put derivation or selection between ...",
+      "tag": "RESEARCH"
     }
   ]
 };
