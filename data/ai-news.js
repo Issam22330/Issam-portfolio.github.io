@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-19T06:32:38.227864Z",
+  "last_updated": "2026-11-19T20:11:04.044289Z",
   "items": [
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-19T18:00:00Z",
+      "short_summary": "Gemini spark on a space background",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-19T17:00:00Z",
+      "short_summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "tag": "NEWS"
+    },
     {
       "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
       "url": "https://arxiv.org/abs/2611.21682",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-19T05:00:00Z",
       "short_summary": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirec...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "WebAgents: Unbundling Agent Creation, Hosting, and Execution for an Agent-Native Web",
-      "url": "https://arxiv.org/abs/2611.21978",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21978v1 Announce Type: new \nAbstract: Large language models are moving from isolated assistants toward autonomous agents that can plan, use tools, and coordinate with...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "KV-LTM: Persistent Per-Session KV Caches as Long-Term Memory for Personal Assistants",
-      "url": "https://arxiv.org/abs/2611.21998",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21998v1 Announce Type: new \nAbstract: Personal assistants accumulate months of conversations, but today's long-term memory stacks put derivation or selection between ...",
       "tag": "RESEARCH"
     }
   ]
