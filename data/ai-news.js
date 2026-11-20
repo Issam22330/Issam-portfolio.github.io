@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-20T06:20:05.279512Z",
+  "last_updated": "2026-11-20T19:45:03.319557Z",
   "items": [
     {
       "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
