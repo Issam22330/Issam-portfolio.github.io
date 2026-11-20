@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-19T20:11:04.044289Z",
+  "last_updated": "2026-11-20T06:20:05.279512Z",
   "items": [
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-19T18:00:00Z",
-      "short_summary": "Gemini spark on a space background",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-19T17:00:00Z",
-      "short_summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.21682",
+      "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+      "url": "https://arxiv.org/abs/2611.23322",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21682v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23322v1 Announce Type: new \nAbstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the r...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
-      "url": "https://arxiv.org/abs/2611.21799",
+      "title": "Training Language Models for Introspective Oversight",
+      "url": "https://arxiv.org/abs/2611.23365",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21799v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI ag...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23365v1 Announce Type: new \nAbstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, a...",
       "tag": "RESEARCH"
     },
     {
-      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
-      "url": "https://arxiv.org/abs/2611.21827",
+      "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+      "url": "https://arxiv.org/abs/2611.23375",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21827v1 Announce Type: new \nAbstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask ...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23375v1 Announce Type: new \nAbstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "url": "https://arxiv.org/abs/2611.21832",
+      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+      "url": "https://arxiv.org/abs/2611.23398",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21832v1 Announce Type: new \nAbstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model saf...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23398v1 Announce Type: new \nAbstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardw...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "url": "https://arxiv.org/abs/2611.21885",
+      "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+      "url": "https://arxiv.org/abs/2611.23410",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21885v2 Announce Type: new \nAbstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra comput...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23410v1 Announce Type: new \nAbstract: While multimodal language models can interpret diagrams and generate structured outputs, their capacity to connect passive radio...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "url": "https://arxiv.org/abs/2611.21925",
+      "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+      "url": "https://arxiv.org/abs/2611.23445",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21925v1 Announce Type: new \nAbstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then un...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23445v2 Announce Type: new \nAbstract: Deep vision models operating in resource-constrained environments depend heavily on low-bit quantization, yet compressing weight...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SLED: Sensor SLicing from Edge to Datacenter",
-      "url": "https://arxiv.org/abs/2611.21937",
+      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+      "url": "https://arxiv.org/abs/2611.23454",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21937v1 Announce Type: new \nAbstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23454v1 Announce Type: new \nAbstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clini...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-      "url": "https://arxiv.org/abs/2611.21946",
+      "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+      "url": "https://arxiv.org/abs/2611.23456",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21946v1 Announce Type: new \nAbstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23456v1 Announce Type: new \nAbstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom dep...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators",
-      "url": "https://arxiv.org/abs/2611.21948",
+      "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+      "url": "https://arxiv.org/abs/2611.23476",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21948v1 Announce Type: new \nAbstract: The regulation of Artificial Intelligence is susceptible to various forms of capture by industry actors that hold undue influenc...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23476v1 Announce Type: new \nAbstract: Autonomous AI agents pair a frozen base model with an editable harness of prompts, skills, tool rules, and memory. Recursive sel...",
       "tag": "RESEARCH"
     },
     {
-      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "url": "https://arxiv.org/abs/2611.21950",
+      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+      "url": "https://arxiv.org/abs/2611.23480",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-19T05:00:00Z",
-      "short_summary": "arXiv:2611.21950v1 Announce Type: new \nAbstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirec...",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23480v1 Announce Type: new \nAbstract: Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying e...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+      "url": "https://arxiv.org/abs/2611.23483",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23483v1 Announce Type: new \nAbstract: Agentic multimodal large language models (MLLMs) that think with images interleave reasoning with zoom-in tool calls. However, t...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "BOS Summary: The First Token Matters",
+      "url": "https://arxiv.org/abs/2611.23508",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-20T05:00:00Z",
+      "short_summary": "arXiv:2611.23508v1 Announce Type: new \nAbstract: Large vision-language models (LVLMs) and language models (LLMs) often exhibit attention sinks, whereby particular positions, suc...",
       "tag": "RESEARCH"
     }
   ]
