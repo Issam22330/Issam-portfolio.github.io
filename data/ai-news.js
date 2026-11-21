@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-21T06:09:49.199282Z",
+  "last_updated": "2026-11-21T18:51:01.569642Z",
   "items": [
     {
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
