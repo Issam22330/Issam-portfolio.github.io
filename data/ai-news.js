@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-23T06:29:33.029399Z",
+  "last_updated": "2026-11-23T23:34:24.749894Z",
   "items": [
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-23T17:20:37Z",
+      "short_summary": "",
+      "tag": "ROBOTICS"
+    },
+    {
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-23T17:00:00Z",
+      "short_summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "tag": "NEWS"
+    },
     {
       "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
       "url": "https://arxiv.org/abs/2611.26663",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-23T05:00:00Z",
       "short_summary": "arXiv:2611.26910v1 Announce Type: new \nAbstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Self-Evolving Beyond Human-Crafted Experience for EDA Scripting",
-      "url": "https://arxiv.org/abs/2611.26912",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26912v1 Announce Type: new \nAbstract: The growing complexity of electronic systems demands efficient design flows, yet EDA scripting remains a bottleneck: proprietary...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Self-similar Organization of Information in Language",
-      "url": "https://arxiv.org/abs/2611.26935",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26935v1 Announce Type: new \nAbstract: How much information relevant to predicting the future of a passage (i.e. predictive information) is carried by the preceding te...",
       "tag": "RESEARCH"
     }
   ]
