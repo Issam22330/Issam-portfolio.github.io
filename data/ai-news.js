@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-23T23:34:24.749894Z",
+  "last_updated": "2026-11-24T08:59:13.961666Z",
   "items": [
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -18,84 +18,84 @@ window.aiNewsData = {
       "tag": "NEWS"
     },
     {
-      "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
-      "url": "https://arxiv.org/abs/2611.26663",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26663v1 Announce Type: new \nAbstract: Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open. W...",
-      "tag": "RESEARCH"
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
-      "url": "https://arxiv.org/abs/2611.26717",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26717v1 Announce Type: new \nAbstract: Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects on...",
-      "tag": "RESEARCH"
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-20T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "url": "https://arxiv.org/abs/2611.26722",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26722v1 Announce Type: new \nAbstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, ma...",
-      "tag": "RESEARCH"
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-20T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization",
-      "url": "https://arxiv.org/abs/2611.26782",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26782v1 Announce Type: new \nAbstract: Molecular dynamics (MD) simulation resolves atomic-scale motion and predicts the structural, mechanical, and dynamic properties ...",
-      "tag": "RESEARCH"
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-19T18:00:00Z",
+      "short_summary": "Gemini spark on a space background",
+      "tag": "NEWS"
     },
     {
-      "title": "Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF",
-      "url": "https://arxiv.org/abs/2611.26794",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26794v1 Announce Type: new \nAbstract: Readouts of the tumor immune microenvironment (TIME), such as CD8+ T-cell density, intra-epithelial infiltration and the Ki67 in...",
-      "tag": "RESEARCH"
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-19T17:00:00Z",
+      "short_summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "tag": "NEWS"
     },
     {
-      "title": "Memorization and Generalization in Generative Models: A Perspective From Energy-based Modeling and Associative Memory",
-      "url": "https://arxiv.org/abs/2611.26797",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26797v1 Announce Type: new \nAbstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their...",
-      "tag": "RESEARCH"
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T19:54:56Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "url": "https://arxiv.org/abs/2611.26870",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26870v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between n...",
-      "tag": "RESEARCH"
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T18:53:43Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-      "url": "https://arxiv.org/abs/2611.26903",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26903v1 Announce Type: new \nAbstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report...",
-      "tag": "RESEARCH"
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-18T17:00:00Z",
+      "short_summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "tag": "NEWS"
     },
     {
-      "title": "Budget-Aware Predict-and-Verify Theorem Proving with Heterogeneous LLM Solvers",
-      "url": "https://arxiv.org/abs/2611.26906",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26906v1 Announce Type: new \nAbstract: Large language model (LLM) theorem solvers differ in both proving capability and inference cost. Applying an expensive solver to...",
-      "tag": "RESEARCH"
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T15:00:23Z",
+      "short_summary": "",
+      "tag": "MODEL"
     },
     {
-      "title": "AstronautBench: Measuring Agent Self-Improvement Across Episodes Through Knowledge, Evidence, and Progress",
-      "url": "https://arxiv.org/abs/2611.26910",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-23T05:00:00Z",
-      "short_summary": "arXiv:2611.26910v1 Announce Type: new \nAbstract: LLM agents are expected to improve themselves from their own experience across episodes, with fixed weights. Self-improvement in...",
-      "tag": "RESEARCH"
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-18T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     }
   ]
 };
