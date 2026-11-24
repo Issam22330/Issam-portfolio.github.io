@@ -1,6 +1,22 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-24T08:59:13.961666Z",
+  "last_updated": "2026-11-24T22:03:17.705976Z",
   "items": [
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-24T16:34:13Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-24T16:00:00Z",
+      "short_summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "tag": "NEWS"
+    },
     {
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
       "url": "https://huggingface.co/blog/allenai/robotrack",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "Google AI Blog",
       "published_at": "2026-11-18T17:00:00Z",
       "short_summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-18T15:00:23Z",
-      "short_summary": "",
-      "tag": "MODEL"
-    },
-    {
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-18T00:00:00Z",
-      "short_summary": "",
       "tag": "NEWS"
     }
   ]
