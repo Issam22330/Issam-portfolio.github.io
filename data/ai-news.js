@@ -1,6 +1,30 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-25T07:37:27.841701Z",
+  "last_updated": "2026-11-25T21:19:09.713244Z",
   "items": [
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T18:52:55Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T10:22:09Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -16,14 +40,6 @@ window.aiNewsData = {
       "published_at": "2026-11-24T16:00:00Z",
       "short_summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
       "tag": "NEWS"
-    },
-    {
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-23T17:20:37Z",
-      "short_summary": "",
-      "tag": "ROBOTICS"
     },
     {
       "title": "A more tailored Google Search that’s uniquely yours",
@@ -79,22 +95,6 @@ window.aiNewsData = {
       "source": "Hugging Face Blog",
       "published_at": "2026-11-18T19:54:56Z",
       "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-18T18:53:43Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-18T17:00:00Z",
-      "short_summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
       "tag": "NEWS"
     }
   ]
