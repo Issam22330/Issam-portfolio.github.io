@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-24T22:03:17.705976Z",
+  "last_updated": "2026-11-25T07:37:27.841701Z",
   "items": [
     {
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
