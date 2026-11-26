@@ -1,6 +1,14 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-26T07:27:14.888818Z",
+  "last_updated": "2026-11-26T21:06:19.211547Z",
   "items": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T11:37:17Z",
+      "short_summary": "",
+      "tag": "NEWS"
+    },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -87,14 +95,6 @@ window.aiNewsData = {
       "source": "arXiv cs.AI",
       "published_at": "2026-11-26T05:00:00Z",
       "short_summary": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation...",
-      "tag": "RESEARCH"
-    },
-    {
-      "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
-      "url": "https://arxiv.org/abs/2611.31480",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31480v1 Announce Type: new \nAbstract: Scientific analyses that span many jobs and computing sites depend on workflow management systems to run reliably, but writing a...",
       "tag": "RESEARCH"
     }
   ]
