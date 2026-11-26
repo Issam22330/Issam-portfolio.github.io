@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-25T21:19:09.713244Z",
+  "last_updated": "2026-11-26T07:27:14.888818Z",
   "items": [
     {
-      "title": "Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "source": "Hugging Face Blog",
-      "published_at": "2026-11-25T18:52:55Z",
+      "published_at": "2026-11-26T05:05:36Z",
       "short_summary": "",
       "tag": "NEWS"
     },
     {
-      "title": "An Indic Voice Agent with CUGA",
-      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-25T10:22:09Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31284v1 Announce Type: new \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-25T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "url": "https://arxiv.org/abs/2611.31301",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31301v2 Announce Type: new \nAbstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so th...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-24T16:34:13Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "url": "https://arxiv.org/abs/2611.31329",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31329v1 Announce Type: new \nAbstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-24T16:00:00Z",
-      "short_summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
-      "tag": "NEWS"
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31345v1 Announce Type: new \nAbstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. Howeve...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-23T17:00:00Z",
-      "short_summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
-      "tag": "NEWS"
+      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "url": "https://arxiv.org/abs/2611.31346",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31346v1 Announce Type: new \nAbstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-23T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "url": "https://arxiv.org/abs/2611.31347",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31347v1 Announce Type: new \nAbstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per o...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-20T00:00:00Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31424v1 Announce Type: new \nAbstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-20T00:00:00Z",
-      "short_summary": "",
-      "tag": "MODEL"
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "url": "https://arxiv.org/abs/2611.31427",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A mod...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-19T18:00:00Z",
-      "short_summary": "Gemini spark on a space background",
-      "tag": "NEWS"
+      "title": "Taxi: Analyzing Agents at (Real) Scale",
+      "url": "https://arxiv.org/abs/2611.31457",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31457v1 Announce Type: new \nAbstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale. Taxi scales to ...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-19T17:00:00Z",
-      "short_summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-      "tag": "NEWS"
+      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
+      "url": "https://arxiv.org/abs/2611.31475",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation...",
+      "tag": "RESEARCH"
     },
     {
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-18T19:54:56Z",
-      "short_summary": "",
-      "tag": "NEWS"
+      "title": "Evaluating Frontier-Model Agent Skills with Open-Weight Models in a Science Gateway",
+      "url": "https://arxiv.org/abs/2611.31480",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-26T05:00:00Z",
+      "short_summary": "arXiv:2611.31480v1 Announce Type: new \nAbstract: Scientific analyses that span many jobs and computing sites depend on workflow management systems to run reliably, but writing a...",
+      "tag": "RESEARCH"
     }
   ]
 };
