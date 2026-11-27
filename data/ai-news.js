@@ -1,100 +1,100 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-26T21:06:19.211547Z",
+  "last_updated": "2026-11-27T07:23:25.183811Z",
   "items": [
     {
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-26T11:37:17Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face Blog",
-      "published_at": "2026-11-26T05:05:36Z",
-      "short_summary": "",
-      "tag": "NEWS"
-    },
-    {
-      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
-      "url": "https://arxiv.org/abs/2611.31284",
+      "title": "Context Scaling: A New Frontier of AI Scaling",
+      "url": "https://arxiv.org/abs/2611.33160",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31284v1 Announce Type: new \nAbstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an ...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33160v1 Announce Type: new \nAbstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the conte...",
       "tag": "RESEARCH"
     },
     {
-      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
-      "url": "https://arxiv.org/abs/2611.31301",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "url": "https://arxiv.org/abs/2611.33161",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31301v2 Announce Type: new \nAbstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so th...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33161v1 Announce Type: new \nAbstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a lear...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
-      "url": "https://arxiv.org/abs/2611.31329",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "url": "https://arxiv.org/abs/2611.33165",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31329v1 Announce Type: new \nAbstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure ...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33165v1 Announce Type: new \nAbstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
-      "url": "https://arxiv.org/abs/2611.31345",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "url": "https://arxiv.org/abs/2611.33190",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31345v1 Announce Type: new \nAbstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. Howeve...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33190v1 Announce Type: new \nAbstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners...",
       "tag": "RESEARCH"
     },
     {
-      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
-      "url": "https://arxiv.org/abs/2611.31346",
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "url": "https://arxiv.org/abs/2611.33263",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31346v1 Announce Type: new \nAbstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard model...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
-      "url": "https://arxiv.org/abs/2611.31347",
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "url": "https://arxiv.org/abs/2611.33303",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31347v1 Announce Type: new \nAbstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per o...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usua...",
       "tag": "RESEARCH"
     },
     {
-      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
-      "url": "https://arxiv.org/abs/2611.31424",
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "url": "https://arxiv.org/abs/2611.33304",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31424v1 Announce Type: new \nAbstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33304v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) posits that AI models converge toward a shared representation of the world, even wh...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
-      "url": "https://arxiv.org/abs/2611.31427",
+      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "url": "https://arxiv.org/abs/2611.33322",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31427v1 Announce Type: new \nAbstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A mod...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33322v1 Announce Type: new \nAbstract: A language model can name a brand without classifying it correctly. This study measures these outcomes separately for 1,000 B2B ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "Taxi: Analyzing Agents at (Real) Scale",
-      "url": "https://arxiv.org/abs/2611.31457",
+      "title": "Confidence scores for gated automation of large language models",
+      "url": "https://arxiv.org/abs/2611.33394",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31457v1 Announce Type: new \nAbstract: In this technical report, we present Taxi -- a system for debugging, clustering, and monitoring agents at scale. Taxi scales to ...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33394v1 Announce Type: new \nAbstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making. However, LLMs may ...",
       "tag": "RESEARCH"
     },
     {
-      "title": "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents",
-      "url": "https://arxiv.org/abs/2611.31475",
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "url": "https://arxiv.org/abs/2611.33402",
       "source": "arXiv cs.AI",
-      "published_at": "2026-11-26T05:00:00Z",
-      "short_summary": "arXiv:2611.31475v1 Announce Type: new \nAbstract: Spatial reasoning agents increasingly rely on external tools, such as 3D reconstruction, segmentation, and geometric computation...",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33402v1 Announce Type: new \nAbstract: AI models vary enormously in capability and price. Model routing exploits this by sending easier tasks to cheaper models. Howeve...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+      "url": "https://arxiv.org/abs/2611.33411",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33411v1 Announce Type: new \nAbstract: Internet of Things (IoT) systems generate low-level sensor observations that are not directly suitable for process analysis and ...",
+      "tag": "RESEARCH"
+    },
+    {
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "url": "https://arxiv.org/abs/2611.33470",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-11-27T05:00:00Z",
+      "short_summary": "arXiv:2611.33470v1 Announce Type: new \nAbstract: We present an end-to-end empirical study of dynamic reasoning in next-generation detection and response pipelines, evaluating ho...",
       "tag": "RESEARCH"
     }
   ]
