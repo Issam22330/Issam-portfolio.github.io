@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-27T07:23:25.183811Z",
+  "last_updated": "2026-11-27T20:50:49.070637Z",
   "items": [
     {
       "title": "Context Scaling: A New Frontier of AI Scaling",
