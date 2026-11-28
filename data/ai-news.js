@@ -1,5 +1,5 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-28T06:54:28.691677Z",
+  "last_updated": "2026-11-28T19:41:46.211322Z",
   "items": [
     {
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
