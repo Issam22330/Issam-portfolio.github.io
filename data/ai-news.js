@@ -1,101 +1,101 @@
 window.aiNewsData = {
-  "last_updated": "2026-11-27T20:50:49.070637Z",
+  "last_updated": "2026-11-28T06:54:28.691677Z",
   "items": [
     {
-      "title": "Context Scaling: A New Frontier of AI Scaling",
-      "url": "https://arxiv.org/abs/2611.33160",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33160v1 Announce Type: new \nAbstract: Many failures of deployed AI arise not from weak inference but from a mismatch between the state a task depends on and the conte...",
-      "tag": "RESEARCH"
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-27T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
-      "url": "https://arxiv.org/abs/2611.33161",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33161v1 Announce Type: new \nAbstract: When an LLM or VLM produces several candidate answers, picking the best one usually relies on the model's own confidence, a lear...",
-      "tag": "RESEARCH"
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T11:37:17Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
-      "url": "https://arxiv.org/abs/2611.33165",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33165v1 Announce Type: new \nAbstract: AI systems are increasingly capable of producing machine-checked Lean proofs of advanced mathematical results. Real mathematical...",
-      "tag": "RESEARCH"
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T05:05:36Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "General-Purpose Decision Models for AI Configuration Tuning",
-      "url": "https://arxiv.org/abs/2611.33190",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33190v1 Announce Type: new \nAbstract: AI configuration tuning searches for settings that improve the performance of AI systems under a limited budget. Existing tuners...",
-      "tag": "RESEARCH"
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-26T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
-      "url": "https://arxiv.org/abs/2611.33263",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33263v1 Announce Type: new \nAbstract: The growing use of large language models (LLMs) for mental health support raises important safety concerns. Existing guard model...",
-      "tag": "RESEARCH"
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T18:52:55Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
-      "url": "https://arxiv.org/abs/2611.33303",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33303v1 Announce Type: new \nAbstract: Procedurally generated logic problems are used to both evaluate and train reasoning in language models. Their difficulty is usua...",
-      "tag": "RESEARCH"
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T10:22:09Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
-      "url": "https://arxiv.org/abs/2611.33304",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33304v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) posits that AI models converge toward a shared representation of the world, even wh...",
-      "tag": "RESEARCH"
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-25T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
-      "url": "https://arxiv.org/abs/2611.33322",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33322v1 Announce Type: new \nAbstract: A language model can name a brand without classifying it correctly. This study measures these outcomes separately for 1,000 B2B ...",
-      "tag": "RESEARCH"
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-24T16:00:00Z",
+      "short_summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "tag": "NEWS"
     },
     {
-      "title": "Confidence scores for gated automation of large language models",
-      "url": "https://arxiv.org/abs/2611.33394",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33394v1 Announce Type: new \nAbstract: AI agents built on large language models (LLMs) demonstrate strong capabilities in automated decision-making. However, LLMs may ...",
-      "tag": "RESEARCH"
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-23T17:00:00Z",
+      "short_summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "tag": "NEWS"
     },
     {
-      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
-      "url": "https://arxiv.org/abs/2611.33402",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33402v1 Announce Type: new \nAbstract: AI models vary enormously in capability and price. Model routing exploits this by sending easier tasks to cheaper models. Howeve...",
-      "tag": "RESEARCH"
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-23T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
-      "url": "https://arxiv.org/abs/2611.33411",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33411v1 Announce Type: new \nAbstract: Internet of Things (IoT) systems generate low-level sensor observations that are not directly suitable for process analysis and ...",
-      "tag": "RESEARCH"
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-20T00:00:00Z",
+      "short_summary": "",
+      "tag": "NEWS"
     },
     {
-      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
-      "url": "https://arxiv.org/abs/2611.33470",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-11-27T05:00:00Z",
-      "short_summary": "arXiv:2611.33470v1 Announce Type: new \nAbstract: We present an end-to-end empirical study of dynamic reasoning in next-generation detection and response pipelines, evaluating ho...",
-      "tag": "RESEARCH"
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "published_at": "2026-11-20T00:00:00Z",
+      "short_summary": "",
+      "tag": "MODEL"
     }
   ]
 };
